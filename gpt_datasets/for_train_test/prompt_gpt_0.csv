@@ -1,0 +1,1831 @@
+text,label
+What's the maximum sum of money I'm allowed to withdraw?,7
+What is the total sum of money that I have access to?,9
+When can I visit the bank during its opening hours?,2
+"""Can you suggest a location for me to find an ATM so that I can withdraw cash?""",5
+"""I'm in need of finding an automated teller machine, can you assist?""",5
+My goal is to meet a representative from the financial institution.,1
+When does the bank start operating in the morning?,2
+Is it possible for me to request an appointment at the bank?,1
+Can you provide instructions on getting a safe deposit box?,3
+"""How can I go about closing down a bank account?""",6
+Can I arrange a meeting with a staff member of the bank?,1
+Could you enlighten me on how to get a safe deposit box and the requirements for it?,3
+May I book an appointment with a bank representative? ,1
+Could you provide me with my bank's contact details specifically their phone number?,0
+"""What are the necessary steps to get a safe deposit box?""",3
+"If my checkbook is running low on checks, would it be okay for me to order new ones?",4
+Can you guide me on how to obtain more checks?,4
+What is the bank's schedule for closing?,2
+When does the bank become accessible to customers?,2
+Is there a way for me to plan a meeting with someone from the bank?,1
+What's the best way to reach the closest bank location?,5
+Could you tell me when the bank ceases normal operations?,2
+What is the most money I can withdraw in a single withdrawal transaction? ,7
+Can you guide me through the steps for terminating an account?,6
+May I know if you could confirm the business hours of my bank?,2
+Can you give me details about obtaining a secured deposit box?,3
+Would you please provide me with the telephone number of the bank I'm associated with?,0
+Would you mind letting me know when my bank is open for business?,2
+"""I require access to an ATM. Where should I go?""",5
+I require more checkbooks and need to place a request.,4
+Can you help me retrieve the contact number of my bank?,0
+When do the bank's doors close?,2
+It's necessary that I obtain more checks and place an order for them.,4
+Is it possible for you to verify the operating hours of my bank?,2
+What is the way to determine my account balance?,9
+What's the total amount of cash I possess?,9
+Is it possible for me to set up a meeting with someone at the bank?,1
+How can I determine what my current account balance is?,9
+Where can I find the routing number for my bank?,8
+"""Can you tell me the phone number I should use to connect with my bank?""",0
+What is the process for requesting additional check orders?,4
+Please share the routing number for my bank if you happen to have it.,8
+Can you explain how to arrange a meeting with the bank representatives?,1
+Do you know the whereabouts of the closest bank?,5
+Is there a particular way to obtain more checks?,4
+How can I find my way to the branch that is closest to me?,5
+In what manner can I ask for more sets of checks?,4
+Is there a way for me to lease a safety deposit box at the bank?,3
+What is the procedure for getting a secured vault to hold my belongings?,3
+Would you happen to know where the closest bank is located?,5
+What's the total sum of money I own?,9
+Would you happen to know the routing number for my personal bank account?,8
+My stock of checks needs to be replenished.,4
+It is my wish to cancel my bank account.,6
+Can you tell me my withdrawal threshold?,7
+How much can one withdraw in a single go from an ATM or bank teller?,7
+Is there a bank in this area I can go to?,5
+"In case of an emergency, what is the phone number of my bank?",0
+"I require the routing number linked to my financial institution, do you have it on hand?",8
+Kindly provide me with the phone number of my financial establishment.,0
+I would like to know the phone number of my bank; can you help me with that?,0
+Can you tell me the bank's location that is nearest to me?,5
+Where can I locate the routing number for my bank?,8
+What is the best route to the nearest branch?,5
+What is the process to verify my account balance?,9
+"As my checkbook balance is zero, am I eligible to order additional checks?",4
+Is there a specific phone number I should use to reach my bank?,0
+"""Could you please let me know if I am eligible to order more checks since my checkbook has no remaining pages?"" ",4
+Is it possible for me to obtain information about safe deposit boxes?,3
+Additional checks must be availed by me.,4
+Is there a bank nearby?,5
+How much money am I allowed to withdraw at a time?,7
+What is the identification number for my bank's routing purposes?,8
+Is there a cap on how much I can withdraw?,7
+Could you tell me the time at which the bank commences welcoming customers?,2
+"To get in touch with my bank, what number should I dial?",0
+"""Where can I locate an ATM machine?""",5
+How can I close my account in the correct manner?,6
+Can you tell me if it's permissible to request for additional checks given that my checkbook has no remaining pages?,4
+Would it be feasible to replenish my check supply since my checkbook is currently depleted?,4
+Can you advise me on obtaining a secure deposit box?,3
+"""Which phone number do I use if I need to speak with someone at my bank?""",0
+"Since there are no remaining checks in my checkbook, is it permissible for me to place a request for more checks?",4
+Could you verify what time my bank opens?,2
+"""I have a desire to schedule a meeting with a representative from the bank.""",1
+Can you provide me with the routing number for my bank?,8
+"""I want to arrange a meeting with a representative from the bank.""",1
+"""Where is the nearest ATM located?""",5
+What is the process for closing an account?,6
+The objective at hand is to halt the operation of a bank account.,6
+At what hour will the bank be closed today?,2
+What's the correct way of disabling an account?,6
+Seeking assistance in discovering the location of an ATM.,5
+When do the doors of the bank unlock for patrons?,2
+At what time does the bank shut down?,2
+At what hour does the bank commence its operations?,2
+When do the bank employees stop attending customers?,2
+How can I arrange a rendezvous with the bank's representative?,1
+I am hoping to set up a rendezvous with an agent from the bank.,1
+How can I find out how much money is in my account right now?,9
+What's the count of my present funds available?,9
+"Is there a way to make an appointment with the bank? If yes, how?",1
+What is the closest bank to us?,5
+Do you happen to have the phone number available for my respective banking institution?,0
+May I set up a meeting with a bank representative?,1
+Is it possible to know the procedures involved in getting hold of a safe-deposit box?,3
+What is the process to locate my routing number?,8
+"""Securing my valuables is my priority, hence why I want to open a safety deposit box in my current bank.""",3
+"""In order to speak with my bank, which specific phone number should I dial?""",0
+At what time should I wrap up my business at the bank?,2
+Is booking an appointment with a bank employee feasible?,1
+How do I find out how much money I have in my account?,9
+"To replenish my supply of checks, I need to submit an order.",4
+What is the maximum amount of money that I am allowed to withdraw in a single transaction?,7
+Is it possible for you to provide details about the remaining funds in my account?,9
+Can I place an order for more checks as my checkbook is out of them?,4
+I am hoping to arrange a meeting with an individual who can speak for the bank.,1
+"""In what location can I access an Automated Teller Machine?""",5
+Can you tell me the quantity of money that is currently in my possession?,9
+Is there a specific protocol that I must follow to cancel my account?,6
+"""Meeting up with a representative of the bank is something that I desire.""",1
+In what manner should I properly close out my account?,6
+How much money can I take out at once?,7
+How can I obtain information about securing a safe deposit box?,3
+Please suggest some ways to find out the balance amount present in my account.,9
+What's the total sum of cash under my name?,9
+Is it acceptable to set up an appointment with someone from the bank?,1
+"""What time should I make it to the bank before it closes?""",2
+Could you provide me with details on how to obtain a secure deposit box?,3
+A meeting with a representative from the bank is what I wish for.,1
+At what time does the bank become open for business?,2
+"""Can you guide me on how to terminate my bank account?""",6
+Can you direct me to the nearest bank terminal?,5
+Do you know the unique identifying code for routing transactions to my bank account?,8
+Can you provide me with information on what time my bank opens and closes? ,2
+Can you tell me the location of the closest bank?,5
+What is the process to terminate a user account?,6
+When does the bank start its operations?,2
+Is there a way to determine my remaining funds in my account?,9
+What's the limit for my withdrawal request?,7
+What's the best way to reach the closest branch?,5
+Can you guide me on how to check my available account funds?,9
+Can I place an order for more checks considering my checkbook is now without funds?,4
+"""My intention is to secure a safety deposit box at the bank.""",3
+Could you inform me about how to find out my bank's routing number?,8
+Can you guide me through the process of requesting additional checks?,4
+Is there a nearby bank?,5
+Do you have any information about the phone number of my bank?,0
+I wonder if you could confirm the working hours of my banking establishment?,2
+Can you tell me the quantity of currency in my possession?,9
+Could you guide me through the process of fixing an appointment at the bank?,1
+"""Is there an automated teller machine nearby I can use?""",5
+Can you guide me on how to check the balance of my account?,9
+"Do you happen to know the contact information for my bank, specifically the phone number?",0
+My intention is to have a face-to-face discussion with a bank representative.,1
+Can you tell me how much money I have in my account?,9
+"""It is necessary for me to purchase more checkbooks.""",4
+Would it be practical for me to purchase a new checkbook as mine is currently empty?,4
+"""In what manner should I close my account properly?""",6
+How much money can I take out from my account in a single transaction?,7
+"How can I reach my bank by phone, what digits do I have to dial?",0
+"""What is the cap on how much I can take out?""",7
+May I request an appointment with an individual employed by the bank?,1
+Would it be feasible to arrange an appointment with a bank personnel?,1
+Would it be feasible to set up a consultation with a bank associate?,1
+Can you guide me on ordering extra checkbooks?,4
+"I need assistance in arranging a meeting with the bank, can you help?",1
+How should I go about closing my account correctly?,6
+May I know how much money I have left in my account?,9
+"""The goal for me is to acquire a safety deposit box at the bank.""",3
+Could you kindly give me the digits to dial for my banking provider's customer support?,0
+"""Can you provide information about the process of obtaining a safe deposit box?""",3
+May I know the available balance in my account?,9
+Additional check pads are necessary.,4
+Could you let me know at what time my bank begins its operations?,2
+"I need to get in touch with my bank, do you happen to know their phone number?",0
+Does anyone know where I can find an ATM around here?,5
+"""I have to purchase additional checkbooks.""",4
+"I have no money left in my checkbook, can I request for additional checks to be issued?",4
+What's the procedure for obtaining a safe deposit box? I need to know more.,3
+What is the procedure to request additional checks?,4
+May I know if my bank is available during their business hours?,2
+Could I order additional checks due to the low balance in my checkbook?,4
+How much can I withdraw from my account at once?,7
+I am looking for the telephone contact of my banking organization.,0
+"I'm in need of my bank's contact number, could you help me out?",0
+Is there a way to book a visit to the bank beforehand?,1
+How much cash do I currently own?,9
+What would be the instructions to get to the branch that is closest?,5
+What is the process of scheduling an appointment at the bank?,1
+"""What are the steps required to deactivate a bank account?""",6
+Meeting a bank representative is on my agenda.,1
+"Is there a way to order more checks? If so, could you guide me through the process?",4
+My desire is to schedule a meet-up with someone who represents the bank.,1
+What is the phone number required to get hold of my bank?,0
+Can you guide me on how to order extra checks?,4
+"""I am searching for a cash dispenser. Any ideas where to find one?""",5
+Could you tell me how I can get to the nearest branch?,5
+Is it possible for me to arrange a meeting with one of the bank's representatives?,1
+Could you please clarify how to properly initiate the account closure process?,6
+Would it be alright to ask if you can help me find out the regular hours of my bank?,2
+Can you tell me the route to get to the closest branch?,5
+I am considering getting a tamper-resistant safekeeping unit at my banking establishment.,3
+"Seeking assistance in finding an ATM, could you suggest a location?",5
+Is it possible for you to confirm the time my bank opens and closes?,2
+What is the amount of money in my possession?,9
+"""I have a need to restock on checks.""",4
+"I am in need of knowing my bank's routing number, can you help me out? ",8
+Are you able to ascertain the business hours of my bank?,2
+"Do you happen to know the contact information for my banking institution, particularly their telephone number?",0
+Could you tell me the telephone number that leads to my bank?,0
+Is there a way to make an arrangement to meet up with someone working at the bank?,1
+It is necessary for me to order more checkbooks.,4
+What is the process of getting a safe deposit box and where can I find information on it? ,3
+"""Could you assist me in finding an ATM facility?""",5
+Is there a way for me to find my way to the branch that is nearby?,5
+Can you inform me about my monetary funds?,9
+May I know the phone number of my financial institution?,0
+What steps should I take to find out my routing number?,8
+I am curious to know the quantity of money in my possession. ,9
+My intention is to have a meeting with a bank representative.,1
+"Would it be possible for me to get more checks, given the fact that my checkbook is empty?",4
+What's the ceiling for my withdrawal limit?,7
+What telephone number should I dial to connect with my bank?,0
+"I need to transfer funds, what is the routing number of my bank?",8
+What's the shortest route to reach the closest branch?,5
+How can I obtain my routing number?,8
+"Seeing that my checkbook has been emptied, can I put in a request for new ones?",4
+"I would like to know the phone number of my financial institution, can you assist me?",0
+Is there a limit to the sum of money I can withdraw at one go?,7
+How can I end my account's existence? ,6
+Where can I access my routing number?,8
+How do I get in touch with my bank through a phone call?,0
+Is there a way for me to arrange a meetup with a banker?,1
+In what way can I obtain more blank check sheets?,4
+Can you tell me the way to access the nearest branch?,5
+"I'm in need of the routing number for my bank, can you help me get it?",8
+What is the phone number that connects me to my bank?,0
+When is the bank expected to close for the day?,2
+Can you assist me in getting additional checkbooks?,4
+At what point does the bank end its operations? ,2
+In which direction should I go to find the nearest bank?,5
+Would it be feasible to book an appointment with a representative of the bank?,1
+Can you provide me with the contact number for my bank?,0
+Is there a way for me to plan a discussion with someone from the bank in advance? ,1
+"I am in search of the closest bank, do you have any idea where it might be?",5
+May I know how to go about obtaining a deposit box for securing my valuables?,3
+"""At my bank, I want to secure a safety deposit box.""",3
+"""Can you help me locate an ATM?""",5
+"""What is the procedure for scheduling an appointment with the bank?""",1
+What is the highest withdrawal amount permitted?,7
+"""Is there an ATM nearby that I can use?""",5
+What steps should I take to find my routing number?,8
+I have to purchase additional checks.,4
+How can I acquire a safe storage compartment?,3
+What's the opening hour of the bank?,2
+"My checkbook has been depleted, can I place an order for a fresh one?",4
+"""Can you guide me on how to procure a reliable safety deposit box?""",3
+"I'm looking for an ATM, do you know where one is?",5
+Could you explain the process of acquiring a secured lockbox for my valuables?,3
+Can you provide me with details regarding obtaining a secure deposit box?,3
+At what hour does the banking institution close?,2
+Can you provide me details on obtaining a secure deposit vault?,3
+Could you assist me in finding out my bank's business hours? ,2
+What's the process for determining the amount in my account?,9
+What is the maximum amount I am permitted to withdraw at a time?,7
+"I am in search of the routing number for my bank, could you guide me?",8
+Can you tell me when my bank is open and closed?,2
+What is the method for verifying my account balance?,9
+Could you tell me the routing number for my bank?,8
+In what manner can I acquire a safe-deposit box?,3
+When do the bank's doors lock up?,2
+Is there any restriction on the amount of money I can take out in one go?,7
+Could you please tell me the correct procedure for closing my account?,6
+What is the time of the bank's closing?,2
+Is there a set limit on how much I can withdraw?,7
+Could you tell me the routing number that corresponds to my bank?,8
+Could you furnish me with my bank's telephone number please?,0
+It is my wish to have a discussion with someone who is a representative of a financial institution.,1
+Could you inform me of my bank's routing number?,8
+"""Do you happen to know the routing number that corresponds to my bank?""",8
+It's indispensable for me to get more checks.,4
+"In order to complete a transaction, what is the routing number required for my bank?",8
+Until what hour is the bank open for business? ,2
+"""I am hoping to connect with an individual who works for the bank and can meet with me.""",1
+Could you explain how I can view my current balance?,9
+Is there a process for acquiring a protected storage facility?,3
+Can I arrange a meeting with anyone from the bank?,1
+May I have the telephone number for my financial institution?,0
+How can I obtain a safe deposit box?,3
+Would it be possible for me to arrange a meeting with a bank employee?,1
+In what ways can I check my remaining account balance?,9
+Could you explain to me how I can terminate my account?,6
+What steps do I need to take in order to end my account?,6
+How should I go about handling the closing of my account?,6
+Can you guide me on booking a visit to the bank?,1
+"I have a question, can you tell me what is the routing number for my bank?",8
+What is the maximum amount I can withdraw in a single transaction?,7
+What are the ways to cancel an account?,6
+"""I would like to know how to book an appointment with the bank, could you please assist me?""",1
+Is it possible to arrange a sit-down with a delegate of the financial institution?,1
+How would I find the routing number for my bank? ,8
+What are the steps to acquire a secure deposit box?,3
+The bank has what time for opening?,2
+"""Is it possible for me to obtain a safety deposit box at my current financial organization?""",3
+Is there any guidance that you could give me about the steps necessary for acquiring a safe deposit box?,3
+"""What is the amount of money in my account right now?""",9
+"""What is the process for obtaining a secure deposit box?""",3
+Do you have any information on the amount of funds available to me?,9
+My intention is to secure a safety deposit box within my bank.,3
+What is the routing number for my bank?,8
+Could you inform me where the bank that's closest is located?,5
+Seeking information about the routing number for my bank.,8
+What is the schedule for bank's opening time?,2
+I require extra checks to be ordered.,4
+Could you explain to me how I can get more cheques?,4
+"""I'm considering getting a safety deposit box at my bank, can you provide me with more information on the process?""",3
+What is the maximum sum that I'm authorized to pull out at one go?,7
+I need to shut down my bank account.,6
+"At the bank, I want to obtain a safety deposit box.",3
+"I need directions to the closest bank, can you help me out with that?",5
+Could you guide me through the steps of setting up a bank appointment?,1
+What is the maximum amount of money that I can withdraw in one transaction?,7
+What is the appropriate way to terminate my account?,6
+"I'm looking for the nearest bank location, do you know how I can get there?",5
+What's the process to order new checks as I have exhausted my current checkbook?,4
+Can you tell me the routing number for my bank?,8
+Would you mind sharing with me the phone number associated with my bank?,0
+"""Could you inform me of my withdrawal cap?""",7
+What's the contact number for my financial institution?,0
+What are the steps required to verify my account balance?,9
+"I am in need of my bank's routing number, can you provide it for me please?",8
+I need guidance on how to obtain a safe deposit box. Any idea where I should start my search?,3
+"""Is there a maximum amount I can withdraw?""",7
+Can you provide me with the contact number of my bank?,0
+What is the process for scheduling an appointment at the bank?,1
+The act of replenishing my stock of checks through ordering is required.,4
+What is the process to schedule a meeting with a bank representative?,1
+I am curious about the steps required to acquire a safe deposit box; could you enlighten me?,3
+What's the way for me to locate my routing number?,8
+Can you inform me of the highest sum of cash that can be withdrawn in one go?,7
+"""Can you tell me the digits to dial for me to reach my financial institution?""",0
+Is it possible for me to request more checks since my checkbook is devoid of any?,4
+How many dollars are in my account?,9
+Would you happen to know the current status of my account's balance?,9
+What's the largest sum of money that I can pull out all at once? ,7
+Is there a limit to the sum of money I can withdraw at one time?,7
+What is the ceiling on my withdrawal capacity?,7
+What's the number I should use if I want to reach my bank by phone?,0
+May I ask for the phone number of the bank I am currently enrolled in?,0
+Can you please inform me about the contact details of my bank?,0
+Obtaining a safety deposit box from my bank is something I desire.,3
+"If I run out of checks from my checkbook, may I ask if ordering more checks is allowed?",4
+"Would you mind sharing the maximum withdrawal cap for my account, please?",7
+Is there a way for me to check the remaining amount of funds in my account?,9
+Could you kindly give me the routing number that belongs to my bank?,8
+What is the maximum amount I can withdraw?,7
+Could you provide me with an update on my balance status?,9
+Is there a bank nearby that I can access easily?,5
+What is the method to validate my current account balance?,9
+What steps do I need to take to close my account appropriately?,6
+Is it possible for you to give me the phone number of the bank where I hold an account?,0
+What are the procedures for concluding an account?,6
+Can I plan a schedule to meet someone from the bank?,1
+"I need directions to the nearest bank, do you know where it is?",5
+Can you provide me with the phone number for my bank?,0
+"""I am seeking guidance on how to get a secure deposit box. Could you assist me with that?""",3
+Please inform me about the current standing of my balance.,9
+Is there a limit to how much I can withdraw?,7
+Is it possible for you to share my bank's phone number with me?,0
+Which phone number should I use to contact my bank? ,0
+"""Getting an opportunity to talk with a bank representative is what I aim for.""",1
+How much money am I allowed to withdraw at once?,7
+Could you tell me the location of the nearest bank?,5
+Is it possible to locate my routing number?,8
+Can you inform me about the extent of my financial resources?,9
+Is it possible for me to order more checks as my checkbook is empty?,4
+Are there any methods I can use to check the balance of my account?,9
+Is there a way to check how much money is in my account?,9
+How can I book an appointment with the bank?,1
+Is there any way for me to know the remaining funds in my account?,9
+What is the current sum of money that I have in my account?,9
+"""Could you explain to me the process of getting an appointment scheduled at the bank?""",1
+Do you happen to know the routing number for my bank?,8
+"""I am interested in renting a safety deposit box at my financial institution.""",3
+Could you tell me how much money is left in my account?,9
+I would like to know the routing number for my financial institution.,8
+I was wondering if you could verify the operating schedule of my bank? ,2
+"Inquiring about obtaining a secure lockbox, can you help?",3
+Are there any ATMs around here that you're aware of?,5
+"I need to know the bank's routing number, can you provide it?",8
+I would like to know if you could confirm the business hours of my bank.,2
+How can I acquire additional checkbooks?,4
+When does the bank end its business day?,2
+"""Is it possible for me to view my account balance? If so, how?""",9
+How much money do I have left?,9
+Could you give me the phone number to contact my bank?,0
+"""To maintain sufficient checks for use, I must acquire more.""",4
+I require additional checks to be ordered.,4
+What is the maximum amount of money I can withdraw at once? ,7
+Meeting a bank representative is something that I am interested in.,1
+"I need to call my bank, can you give me their phone number?",0
+Which number should I dial to get in touch with my bank?,0
+"Kindly let me know the routing number of my bank, would you?",8
+Could you provide me with my bank's contact number?,0
+"""Which phone number should I dial to connect with my bank?""",0
+What are the steps required to acquire a safe deposit box?,3
+"""Which is the correct telephone number that connects me to my bank?""",0
+Can you inform me of the bank's operating schedule?,2
+Would it be feasible to obtain more checks because my checkbook is depleted?,4
+It is my wish to cease the existence of a bank account.,6
+Is there a specific amount up to which I can withdraw money?,7
+"""Is there an ATM nearby that I could use?"" ",5
+I require additional check orders.,4
+What's the biggest sum of cash I can withdraw per transaction?,7
+"I'm looking for the nearest bank, could you point me in the right direction?",5
+Is setting up a meeting with someone from the bank feasible?,1
+"""Meeting a bank representative is something I desire.""",1
+Could you provide me with the routing number for the bank I use?,8
+Are there any steps to follow to get more checks ordered?,4
+What is the phone number of the bank I am currently using?,0
+"""I'm interested in obtaining a safety deposit box for secure storage at my bank.""",3
+Is there a limit to the amount of money I can withdraw in a single transaction?,7
+To whom do I have to speak on the phone if I want to reach my bank?,0
+Is there a way to deactivate an account?,6
+"I would like to know the steps to check my account balance, can you guide me?",9
+Placing a request for additional checks is something that I need to do.,4
+Can you provide me with my bank's routing number?,8
+What steps should I take to check the balance of my account?,9
+In what manner should I go about closing my account correctly?,6
+Ordering more checks is needed at the moment.,4
+A safety deposit box is something I am seeking to obtain at my bank.,3
+"""Where can I locate an ATM?""",5
+Can you tell me how much cash I am permitted to withdraw at a time?,7
+What is the easiest method to find out how much money I have left in my account?,9
+May I know the amount of cash in my possession?,9
+Where and how can I obtain a secure storage container?,3
+"""Where can I find the nearest branch?"" ",5
+Do you know where the closest bank branch is situated?,5
+"""It is my desire to have a meeting with someone who represents the bank.""",1
+In what manner should I terminate my account?,6
+Can you tell me how I can find out my present account balance?,9
+Can you tell me what time my bank opens and closes?,2
+"""I desire to terminate my bank account""",6
+Where can I find the nearest bank in this area?,5
+Could you share the routing number for my bank?,8
+"""I require the location of an ATM, please assist me.""",5
+What time does the bank shut down?,2
+"Is there a bank in this area, and if so, where can I find it?",5
+"Seeking guidance on procuring a safety storage unit, could you please explain the process?",3
+What time does the bank's business end?,2
+Would it be possible for you to confirm the working hours of my bank?,2
+I am considering acquiring a safety deposit box at my banking institution.,3
+My intention is to secure a safety deposit box from the bank.,3
+"""Could you provide me with the routing number of my bank?""",8
+What's the quickest way to reach the nearest branch? ,5
+"""I'm in search of an ATM, do you know where one is located?""",5
+"To get in touch with my bank, which specific number do I need to call?",0
+Could you explain how to terminate an account?,6
+Could I set up a meeting with a person who works at the bank?,1
+Could you inform me about the whereabouts of the nearby bank?,5
+"""Closing a bank account is what I am aiming for.""",6
+The objective that I have is to meet up with a designated representative of the bank.,1
+"""I desire to end my connection with a financial institution by requesting the closure of my account.""",6
+Until what time is the bank open?,2
+How can I end access to my account?,6
+What is the best route to reach the closest branch?,5
+"""I am considering the option of acquiring a safety deposit box from the bank where I hold an account.""",3
+May I request you to check the schedule of operations for my bank?,2
+At what time does the bank start operating?,2
+"""What steps do I need to take in order to close my bank account?""",6
+"Do you know anything about getting a safe deposit box, and if so, can you give me some guidance?",3
+What is the process of locating my routing number?,8
+What is the most extensive sum of funds that I can retrieve from the account simultaneously?,7
+"Due to the absence of available checks in my checkbook, can I ask for more?",4
+What time does the bank cease operations?,2
+"""What are the limitations on my withdrawals?""",7
+"""How can I shut down my banking account?""",6
+Can you tell me how much money I have left in my account?,9
+Is it possible to obtain my bank's routing number from you?,8
+"""Is there any update on how much money I have left in my account?""",9
+Could you possibly share with me the routing number associated with my bank account?,8
+Are you able to provide me with information on the operating hours of my bank?,2
+"""I'm in search of an ATM. Any ideas where to find one?""",5
+Is there a way to make an appointment at the bank and how?,1
+Can you inform me about my current financial holdings?,9
+What is the upper limit of withdrawals that I can make? ,7
+Can you provide me with the contact information for my financial institution?,0
+"""In what location could I access an ATM?"" ",5
+What are the steps involved in organizing a meeting at the bank?,1
+Is there a way for me to locate the phone number of my bank?,0
+Where can I find the routing number to set up automatic payments from my bank?,8
+It is my wish to come together with a representative from the banking institution.,1
+In what area is the nearest bank situated?,5
+How can I determine my routing number?,8
+How much money am I allowed to take out at one time?,7
+What's the total amount of money I possess?,9
+May I obtain additional checks since I have depleted my checkbook?,4
+Can you guide me through the process of requesting more checks? ,4
+"I'm in search of an ATM, do you know where to find one?",5
+What is the time of commencement of operations at the bank?,2
+"My checks are running low, so I have to place a new order.",4
+What do I need to do to secure a deposit box?,3
+Is there a limit for how much I can take out at once?,7
+Can you provide me with information on when my bank is open?,2
+What is the best way to reach the nearest branch?,5
+"I need to schedule a visit to the bank, what's the process?",1
+At what time does the bank stop its operations?,2
+What is the procedure for booking an appointment with a bank?,1
+How can one terminate an account?,6
+"My checkbook has nothing left, would it be feasible to order more checks?",4
+May I request the phone number that belongs to my bank?,0
+I have to request additional check books.,4
+What is the process to request additional checks?,4
+What is the routing number of the bank I am associated with?,8
+Can I request more checks since my checkbook is depleted?,4
+Where can I go to get to the nearest banking facility?,5
+"""Is there a limit to how much cash I can take out?"" ",7
+Is there any way you could give me the phone number of my financial institution?,0
+"""What are the requirements for me to close my bank account?""",6
+"""How can I correctly close my account?""",6
+"I need to find a bank nearby, where should I go? ",5
+Can you tell me the closing hours of the bank?,2
+When is the closing time for the bank?,2
+"""May I know my current balance?""",9
+Can I reorder checks as my checkbook is devoid of them?,4
+"Could you verify the operating hours of my bank, please?",2
+What is the time of the bank's operation beginning?,2
+"""Can you guide me through the steps to discover my routing number?""",8
+What are the closing hours for the bank?,2
+What's the start-up time for the bank service?,2
+How much cash am I permitted to withdraw in a single transaction?,7
+Can you explain how to cancel an account?,6
+"""What is the maximum amount I can withdraw?""",7
+"I need to get in touch with my bank, can you tell me their contact number?",0
+Where can I locate the nearest bank?,5
+Could you inform me when the bank shuts down? ,2
+Is there a specific way that I need to adhere to in order to close my account?,6
+"""Is there an automated teller machine nearby that I can access?""",5
+Could you tell me where I can find the nearest bank?,5
+Which direction should I head to reach the nearest bank?,5
+Is there a bank nearby that I can visit?,5
+"I need to know the phone number of my financial institution, can you assist me with that?",0
+Can you tell me the contact number of my bank?,0
+Obtaining a safety deposit box at the bank is what I want.,3
+Is there a limit on the withdrawal amount per transaction?,7
+"I need to replenish my checkbook, can I request new checks?",4
+May I request an arranged meeting with a person from the bank?,1
+Could you please tell me where I can find a bank nearby?,5
+Can you explain the process of account closure to me?,6
+Could you guide me on how to get a secured deposit box for my valuable items?,3
+May I know the telephone number of my bank?,0
+Can I withdraw more than a certain amount of money?,7
+"I am running low on checks in my checkbook, can I replenish them by placing an order for more?",4
+"""It is necessary for me to obtain more blank checks.""",4
+"""Could you please help me obtain a secure deposit box at my financial institution?""",3
+I need to know the steps involved in ordering extra checkbooks. Could you assist me with that?,4
+Can you tell me the appropriate steps to take in order to officially close my account?,6
+"Considering that my checkbook is out of checks, can I request for a refill?",4
+"I'm running low on checks, I need to get more.",4
+Is there any chance you could furnish me with the phone number for the bank that I am associated with?,0
+Where can I find the nearest bank?,5
+Is there a way to disable an existing account?,6
+Is there a way for me to find out what my bank's phone number is?,0
+To bring an end to my bank account is my goal.,6
+"""When is the bank about to wrap up business?""",2
+Is there a procedure for arranging an appointment at the bank?,1
+It's time for me to restock my check supply.,4
+What is the process for obtaining extra checks?,4
+What is my maximum amount of money I can withdraw?,7
+"""Where can I find an automated teller machine?""",5
+What are the steps to schedule a meeting with the bank?,1
+Where can I find the bank that's nearby to my current location?,5
+What are the steps required to close an account?,6
+Where can I find an automated teller machine?,5
+What is the process for verifying my account balance?,9
+At what hour does the bank begin operating?,2
+Is there a way to find out my routing number?,8
+Is it possible for you to give me the routing number for my bank?,8
+May I know my current balance?,9
+"""What is the cap on my withdrawal amount?""",7
+"""Acquiring a safety deposit box from my bank is something that I desire.""",3
+How can one go about getting a safe box to lock valuables securely?,3
+"""What is the correct way to shut down my account?""",6
+"I'm looking for the routing number of my bank, could you help me?",8
+Could you provide me with the phone number of my bank?,0
+Could you provide me with the telephone number for my banking provider?,0
+What are the steps I need to follow to close my account?,6
+Where can I find a cash dispenser?,5
+I would like to shut down my personal bank account.,6
+What is the total amount of cash I possess?,9
+What is the maximum cash withdrawal allowed?,7
+Could you tell me when the bank will be open?,2
+Might you be able to double check the hours my bank is open?,2
+What is my maximum withdrawal amount? ,7
+Can you provide me with details regarding the process of getting a safe deposit box?,3
+"How can I get my hands on a safe deposit box, do you have any information?",3
+"""Could you point me in the right direction for an ATM?""",5
+Is there a way to retrieve my routing number?,8
+How do I properly discontinue the use of my account?,6
+Could someone direct me on how to snag an appointment with a bank staff member?,1
+Can you assist me in finding the phone number of my bank?,0
+"I am searching for my bank's telephone number, do you know it? ",0
+Is it possible for you to check and inform me about the working hours of my bank?,2
+What are the actions required to end my membership?,6
+Is there a way to discover my routing number?,8
+Connecting with a bank representative is something I would like to do. ,1
+What is the process for locating my routing number?,8
+"""What is the process for scheduling an appointment with a bank representative?""",1
+Is there a way to place another check order online? ,4
+Can you guide me on how to monitor my account balance?,9
+Would you mind checking if my bank is currently open?,2
+Can you tell me the maximum amount I can withdraw?,7
+Would it be possible for you to give me the phone number of the bank where I have my account?,0
+What is the total amount of money in my possession?,9
+Could you confirm the operating hours of my bank?,2
+What is the procedure for acquiring a secure deposit box?,3
+What is the process to request additional check orders?,4
+What is the closing time for the bank?,2
+Can you validate the banking hours for me?,2
+What is the best way to reach the closest branch?,5
+Can you guide me on how to arrange a bank appointment?,1
+What is the available balance in my account?,9
+My intention is to have a conversation with a bank agent.,1
+What is the process of fixing an appointment with the bank?,1
+Is there a way to make an appointment at the bank? How do I do it?,1
+"I need to know the telephone number that will connect me to my bank, can you provide it?",0
+The goal is to conclude my association with a particular bank account.,6
+What is the process of obtaining a secure deposit box?,3
+Is there a procedure or method for terminating account activity?,6
+Could you inform me of the remaining funds in my account?,9
+"""Securing my important possessions is my intent by reserving a safety deposit box with my bank.""",3
+Is it possible to arrange a meeting with someone in the bank?,1
+I'm interested in learning about the process of acquiring a safe deposit box. Can you assist me with that?,3
+Where can I find information about securing a safe deposit box?,3
+Do you have any knowledge about the routing number of my bank?,8
+"I am unsure of what the routing number for my bank is, can you help?",8
+What do I need to know about obtaining a safe deposit box?,3
+I am interested in obtaining a safe deposit box at my financial institution.,3
+May I set up a visit or consultation with an individual at the bank?,1
+What is the amount of money that I possess?,9
+Is it possible to order additional checks as my checkbook has no more leaves?,4
+What steps must I take to deactivate an account?,6
+Could you inform me of the sum of money under my possession?,9
+Which is the closest bank around here?,5
+Could you inform me how much money is currently available in my balance?,9
+Can you assist me with finding out the routing number for my financial institution?,8
+When does the bank start operating?,2
+Is there a specific number I need to use to contact my bank?,0
+What steps should I take to request additional checks?,4
+What is the appropriate method to terminate my account?,6
+"""Can you guide me on how to access my account's present balance?""",9
+Can I request for more checkbooks since my current one is empty?,4
+What is the procedure for requesting additional check orders?,4
+A bank representative meeting is what I am hoping for. ,1
+What is the maximum amount of cash I can withdraw in a transaction?,7
+Is there any chance that I could organize a session with a bank employee?,1
+How can I arrange a meeting with a representative at the bank?,1
+Is there a way to acquire a safe deposit box and ensure the safety of my possessions?,3
+"""My intention is to arrange a meeting with a bank representative.""",1
+What steps do I need to take to access a safety deposit box?,3
+"""Can you guide me through the steps to arrange a meeting at the bank?""",1
+How could I obtain information about obtaining a safe-deposit box?,3
+Is it possible for you to examine my bank's schedule and let me know the working hours?,2
+What is the method for locating my routing number?,8
+Could you guide me on booking an appointment with the bank?,1
+It's my desire to have a safety deposit box at my bank.,3
+Can you guide me on how to reach the nearest branch?,5
+Where can I locate a secure storage container and how do I rent it?,3
+"Is it possible to obtain a safe deposit box? If so, where should I go for more information?",3
+Can you provide me with the telephone number of my bank?,0
+What steps should I take to obtain a secure deposit box?,3
+What steps are required to close an account?,6
+What would be the correct phone number to contact my banking institution?,0
+Would you mind double-checking the opening and closing timings of my bank?,2
+What time does the bank close?,2
+Can you enlighten me on the process of getting a deposit box that is secure?,3
+What steps do I need to take to properly close my account?,6
+How can I purchase more checks for my bank account?,4
+I was wondering if you could assist me in checking my bank's hours?,2
+Would it be feasible to reorder additional checks given that my checkbook is now empty?,4
+What's the highest amount I can take out?,7
+"I am curious about the process of getting access to a secure storage unit, can you enlighten me?",3
+What is the highest withdrawal amount allowed?,7
+May I book a meeting with a representative of the bank? ,1
+My intention is to get a safety deposit box from my bank.,3
+"I have no funds left in my checkbook, may I place an order for a new set of checks?",4
+"""What's the phone number I need to dial to contact my bank?""",0
+How can I reach the closest branch?,5
+Could you tell me the precise time the bank closes?,2
+"""Could you provide me with directions to the nearby branch?""",5
+"""How can I find the right phone number to reach my bank?""",0
+The purpose of my action is to cancel my bank account.,6
+Can you help me locate an ATM?,5
+Is there a process for terminating a bank account?,6
+Is there a process I need to follow when booking an appointment at the bank?,1
+Is there a specific protocol that I should follow when closing my account?,6
+I want to secure my valuable possessions by renting a safety deposit box at my bank.,3
+When does the bank commence its business hours?,2
+Would it be feasible for me to book a rendezvous with a bank employee?,1
+What number should I use for the bank's routing code?,8
+Can you tell me the correct procedure to follow to close my account?,6
+"""What is the nearest ATM I can use?""",5
+May I please have the routing number for my bank account?,8
+What steps should I follow to get a safety deposit box?,3
+"I'm looking for the routing number of my bank, can you help me out?",8
+It is my intention to arrange a meeting with a representative of the bank.,1
+"I'm looking to find my bank's routing number, where can I locate it?",8
+A face-to-face interaction with someone from the bank is my preference.,1
+What is the amount of money that is still available for me to use?,9
+Is there a specific protocol for booking a time slot at the bank?,1
+What are the bank's operating hours and when do they end?,2
+How can I reach my bank through their customer service hotline?,0
+Is it possible to arrange a meeting with a bank representative?,1
+Which phone number should I dial to get in touch with my bank?,0
+Could you inform me about the highest amount I can withdraw?,7
+Can you inform me of the precise amount left in my balance?,9
+It is necessary for me to place an order for more checks.,4
+When can I expect the bank to be unlocked?,2
+"I am trying to locate the routing number for my bank, do you have any suggestions on where to look?",8
+What is the phone number that leads me to contact my bank?,0
+"In need of an ATM, any suggestions where to look?",5
+"""I am interested in having a face-to-face discussion with a representative from the bank.""",1
+What is the time for the bank to close?,2
+"I'm looking to book an appointment with the bank, what do I need to do? ",1
+What is the maximum withdrawal limit allowed?,7
+An increase in check stock is required.,4
+"""Can you assist me with obtaining a safety deposit box from my bank?""",3
+What is the balance in my account right now?,9
+When is the opening time of the bank?,2
+Could you guide me towards the closest branch?,5
+What is the opening time of the bank?,2
+In what manner can I shut down an account?,6
+"I'm trying to reach my bank, may I know their phone number?",0
+What are the steps required to fix an appointment with the banking institution?,1
+How much money am I allowed to withdraw?,7
+Could you please inform me what is the contact information for my bank including the phone number?,0
+Is there a way to deactivate my account?,6
+"To get in touch with my bank, which number do I need to call?",0
+Could you tell me the phone number for my bank?,0
+Can you tell me the amount I have in my account?,9
+Can you direct me to the branch that is closest?,5
+How can I get in touch with my bank through telephone?,0
+Can you give me the contact number for my bank?,0
+A meeting with a representative from the bank is what I am interested in.,1
+How can I properly shut down my account?,6
+To which digits do I need to place a phone call if I want to speak to someone from my bank?,0
+What method do I use to determine my bank's routing number?,8
+My intention is to end the existence of my bank account.,6
+The goal is to conclude my association with the bank by closing my account.,6
+"If I wanted to communicate with my financial institution over the phone, what phone number would I have to ring?",0
+"I'm in need of my bank's phone number, can you help me locate it?",0
+I desire to terminate a banking account.,6
+Can I procure more checks now that I have exhausted all of the ones in my checkbook?,4
+Where can I find information about my routing number?,8
+Can you guide me on how to deactivate my account?,6
+"""I am interested in renting a secure deposit box at my financial institution.""",3
+"""How much am I allowed to withdraw at once?""",7
+What is the exact time when the bank starts business?,2
+What is the maximum sum I can remove from my account?,7
+Could you advise me on the most suitable way to shut down my account?,6
+Is there a way for me to reach the closest branch easily?,5
+What is the procedure for procuring a safety deposit box?,3
+Tell me the time when the bank becomes operational?,2
+"I am interested in learning more about acquiring a safe deposit box, can you assist me with that?",3
+Can you provide me with details regarding the process of obtaining a safe deposit box?,3
+A bank representative is who I want to arrange a meeting with.,1
+What is the process to review my account balance?,9
+Can you tell me the phone number for my bank?,0
+"Can you tell me the phone number of my banking institution, please?",0
+Can you provide me with the routing number for my financial institution?,8
+Is it possible to get a secure deposit box and how?,3
+How can I go about renting a trustable safe deposit box?,3
+"""I need to shut down a bank account.""",6
+"To complete a transaction, I require my bank's routing number. Would you happen to know it?",8
+Is there a way for me to request additional check orders?,4
+How would I go about finding out my bank's routing number?,8
+"I'm unsure of the routing number for my bank, can you help?",8
+Could you possibly verify the working hours of my bank for me?,2
+Is there any money left in my balance?,9
+How much of my hard-earned money is left in my account?,9
+Could you tell me the maximum amount I can withdraw?,7
+Can I book a time to meet with an individual from the bank?,1
+"""I must place an order for more checks.""",4
+"""My desire is to have a safe deposit box at the bank.""",3
+Could you please provide me with the routing number for my bank?,8
+"""What are the necessary steps in shutting down a bank account?""",6
+The routing number of my bank has slipped my mind. Could you remind me what it is?,8
+When will the bank stop serving customers?,2
+Could you please let me know the opening and closing times of my bank?,2
+What are the steps required to shut down a bank account?,6
+At what hour does the bank commence service?,2
+What is the closest bank?,5
+Is there a way to determine my account balance at present?,9
+Is there a particular way to shut down an account?,6
+My aim is to terminate my bank account.,6
+Is there a way to view my current account balance?,9
+How much cash can I take out at one time?,7
+Can you tell me about my current financial status?,9
+Is there someone at the bank whom I can schedule a meeting with?,1
+"I need assistance locating the phone number of my financial institution, can you assist me with this request?",0
+Is there a limit to the sum of money I can take out in one transaction?,7
+I would like to end my connection with the financial institution by closing my account.,6
+What is the telephone number of my banking institution?,0
+Is there a way to discover my routing number easily?,8
+"In the event that my checkbook runs out of money, am I allowed to make a request for more checks?",4
+Could you assist me in locating my bank's routing number?,8
+Is it possible for me to secure a safety deposit box at the bank?,3
+"""I'm looking for the routing number associated with my bank account. Can you help me out?""",8
+How much cash do I currently possess?,9
+Is there a formal process to terminate my account?,6
+What is the process for inspecting my account balance?,9
+What is the routing number affiliated with my banking institution?,8
+Is it possible to obtain the telephone number for my bank?,0
+Would you happen to know the telephone number linked to my bank account?,0
+"""I'm trying to find the correct number to call my bank - do you know what it is?""",0
+Can you tell me the remaining amount in my account?,9
+Please advise me on the proper way of ending my account.,6
+What is the last hour of operation for the bank?,2
+"""Additional check requests are necessary for me.""",4
+Is there a specific protocol for closing my account that I should follow?,6
+"""Can you explain how to see my current account balance?""",9
+May I request for the telephone number of my banking institution?,0
+"""In need of withdrawing some cash. Any suggestions on where I can discover an ATM?""",5
+May I request for a schedule with a bank personnel?,1
+Is there a way to plan a session with a representative from the financial institution?,1
+Where can I access an automated teller machine nearby?,5
+Would you mind telling me when my bank is open and when it closes?,2
+When is the closing time of the bank?,2
+"""The decision is made to obtain a safety deposit box at my financial institution.""",3
+Can you guide me to the closest branch? ,5
+My desire is to rent a safety deposit box from the bank where I maintain an account.,3
+Is there a limit on my withdrawal amount?,7
+What is the current amount of cash in my bank account?,9
+How can I reserve a formal discussion with the banker?,1
+I want to know where the closest bank is located.,5
+How can I appropriately shut down my account?,6
+Closing a financial account is my aim.,6
+How much cash is currently in my possession?,9
+"""What's the easiest way to get to the nearest branch location?"" ",5
+What is the highest total of money that I am permitted to withdraw in a single instance?,7
+Is there a way for me to reach the nearest branch easily?,5
+Is it possible for me to make a booking with a bank representative?,1
+Is it possible to set up a meeting with a bank representative?,1
+How much credit do I have in my bank account?,9
+Is it permissible for me to make an arrangement with a representative of the bank to have a meeting?,1
+The obtaining of more checks is a requirement for me.,4
+Can you provide me with guidance on how to close my account?,6
+At what hours does the bank become available?,2
+"I want to know the current balance of my account, can you assist me with that?",9
+What's the amount of money that I possess?,9
+Is there a process to obtain a safe deposit box?,3
+How much am I allowed to withdraw?,7
+Where do I have to go or who should I contact to request more checks?,4
+"What are the withdrawal restrictions, and how much money can be drawn out per transaction?",7
+Can you tell me what the withdrawal limit is per transaction? ,7
+At what hour does the bank commence its transactions?,2
+Could you tell me the routing number associated with my bank?,8
+What is the appropriate method to close my account effectively?,6
+How should I go about properly terminating my account?,6
+Please enlighten me on how to obtain information regarding a safe deposit box.,3
+Is there a cap on the quantity of currency that can be drawn out all at once?,7
+Can you tell me the location of the nearest bank?,5
+In what manner can I organize a meeting with the bank?,1
+Are you able to confirm the business hours of my bank for me?,2
+What is the process for obtaining a safe deposit box?,3
+Can you tell me how to locate my routing number? ,8
+Could you inform me about the upper threshold for withdrawals from my account?,7
+When can I start doing business with the bank?,2
+"I'm not sure how to access my routing number, can you help?",8
+"""It is my wish to have access to a safety deposit box provided by my bank.""",3
+Could you divulge the exact figure of money at my disposal?,9
+What's the withdrawal ceiling?,7
+What is the correct method to terminate my account?,6
+Can you tell me the highest limit for withdrawing funds? ,7
+By what time should I finish my banking transaction before the bank closes?,2
+I am interested in arranging a meeting with a representative of the bank.,1
+Is there a specific method that I should follow in order to close my account?,6
+Can you tell me how to arrange a meeting at the bank?,1
+It is necessary for me to purchase more checkbooks.,4
+"I'm interested in getting a safe-deposit box, could you help me find out more information?",3
+"""What is the utmost quantity I can pull out of my account?""",7
+When does the bank cease operations for the day?,2
+I would like to know the routing number that corresponds to my bank account. ,8
+Could you please tell me the phone number of the bank I use? ,0
+Could you provide me with instructions on how to appropriately terminate my account?,6
+Is it possible to obtain the routing number for my bank from you? ,8
+Could you tell me the contact information of my bank?,0
+"""I require additional check orders.""",4
+Can I place an order for more checks?,4
+Can you guide me in discovering my routing number?,8
+"""What is the process of locating my routing number?""",8
+Is there a limit on how much I can withdraw?,7
+"""What is the closest place where I can find an ATM?""",5
+How can I access my current account balance information?,9
+What is the process to deactivate an account?,6
+I'm trying to find a nearby bank. Where should I go?,5
+Do you happen to know the routing number of my bank?,8
+"""Is there an ATM machine nearby?"" ",5
+Could you please explain the steps to ascertain my account balance?,9
+Is there a cap on the amount of money I can take out at once?,7
+Where should I go to get a secure deposit box?,3
+What are the steps for getting more personal checks?,4
+"If I want to speak with someone from my bank, which number should I call?",0
+It's my intention to arrange a meet and greet with a representative from the bank.,1
+Is there a convenient mode of transportation to reach the nearby branch?,5
+What is the routing number required to initiate a bank transfer?,8
+"Could you provide me with my bank's routing number, please?",8
+May I request you to review my bank's business hours?,2
+Where can I discover my routing number?,8
+Please inform me about the exact amount of money I own?,9
+Is there a way to access my bank's routing number?,8
+How do I permanently shut down my account?,6
+Could I replenish my supply of checks by placing an order due to my checkbook being empty?,4
+What do I need to know about acquiring a secure storage compartment?,3
+How can I obtain a safe and secure deposit box?,3
+Could you please provide directions to the nearest branch?,5
+Can you tell me the quantity of funds at my disposal?,9
+Is it possible to order more checks as my checkbook is depleted?,4
+How can I commute to the branch located in the vicinity?,5
+"""What phone number should I dial to connect with my bank?""",0
+What is the procedure for ordering additional checks? ,4
+Could you inform me about the extent of my financial resources?,9
+Where can I obtain my routing number from?,8
+What's the process of requesting additional checks?,4
+"""My intention is to arrange a face-to-face meeting with a representative from the bank.""",1
+What's the amount of money I possess?,9
+At what point in time does the bank cease operations?,2
+"I need to know the telephone number of my bank, could you tell me?",0
+What is the procedure for scheduling an appointment at the bank?,1
+May I ask for the routing number of my bank?,8
+"I am inquiring about the routing number for my bank, can you assist me please?",8
+How do I properly shut down my account?,6
+"If my checkbook is out of funds, can I place an order for more checks?",4
+What is my current balance?,9
+Is there a way to arrive at the nearest branch quickly?,5
+How much money can I withdraw at once?,7
+What is the highest sum of money that I can withdraw per transaction?,7
+Can you provide me with details on how to obtain a secure deposit box?,3
+Would you be able to assist me in getting information about a safekeeping space?,3
+Is there a way to secure a conference with the bank personnel?,1
+It’s imperative that I place an order for extra checks.,4
+Could you provide me with the routing number for my bank?,8
+What is the balance on my account?,9
+Could you tell me the balance in my account?,9
+In what manner can I access the nearest branch?,5
+I'm looking for the right phone number to reach my bank. Which one should I use?,0
+How should I go about closing my account?,6
+Could you tell me if my financial institution is open at this time?,2
+My desire involves coming face to face with a representative of the banking institution.,1
+Could you please inform me of my bank's working schedule?,2
+Can you guide me on how to terminate an account?,6
+Is there a process for acquiring a safe deposit box?,3
+"""Can you direct me to the nearest branch location?"" ",5
+"""My primary objective is to possess a reliable security container at my bank for my valuable items.""",3
+"""Do you know where I can find a cash point machine?""",5
+Is there a limit to the amount of money I can take out from my account at one time?,7
+"""To contact my bank, what digits do I input into my phone?""",0
+The task at hand is to replenish my supply of checks through ordering more.,4
+May I arrange an appointment with one of the bank employees?,1
+Can you provide me with the routing number of my bank?,8
+In what way can I discover my routing number?,8
+What are the bank's operating hours on weekdays?,2
+Is there any way you could enlighten me on obtaining a safe deposit box?,3
+Is it possible to request for more checks as my checkbook is out of balance?,4
+I require guidance on how to get a reliable security deposit box; can you offer any advice?,3
+Would it be possible for you to confirm the operating hours of my bank?,2
+What is the highest withdrawal amount I am allowed to make?,7
+Could you tell me where the nearest banking facility is?,5
+"""My desire is to terminate my account with the bank.""",6
+Can you tell me how to obtain a safe deposit box?,3
+Can you tell me what the withdrawal limit is for my account?,7
+"To reach my bank, what is the phone number that I should dial?",0
+"""Getting a safety deposit box through my bank is on my agenda.""",3
+"""Could you please tell me how much credit is remaining for me?""",9
+"I'm looking for the phone number of my financial institution, can you help me?",0
+I am hoping to schedule an appointment with a bank agent.,1
+"I'm unable to find my bank's contact details, could you help me out by sharing their phone number?",0
+Could you inform me of the method to withdraw or cancel an account?,6
+Is there a chance that you can tell me the business hours of my bank? ,2
+What is the process of receiving information about securing a safety deposit box?,3
+How can I schedule a meeting with the bank representatives?,1
+I wonder how I can find my way to the nearest branch?,5
+Please assist me in learning about the steps to take in obtaining a secure deposit box.,3
+What are the steps involved in requesting more check purchases? ,4
+How much money am I authorized to withdraw?,7
+Is there a way to retrieve my bank's routing number?,8
+Can you tell me my current monetary holdings?,9
+What's the best way to find my routing number?,8
+Is it possible for you to confirm the operating time of my bank?,2
+Can you tell me the largest sum I am allowed to withdraw in a single go?,7
+What's the highest withdrawal amount I can take out?,7
+What steps do I need to follow in order to properly close my account?,6
+How much financial resources do I have accumulated as of now?,9
+Could you explain how to obtain a secure deposit box?,3
+"""Could you tell me when the bank will be closing its doors?""",2
+In what manner can I acquire more checks and what are the necessary steps?,4
+"Is there a nearby branch and if so, how do I get there?",5
+May I know the contact number of my banking institution?,0
+What is the procedure for scheduling a meeting with the bank?,1
+"""What steps do I need to take to acquire a safe deposit box?""",3
+How do I navigate to the nearest branch of the bank?,5
+How can I disable my account? ,6
+Could I set up a scheduled visit with an individual from the bank? ,1
+Could you assist me in finding the closest bank branch?,5
+Can I request for more checks since my checkbook is depleted?,4
+"""Are there any restrictions in ending a bank account that I should be aware of?""",6
+May I request for my bank's phone number please?,0
+Can you tell me the withdrawal limit for my account?,7
+Can you direct me to the nearest banking institution?,5
+Could I request for an appointment with someone from the bank? ,1
+How can I get in touch with my bank through a phone call?,0
+Is there a limit on the sum of cash I can take out from my account at once?,7
+I am searching for the routing number linked with my bank. Can you help me find it?,8
+What is the process for ordering additional checks?,4
+What is the total amount of funds that I possess?,9
+Can you tell me how to view my current balance?,9
+Can you tell me the right way to close my account?,6
+Might it be possible for you to confirm the business hours of my financial institution?,2
+What is considered the appropriate protocol for terminating an account?,6
+Can I arrange a time to meet with someone at the bank?,1
+"""What is the process for shutting down a bank account?""",6
+Where can I get information about my routing number?,8
+How do I disable an account?,6
+What steps do I need to take in order to obtain more check orders?,4
+Could you let me know my current financial status?,9
+Is there a limit to the quantity of money that I can withdraw in one transaction?,7
+What is the appropriate method for shutting down my account?,6
+Could you point me in the direction of the nearest bank?,5
+Can you tell me the highest amount of money I can withdraw?,7
+May I know the specific time that the bank starts operating?,2
+What is my withdrawal cap?,7
+"""Can you guide me on how to close a personal bank account?""",6
+Is there a specific procedure that needs to be followed when closing one's account?,6
+Can you suggest how I might go about discovering my routing number?,8
+May I request you to kindly review and inform me about the opening and closing hours of my bank?,2
+May I request for an appointment with a representative of the bank?,1
+Meeting personally with a representative from the bank is what I desire.,1
+Can you tell me the correct procedure for terminating my account?,6
+What is the highest amount I can take out as a withdrawal?,7
+Do you have any knowledge regarding the hotline to reach my bank?,0
+What is my current account balance?,9
+Can you provide me with the routing number for my bank please?,8
+Can I book an appointment with a banker?,1
+Can you tell me the highest withdrawal limit for my account?,7
+"""Can you specify the cap on my withdrawal amount?"" ",7
+"""What is the maximum amount I am allowed to withdraw?""",7
+What is the opening time for the bank?,2
+What's my limit for withdrawing funds?,7
+Can you provide me with details on the process of obtaining a secure deposit box?,3
+Would it be feasible to schedule an appointment with any personnel working at the bank?,1
+Where can I find information about getting a safe deposit box and what are the requirements?,3
+"""In what manner can I arrange a meeting at the bank?""",1
+Can you provide guidance on how to discover my routing number?,8
+What is the method for discovering my routing number?,8
+Can you tell me what steps I need to take to get more checks?,4
+At what hour does the bank start operating?,2
+Could you tell me the contact number for my bank so I can make a call?,0
+How do I go about seeing the amount of money left in my account?,9
+Is there a bank in the vicinity that I can go to?,5
+Seeking advice on how to obtain a safe deposit box in a reliable manner.,3
+"I need to know the phone number for my banking institution, can you help?",0
+"""I'm in search of an ATM.""",5
+"""Is there a particular way to acquire a secure safety deposit box?""",3
+"""Obtaining a security box from my bank is my wish.""",3
+Where can I acquire a safe deposit box?,3
+At what time does the bank start its operations?,2
+The goal is for me to procure a safe deposit box at the financial institution that I use.,3
+Can you guide me on ordering more check leaves?,4
+Is there a method to check the amount of funds I have in my account?,9
+Can you tell me the directions to get to the closest branch?,5
+What steps should I take to find my routing number? ,8
+Can you tell me my available funds?,9
+"""What's the contact number for my bank?""",0
+Would it be viable to set up a consultation with a bank associate?,1
+How much money am I allowed to take out of my account at once?,7
+"In terms of finances, what is the total value of my assets?",9
+Could you tell me the opening hours of the bank?,2
+"""Can you recommend a hassle-free way of closing a bank account?""",6
+Can you suggest the correct method to terminate my account?,6
+Is there a way I can review my current account balance?,9
+What is the sum of money available to me at the moment?,9
+"I'm having trouble finding the phone number for my bank, could you help me out?",0
+Is there a way to access a secured storage unit for valuable items?,3
+How can I book a time slot for a visit to the bank?,1
+Could you share with me the telephone number of my financial establishment?,0
+Is there a particular way to secure a safe deposit box?,3
+Is there a specific process for account closure?,6
+At what hour does the bank unlock its doors?,2
+What are the steps involved in obtaining a safety deposit box?,3
+Would it be allowed for me to plan a session with a representative of the bank?,1
+Could you give me instructions on how to remove my account?,6
+Can you guide me on how to cancel a bank account?,6
+"I need help locating the phone number for my bank, can you assist me?",0
+What is the maximum amount of money I can withdraw in a single transaction?,7
+Is there a nearby ATM that you're aware of?,5
+What is the process for terminating an account?,6
+At what hour does the bank shut down?,2
+Is there a maximum withdrawal limit set for me?,7
+Could you verify the operating hours of my bank?,2
+Could you provide me with information on the exact amount of money in my possession?,9
+Do you know the route to the closest branch? ,5
+I am wondering if you could give me the contact details of my bank?,0
+What's the closest bank available?,5
+Would you happen to know the telephone number of my bank?,0
+When is the latest time I can do business with the bank?,2
+Would you please provide me with the phone number that connects to my bank?,0
+Is it possible for me to arrange a meeting with someone at the bank? ,1
+My intention is to terminate my bank account.,6
+Could you inform me about the current balance I have?,9
+How much money do I have left in my account?,9
+How much money is left in my account?,9
+How do I identify my routing number?,8
+I want to withdraw all the funds from my bank account and close it.,6
+Could you kindly share with me the phone number of my financial institution?,0
+Do you have information about the routing number assigned to my banking institution?,8
+Can I rent a safety deposit box from my bank?,3
+"""Where can I locate an ATM?"" ",5
+What is the process of ordering extra checks?,4
+I intend to shut down my banking account.,6
+Could you guide me through the procedure of getting a secure deposit box?,3
+Can you guide me on how to get to the nearest branch office?,5
+Which phone number should I dial to connect with my bank?,0
+Can you tell me the right procedure to close my account?,6
+Is there a specific phone number I need to dial to connect to my bank's customer service?,0
+When is the last call for transactions at the bank?,2
+What is the procedure for shutting down an account?,6
+"""What is the highest sum I can withdraw from my account?""",7
+Is it possible to order more checks if my checkbook is empty currently?,4
+"""I am interested in scheduling a get-together with a bank representative.""",1
+What is the process for scheduling a bank appointment? ,1
+"""My current need is to buy extra checks.""",4
+What is the correct procedure for terminating my account?,6
+Can you guide me on how to shut down an account?,6
+"I am in search of the telephone number of my bank, do you happen to know it?",0
+Can I get some more checks because my checkbook has no remaining pages?,4
+How can I obtain the contact information for my bank via phone?,0
+"""I require assistance in finding a cash dispenser, can you help?""",5
+Is there a way to request additional checks?,4
+Is there any chance you could assist me in determining the hours of operation for my bank?,2
+Is it possible for you to furnish me with my bank's hotline?,0
+"I'm looking for the phone number of my financial institution, can you assist me?",0
+Ordering more checks is necessary for my needs.,4
+Can you tell me what restrictions there are on the amount of money I can withdraw?,7
+Could you share some information on how to get a secure deposit box? I'd really appreciate it.,3
+How can I obtain a safe container to store my valuable items?,3
+"""How can I secure an appointment with a banker or teller?""",1
+What steps should I take to unearth my routing number?,8
+Would you happen to know how much money is in my account?,9
+What is the process for shutting down an account?,6
+"Due to the lack of money in my checkbook, is it feasible to request for additional checks?",4
+"""My current check supply needs replenishing.""",4
+Can I schedule a meeting with a representative from the bank?,1
+Can I reserve a slot to consult with one of the representatives at the bank?,1
+What is the amount of money I possess?,9
+How much is the upper threshold for money withdrawal that can be processed all at once?,7
+At what hour does the bank begin its daily operations?,2
+Is there a way to order extra checks for my account?,4
+"""My objective is to secure valuable possessions, do you think it would be advisable to acquire a deposit box at my bank?""",3
+Can you tell me the contact details to connect with my bank via phone call?,0
+What's the highest sum of money I can withdraw?,7
+Would you happen to know the phone number of my banking institution?,0
+What is the highest amount I can get from an ATM at once?,7
+Can I request for additional checks as my checkbook has become empty?,4
+Can you guide me on how to arrange a meeting at the bank?,1
+"""Is it possible for me to rent a safety deposit box from my financial institution, and if so, how do I go about doing that?""",3
+What is the bank's closing time?,2
+Can you help me locate an ATM nearby?,5
+May I know the current balance of my account?,9
+Is it possible for you to confirm the hours of operation for my bank?,2
+I am looking to terminate my bank account.,6
+I am considering obtaining a safety deposit box at my bank for safekeeping.,3
+"""It is my wish to arrange a meeting with someone from the bank.""",1
+"""What's the highest amount I can withdraw?""",7
+Is there a way for me to arrange a consultation with a bank staff member?,1
+"""What are the necessary actions to take in order to set up a scheduled visit to the bank?""",1
+What is the method to ascertain my current account balance?,9
+"""Could you please furnish me with details on getting a safe deposit box?""",3
+"The checkbook I currently have is out of checks, can I order another?",4
+Could you tell me how I can make an appointment with the bank?,1
+"""It's my intention to lease a safety deposit box at my bank for personal use.""",3
+Can you tell me the remaining funds in my account?,9
+Can you tell me how much cash I currently own?,9
+"""What is the contact number for my bank that I need to call?""",0
+I am interested in obtaining a secure deposit box at my bank. ,3
+I desire to shut down my bank account.,6
+Kindly give me the routing number for my financial institution.,8
+Is there a limit to how much money I can withdraw at once? ,7
+My intention is to terminate my banking services with one institution.,6
+Is it possible to order more checks since my checkbook contains no more checks?,4
+What is my current financial status in terms of cash on hand?,9
+How much cash do I have at my disposal?,9
+"I'm looking to store some valuable items, what are the steps I need to take to get a safe deposit box?",3
+Is there a procedure to follow in order to uncover my routing number?,8
+It would be great if I could arrange a meeting with someone from the bank.,1
+Could you inform me of my current balance?,9
+It is imperative for me to have extra checks ordered.,4
+Can you indicate the routing number of my bank?,8
+Is it possible for you to give me the phone number for my banking institution?,0
+When does the bank shut its doors for the day?,2
+I have to place an order for more checks.,4
+How can I deactivate the account?,6
+Do you happen to know the telephone number for my banking institution?,0
+"""Do you happen to know the whereabouts of an ATM machine?"" ",5
+Can you provide me with my bank's telephone number?,0
+Is there a way to close my account permanently?,6
+Meeting with a representative from the bank is something I am interested in.,1
+Can I organize a sit-down with a representative from the bank?,1
+What is the process to terminate an account?,6
+Can you please guide me towards the nearest branch location?,5
+What is the routing number for my banking establishment?,8
+What is the location of the closest bank?,5
+At what point in time does the bank commence working hours?,2
+"""What is the highest sum of money that I am allowed to withdraw?"" ",7
+What is the highest withdrawal limit for my account?,7
+What's the routing number for the financial institution that I use?,8
+"""I am unsure of how to determine my routing number, could you assist me?""",8
+Could you provide guidance on appropriately closing my account?,6
+Is it possible for me to fix an appointment with someone from the bank?,1
+Can you inform me about the upper cap on cash withdrawal per transaction?,7
+Is there a way to check how much money I have left in my account?,9
+What is the cap on how much I can withdraw?,7
+Can you tell me how I can confirm my account balance?,9
+Can you provide me with the phone number for my bank? ,0
+What's the sum total of the funds that are at my disposal?,9
+Can you tell me the cap for my withdrawal?,7
+"""My intention is to close down my bank account""",6
+"Is it possible to purchase supplementary checks, and if so, how?",4
+What are the steps required to obtain more checkbooks?,4
+It is necessary for me to obtain more checks by placing an order.,4
+"I'm wondering how much cash I currently possess, can you inform me about it?",9
+Is there a method to verify my current account balance?,9
+When can I expect the bank to start conducting business?,2
+What is the maximum amount of money I am allowed to withdraw in a single transaction? ,7
+What is the amount of cash I possess?,9
+I'm interested in learning about the process for acquiring a safe storage box. Could you assist me?,3
+Can I request you to take a look at the operational hours of my bank?,2
+Can you tell me the cap on my withdrawal limit?,7
+"To get my routing number, what steps should I be taking?",8
+"Is it possible to cancel my account, and if so, how do I go about doing that?",6
+"Could you share the contact details of my bank's customer service department, including their phone number?",0
+Could you please tell me the appropriate way to close my account?,6
+How can I go about closing a bank account?,6
+Do you know the balance of my account at the moment?,9
+It is my desire to converse with an individual from the financial institution.,1
+How can I arrange a meeting with the bank personnel?,1
+I am curious about the routing number for my banking institution. Could you enlighten me?,8
+Could you please give me the telephone number for the bank where I have an account?,0
+More checks need to be requested by me.,4
+Is there any way to find out how much cash I have in my bank account?,9
+How may I ascertain my routing number?,8
+Would there be any chance to have a face-to-face encounter with a banking agent?,1
+"How can I reach my bank by phone, what's their number?",0
+May I inquire about the phone number for my banking establishment?,0
+How much am I allowed to withdraw at once?,7
+"I'm unsure of my bank's routing number, could you provide it for me?",8
+What are the steps to follow for setting up a bank appointment?,1
+Could you provide me with the contact number of my bank?,0
+"""Is there a limit to my withdrawal amount?""",7
+What is the maximum amount I can withdraw? ,7
+Could you tell me the exact figure of my current financial assets?,9
+What's the balance of my bank account?,9
+What is the route to reach the nearby branch?,5
+What is the proximity of the nearest bank?,5
+I am curious about the current standing of my account's balance. ,9
+"""It's my desire to have a secure storage space in my bank.""",3
+What are the steps I need to take to check my account balance?,9
+Can you tell me the largest sum of money I can withdraw at once?,7
+What's the most cash I can take out in a solitary withdrawal from my account?,7
+How can I go about ordering more checks?,4
+It's necessary for me to request more check books.,4
+Is it possible for me to order more checks since my checkbook is out of them?,4
+Locate an automated teller machine.,5
+How much money is in my possession currently?,9
+Please provide me with the correct telephone number to connect with my bank's customer service department.,0
+"""I need to terminate my association with a specific bank by closing my account.""",6
+"""Could you assist me in locating an ATM?""",5
+What steps should I take to close my account? ,6
+"I am in need of the routing number for my financial institution, can you assist me?",8
+"""Can you guide me through the steps of booking an appointment at the financial institution?""",1
+Would you mind telling me if my bank is open at this moment?,2
+Can you tell me the amount of money I have in my account?,9
+I am in need of placing an order for more checks.,4
+How can I determine the balance in my account?,9
+Can you inform me about the size of my financial holdings?,9
+In what ways can I obtain a secure storage unit for my belongings?,3
+What is the route to take to reach the branch that is nearby?,5
+How can I get my hands on some valuable insights regarding obtaining a safe deposit box?,3
+What are the steps involved in booking a bank appointment?,1
+Is there a way to confirm the balance of my account?,9
+Can you tell me the steps involved in arranging an appointment at the bank?,1
+Where can I find a bank that's close by?,5
+What's the withdrawal threshold for my account?,7
+What is the closing time of the bank?,2
+Is it possible for me to acquire a safety deposit box?,3
+Could you provide me with my bank's phone number?,0
+How can I go about getting more checks ordered for my account?,4
+Meeting a bank representative is something that I am interested in. ,1
+Is there a specific method for me to close my account appropriately?,6
+What is the quantum of money that I have at present?,9
+May I request for the phone number of the bank where I have an account?,0
+My desire is to schedule a meeting with a representative from a financial institution.,1
+"""I'm looking to discontinue my relationship with this particular bank by closing my account.""",6
+I am exploring the possibility of obtaining a safety deposit locker at my local bank.,3
+What is the route to the closest branch?,5
+Could you provide directions to the nearest branch?,5
+Can you provide me with details regarding how to acquire a safe deposit box?,3
+Which direction should I take to get to the nearest branch? ,5
+What is the routing number of my bank?,8
+The purpose of my request is to set up a rendezvous with someone who works for the bank.,1
+"Running short on checks, can I request a replenishment?",4
+I was wondering if you could tell me the hours of my bank?,2
+I have to request for additional checks.,4
+I'm considering getting a safety deposit box at my bank.,3
+Is there a limit to the amount of money I can take out in one go?,7
+What is the highest amount of money that I can retrieve from an automated teller machine or a bank window in a single attempt?,7
+"""Can you help me locate an ATM machine?""",5
+"""I want to get a safety deposit box from my bank for added security.""",3
+"""I must replenish my supply of checks and place an order.""",4
+"""Is it possible for me to cancel my bank account?""",6
+Is there a specific method to use when closing my account?,6
+Is it possible to verify the opening and closing timings of my bank?,2
+Can you tell me the upper limit for my withdrawals?,7
+How much money am I in possession of at the moment?,9
+"""Do you happen to know where I can withdraw money from an ATM?""",5
+"""I have a demand for more check orders.""",4
+May I ask for the whereabouts of the nearest bank?,5
+Can you provide me with the routing number connected to my financial institution? ,8
+Is there any chance you can give me the routing number of my bank?,8
+Is it possible to obtain additional checkbooks as mine has run out of cheques?,4
+Could you tell me my current financial standing?,9
+Could you help me determine my routing number?,8
+Meeting up with a bank representative is something that I am hoping to do.,1
+How do I access my bank's routing number?,8
+Could you tell me the time when the bank starts operating?,2
+Is there a maximum amount I can withdraw at a time?,7
+"""Is there a way to get a secured deposit locker conveniently?""",3
+I have to request additional check copies.,4
+Can I book a time slot to meet with an individual at the bank?,1
+"To contact my bank, what's the phone number I need to call?",0
+Are there any restrictions on how much money I'm allowed to withdraw in a single transaction?,7
+Could you please confirm the business hours of my bank?,2
+"To speak with someone from the bank, in person, is my intention.",1
+Which direction should I go for the closest bank?,5
+Could you tell me the time the bank ceases operation?,2
+Is there a limit on the sum of money I can withdraw at once?,7
+"Might I ask for an update on the balance of my account, please?",9
+How can I obtain a safe storage box?,3
+Where can I locate the nearest financial institution?,5
+How can I close my account correctly?,6
+What is the maximum amount that I am allowed to withdraw?,7
+Is there a way to request more checkbooks?,4
+Can you explain the steps for me to check the balance in my account?,9
+"""My objective is to shut down my bank account.""",6
+What are the steps needed to secure a deposit box and ensure the safety of your valuables?,3
+Is it possible to obtain the phone number of my banking institution?,0
+Is it possible for you to verify the opening and closing times of my bank?,2
+May I ask for the routing number of the bank where my account is held?,8
+Can you inform me about the exact sum of money in my possession at the moment?,9
+"I'm in need of the phone number of my bank, can you assist me with that?",0
+Can you tell me the opening time of the bank?,2
+Kindly inform me about the opening and closing timings of my bank.,2
+Are there any ways to obtain my routing number?,8
+"""I am planning on canceling my bank account""",6
+"I'm searching for the routing number of my bank, can you help me out?",8
+"As my checkbook has zero balances, can I acquire more checks through placing an order?",4
+Can you tell me what my withdrawal limit is? ,7
+"I want to close my account, can you guide me through the formalities?",6
+What is the easiest way to reach the nearest branch?,5
+Is there a way to obtain extra checkbooks? ,4
+"""Can you tell me the correct phone number to contact my bank?""",0
+What is the quickest and most efficient way to get to the branch that is closest to me?,5
+Could you tell me where the nearest bank is situated?,5
+Can you guide me through the steps to arrange a meeting with the bank?,1
+Could you provide instructions on closing an account?,6
+What is the limit on my withdrawal amount?,7
+Is it possible to check the amount of money I have left in my account?,9
+What numerical sequence must be dialed for me to connect with my financial institution?,0
+I need to procure more check supplies.,4
+"""What steps do I need to take in order to check my account balance?""",9
+What's the most significant sum of money that can be taken out in a solitary withdrawal with no consequences?,7
+"Searching for an automated teller machine, could you assist me?",5
+"""What is the process of closing a bank account?""",6
+How can I buy more checks for my bank account?,4
+Is there a specific procedure for ending an account?,6
+"""My check supply is running low, so I need to place an order for more.""",4
+"""I am interested in getting a safety box at my banking institution.""",3
+Can you provide instructions on how to locate my routing number?,8
+Where do I go to place an order for additional checks?,4
+What is the cap on my withdrawal amount?,7
+What actions do I need to take to fix up a session with a bank employee?,1
+"""What are the bank's closing hours?""",2
+Is there a limit for how much I can withdraw?,7
+"To talk with a bank representative, that is what I want to accomplish.",1
+May I request your help in finding the routing number associated with my banking information?,8
+"Could you inform me of the current balance in my account, please?",9
+What is the routing number required for my bank?,8
+"My checkbook has run out of available checks, can I obtain a refill?",4
+Is it possible for me to secure a meeting with a banker?,1
+Where can I find a cash dispensing machine?,5
+At what point in the day does the bank cease operations?,2
+Is it possible for you to verify the operating hours of my banking institution?,2
+May I know the telephone number of my banking institution?,0
+"""It is my intention to cease all transactions linked to my bank account by closing it.""",6
+Is it possible for me to obtain information on my account balance?,9
+When is the last call for banking today?,2
+"I need to locate the nearest banking establishment, can you help me with that?",5
+May I set up a schedule for a face-to-face discussion with someone from the bank?,1
+May I know the contact number of my bank?,0
+"""Could you help me find a cash machine?"" ",5
+I wish to have a meeting with a banker.,1
+"""In order to transfer funds, I require the routing number for my bank. Can you assist me in retrieving it?""",8
+What is the opening time of the bank? ,2
+What's the remaining balance in my account?,9
+Are there any guidelines for acquiring a safe deposit box?,3
+Meeting a representative from the bank is something I desire.,1
+"""I am looking for a cash machine - do you know where one is?""",5
+"""Having a face-to-face conversation with a banker's agent is what I aim for.""",1
+Am I able to obtain more checkbooks considering my present one is depleted?,4
+I'm in search of the closest bank; do you know where it is located?,5
+"Is it possible to cancel an account, and if so, how? ",6
+How much cash do I have available?,9
+Could you share the routing number so that I can receive direct deposits to my bank account?,8
+Is it possible for you to help me locate the nearest branch?,5
+Can you tell me the steps to terminate my account?,6
+"""To get in touch with my bank, what number should I call?""",0
+"""I'm looking for the correct telephone number to reach my bank, do you know it?""",0
+My intention is to arrange a sit-down with someone from the bank.,1
+Can you tell me the highest possible withdrawal limit for a single transaction?,7
+What's the largest sum of money I can withdraw all at once?,7
+"""I am in need of acquiring more checks.""",4
+"""I am considering closing my bank account""",6
+In what manner can I direct myself to the closest branch?,5
+Could you inform me about the nearest banking institution?,5
+"What are the requirements to set up a meeting with the bank, and how can I fulfill them?",1
+"""I'm in search of an automated teller machine, any ideas where to look?"" ",5
+"""More checks need to be ordered by me.""",4
+Where can I find the phone number for my bank?,0
+"""I do not have any funds left in my checkbook, may I request for more?"" ",4
+Would you be able to inform me of the balance in my account?,9
+What would be the easiest way to get to the branch nearby?,5
+Is there a way to disable an account?,6
+"When my checkbook runs out of checks, is it acceptable to make a new order for added checks?",4
+"""What steps should I take to have a safe deposit box in my possession?""",3
+Could you inform me about the bank's opening time?,2
+Is there a simple method to reach the nearest branch?,5
+"""At what time does the bank shut down for the day?""",2
+How can I arrange an appointment with the bank?,1
+Do you know how I can find my bank's routing number?,8
+"""Is it possible to arrange a meeting with the bank, and if so, what do I need to do?""",1
+What is the upper bound for my withdrawals?,7
+"""What is the routing number for my bank?""",8
+What is the maximum amount I can withdraw in one transaction?,7
+Can you provide me with the routing number of the bank that I am associated with?,8
+"Could you explain how to close an account, please?",6
+Is it possible for you to share with me the telephone number of my bank?,0
+What are the ways to obtain my routing number?,8
+How can I get my hands on more checks?,4
+How can I add more checks to my account?,4
+"At one time, what is the maximum quantity of money that I can withdraw?",7
+At what time do their banking services start?,2
+The need arises for me to procure more check leaves.,4
+What do I need to know in order to locate my bank's routing number?,8
+How can I go about getting a safekeeping vault?,3
+What is the process to terminate an account? ,6
+Where is the closest branch and how can I get there?,5
+Do you happen to know the phone number of my bank?,0
+Can you direct me to the nearest bank?,5
+How can I learn about acquiring a safety deposit box?,3
+What time does the bank unlock its doors for the public?,2
+Can you provide me with the phone number of my bank?,0
+My intention is to get a safety deposit box at the bank for security.,3
+What is the method to verify my account balance?,9
+Is it possible for me to arrange a meeting with a bank representative?,1
+"""What are the steps needed to acquire a secure storage unit at my banking establishment?""",3
+How can I discover my routing number? ,8
+Can you guide me on how to confirm my account balance?,9
+"""Where can I find a trustworthy method of obtaining a safe deposit box?""",3
+How can I access my routing number information?,8
+Is there a way for me to view the funds available in my account?,9
+Would you mind checking the operational timings of my financial institution?,2
+"""How can I go about closing a bank account?""",6
+What is the process of closing an account?,6
+"I am in search of my bank's phone number, could you share it with me?",0
+How can I obtain a secure deposit box and what are the requirements?,3
+My requirement is to discover an ATM.,5
+How can I find out how much money is in my account?,9
+"Can you provide me with the routing number of my bank, please?",8
+Is there a way for me to permanently close my bank account?,6
+"""Can you tell me how to terminate a banking account?""",6
+Can you explain how to terminate an account?,6
+My desire is to acquire a protected storage container at my financial institution.,3
+Can you inform me about the appropriate telephone number to reach my bank?,0
+"""Is there a way to cancel my existing bank account?""",6
+Is there a limit on how much money I can take out at once? ,7
+Can you tell me my bank's routing number?,8
+What is the correct procedure for deactivating my account?,6
+What is the procedure for ending a bank account?,6
+"I am looking for the phone number of my banking institution, could you provide it to me?",0
+"""Depositing objects of value in a safeguarding container available at my bank is what I desire.""",3
+What steps should I take to determine my account balance?,9
+What's the highest withdrawal amount allowed?,7
+Where can I find the nearest banking institution?,5
+What is the correct procedure for closing my account?,6
+"""I'm interested in acquiring a secure deposit box through my banking institution.""",3
+My desire is to have a discussion with someone representing the bank.,1
+"I need the contact number of my bank, can you help me with it?",0
+Is there an option for me to schedule a face-to-face discussion with someone at the financial institution?,1
+Is there a limit on how much I can take out? ,7
+"""If I need to reach my bank, what phone number should I dial?""",0
+What are the necessary steps to acquire a safe-deposit box?,3
+What are the bank's closing hours?,2
+"""How can I go about closing an existing bank account?""",6
+Is there a specific procedure to follow when closing my account?,6
+How can I reach my bank by phone?,0
+I'm unsure of how to end my membership - can you help me with that?,6
+Is it possible to retrieve the phone number of my bank?,0
+Is there a cap on the amount of money that I can retrieve from my account in a single withdrawal?,7
+Can you guide me to the closest bank?,5
+Is it possible for you to verify the hours of operation for my bank?,2
+What's the maximum amount I'm allowed to withdraw at a time?,7
+"""Is it possible for you to direct me to the nearest ATM?""",5
+What is the routing number for the bank I use?,8
+Is there a way for me to book an appointment with someone in the bank?,1
+Is there a way for me to get in touch with my bank's customer service through a phone call?,0
+What's the closest bank around here?,5
+"At the bank, I am interested in having a safety deposit box.",3
+What is the routing number that corresponds to my bank account?,8
+What's the opening time for the bank?,2
+How can I correctly terminate my account?,6
+How can I find the nearest branch?,5
+Can you help me find the routing number for my bank?,8
+How do I obtain extra check pads?,4
+May I reserve a time slot to speak with an employee at the bank?,1
+May I request for an appointment with a bank staff member?,1
+Is it possible for me to reorder as my checkbook has run dry?,4
+What is the easiest way to reach the closest branch?,5
+What are the operational hours of the bank?,2
+Where can I locate my routing number?,8
+"""Can you guide me on how to acquire a secure storage box?""",3
+Can you provide instructions on how to disable an account?,6
+What steps should I take to arrive at the nearest branch?,5
+Can you explain how to retrieve my routing number?,8
+Can you tell me the location of the closest bank? ,5
+"""Which number should I dial to get in touch with my bank?""",0
+Is there any way to gather information on getting a security deposit box?,3
+"""What is the appropriate method for terminating my account?""",6
+"""To meet up with someone who represents the bank is something that I am interested in.""",1
+May I ask you to double-check the hours of my bank?,2
+Where can I obtain information about my routing number?,8
+Is there a way to replenish my check supply? ,4
+Could you please tell me how to go about obtaining a safety deposit box?,3
+I am in search of an ATM location.,5
+"""What is the nearest point to withdraw cash from an ATM?""",5
+"""Could you provide me with information on how to retrieve my routing number?""",8
+What is the bank's closing schedule?,2
+"""As I have utilized all my checks, would it be appropriate to order more checks?""",4
+Could I acquire a safety deposit box at my bank?,3
+"""What is the process to verify my account balance?""",9
+What is the opening hour of the bank?,2
+"""Is it possible to order additional checks as my current balance is zero?"" ",4
+How can I determine what the routing number is for my bank?,8
+What information do I need to know my bank's routing number?,8
+I am interested in arranging an appointment with a bank official.,1
+Is it possible for you to verify the operational hours of my bank?,2
+Is there a cap on the amount of money I can pull out from my account in a single withdrawal?,7
+Do you happen to know the time when the bank begins serving customers?,2
+Which is the correct number to call to reach my bank?,0
+At what time does the bank unlock its doors?,2
+Would you be able to confirm the operating schedule of my bank?,2
+What is the process for scheduling a meeting with the bank?,1
+I am curious about the remaining amount of funds in my balance. May I know what it is?,9
+Which is the most convenient way to get to the next branch?,5
+I have depleted my check inventory and require reordering.,4
+How can I secure a safety deposit box for my valuables?,3
+How do I reach my bank by phone? What's their number?,0
+"""Is there a specific procedure for closing a bank account?""",6
+May I know the hours of operation for the bank?,2
+Would it be possible for you to reveal the remaining balance in my account?,9
+Can you provide details on acquiring a secure deposit box?,3
+What is the procedure for terminating an account? ,6
+May I know the directions to the closest branch?,5
+Could you assist me in finding out the phone number of my bank?,0
+What are the opening hours of the bank?,2
+When do the doors of the bank close for customers?,2
+Could you give me the routing number for my bank?,8
+The procurement of more checks is essential.,4
+What are the steps involved in ordering more checks? ,4
+"""Can you assist me in setting up a safety deposit box account at my banking establishment?""",3
+Meeting up with a bank representative is something I am interested in.,1
+May I book an appointment with a banker at the financial institution?,1
+"""My desire is to rent a safety deposit box from my bank.""",3
+Is there a way to shut down my account? ,6
+Could you tell me the quantity of cash that's in my possession?,9
+Could you tell me if it's permissible to reorder another checkbook because mine has run out of checks?,4
+Can I refill my checkbook by ordering more checks?,4
+I have to purchase additional checkbooks.,4
+Could you kindly guide me to the bank that's closest by?,5
+Getting a safety deposit box is my priority at the bank.,3
+"""I would like to terminate my bank account.""",6
+My desire is to secure a safety deposit box from my bank.,3
+"""Can you point me in the direction of the nearest ATM?""",5
+How rich or poor am I at this moment?,9
+Which telephone number should I dial to get through to my bank?,0
+Is it possible to provide me with an update on my account balance?,9
+Is there a limit to how much I can withdraw from my account?,7
+To which number should I place a call for reaching my bank?,0
+What are the steps needed to rent a safe deposit box?,3
+Is it possible to disclose the precise amount of money that I own presently?,9
+What steps do I need to take to get additional check supplies?,4
+What steps must I take to uncover my routing number?,8
+Do you know the routing number for my bank?,8
+What is the procedure for scheduling an appointment with the bank?,1
+My checkbook is emptied. Am I qualified to ask for a refill? ,4
+"""Are there any Automated Teller Machines in the vicinity for me to obtain money?""",5
+What is the withdrawal cap for my account?,7
+Can you provide me with the phone number of the bank I am registered with?,0
+Could you enlighten me on the sum of money I currently possess?,9
+Could you verify my bank's working hours?,2
+What's the process for securing a time slot with the bank?,1
+"I am interested in acquiring a safe deposit box, where can I gather information?",3
+What measures should I take to obtain a safe and secure bank deposit box?,3
+Can I order more checks as my checkbook is now empty?,4
+What limit exists for my withdrawal?,7
+"In order to complete a transaction, I require the routing number linked to my bank.",8
+"""How much money can I withdraw maximum?""",7
+Would I be able to obtain a safety deposit box from my bank?,3
+What is the most I am allowed to take out?,7
+What are the steps to obtain a secure deposit box?,3
+What time does the bank cease its operation?,2
+What's the balance in my bank account?,9
+What are the steps involved in getting additional checkbooks?,4
+The objective is for me to acquire a safety deposit box at the bank where I have an account.,3
+"Since all the checks in my checkbook have already been depleted, can I buy another one?",4
+"""Having a consultation with someone from the bank is on my agenda.""",1
+Is there a way I can book an appointment with the bank?,1
+What is the appropriate procedure for closing my account?,6
+Can you explain how to acquire more checks?,4
+Would you be kind enough to inform me about the working hours of my bank?,2
+Is there a specific telephone number that I can call to speak with representatives at my banking institution?,0
+I wish to have a meeting with a representative from the bank.,1
+By what time should I finish my bank transactions before it closes?,2
+"""To which number should I make a call to get in touch with my bank?""",0
+Is there a route I can take to get to the closest branch?,5
+Can you tell me the withdrawal limit?,7
+Could you tell me what the upper limit for withdrawing funds in a single transaction is?,7
+How can I reach my banking institution by calling what digit combination?,0
+Is there a way for me to verify the balance of my account?,9
+"Empty checkbook, can I place an order for more checks?",4
+How can I effectively cancel my account?,6
+"Due to insufficient checks in my checkbook, am I allowed to place an order for more?",4
+What is the procedure for getting a safe deposit box?,3
+"""I require additional checks to be ordered.""",4
+A personal appointment with a bank representative is what I seek.,1
+At what hour does the bank begin its operation?,2
+What directions should I follow to get to the closest branch?,5
+Is it possible for you to furnish me with my bank's telephone number?,0
+Can you guide me on securing a reliable deposit box?,3
+My intention is to shut down a bank account.,6
+"""Is there any resource where I can learn about obtaining a safe deposit box?""",3
+Is there a correct procedure for closing an account?,6
+"I'm unaware of my bank's routing number, could you tell me where to find it?",8
+Can you guide me on how to ascertain my remaining funds?,9
+What is the current balance of my account?,9
+"May I know the routing number for my bank, please?",8
+What are the steps for placing an order for more checks?,4
+Can I book a meeting with a banker?,1
+"I am trying to find the contact details of my financial institution, could you tell me their telephone number please?",0
+Is there a recommended method for closing my account in the correct manner?,6
+Is it possible for me to make an appointment with a bank representative?,1
+It's my wish to have a face-to-face conversation with someone from the bank.,1
+When do the doors of the bank open for business?,2
+"""Is there a limit on how much money I can withdraw?""",7
+Is there a way for me to locate my routing number? ,8
+Could you please guide me through the process of ordering more checks?,4
+"""I am interested in closing my banking account.""",6
+Can you tell me the steps to take in scheduling a meeting at the bank?,1
+Could you explain how to place an order for more checks?,4
+"""What is the most I am able to take out?""",7
+Is there any way to order extra checks?,4
+Can you provide me with the routing number for my bank? ,8
+"""Closing an account at the bank is something I want to do.""",6
+Can you let me know the biggest cash amount I can get in a single withdrawal?,7
+"""I'm considering renting a safety deposit box at my bank as a precautionary measure.""",3
+Could you inform me about the available funds in my account?,9
+"""It has become essential for me to request another set of checks.""",4
+May I request your help to check my bank's hours of business?,2
+"""I am interested in acquiring a safety deposit box from my bank, can you guide me through the process?""",3
+When can I access the bank's services?,2
+May I coordinate with someone at the bank for a scheduled appointment?,1
+Could you explain how to obtain extra checks?,4
+"""How can I obtain a safe deposit box without any hassle?""",3
+What steps do I need to take to close my account?,6
+What is the ceiling on my withdrawal amount?,7
+What is the contact info for my bank's customer service hotline?,0
+What is the appropriate contact number to call when trying to connect with my bank?,0
+"""Is there a way for me to uncover my routing number that I am unaware of?""",8
+"""What is the highest sum I can take out from my account?""",7
+Can you instruct me on how to confirm my account balance?,9
+Can you tell me how to find the routing number assigned to me?,8
+"May I know the contact details of my bank, specifically the phone number?",0
+How much cash am I allowed to withdraw in a single instance?,7
+Could you tell me how I can get my hands on more checks?,4
+At what hour does the bank conclude its operations?,2
+Tell me the highest amount of funds that can be withdrawn by me.,7
+When does the bank begin its business hours?,2
+What's the limit on thewithdrawal amount per transaction?,7
+Could you explain the steps to access my account balance information?,9
+Could you inform me of my remaining funds?,9
+Is there a specific sum of money available to me at the moment?,9
+Seeking the phone details for my banking establishment; can you assist?,0
+What is the procedure for closing an account?,6
+Could you explain the right way to end my account?,6
+Where can I go to get a secure lockbox?,3
+"""My necessity is to request more checks.""",4
+May you share with me the operating schedule of my bank?,2
+At what time are the tellers prepared to serve customers at the bank?,2
+What are the operating hours of the bank?,2
+"I seem to have misplaced my bank's phone number, can you assist me with it?",0
+"""What would be the appropriate procedure for me to follow when closing my account?""",6
+How can I obtain additional checks?,4
+"At my bank, I'm interested in acquiring a safety deposit box.",3
+"""I am interested in obtaining a safety deposit box located within my banking institution.""",3
+Is it possible for you to furnish me with the contact number of the bank I am associated with?,0
+Would it be possible for you to provide me with my bank's phone number?,0
+Can you tell me the sum of money that I own?,9
+Would it be feasible for you to check what time my financial organization opens and closes?,2
+Can you tell me how to get to the branch that is closest?,5
+What's the routing number for my bank?,8
+Is there a way to procure more checks for my account?,4
+How do I find my way to the branch which is in the vicinity?,5
+I am interested in closing a bank account.,6
+How can I acquire more checkbooks?,4
+"""Since I have exhausted all the checks, can I place an order for new ones?"" ",4
+Do you know the whereabouts of the closest bank in the vicinity?,5
+"""My intention is to obtain a safe deposit box service from my local bank.""",3
+Is there a way to order extra checks beyond my current supply?,4
+Can you guide me to the closest branch?,5
+Can you provide me with directions to the nearest branch?,5
+Would it be possible to obtain the routing number for my bank from you?,8
+I need to know what is the numerical code for the routing of my bank?,8
+Is there a way for me to schedule a session with someone who works at the bank?,1
+What is the routing number of my bank that I should use for transactions?,8
+Can you guide me on viewing my remaining balance in my account?,9
+What's the cap on my account's withdrawal amount?,7
+How can I access information about my remaining account balance?,9
+Could you provide me with the contact details of my financial organization?,0
+Please enlighten me on how to obtain my bank's routing number.,8
+Could you inform me about my current financial situation?,9
+In what way can I examine the balance of my account?,9
+Can you tell me the phone number to contact my bank?,0
+Can you guide me through the steps of booking an appointment at the bank? ,1
+Is there any information available on obtaining a safe deposit box?,3
+Is there a restriction on how much I can withdraw from my account?,7
+What is the telephone number of my bank?,0
+Is there a maximum limit for cash withdrawals?,7
+Would it be feasible to book a session with someone at the bank?,1
+"""In order to continue writing checks, I require additional ones.""",4
+"""Dialing which specific number would help me connect to my bank?""",0
+"""What is the route to the closest branch?"" ",5
+Can I set up an appointment with a bank staff member?,1
+What is the total amount of money that belongs to me?,9
+"I'm seeking out the routing number for my bank, would you happen to know it?",8
+I require the contact digits for my bank; would you happen to know them?,0
+What is the process to schedule a meeting at the bank?,1
+Is there a cap on how much money I can withdraw? ,7
+Can you tell me how to verify my account balance?,9
+What are the hours of operation for the bank?,2
+Would it be feasible to schedule a time to visit with a person employed at the bank? ,1
+Could you please check my balance for me?,9
+"It is imperative that I obtain the correct routing number for my bank, could you help me find it?",8
+How can I arrive at the nearest branch without any confusion?,5
+Could you please let me know when I can access the bank?,2
+Is there a way for me to uncover my routing number?,8
+Do you happen to have on hand the phone number for my banking institution? ,0
+What steps should I take to uncover my routing number?,8
+Could you please help me obtain extra checks?,4
+Is there a way to acquire a protected deposit box?,3
+In what manner should I close my account?,6
+"""Can you inform me about my balance status?""",9
+Could you direct me to the bank's nearest location?,5
+Which is the phone number I should dial to contact my bank?,0
+Can an order be placed for additional checks since my checkbook has no remaining leaves?,4
+Can you tell me the routing number associated with my bank account?,8
+What is the largest sum of money I am allowed to withdraw in one go? ,7
+What is my maximum withdrawal amount?,7
+Could you provide me with the prescribed steps for effectively closing my account?,6
+What are the steps involved in closing an account?,6
+Could you explain the procedure for arranging a meeting with the bank? ,1
+Is there a method I can follow to discover my routing number?,8
+May I have the specific code directing electronic transactions to my bank?,8
+Could you provide me with the phone number for my bank?,0
+"""Is it possible for me to terminate a bank account?""",6
+Can you help me cancel my bank account?,6
+"What's the process for acquiring a safe-deposit box, can you inform me about it?",3
+May I inquire about the phone number associated with my personal bank account?,0
+Is there a way to find out how much money I have available in my account?,9
+What is the appropriate method for closing my account?,6
+Can you provide me with details on obtaining a secure deposit box?,3
+What is the total sum of my monetary holdings?,9
+Could you tell me the phone digits of my financial institution?,0
+Do you happen to know where the closest bank is situated?,5
+The objective of my request is to meet up with a representative of a bank.,1
+Could I book a slot to meet with any bank personnel?,1
+How much am I allowed to withdraw? ,7
+Can you tell me the extent of my withdrawal limit?,7
+What is the starting time of the bank's business day?,2
+What steps should I take in order to close my account without any issues?,6
+What is the highest amount of money that I can withdraw from my account at once?,7
+What is the procedure for obtaining extra checkbooks?,4
+May I have the routing number for my bank?,8
+What are the steps needed to be taken to close an account?,6
+When will the bank be open?,2
+Could you please inform me about my bank's operating schedule?,2
+My checks have run out and I need to reorder them.,4
+I need to find a nearby bank – any suggestions?,5
+The goal is to bring an end to my relationship with a specific bank by closing my account.,6
+What are the necessary steps involved in securing a safe deposit box?,3
+My desire is to have a face-to-face meeting with a representative from the bank. ,1
+Would you mind checking the opening and closing times of my bank for me?,2
+"""I am looking to shut down my bank account""",6
+May I know if you can verify the operating hours of my bank?,2
+"""Could you tell me the maximum amount I can withdraw?"" ",7
+Do you happen to know the telephone number of my banking institution?,0
+Can you enlighten me on the process of getting a safe deposit box?,3
+What is the maximum amount of money I can withdraw in one go?,7
+Can you tell me the steps to deactivate an account? ,6
+I am interested in arranging a meeting with a representative from the bank.,1
+I must acquire additional check pads by placing an order.,4
+How much currency am I authorized to take out in a single withdrawal?,7
