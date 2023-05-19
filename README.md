@@ -2,8 +2,6 @@
 
 This is repository for the paper: "ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness"
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 ## Abstract
 
 The emergence of generative large language models (LLMs) raises the question: what will be its impact on crowdsourcing. Traditionally, crowdsourcing has been used for acquiring solutions to a wide variety of human-intelligence tasks, including ones involving text generation, manipulation or evaluation. For some of these tasks, models like ChatGPT can potentially substitute human workers. In this study, we investigate, whether this is the case for the task of paraphrase generation for intent classification. We quasi-replicated the data collection methodology of an [existing crowdsourcing study](https://aclanthology.org/2020.emnlp-main.650/) (similar scale, prompts and seed data) using ChatGPT. We show that ChatGPT-created paraphrases are more diverse and lead to more robust models.
