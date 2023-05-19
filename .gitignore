@@ -1,0 +1,10 @@
+# ignore files from the original study
+
+gpt_datasets/prompt_human.csv
+gpt_datasets/taboo_human.csv
+
+gpt_datasets/for_train_test/prompt_h_0.csv
+gpt_datasets/for_train_test/prompt_h_12.csv
+gpt_datasets/for_train_test/taboo_h_12.csv
+
+.ipynb_checkpoints/
