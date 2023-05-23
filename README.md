@@ -1,6 +1,6 @@
 # ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness
 
-This is repository for the paper: "ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness"
+This is repository for the paper: ["ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness"](https://arxiv.org/abs/2305.12947)
 
 ## Abstract
 
