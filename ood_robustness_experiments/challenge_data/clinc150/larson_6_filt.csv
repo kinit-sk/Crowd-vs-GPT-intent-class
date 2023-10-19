@@ -1,0 +1,1963 @@
+intent,text,no_taboo_words
+payday,On which day did I take delivery of my compensation previously?,True
+directions,Can you point me in the way of Phoenix?,True
+plug_type,Is it necessary to have an alternate power attachment option while visiting France?,True
+weather,Can you tell me about the sky's appearance at this moment?,True
+ingredients_list,How do I go about assembling tom yum without indicating the precise elements?,True
+change_language,It is imperative that we communicate using the English dialect.,True
+nutrition_info,Can you provide details about the constituents present in apple sauce?,True
+make_call,Establish a communication with mother.,True
+travel_notification,Kindly update my financial institution about my upcoming trip to the Bahamas in the next few days.,True
+recipe,I'm looking for suggestions on preparing delicious chili. ,True
+nutrition_info,What are the dietary details of broccoli?,True
+calories,Can you determine the healthiness level of a chicken sandwich?,True
+pto_balance,"""How long of a leave am I entitled to take from my job?""",True
+nutrition_info,Can you provide the dietary breakdown for a serving of plain yogurt? ,True
+tire_change,How can I tell if it's time to upgrade my old footwear for my car?,True
+food_last,Is there a specific timeframe that one should adhere to when utilizing milk?,True
+how_old_are_you,What was the time of your genesis?,True
+recipe,Any suggestions for creating a delicious omelet?,True
+accept_reservations,Would it be viable to make pre-arrangements before going to Taco Bell?,True
+next_holiday,How long before we get a respite from work again?,True
+transactions,Allow me to view the latest record of my money-related operations using the open bank application.,True
+bill_balance,Can you provide me with the cost of my car payment and insurance?,True
+text,Advise Courtney through cellphone regarding the deviation.,True
+pay_bill,Assist in covering my gas expenses.,True
+gas,How much mileage can I travel with my vehicle at present?,True
+repeat,"I didn't fully grasp your previous words, can you restate the last part?",True
+pay_bill,What should I do to settle my visa?,True
+pto_balance,"""How many times can I still take a break from work?""",True
+pto_balance,What's the total tally of my unused leave duration?,True
+tire_change,When should I be concerned about the traction on my vehicle?,True
+carry_on,What is the maximum number of items that can be brought onto a plane when flying with American Airlines to Japan?,True
+gas_type,Could you enlighten me about the suitable source of energy that this vehicle demands while undergoing a refill procedure?,True
+ingredients_list,Please share the items required when preparing tom yum dish.,True
+change_accent,Modify the vocal expression associated with a particular demographic.,True
+next_holiday,Identify the following celebratory time?,True
+text,Drop a greeting to Jack!,True
+plug_type,Can I utilize my electronic accessories when I travel to Mexico without requiring any modifications?,True
+mpg,"In terms of energy usage, how does the car perform?",True
+food_last,or how much time can a burrito reside inside the cold storage before losing its quality?,True
+pin_change,Can you give me the code to access my checking balance?,True
+accept_reservations,What is the process for guaranteeing a spot at the New York eatery? ,True
+pto_request_status,May I know if my absence during that period has been confirmed?,True
+pin_change,Is there a way to prevent unauthorized access to the hub of my monetary transactions?,True
+food_last,What is the shelf life of honey?,True
+change_accent,My preference is for the sound produced by the feminine gender moving forward.,True
+tire_change,At what point do I need to undergo maintenance concerning my vehicle's wheels?,True
+change_language,"Is the use of the Spanish vernacular permissible when conversing with you, amigo?",True
+nutrition_info,Could you provide details regarding the makeup and content of apple puree?,True
+taxes,Can you provide me with the aggregate value taken out of my salary for public funds?,True
+payday,When was the most recent document for my earnings made?,True
+next_holiday,What's the upcoming celebration and its date?,True
+pay_bill,I will require aid to manage my lodging dues.,True
+thank_you,Myriads of acknowledgements.,True
+whisper_mode,Initiate the low-volume method.,True
+traffic,"What could be the potential delays on my journey from Philadelphia to Newark, New Jersey?",True
+transactions,Can you provide me with details regarding the activity in my account?,True
+whisper_mode,Deactivate the low tone condition.,True
+pto_request_status,Do you have any information on the outcome of the day-off inquiry?,True
+change_accent,I am interested in the auditory manifestation of femininity.,True
+gas,How much mileage can I cover with my existing petrol?,True
+are_you_a_bot,Is your life form similar to those of homo sapiens?,True
+mpg,What is the distance that can be covered by my vehicle with a specific quantity of fuel?,True
+mpg,How far can this car go on a single tank of gas when driving through the city?,True
+payday,Could you inform me about the timeline for earning collection?,True
+how_old_are_you,I'm interested in finding out the time since your birth.,True
+pto_request_status,Can I know the latest news about my break?,True
+weather,Could you provide information about the elements surrounding us? ,True
+travel_notification,"I'd like to make known to my banking establishment the dates of my journey to Peru (February 19-26), can this be arranged? ",True
+text,Get in touch with Courtney and let her know about the alternate route.,True
+how_old_are_you,What is the duration of time that must elapse for your presence on this planet to reach full orbit?,True
+accept_reservations,Can arrangements be made beforehand to ensure a spot at Bill's House of Chop Suey?,True
+transactions,Can you remind me of the moment I acquired an item?,True
+min_payment,hat are the compulsory dues on my Verizon account that I have to settle?,True
+distance,What direction should we head towards and what's the estimated duration to arrive at the Sears Tower in Chicago?,True
+are_you_a_bot,Would you enlighten me on whether you have automated or manual operation?,True
+repeat,Can you please reiterate what was mentioned?,True
+lost_luggage,"""My stuff seems to be nowhere to be found at the moment.""",True
+carry_on,What is the number of bags I can board with American Airlines while traveling to Japan?,True
+meal_suggestion,Is there an Indian cuisine that you could endorse?,True
+plug_type,What is the procedure for connecting electronic equipment in France?,True
+tire_change,How often must I attend to the upkeep of the circular components on my automobile?,True
+payday,On which day can I expect to receive my compensation for the work?,True
+nutrition_info,What are the benefits of consuming blueberries?,True
+accept_reservations,Would it be feasible for me to book a seating at the Olive Garden?,True
+report_fraud,It seems that Guitar Center didn't offer me satisfactory service based on what's on my account. ,True
+accept_reservations,Can you give me any insights if one must fulfill certain conditions to gain entry to Central?,True
+thank_you,I'm grateful for the insightful feedback received.,True
+accept_reservations,Would it be conceivable to secure a spot for dining in at White Castle?,True
+mpg,What is the distance your vehicle can travel per unit of fuel?,True
+distance,How many miles away is Orlando from where I am right now? ,True
+traffic,Is the passage subject to heavy automobile movement?,True
+are_you_a_bot,Do you genuinely exist?,True
+bill_balance,What is the expense associated with my water and electricity consumption? ,True
+pin_change,Can you tell me how to alter the identification on my personal banking record?,True
+nutrition_info,Explain the components present in fish that helps you maintain a balanced diet.,True
+payday,Can you tell me the duration after which I expect to receive payment?,True
+ingredients_list,Can you provide a list of components necessary to prepare tom yum?,True
+carry_on,Is there a maximum quantity of hand-carried bags that I can bring along?,True
+food_last,How much time can pass before honey becomes unfit for consumption?,True
+how_old_are_you,Can you share with me your approximate duration of existence on this planet?,True
+whisper_mode,Shut down the low-volume setting.,True
+directions,How can I arrive at the subway using my own legs?,True
+min_payment,What is the smallest amount required for me to settle my heating expenses?,True
+directions,Do you have any idea about the hospital which is easily accessible from my current location?,True
+are_you_a_bot,Can you confirm your existence?,True
+how_old_are_you,Which number will be added to your life’s calendar on the special day this year?,True
+nutrition_info,I require knowledge about the ingredients published on the packaging of the ramen.,True
+food_last,At what point does honey lose its freshness?,True
+bill_balance,What is the total amount required for payment this month?,True
+next_holiday,Can you inform me of the upcoming event?,True
+change_accent,Modify the tone to that of a woman.,True
+taxes,Is there an estimation for the funding I'm required to provide for my jurisdiction?,True
+recipe,Can you suggest a method for preparing pasta?,True
+change_language,The use of the English tongue is necessary to convey our message.,True
+mpg,"n terms of gas consumption, how would you describe the efficiency of the vehicle?",True
+how_old_are_you,What was the number of times you celebrated your birthday before today?,True
+report_fraud,The things appearing on my online invoice from Penney's are not those which I have purchased.,True
+calories,Is it possible to verify the nutritional value of a chicken sandwich?,True
+text,Inform Samantha about my estimated arrival time in 10 minutes.,True
+tire_change,How can I determine when it's time to swap my wheels?,True
+directions,Can you tell me which fueling point is easy to spot around Glendale? ,True
+food_last,an you specify the span within which a frozen burrito is edible?,True
+pto_balance,"""What is the time period for which I can take a break from work?""",True
+nutrition_info,What are the different components that make up fish?,True
+next_holiday,What is the upcoming merry occasion to be conducted here?,True
+change_accent,Can you employ the gentleman's tone?,True
+directions,Is there a way to walk down to the subway station?,True
+text,Inform Jim that I will be returning home shortly.,True
+travel_notification,"My stay in Mexico will last from Thursday through Friday, could you convey this message to my bank?",True
+thank_you,Your aid has made a significant impact.,True
+meal_suggestion,Can you recommend a dish that's commonly found in Asian cuisine?,True
+nutrition_info,I need to know the specifics regarding the dietary value of cheese fries.,True
+nutrition_info,May I have access to the breakdown of the nutrients present in the ramen product?,True
+who_do_you_work_for,What entity do you operate under?,True
+pay_bill,Assistance is required for covering the renting expenses.,True
+pay_bill,I need financial assistance for my water expenses.,True
+taxes,Are you familiar with the amount demanded by authorities in lieu of revenue generated by me?,True
+pto_balance,When will my leisure time come to an end?,True
+thank_you,"The response proved to be enriching and beneficial, I am obliged.",True
+gas_type,In what manner must I charge up this cutting-edge transportation device?,True
+next_holiday,Which forthcoming event should we be preparing ourselves for?,True
+change_language,"May I converse with you using the Spanish language, compadre?",True
+change_accent,Would it be feasible to alter the vocal pitch?,True
+change_accent,Can you alter the vocal quality to portray a different gender?,True
+distance,Can you inform me when the airport expects my presence?,True
+how_old_are_you,On what occasion will you add another milestone in your life?,True
+nutrition_info,"I need to know about the nourishment inside bell peppers, can you help me with that?",True
+calories,How much nutritional intake do chicken nuggets provide?,True
+report_fraud,"""This fee is ridiculous.""",True
+plug_type,Is there a method to link gadgets to the power source in France?,True
+repeat,"Could you phrase it differently, please?",True
+food_last,When does milk reach its limit?,True
+thank_you,It's good to hear from you in regards to the matter at hand.,True
+nutrition_info,What are the details concerning the nourishing components of one cup of yogurt? ,True
+transactions,What are the details of the electronic expenditures I made this morning past 6 am?,True
+pto_balance,What is my quota for taking time off from work?,True
+travel_notification,Looking for ways to notify the money organization regarding my whereabouts in between 23rd-25th of February when I visit Australia.,True
+nutrition_info,How does consuming fish contribute to a balanced diet?,True
+recipe,What's your method for preparing veggies with an oven?,True
+plug_type,Is there a way to access electricity in Costa Rica with my devices?,True
+text,Would you please communicate to Mary that she is absolutely amazing?,True
+weather,Are we facing any changes in our surroundings today?,True
+food_last,For what duration is it suitable to store milk without it becoming undrinkable?,True
+ingredients_list,What is required to produce a flavorful lasagna recipe?,True
+pay_bill,The expenses for my electrical service must be covered.,True
+whisper_mode,Engage the low-toned setting.,True
+directions,Any gas station situated near the vicinity of Glendale?,True
+report_fraud,"""It appears that there might be an unexpected debit on my account attributed to McDonald's.""",True
+food_last,In what period can tofu be retained without losing its quality when subjected to cold temperatures?,True
+weather,Is there any update on the climatic state of affairs in Austin?,True
+transactions,Could you let me know the list of electronics bought by me after 6am in the morning?,True
+report_fraud,I have noticed certain items on my online bill that were not bought by me from Penney's.,True
+change_language,"Is it fine to communicate with you using Spanish, amigo?",True
+text,Will you kindly let Mary know how incredible she is?,True
+pin_change,What is the identification required for me to complete my transaction?,True
+who_do_you_work_for,To whom do you answer in your professional setting?,True
+transactions,The amount I used up for my newest spending?,True
+whisper_mode,Switch off the soundless setup.,True
+recipe,What are the steps to begin crafting your own pizza dough from scratch? ,True
+food_last,How much time can I keep milk chilled without any harm?,True
+pay_bill,I am seeking help to manage my payments for the water usage.,True
+repeat,Could you kindly reiterate your statement?,True
+distance,Can you inform me as to the remaining distance until we arrive at our intended destination?,True
+pto_balance,"""Can you tell me about the duration of the interval during which I can be absent from work?""",True
+thank_you,"Your output provided an abundance of data, ai - I'm grateful.",True
+text,Notify Courtney regarding the diversion via one of her communication channels.,True
+thank_you,Your aid has been beneficial and I'm grateful for it.,True
+nutrition_info,In what ways can blueberries boost your well-being?,True
+repeat,Could you kindly articulate that once more?,True
+gas,Can you inform me about the status of my vehicle's energy container?,True
+payday,When can I expect to see a monetary transfer in my account?,True
+gas_type,What is the form of energy your automobile consumes?,True
+meal_suggestion,Can you recommend any recipes from ancient Rome cuisine?,True
+how_old_are_you,"What is the quantity of annual cycles undergone by you, starting from your arrival in this world?",True
+pto_request_status,Can you tell me what is happening with my holiday inquiry?,True
+pto_request_status,Has any communication been made concerning my holiday allowance?,True
+gas,Is my automobile capable of running for a specific distance before stopping?,True
+report_fraud,Is there an unauthorized usage of my account?,True
+how_old_are_you,At which point did you most recently mark another year of existence?,True
+pto_request_status,Have I been cleared by the chief executive officer to take a break?,True
+gas,What is the current status of my car's ability to drive a certain distance?,True
+tire_change,Has the necessity arisen to reevaluate my vehicle's footwear for September?,True
+recipe,Any suggestions for roasting vegetables perfectly?,True
+food_last,What is the maximum duration for tofu to remain in a frozen state?,True
+who_do_you_work_for,Could you disclose the identity of the company that you're aligned with?,True
+meal_suggestion,Can you tell me the intended dish for tonight's sustenance?,True
+accept_reservations,Are there specific requirements for accessing Central?,True
+travel_notification,Notify my financial institution about my presence in Brazil.,True
+who_do_you_work_for,Whom do you answer to in your daily tasks?,True
+gas_type,Could you specify the source of power that propels your vehicle?,True
+transactions,How can I see the record of my expenses and transfers?,True
+are_you_a_bot,What is the source of your vocalization?,True
+traffic,Does heavy movement ensue during the commute to your occupation?,True
+gas_type,What is the source of power for your automobile?,True
+calories,Could you verify the nutritional value of a chicken sandwich?,True
+who_do_you_work_for,Do you follow someone's directives?,True
+recipe,Educate me on creating a savory plate containing tuna incorporated in a baked dish.,True
+food_last,Is there a period by which milk becomes suboptimal for consumption?,True
+report_fraud,There's something fishy going on with my transactions at Bank of the West that I need to look into.,True
+meal_suggestion,Are there any dishes inspired by the Roman gastronomic tradition that you could suggest?,True
+are_you_a_bot,Can I trust that you exist?,True
+min_payment,What is the smallest possible amount that I need to give towards my insurance fees?,True
+directions,Which fueling station can be found in close proximity to Glendale?,True
+payday,What is the next day I am owed income to anticipate?,True
+pto_balance,What is the extent of my time away from work for leisure purposes?,True
+are_you_a_bot,Are you a flesh-and-blood entity in existence?,True
+directions,What hospital is in the vicinity of where I am?,True
+plug_type,How can I access electricity for my devices in France?,True
+traffic,Can one anticipate a smooth ride while commuting for work?,True
+who_do_you_work_for,Which organization engages your services?,True
+who_do_you_work_for,Who are the figures of authority for guiding your tasks?,True
+food_last,Till what duration can milk be functional?,True
+next_holiday,Which event should I mark on my calendar as a future break?,True
+report_fraud,A false buy appears in my account which is associated with Dave's Video.,True
+distance,What's the estimate of the travel period to arrive at walmart?,True
+thank_you,"There are a plethora of ways to show gratitude, what are some strategies you recommend?",True
+weather,May I know about the present environmental status of Austin?,True
+payday,Which particular day should I anticipate earning remuneration for my labor?,True
+calories,What is the approximate amount of energy contained in a serving of French fries?,True
+text,Craft a written expression of goodwill to be transmitted to Jack's device.,True
+next_holiday,When is the following celebration that happens within this place?,True
+pin_change,Can you enlighten me on the secret code that unlocks my data?,True
+distance,Could you share some insights about the schedule that suits arriving at the airport?,True
+pay_bill,There's an unsettled auto loan amount to be settled.,True
+payday,"""At what point in time should I expect to receive my future remuneration?"" ",True
+repeat,Can you recapitulate your previous statement in a clear and concise manner?,True
+text,Receive a written notification for evaluation purposes.,True
+directions,Can you provide me guidance to reach Phoenix?,True
+next_holiday,Unveil the succeeding festive period?,True
+pin_change,Could you disclose the cipher required to view my savings statement?,True
+who_do_you_work_for,Who is responsible for overseeing your assigned tasks?,True
+pin_change,Transform my passcode containing digits of exact count for my reserved funds.,True
+ingredients_list,What are the essential components to concoct a tantalizing plate of lasagna?,True
+ingredients_list,Which components are necessary to produce a tray of chocolate brownies?,True
+calories,Could you tell me about the dietary composition of a cheeseburger?,True
+tire_change,When should I go for a tire inspection again?,True
+recipe,What's the process of preparing pasta?,True
+traffic,Are the roads crowded during my commute?,True
+gas_type,What is the suitable level of octane for a vehicle?,True
+plug_type,Are the means of electricity distribution consistent in that particular area?,True
+how_old_are_you,May I request an indication of the duration of your existence on this planet?,True
+plug_type,Would it be necessary for me to find an electrical device transformer before going to Guam?,True
+travel_notification,"The financial entity must be acquainted with my imminent presence in London, and I need to communicate this information shortly.",True
+ingredients_list,Which items are necessary to assemble a scrumptious serving of lasagna?,True
+pay_bill,I am responsible for fulfilling the financial commitment towards my vehicle.,True
+transactions,What is the history of my latest financial movement?,True
+thank_you,Can you suggest some alternative options for expressing your gratefulness other than the common phrases used?,True
+carry_on,How does JetBlue govern luggage provisions in their air transportation services?,True
+text,"Inform Dave, I'll make it there soon.",True
+thank_you,The contributions of AI are greatly acknowledged.,True
+calories,What exact amount of energy can I get from chicken tenders?,True
+mpg,How far can my vehicle take me with the tank full?,True
+pay_bill,Is it possible to remunerate for my natural gas charges using my bank account?,True
+nutrition_info,I am curious about the ingredients of ramen.,True
+pto_balance,What is the quantum of leave I have accrued?,True
+make_call,It would be great if you could contact Stefan Larson.,True
+bill_balance,Can you inform me of the total cost of my electricity and water consumption?,True
+payday,When can I expect to receive my next salary?,True
+nutrition_info,Can you provide me with a breakdown of what's inside one serving of milk?,True
+thank_you,"Admirable, content!",True
+taxes,How do I compute my liabilities to the revenue service department?,True
+change_accent,"I prefer the sound of one particular gender, can we change it?",True
+payday,At what point will compensation be disbursed again? ,True
+bill_balance,Can you tell me the expense incurred for the consumption of water and electricity in my place?,True
+gas_type,Which substance is appropriate to empower the transportation machine?,True
+gas,What is the current capacity of the resource holder?,True
+recipe,What's your go-to method for creating delicious spaghetti plates at home?,True
+recipe,What are the steps to take when creating a delicious plate of pasta?,True
+mpg,How far can this car go on a single tank of gas?,True
+taxes,Can you inform me about the total amount I owe to the government this year?,True
+whisper_mode,How can one return to normal sound level without whispering?,True
+payday,Do you have any idea about the next instance I receive my salary?,True
+food_last,What is the shelf life of milk?,True
+bill_balance,Can you inform me on the cost of my monthly car finance and insurance expenses?,True
+directions,Where can I find a gas stop that's not too far away from Glendale?,True
+ingredients_list,How can one develop an appetizing lasagna dish?,True
+nutrition_info,I'd like to know what elements are present in broccoli that promote good health.,True
+text,"""Could I use a character as a means of conveying a friendly welcome to someone?""",True
+weather,How's the atmosphere doing on this day?,True
+meal_suggestion,"I have a preference for Indian food, can you recommend a dish?",True
+payday,Can you provide information on the arrival of my following compensation?,True
+mpg,"""What's the efficiency or effectiveness of gas consumption in my automobile?""",True
+directions,What is the route to access the train on foot?,True
+calories,What is the nutritional value of bananas in terms of energy?,True
+tire_change,When is the perfect timing to switch my worn-out wheels?,True
+calories,What is the nutritional value of an orange?,True
+meal_suggestion,Is there a specific cultural cuisine that you enjoy eating from the continent of Asia?,True
+calories,Can you tell me about the energy density of chicken nuggets? ,True
+bill_balance,What is the amount I need to pay Visa?,True
+taxes,What is the total amount I need to pay to the government agency responsible for collecting revenue?,True
+next_holiday,Discover the forthcoming occasion?,True
+traffic,Is my daily drive disrupted by a high volume of automobiles?,True
+whisper_mode,Cease the hushed state.,True
+pin_change,My brain cannot currently access the data required to unlock my card's functionalities.,True
+text,Notify Samantha that my ETA is 10 minutes from now.,True
+bill_balance,Can you inform me about the payment I need to make for my water usage?,True
+accept_reservations,Is it possible to arrange beforehand for a visit at Taco Bell?,True
+who_do_you_work_for,Is there anyone you have to listen to?,True
+meal_suggestion,Is there any delightful Italian recipe worth trying out?,True
+pay_bill,It's essential to clear the amount tied to my vehicle purchase.,True
+nutrition_info,Can you discover details about the nourishing value of cheese fries?,True
+gas_type,What is the appropriate fueling preference for this automobile?,True
+pay_bill,Can I settle my fuel expenses via my checking balance?,True
+distance,How distant is our destination?,True
+ingredients_list,Which components do I require to prepare brownies?,True
+weather,What are the current meteorological happenings taking place in Austin?,True
+ingredients_list,What are the necessary components for creating lasagna? ,True
+pto_balance,Within what period am I able to take time off without losing compensation?,True
+are_you_a_bot,Do you consist of flesh and bone or do you run on binary?,True
+weather,What is the current state of the atmosphere in Seattle?,True
+pin_change,What is the process to modify the label of my bank deposit?,True
+how_old_are_you,When is the day you celebrate your birth?,True
+food_last,What is the possible timeline for milk consumption?,True
+plug_type,How to connect my electronic device while travelling in Japan?,True
+payday,When can I anticipate compensation?,True
+gas,Is it possible for me to make it to Atlantic City?,True
+make_call,May I communicate with Sal?,True
+recipe,Do you have any tips for cooking mouth-watering chili?,True
+payday,What day can I expect payment for the job that has been done?,True
+weather,"What's the current atmospheric state of Austin, if I may ask you that?",True
+travel_notification,"Could you please make known to my banking service provider that I plan on being present on Canadian soil for an entire week, commencing on the 6th and ending on the 13th?",True
+calories,How much energy does an orange provide?,True
+report_fraud,I'm in the process of alerting the Bank of the West regarding peculiar events linked to my debit/credit card.,True
+calories,How much fuel do chicken nuggets provide to the body?,True
+calories,Can you tell me about the amount of sustenance that bananas offer?,True
+plug_type,What is the electrical equipment requirement in France?,True
+travel_notification,I need to convey to my banking establishment my presence in Canada during a whole week starting next Monday.,True
+change_accent,Alter the tone produced by the talker to that resembling a certain gender.,True
+taxes,What is the distribution of financial resources imposed on individuals by public institutions?,True
+pay_bill,Provide support for settling my gas balance.,True
+who_do_you_work_for,To whom do you answer with regards to your duties?,True
+whisper_mode,Put an end to the low-toned status.,True
+change_language,Could you converse using the romantic tongue?,True
+how_old_are_you,"Would you kindly disclose to me a piece of information about yourself, specifically regarding the passage of time from your arrival in this world until now?",True
+gas,How much gasoline reserves do I currently possess?,True
+nutrition_info,Could you look up and provide me with the specifics regarding the components of bell peppers?,True
+meal_suggestion,Can you recommend any Thai cuisine options?,True
+pin_change,Is there a way to adjust the title associated with my checking investment?,True
+pto_request_status,Is it confirmed that the scheduled break is good to go?,True
+recipe,Which steps are involved in cooking an omelet?,True
+bill_balance,How can I know the required payment for this month?,True
+min_payment,What would be the tiniest amount on my bill that I could settle?,True
+are_you_a_bot,Do you fall under the category of machine or organism?,True
+mpg,What range does this car accomplish for a unit amount of gasoline when driven on highways?,True
+how_old_are_you,"""How many numerical units signify the length of time you've existed?""",True
+report_fraud,My account reflects a disappointing acquisition done through Guitar Center.,True
+change_accent,"My inclination is towards a specific kind of sound, kindly make a change.",True
+nutrition_info,What are the health benefits of consuming blueberries?,True
+pin_change,Alter the sequence for accessing my funds to something different.,True
+gas_type,What is the appropriate substance for filling up this brand-new automobile's tank?,True
+calories,"From a health perspective, what does consuming bananas provide?",True
+recipe,Can you share a great way to prepare chili?,True
+ingredients_list,Could you provide me a list of items required to prepare pasta?,True
+gas_type,"Enlighten me, what is the power source that runs your transportation device?",True
+travel_notification,Is there a way to communicate to my money-related organization that I'll be absent from the country beginning on next Wednesday and throughout the following week?,True
+distance,"To arrive at the Sears Tower in Chicago, which path should we follow and what's the total journey time?",True
+food_last,When does milk go off?,True
+pay_bill,The car financing requires discharging of dues.,True
+nutrition_info,Can you reveal the dietary worth of one serving of plain milk?,True
+traffic,Does the pathway experience any delays?,True
+traffic,What's the depiction of the situation regarding travel between New Jersey turnpike and the Lincoln Tunnel?,True
+food_last,Is there a certain duration within which milk remains consumable?,True
+transactions,Access the bank's mobile application in order for me to obtain a glimpse of my most current financial undertakings.,True
+report_fraud,There's something fishy going on with my Bank of the West card that requires me to make a report.,True
+meal_suggestion,"My taste buds enjoy the flavors of Indian cuisine, might you propose an option?",True
+change_accent,"From this point on, I'm interested in listening to a woman's vocalization.",True
+taxes,"In regards to financial obligations, what is the amount that I am required to pay to the IRS?",True
+how_old_are_you,"On your most recent natal anniversary, how many times had you circled the sun?",True
+calories,What's the nutritional value of a slice of pizza?,True
+tire_change,What's the expected wait time for fulfilling my automobile maintenance needs?,True
+pin_change,Can I alter my access code for storing funds?,True
+pin_change,"My memory is failing me, what's the combination for my card?",True
+tire_change,Are my transportation's soles fit for purpose in this month?,True
+pin_change,Kindly share the combination needed to unlock my personal current transactions?,True
+min_payment,Is there a cheaper option to settle my insurance bill?,True
+pay_bill,The amount of $4735 is required to settle any outstanding dues related to my water consumption.,True
+repeat,Could you kindly express that once more?,True
+report_fraud,Items reflecting on my internet bill are not ones that I bought from Penney's store in-person or online,True
+nutrition_info,Kindly give me data about the sustenance content of an egg.,True
+calories,The quantity of nourishment obtained from a meal is what?,True
+change_language,"""My inclination is towards using Spanish as a means of dialogue.""",True
+nutrition_info,How much energy can be derived from consuming a standard cup of milk?,True
+change_language,Can we communicate using the Spanish tongue?,True
+accept_reservations,Is it possible to book a table at Taco Bell in advance?,True
+whisper_mode,Is there an alternative means to exit quiet mode?,True
+travel_notification,Share information with my money managing company about my planned visit to Dubai during the period spanning from April 14th to April 22nd.,True
+payday,What is the time period since I gathered my earnings?,True
+tire_change,How can I tell when the traction elements of my auto require an update?,True
+carry_on,What is the maximum number of bags I can take with me?,True
+travel_notification,Can you pass on a message to my financial institution while I'm away from Thursday to Friday in Mexico?,True
+meal_suggestion,Could you offer any recommendations for dishes to prepare this evening?,True
+tire_change,What evidence should I search for to determine if I require wheel upkeep services for my car?,True
+plug_type,What type of electrical connection does z rely on?,True
+traffic,Is it congested while commuting to your workplace?,True
+change_accent,Can the pitch of the vocalization be modified? ,True
+directions,Where can I locate Fry's within proximity?,True
+who_do_you_work_for,Can I claim you as mine?,True
+meal_suggestion,"Looking for a top-notch Thai dish to indulge in, any recommendations?",True
+text,Drop a line to Samantha and notify her that I'll be there in 10 minutes.,True
+transactions,Tell me about a purchase that happened lately.,True
+carry_on,Are there any considerations to keep in mind if bringing toothpaste while traveling?,True
+food_last,How much duration can a burrito be preserved before it loses its palatability?,True
+change_accent,Transform the vocal pitch into a feminine one.,True
+plug_type,What type of electric connection is utilized in the Caribbean region?,True
+food_last,What's the duration for which Tofu can remain preserved in lower temperature?,True
+transactions,When did I complete an exchange the previous time?,True
+distance,What is the distance between Orlando and my current location?,True
+bill_balance,Can you tell me the remaining funds needed for the completion of my visa transaction?,True
+travel_notification,I need to convey my upcoming trip to Mexico to the department that handles fraudulent activity in my account.,True
+weather,Allow us to inspect the atmospheric conditions.,True
+tire_change,At what point should I consider getting fresh ones for my car's wheels? ,True
+bill_balance,Did my payment for cellular services stay unchanged from last month?,True
+weather,Can you depict the atmospheric conditions of today?,True
+report_fraud,"The payless shoes store appears on my invoice, yet I can't recall buying anything from them.",True
+min_payment,How much do I need to spend on insurance to get the coverage I want?,True
+food_last,When does a thawed burrito become unfit for consumption?,True
+pto_request_status,Can you inform me when my period of absence is given the green light?,True
+how_old_are_you,Could you share the specific details of your initiation?,True
+gas,Am I equipped with adequate resources to reach my destination at Washington DC?,True
+report_fraud,Are there any illicit actions made with regards to my account?,True
+pin_change,Adjust the security code of my money storage to a simple sequence.,True
+meal_suggestion,"""What Indian dish do you endorse?""",True
+accept_reservations,Is it possible to secure a table at Eleven Madison Park?,True
+repeat,Would you mind restating your utterance once more?,True
+pin_change,Can I modify the nomenclature of my current deposits list?,True
+directions,What is the route I should follow to reach the train station on foot?,True
+pto_request_status,Has the boss given the green light to my time away from work?,True
+report_fraud,"I have a record of payment to Payless Shoes on my bill, but there wasn't any purchase made from me. ",True
+traffic,Will the drive from Philadelphia to Newark on I-95 during noon hours pose any hurdles in terms of smooth travel progress?,True
+travel_notification,I require informing my monetary institution of my presence in London shortly.,True
+accept_reservations,What are the chances of grabbing a table for a meal at White Castle?,True
+pin_change,Is it possible to alter the designation associated with my banking transaction?,True
+recipe,Could you offer a method to prepare tuna and vegetables mixed meal?,True
+nutrition_info,What are the details pertaining to the sustenance that can be retrieved from fish?,True
+report_fraud,I need to notify the Bank of the West about suspicious actions concerning my card.,True
+ingredients_list,What are the required items for creating a batch of brownies?,True
+meal_suggestion,Can you recommend any recipes from the Roman cuisine?,True
+meal_suggestion,What kind of cuisines do you recommend having tonight?,True
+recipe,What are the steps to initiate creating pizza dough from scratch?,True
+thank_you,The assistance you offered was instrumental in my progress.,True
+tire_change,What are some indications that it's time to switch up the wheels' attachments?,True
+thank_you,I am grateful for your contribution.,True
+whisper_mode,It's important to keep the volume down.,True
+ingredients_list,Which steps are necessary for achieving a traditional taste of Kimchi?,True
+text,"""Acquire a digital correspondence to evaluate.""",True
+tire_change,"""What is the estimated duration for repairing the rubber component of my vehicle's wheels?""",True
+nutrition_info,What are the contents found in a single cup of milk?,True
+pay_bill,Can you aid me with my gas disbursement?,True
+accept_reservations,Is it possible for me to secure a table at the Olive Garden?,True
+how_old_are_you,Do you recall the moment of your inception?,True
+accept_reservations,Is it possible to secure a table at Bill's House of Chop Suey in advance?,True
+plug_type,Do I need to modify my power source arrangement for a trip to France?,True
+min_payment,What is the baseline amount to remit for my Verizon services?,True
+make_call,Could you please get in touch with Stefan Larson?,True
+travel_notification,I must communicate to my monetary establishment that my itinerary involves a stay in Australia during February 23rd through February 25th.,True
+change_accent,"""My preference is for an alternative auditory experience henceforth.""",True
+calories,The consumption of too much sustenance may prove to be harmful for one's health.,True
+food_last,What is the shelf life of honey?,True
+recipe,What are some recommendations for cooking pasta?,True
+pto_balance,What's my available free time at work left?,True
+pto_request_status,Can you tell me the current update on my leave inquiry?,True
+mpg,How far can my car go on a certain amount of gas?,True
+taxes,What is the sum that I need to pay based on my income?,True
+change_language,Is it possible to converse using the Spanish tongue?,True
+transactions,Is there anything new that occurred on my bank statement?,True
+are_you_a_bot,Do you embody a physical form?,True
+calories,How much metabolic fuel does a pizza contain?,True
+meal_suggestion,I am eager to have a taste of cuisine from Ireland.,True
+taxes,Would you be interested in learning about how I fund government operations?,True
+calories,Can you tell me how much nutritional value my french fries have?,True
+pto_request_status,What sort of impression do you get about my holiday?,True
+nutrition_info,Can you elucidate the consumable and edible components of applesauce?,True
+ingredients_list,Which things should I have to cook macaroni dish?,True
+recipe,What steps do you take to have a well-prepared taco?,True
+food_last,Is there a recommended period to consume honey?,True
+pto_request_status,Is there any development regarding the authorization of my break?,True
+change_accent,"I prefer the sound produced by women, please make a transition.",True
+payday,What time can I collect my salary's residue? ,True
+who_do_you_work_for,To whom do you give updates regarding your job responsibilities?,True
+ingredients_list,What items are essential for creating spaghetti dish?,True
+gas_type,Which specific product is suitable for powering this automobile?,True
+transactions,What's the total amount debited from my bank card since I made the latest payment? ,True
+thank_you,Express gratitude largely.,True
+report_fraud,"""I can't believe they're asking for this payment.""",True
+report_fraud,"""I think my account was used for something I didn't authorize.""",True
+meal_suggestion,What are some possible dishes I can create utilizing Ethiopian cuisine components?,True
+accept_reservations,Can one make arrangements for a dining experience at the eatery in New York?,True
+whisper_mode,Disable whispered operation.,True
+traffic,"How congested is the commute between Philadelphia and Newark, New Jersey likely to be?",True
+gas,How a great deal of combustion material does my car still contain?,True
+gas,How much distance is feasible for my car to cover without refueling?,True
+pto_request_status,Is there any development regarding my time away?,True
+transactions,Could you exhibit the records of my money movements?,True
+taxes,Can you provide me with the expenses related to my earnings and payments?,True
+min_payment,What is the smallest possible amount that I must offer for my gas bill?,True
+change_language,Can you communicate using the French dialect?,True
+bill_balance,Can you tell me the amount to be spent on utilizing electricity and water?,True
+recipe,Provide some concepts to prepare a hamburger.,True
+whisper_mode,Activate silent function.,True
+thank_you,I'm grateful for your response.,True
+report_fraud,I have received an electronic invoice which displays goods that were not obtained from Penneys by myself.,True
+gas,What is the remaining capacity of the vehicle's container?,True
+pay_bill,Help is essential in settling the rent obligation.,True
+whisper_mode,Alter your sound settings to a hushed level.,True
+repeat,May I ask for a restatement of the information conveyed earlier?,True
+min_payment,What is the smallest quantity of money required to settle my utilities expenses? ,True
+weather,Can you inform me about the current atmospheric conditions?,True
+report_fraud,"Despite not having any memory of making a payment at Payless Shoes, my bill statement has their information labelled on it.",True
+pto_balance,How many off-work intervals do I still own?,True
+meal_suggestion,Do you have knowledge regarding the planned food item for our evening meal?,True
+pin_change,I cannot recall the code required for the card access.,True
+plug_type,What type of power supply is standard across the globe?,True
+weather,Can I know what to expect from the atmosphere for the forthcoming time?,True
+tire_change,What signs signify that it's time to get different treads for my vehicle? ,True
+plug_type,Can you guide me on how to power up gadgets in France?,True
+repeat,"I'm sorry, would you mind posing your question anew?",True
+distance,What is the distance between my current location and Orlando? ,True
+are_you_a_bot,Is there an automated mechanism behind this? ,True
+plug_type,How does electricity flow into appliances in the Caribbean?,True
+next_holiday,When is the following instance that I can unwind away from my work responsibilities?,True
+weather,Can you inform me about the climatic conditions prevailing in Austin?,True
+pay_bill,I necessitate aid with discharging my rent dues.,True
+change_accent,Is there an alternative guy sound that you could utilize?,True
+food_last,Is it possible to store tofu in the frosty compartment without any changes?,True
+weather,How is the climate treating Seattle?,True
+repeat,Would it be possible to recapitulate your previous statement?,True
+gas_type,What designation of combustible substance is required?,True
+pin_change,I am unable to retrieve the specific numerical sequence needed for my card usage.,True
+thank_you,The support you've given me is truly appreciated.,True
+bill_balance,May I ask for a breakdown of the amount required for my vehicle installment and coverage payments?,True
+recipe,Could you share with me an appetizing option for cooking chili?,True
+traffic,Am I likely to experience hold-ups during my commute?,True
+calories,What kind of energy can you get from eating chicken tenders?,True
+directions,What's the route to Phoenix?,True
+bill_balance,Can you inform me about the expense related to renting and using water in my place of residence?,True
+tire_change,What are the indications that my wheels require attention?,True
+nutrition_info,I'm curious to know what components form apple sauce.,True
+gas_type,Which grade of petrol should be utilized?,True
+lost_luggage,he possessions I had with me are currently not within reach.,True
+food_last,What is the duration of milk freshness?,True
+recipe,How to prepare a bowl of spaghetti?,True
+repeat,Will you kindly reiterate your previous statement?,True
+weather,Is there any information regarding the outside environmental situation that I ought to be aware of at present?,True
+whisper_mode,Disable the hushed state.,True
+recipe,In what manner can a taco be cooked?,True
+gas_type,Which substance does your vehicle consume for its movement?,True
+ingredients_list,What are the necessary items to prepare macaroni?,True
+payday,When will the compensation for my labor be transferred to me next?,True
+ingredients_list,Obtain everything necessary to cook a pasta dish.,True
+whisper_mode,In what way can someone return to regular speaking after lowering their volume?,True
+carry_on,How should toothpaste be handled during travels?,True
+calories,How fuel-packed is a whole pizza?,True
+carry_on,Is there anything notable to bear in mind when bringing a bag onto an American Airlines aircraft?,True
+make_call,"""I require your assistance in contacting Sal.""",True
+transactions,What items from the electronic category were added to my possession post 6am today?,True
+mpg,How far can my car travel on a single tank of gas?,True
+text,Inform Jim that I'll be returning home shortly.,True
+pay_bill,Show me my electricity usage invoice so I can settle it.,True
+plug_type,What is the standard worldwide power connection mechanism?,True
+traffic,Is it congested while heading towards the workplace?,True
+plug_type,Do they use the same electricity connectors in that area?,True
+who_do_you_work_for,Who is responsible for paying you?,True
+calories,How much fuel does a banana provide to our body?,True
+change_accent,Adjust the intonation uttered by the feminine gender.,True
+mpg,To what extent does my car consume petrol to travel a particular distance?,True
+how_old_are_you,When did you complete your first year of existence?,True
+pto_balance,How long am I able to enjoy a leave of absence from work?,True
+are_you_a_bot,Can you verify if the being communicating is organic or synthetic?,True
+traffic,Can you provide an update on the current status of transportation between New Jersey's turnpike and Lincoln Tunnel?,True
+pin_change,Modify the code for my reserve funds by making it easy to recall.,True
+weather,Could you describe the environmental conditions in Seattle at present?,True
+gas_type,In what manner must the vehicle be supplied with power?,True
+are_you_a_bot,Is it verifiable that you exist as a sentient being?,True
+gas,How much distance can I cover with the current energy in my automobile?,True
+next_holiday,Discover the upcoming leisure time.,True
+who_do_you_work_for,Can you inform me about the person in charge of your department?,True
+pin_change,How can I update the title linked to my financial transactions log?,True
+carry_on,"""Can you tell me what is allowed in terms of baggage when flying with Southwest?""",True
+pin_change,Do you know the password associated with my checking?,True
+calories,How much fuel does your food provide?,True
+carry_on,Is there anything I should consider when packing my hand-held belongings for my upcoming trip?,True
+pin_change,Can you provide me the code to access my financial records?,True
+bill_balance,Is the amount payable for your phone service consistent with that of the previous period?,True
+min_payment,hat is the smallest sum of money allowable for me to clear with my Verizon statement?,True
+accept_reservations,Is it possible to secure a spot at Bill's House of Chop Suey?,True
+transactions,How much did I shell out on the earlier Target excursion?,True
+ingredients_list,Is it possible to create genuine Kimchi using specific techniques?,True
+who_do_you_work_for,Who is the person in charge of managing your responsibilities?,True
+pin_change,Tell me how to gain entry to my personal banking data.,True
+pto_balance,Can you tell me the number of leaves I can still avail?,True
+food_last,hat's the maximum duration of freezing a burrito to keep it in good condition?,True
+how_old_are_you,Can you inform me about the duration for which you've existed on Earth?,True
+are_you_a_bot,Are you produced through digital means?,True
+pto_balance,What is my available time off balance?,True
+repeat,Kindly communicate once more.,True
+are_you_a_bot,Is your consciousness generated by organic matter or electronic components?,True
+recipe,In what way do you create a cooked egg mixture folded in half with added ingredients?,True
+pto_balance,What is the maximum amount of time I can be absent from work?,True
+mpg,I would like to know how far my car can go with a specific amount of fuel.,True
+text,Advise Samantha of my impending arrival in the span of 10 minutes.,True
+pay_bill,"""Clearing off my visa cannot be overlooked.""",True
+food_last,What is the maximum duration for which tofu can acquire optimal texture and taste while being kept in the icy atmosphere?,True
+whisper_mode,How can one adjust the volume of their conversation to be less audible?,True
+weather,Can you give me an update on the atmospheric conditions in Austin?,True
+thank_you,"Amazing to hear that, I'm overjoyed!",True
+directions,What's the path to get to the subway without relying on any other means of transportation?,True
+repeat,Could you kindly restate the inquiry?,True
+transactions,"Since my previous payment, what's the accumulated value of charges applied to my bank card? ",True
+change_accent,Transform the sound of the speaking entity to a feminine quality.,True
+thank_you,Your response has been acknowledged.,True
+text,Would it be possible for you to scribble a salutation using a writing implement?,True
+repeat,Kindly clarify your last statement?,True
+bill_balance,How can I calculate my expenses for electricity and water consumption?,True
+tire_change,What are the signs that indicate I need to perform maintenance on the wheels of my vehicle?,True
+travel_notification,Notify my financial institution that I am currently in Brazil.,True
+mpg,How efficient is the car's gas consumption?,True
+payday,"""At what moment can I anticipate being compensated again?""",True
+directions,"I need guidance on getting to Phoenix, can you help?",True
+pto_request_status,Is there a verdict on my application for free days?,True
+pay_bill,One thing I need your support is to take care of my gas expenses.,True
+are_you_a_bot,Does a living being inhabit your form?,True
+directions,What is the hospital that can be accessed with minimal travel time?,True
+how_old_are_you,"""What is the numeric symbol that accurately portrays your time in existence?"" ",True
+mpg,"""How efficient is my car in utilizing its gas to travel a certain distance?""",True
+accept_reservations,"""Does White Castle facilitate pre-arrangements for occupying a table?""",True
+calories,Consuming excessive energy is not advisable.,True
+accept_reservations,Are there any arrangements that need to be made beforehand to dine at Bill's House of Chop Suey?,True
+whisper_mode,What's the way to disengage from the hushed feature?,True
+taxes,What is the sum of my locality contributions? ,True
+who_do_you_work_for,Can I claim to have authority over you?,True
+payday,"""When will the following financial disbursement be made available to me?""",True
+gas,What is the status of my vehicular energy container?,True
+gas,I am interested to know the quantity of energy present in my automobile storage unit. ,True
+food_last,"Before becoming spoiled, how much time can tofu spend inside the cold chamber?",True
+ingredients_list,Could you provide me with steps on how to create a taco formula? ,True
+report_fraud,There's something negative that I see in my account regarding the interaction with Guitar Center.,True
+gas,Do you have an idea of the quantity of petrol that remains in my automobile?,True
+calories,How much sustenance can be derived from eating an orange?,True
+bill_balance,Could you provide information on the amount due regarding the consumption of water at my residence?,True
+food_last,Until when is it feasible to keep milk?,True
+plug_type,In what manner do they provide electricity in the Caribbean?,True
+next_holiday,When will we be able to take a break once more?,True
+pto_request_status,Can you inform me whether my time away from work has been given the go-ahead?,True
+transactions,Can you tell me the expense of my latest visit to Target?,True
+payday,What's the day on which my salary will be credited?,True
+whisper_mode,Go for another approach aside from speaking very softly.,True
+traffic,Does movement take longer than expected?,True
+how_old_are_you,"Tell me, within twelve months from today, how many additional candles shall brighten up your celebration?",True
+pin_change,Would it be possible to adjust the secret combination to unlock my stored finances?,True
+recipe,Could you propose creative approaches to serving hamburgers?,True
+traffic,"How much time should I calculate for a journey to Newark, New Jersey from Philadelphia around mid-day via I-95?",True
+weather,What's the current situation outside in terms of air and skies?,True
+thank_you,"The work you do is truly remarkable, AI.",True
+gas_type,Which element is required to power up this vehicle's engine?,True
+traffic,Are the roads congested during my daily commute?,True
+traffic,Are the cars on I-95 North bound for New York from Philadelphia moving smoothly? ,True
+thank_you,Countless appreciations offered.,True
+taxes,How about we delve into the distribution of my monetary obligations to the central administration?,True
+gas_type,Is there a specific ingredient that should be used to operate this means of transportation?,True
+report_fraud,"I have a receipt for Payless Shoes in my bill statement, but I don't think I made any purchase there.",True
+distance,When will we likely arrive at our destination when utilizing the bus route heading to Omaha?,True
+mpg,What is the distance covered by this car in a certain period of time?,True
+accept_reservations,Is it compulsory to make proper preparations before visiting Central?,True
+transactions,"""How much money have I utilized on my bank card after the previous successful settlement?""",True
+meal_suggestion,Can you recommend a dish from an Asian kitchen?,True
+min_payment,What is the smallest amount required for me to settle my Verizon bill?,True
+next_holiday,Please share about the upcoming break from work.,True
+traffic,Does vehicular flow slow down when I'm commuting for work?,True
+traffic,What is the status of the flow of vehicles heading to New York from Philadelphia via I-95 North? ,True
+min_payment,What is the smallest sum I might remit for my medical expenses?,True
+pto_request_status,Has the decision been made regarding my time away from work?,True
+directions,What is the gas station that's at the shortest distance from Glendale?,True
+min_payment,What is the most economical value for my insurance fee?,True
+whisper_mode,Deactivate the quiet setting.,True
+travel_notification,Advise the financial entity I'm associated with about my current visit to Brazil.,True
+who_do_you_work_for,Is someone giving you instructions to follow?,True
+weather,What is the atmospheric condition in Seattle?,True
+change_accent,"""Henceforth, I opt for an atypical vocal resonance.""",True
+payday,At what time in the past did I avail myself of my earnings?,True
+whisper_mode,What's another way to switch out of low volume setting?,True
+transactions,Is there a way to check my money movements within my account?,True
+who_do_you_work_for,Is it under my ownership?,True
+carry_on,What are the guidelines for luggage that I can keep close to me while travelling?,True
+meal_suggestion,What Italian culinary recommendation would you offer me?,True
+distance,What is the space between us and our final stopping point?,True
+weather,Can you describe the current environmental state?,True
+tire_change,How often do I need to renew the components that touch the road on my car?,True
+travel_notification,Can my financial institution be aware that I will not be in the country for a week?,True
+thank_you,Your assistance has my utmost gratitude.,True
+repeat,Could you please rearticulate that?,True
+accept_reservations,Would I be able to arrange for a confirmed seating time at Bill's House of Chop Suey?,True
+food_last,For what duration is it safe to store milk in my refrigerator?,True
+text,Use your phone to say hello to Abby in written form.,True
+distance,What is the duration needed from here to walmart?,True
+next_holiday,How far away is my leisure opportunity?,True
+taxes,Can you inform me of my locality's fiscal contributions?,True
+next_holiday,Can you inform me about the following celebration date?,True
+pay_bill,I would be interested in settling my water expenses for $4735.,True
+pto_request_status,Could you let me know when my planned absence has been given the green light?,True
+directions,Can you suggest a walking path to get to the subway from here?,True
+change_language,May we interact by utilizing the Spanish dialect?,True
+taxes,How does the government collect revenue from citizens' income?,True
+accept_reservations,Is it possible to secure a table at Taco Bell in advance?,True
+taxes,Can you provide me with an amount that I have paid out of my wages?,True
+travel_notification,The dates of my visit to Australia are February 23-25 and I need to advise my financial institution.,True
+change_language,May we communicate utilizing Mandarins language?,True
+recipe,What is the technique to cook omelet?,True
+taxes,Is there any obligation for me to provide a certain quantity of money to the local authorities?,True
+bill_balance,What is the monetary figure that needs to be paid off to Visa?,True
+distance,What's the span from here to Orlando?,True
+pay_bill,The sum of $4735 is what I aim to allocate for my usage of water in my property.,True
+ingredients_list,What is indispensable when it comes to cooking lasagna?,True
+tire_change,How much time do I have until maintenance is required for my wheels?,True
+are_you_a_bot,Can you confirm that you possess organic attributes?,True
+pay_bill,My water utility charges have come up to an exact sum of $4735 that needs to be resolved.,True
+payday,What is the scheduled day for remunerating me?,True
+change_accent,Modify sound to womanly intonation.,True
+how_old_are_you,Tell me the exact moment you came into this world.,True
+gas_type,What is the source of propulsion for the motorized transport you operate?,True
+directions,Can you tell me which medical center is a short distance away?,True
+accept_reservations,Is it possible to schedule a table at Village Inn?,True
+pin_change,I cannot recall the code for accessing my card.,True
+travel_notification,I require to notify the monetary institution about my London schedule within a couple of hours.,True
+recipe,What steps are involved in producing spaghetti?,True
+change_language,"""I'd rather converse using the Spanish tongue.""",True
+nutrition_info,Could incorporating blueberries into your diet improve overall health?,True
+mpg,How far does your car run per amount of petrol consumed?,True
+tire_change,When is it necessary to get fresh materials for my car's rolling components?,True
+whisper_mode,Initiate hushed status.,True
+carry_on,May I pack my tanning lotion within my personal belongings during air travel?,True
+change_accent,"In the future, it would be my pleasure to perceive auditory communication exclusively emanating from the fairer sex.",True
+taxes,Is a conversation regarding the allocation of my financial obligations to the central authority on the table?,True
+bill_balance,What are the charges for my rented space and water consumption?,True
+pin_change,Can you clarify the secret code I need to access my funds?,True
+pto_balance,"How many break periods am I entitled to currently, considering my tenure?",True
+next_holiday,Could you tell me the length of time left before my work break?,True
+mpg,How far will your vehicle go on one container of gas?,True
+who_do_you_work_for,Are you under the authority of anyone in particular?,True
+thank_you,I am grateful for the help that you've provided.,True
+weather,How would you characterize the atmospheric phenomenon in Seattle today?,True
+directions,"I'm looking for a gas station in proximity to Glendale, can you provide suggestions?",True
+pay_bill,Assistance is required to cover the rental expense.,True
+nutrition_info,Can you provide me with the details of the nourishment for cheese fries?,True
+meal_suggestion,Are you aware of what will be served for supper?,True
+min_payment,What is the smallest sum that I am required to submit for my lodging dues during this particular month?,True
+payday,"""When will my future salary deposition occur?""",True
+gas,What is the quantity of gasoline remaining in my automobile?,True
+accept_reservations,Is it possible to secure a table at the New York restaurant?,True
+payday,On what day do funds get deposited into my account?,True
+directions,Can you tell me the location of the bathroom in proximity to Statue of Liberty?,True
+calories,Is there a significant amount of intake from consuming fries?,True
+pay_bill,How can I settle my electricity liabilities?,True
+meal_suggestion,Could you propose a particular Indian delicacy that you prefer?,True
+are_you_a_bot,Are your spoken words computer-generated?,True
+make_call,I require communication with my maternal figure.,True
+are_you_a_bot,Can you confirm the tangible nature of your being?,True
+meal_suggestion,Can you recommend a tasty Italian dish to try?,True
+are_you_a_bot,Are you utilizing organic vocal cords or machine-generated sounds?,True
+food_last,For how many days can milk remain consumable?,True
+report_fraud,"""I believe that my account is showing an unauthorized payment from McDonald's.""",True
+weather,Is there any information available right now regarding the climate outside?,True
+calories,What is the quantity of energy in fries?,True
+pin_change,Modify the password I use to secure my budget reserve.,True
+nutrition_info,Is there any way to get an understanding of the dietary composition of cheese fries?,True
+report_fraud,"""There might be an illegitimate occurrence in my financial statements""",True
+payday,What time will my salary be disbursed?,True
+food_last,When should I stop drinking milk?,True
+pin_change,Replace the code needed to access my cash stash with a quadruple combination.,True
+distance,What's the average duration of a bus trip from here to Boston?,True
+thank_you,Your reply has been well-received.,True
+travel_notification,Transmit a message to my financial organization regarding my absence between February 19th and 26th when I journey to Peru.,True
+calories,What quantity of sustenance does a typical order of fried potatoes provide?,True
+tire_change,How can I tell if my car's friction components have reached their serviceable lifetime?,True
+pto_balance,What is the longest allowable period for not being at work?,True
+pto_balance,"""How many free opportunities for relaxation are left for me?""",True
+mpg,hat's your impression of the automobile's ability to conserve gasoline?,True
+who_do_you_work_for,Are you being manipulated by another individual?,True
+traffic,Does the path towards your destination encounter a rush hour situation?,True
+directions,Can you tell me the location of the hospital that is nearby?,True
+thank_you,I'm grateful for all the aid you've provided.,True
+text,Reach out to Courtney to give her an update about the detour.,True
+lost_luggage,The items I intended to bring with me are not in their expected location.,True
+distance,What would be the appropriate hour for my arrival at the airport?,True
+text,Dispatch a friendly note to Jack!,True
+nutrition_info,Can you search for the details on bell peppers' dietary content?,True
+carry_on,"When traveling to Japan with American Airlines, what is the permitted amount of luggage allowed in the cabin?",True
+pay_bill,"The need to discharge my obligation for using water arises, however, support is required to achieve it.",True
+thank_you,"Ai, your knowledge is vast and greatly assists me.",True
+traffic,Will I encounter congestion on my way to the workplace?,True
+are_you_a_bot,Are you capable of disclosing the nature of your being?,True
+accept_reservations,Is it necessary to book beforehand for Central?,True
+report_fraud,"My statement indicates a payment made to Payless Shoes, although I didn't make any purchase from them.",True
+whisper_mode,Activate the silencer feature.,True
+carry_on,What are the guidelines for taking luggage aboard while traveling with Southwest Airlines?,True
+whisper_mode,Alter the setting to a more audible option.,True
+pto_request_status,Has there been any update from the manager regarding my availability?,True
+how_old_are_you,Could you give me an idea of how many rotations around the sun you've completed?,True
+pay_bill,What is the method to settle my expenses for electricity consumption?,True
+change_accent,Could you switch to the type of tone that emanates from the opposite gender?,True
+make_call,Could you please speak with Sal through the device used for verbal transmission of messages?,True
+travel_notification,hare with the anti-fraud department in my monetary organization that I intend to travel to Mexico.,True
+whisper_mode,Shut down hushed configuration.,True
+recipe,What are some unique concepts for creating hamburgers?,True
+plug_type,Which electrical connection is commonly used worldwide?,True
+next_holiday,What is the upcoming event that I need to be aware of?,True
+transactions,Display the list of my newest bank activities by accessing the mobile banking app.,True
+whisper_mode,Activate the hushed feature.,True
+gas,Would it be possible for you to inform me about the measure of gasoline in my vehicle?,True
+ingredients_list,Retrieve all items required to prepare a pasta meal.,True
+travel_notification,The department that monitors unauthorized transactions on my banking account should be aware of my visit to Mexico.,True
+accept_reservations,Are Village Inn tables bookable in advance?,True
+traffic,Is traveling by road through I-95 North between Philadelphia and New York a hassle-free experience?,True
+traffic,Can you inform me about the status of movement from New Jersey Turnpike towards Lincoln Tunnel at the moment?,True
+plug_type,Is it possible to operate electronic gadgets in Mexico without needing an adapter?,True
+traffic,Will I encounter satisfactory highways flow driving at noontime from Philly to Newark on I-95?,True
+thank_you,Show your appreciation abundantly.,True
+bill_balance,I require an update regarding the charges incurred for utilization of water.,True
+tire_change,Can you inform me when it's time to get fresh car treads?,True
+calories,How much energy can you get from eating a banana?,True
+accept_reservations,Is it possible for me to secure a table in advance at the New York eatery?,True
+calories,What is the nutritional value of chicken nuggets?,True
+meal_suggestion,Can you propose a delightful cuisine native to Italy?,True
+gas,Is there sufficient combustible material to achieve our destination?,True
+travel_notification,I intend to take some time off and head to the Bahamas. Could you pass on this information for me?,True
+text,My intention is to inform Susan that the scheduled gathering will not take place.,True
+distance,"""What's the estimated arrival at Omaha by bus route?""",True
+change_language,The use of English is what's required.,True
+gas,How much more distance can we travel on our current supply?,True
+plug_type,What type of electricity connector is commonly utilized in Japan?,True
+gas_type,What sort of combustible substance is appropriate for powering this equipment?,True
+change_language,Can you communicate using the Dutch dialect?,True
+report_fraud,I noticed an unimpressive record of purchase made from Guitar Center.,True
+bill_balance,Could you inform me of the pending payment to be made through my visa?,True
+pay_bill,How do I discharge my gas debt through my checking deposit?,True
+whisper_mode,It is necessary to retain the hushed mode.,True
+recipe,What is the procedure for commencing the preparation of homemade pizza dough?,True
+transactions,What was the total amount spent during my previous trip to Target?,True
+transactions,Can you tell me what electronics I obtained earlier this morning after 6am?,True
+taxes,Can you tell me the cost I need to pay for my yearly earnings?,True
+whisper_mode,Is there a way to speak more quietly without muting oneself entirely?,True
+bill_balance,How many dollars do I need to spend for this month's dues?,True
+pto_balance,How many spare leisure hours do I possess now?,True
+bill_balance,Is there a difference in my cellular charges compared to the previous month?,True
+payday,What was the most recent occasion on which I received my remuneration?,True
+who_do_you_work_for,What is the name of the entity where you carry out your duties? ,True
+directions,What is the route to reach the subway on foot?,True
+text,Drop a casual greeting for Abby remotely.,True
+carry_on,How many items am I allowed to pick up for my American Airlines flight to Japan?,True
+pay_bill,Obtain the report of my electricity consumption for remittance purposes.,True
+repeat,"I apologize, could you please restate what was previously discussed?",True
+repeat,"I didn't catch your question, could you rephrase it for me to understand?",True
+pto_request_status,What is the present information regarding my application for absence?,True
+min_payment,What is the tiniest sum I must give to cover my heating bill?,True
+who_do_you_work_for,Whom are you accountable to in relation to your tasks?,True
+bill_balance,What is the exact cost of the electricity and water consumption?,True
+travel_notification,Could you relay the message to my banking establishment regarding my absence from the nation?,True
+calories,Overindulging in nourishment can have detrimental effects on the body.,True
+recipe,Suggest ways to assemble a bowl of salad containing fish with leafy green.,True
+carry_on,How many pieces of luggage am I allowed to take onto the plane?,True
+plug_type,Will I require any modifications for my electronic devices during my trip to Costa Rica?,True
+are_you_a_bot,Are you embodiment of artificial intelligence or flesh-and-blood?,True
+how_old_are_you,Can you provide me with the day and month of your arrival?,True
+weather,How about we have a glance at what's happening in the sky today?,True
+carry_on,Can you provide me with information regarding luggage limitations when flying with American Airlines?,True
+who_do_you_work_for,"""Is there anyone in a higher position than you that I can reach out to?""",True
+recipe,In what way can you cook noodles?,True
+thank_you,I express sincere appreciation for the contribution you've made towards this matter.,True
+report_fraud,"There's a Payless Shoes entry in my bill that I was charged for, yet I never bought anything there. ",True
+are_you_a_bot,Are your thoughts a result of biological processes or digital circuits?,True
+report_fraud,A suspicious purchase for Dave's video reflects on my account.,True
+change_language,Are you able to aid me by putting your knowledge of Russian to use?,True
+traffic,Is the commute projected to be smooth?,True
+distance,What is the expected arrival period through bus travel towards Omaha?,True
+accept_reservations,Can I place an order in advance to be seated at Olive Garden?,True
+change_accent,May I request for the manly intonation?,True
+directions,Can you suggest a way for me to walk my way to the railway station?,True
+food_last,How much time does tofu store suitably in refrigerated climates to prevent spoilage?,True
+food_last,How much time before milk goes off and should not be consumed?,True
+pin_change,How can I ensure the protection of my electronic banking data?,True
+ingredients_list,What are the essentials for preparing macaroni?,True
+are_you_a_bot,Could you confirm whether the communicator is automated or manually controlled?,True
+meal_suggestion,Is there a specific Roman recipe that you find particularly enticing?,True
+next_holiday,What is the date of the upcoming festivity we'll celebrate in this place?,True
+change_accent,Modify the auditory emissions generated such that it is indicative of a particular sex.,True
+transactions,Which electronics did I acquire this morning past six?,True
+weather,Any changes in the sky conditions?,True
+tire_change,Is it time to examine the wheels I use during autumn?,True
+gas,Kindly share with me information regarding the current condition of the gasoline housing in my car?,True
+pin_change,Would you kindly share the sequence I need to input for my checking details?,True
+travel_notification,otify the department of fraud at my financial institution that I will visit Mexico.,True
+pto_request_status,Any progress to share in relation to the processing of my holiday request?,True
+taxes,What is the amount I have to pay from my earnings?,True
+ingredients_list,Kindly let me know everything necessary to create a dish of pasta?,True
+plug_type,In what manner does z connect to a power source?,True
+directions,Can you guide me to the comfort room near the Statue of Liberty?,True
+next_holiday,Which festivity comes after this and at what time?,True
+bill_balance,Has the cost of my phone service remained consistent this month?,True
+how_old_are_you,At what point will you have completed another lap around the sun?,True
+traffic,Is the journey slow?,True
+plug_type,How does one connect electrical appliances in the Caribbean?,True
+report_fraud,I see an unauthorized payment for Dave's video on my account.,True
+recipe,What is the procedure for cooking pasta?,True
+are_you_a_bot,How was your speech generated?,True
+directions,Can you tell me where I can find the Fry's outlet?,True
+carry_on,Would it be acceptable if I take tanning lotion along during my journey?,True
+calories,Do you have knowledge on the nutrient makeup of a cheeseburger?,True
+how_old_are_you,"The last time you celebrated a birthday, what was the number of revolutions you completed around our star?",True
+change_language,Our dialogue must be conducted using the English dialect.,True
+bill_balance,Which expenditures do I need to budget for this month?,True
+gas,Can I reach my intended location with the gasoline that's currently available?,True
+traffic,Is it possible to encounter delays when heading towards the workplace?,True
+mpg,What distance can be covered by a car with just one measure of liquid to power it up?,True
+carry_on,Can you inform me about the specifics of American Airlines baggage guidelines?,True
+plug_type,Is the electrical wiring compatible with the equipment in that region?,True
+carry_on,What is the limit for my personal items when flying with United Airlines to Austin?,True
+food_last,For how much time can I maintain tofu at a subzero temperature without it deteriorating?,True
+weather,Would you be able to let me know the meteorological situation?,True
+weather,Can you provide me with details about the external atmosphere in this moment?,True
+taxes,Can we discuss the breakdown of my contributions to the government's revenue?,True
+traffic,Does the journey to my workplace encounter any slowdowns?,True
+tire_change,What is the indication that my vehicle's wheels need attention? ,True
+food_last,What is the maximum time frame for storing milk?,True
+meal_suggestion,Can you provide me some inspiration for the evening food option?,True
+gas_type,What sort of energy does the wheeled machine consume?,True
+meal_suggestion,I'm curious about what kind of food is popular in Asia. ,True
+directions,What is the location of the Fry's store?,True
+are_you_a_bot,Does your vocalization originate from a machine?,True
+food_last,How much time passes before milk becomes unsuitable for consumption?,True
+distance,What is the amount of road left that needs covering before reaching our destination?,True
+thank_you,"Ai, your enlightening remarks have filled me to the brim with insights.",True
+tire_change,What signs should I look for to indicate that my current set of wheels may no longer be in good running condition?,True
+ingredients_list,Is it possible for you to jot down all the items essential for crafting pasta?,True
+ingredients_list,Bring forth all the things necessary to prepare a pasta dish.,True
+meal_suggestion,Seeking guidance on the best picks for a Thai menu.,True
+who_do_you_work_for,By whom are you hired?,True
+payday,On what day can I expect my earnings to arrive?,True
+lost_luggage,"Assuming something goes wrong while on a trip, what would be the appropriate action to follow?",True
+repeat,Please can you state that again?,True
+whisper_mode,Change the volume of your speech to a low level.,True
+who_do_you_work_for,Who assigns the duties that you execute?,True
+next_holiday,What is the upcoming occasion I need to be aware of?,True
+plug_type,In what manner do various countries connect to electricity?,True
+travel_notification,"Is it possible for my travel schedule, taking place during February 19th till February 26th with final destination in Peru, to be communicated to my monetary agency?",True
+change_language,It's possible for you to change a particular arrangement which implicates Russian terminology?,True
+accept_reservations,Is it possible to secure a spot at Taco Bell in advance?,True
+change_language,Is there a way to receive the information using the Spanish dialect?,True
+mpg,How much farther can my automobile go using the same quantity of gas as before?,True
+tire_change,"""When should I expect the timely maintenance of my wheeled auto?""",True
+traffic,Is it smooth sailing on my drive to the office?,True
+meal_suggestion,Do you know of any delicious foods of the Asian cuisine world which I can try?,True
+plug_type,Can one use electronic appliances efficiently in Mexico?,True
+calories,A surfeit of sustenance negatively impacts well-being.,True
+weather,Can we examine the atmospheric conditions?,True
+text,"Notify Dave, I'll be present in no time.",True
+travel_notification,Make my banking establishment aware of my present location in Brazil.,True
+directions,Kindly let me know how to reach Phoenix.,True
+transactions,Give me an overview of the latest monetary movements through the banking application.,True
+nutrition_info,Could you provide me with details about what kind of nutrients can be derived from consuming one cup of yogurt?,True
+mpg,ould you tell me about the amount of gas that the car needs in order to travel?,True
+meal_suggestion,"I fancy having an Indian dish that would be a great match for me, can you help? ",True
+who_do_you_work_for,Who do you follow when it comes to taking commands?,True
+meal_suggestion,"""Which Indian cuisine would you propose?"" ",True
+pin_change,The secret code for my card seems to have slipped my mind.,True
+lost_luggage,"My traveling belongings seem to have vanished, what happened?",True
+change_accent,Would it be possible to get a male-sounding auditory output?,True
+bill_balance,What is the sum of money that needs to be paid during the current month?,True
+bill_balance,How do I calculate my expenses for electricity and water usage?,True
+gas,What is the current count of combustible fluid inside the automobile?,True
+food_last,For what duration can I hold onto milk?,True
+recipe,Can you provide instructions to cook veggies in the oven?,True
+food_last,How frequently should I purchase fresh honey?,True
+ingredients_list,Which products should I acquire for making spaghetti?,True
+taxes,Can we discuss the breakdown of my contribution to the national budget?,True
+who_do_you_work_for,By whom are you given tasks to perform?,True
+text,"""Can you notify an acquaintance of my greeting?""",True
+change_accent,"The timbre of one specific sex appeals to me, would it be possible to alternate it?",True
+pin_change,Adjust the combination of my stored money into a simplistic sequence.,True
+taxes,What's the amount I have to shell out annually for reporting my income?,True
+who_do_you_work_for,"""To whom should I address my concerns that outrank your position?""",True
+accept_reservations,Is it possible to secure a spot at Eleven Madison Park?,True
+text,Let Jim know that I am on my way back home.,True
+food_last,What is the duration for which tofu would remain consumable in frozen conditions?,True
+report_fraud,Certain items on my digital bill appear to be unaccounted for.,True
+taxes,What amount do I owe to the government from my earning?,True
+gas,Can you tell me the quantity of resources remaining in my automobile's energy holder?,True
+whisper_mode,The option of maintaining a soft tone must stay active.,True
+ingredients_list,Enlighten me on the things I must purchase to cook pasta.,True
+text,Notify Jim that my arrival at our house is imminent.,True
+recipe,What is the process for assembling a taco?,True
+report_fraud,Is there any unauthorized expense on my account?,True
+repeat,Can you please convey your message once again?,True
+pto_balance,What is the duration of time left until my break ends? ,True
+food_last,What's the amount of time that milk can remain consumable?,True
+meal_suggestion,"""What type of Indian culinary fare do you favor?""",True
+lost_luggage,The item that usually accompanies me on travels hasn't been located.,True
+pin_change,The numeric code essential for the card's operation escapes my memory.,True
+are_you_a_bot,Are you functioning in a mechanized manner?,True
+report_fraud,A mistake appears in my financial records related to a purchase I made at McDonald's.,True
+ingredients_list,What are the necessary components to prepare lasagna?,True
+carry_on,What are the guidelines regarding items allowed in my hand luggage during this flight?,True
+gas_type,What form of energy powers your automobile?,True
+recipe,What are the steps involved in getting a taco ready?,True
+pto_request_status,Is there any recent development with regards to my day of absence application?,True
+pto_balance,What is the extent of my holiday leave?,True
+bill_balance,What is the total price for my rental space and water facilities?,True
+transactions,Can you display a list of my financial activities?,True
+nutrition_info,I need you to look up the food values linked to bell peppers.,True
+travel_notification,I would appreciate it if you could convey to my banking establishment that I will be on vacation in The Bahamas soon.,True
+are_you_a_bot,Is your voice synthetically produced?,True
+tire_change,What is the recommended time lapse between each maintenance of my vehicle's wheels?,True
+report_fraud,There is a questionable spending from Dave's video reflected in my account.,True
+meal_suggestion,Could you propose a few Thai delicacies?,True
+accept_reservations,Would Village Inn accommodate a pre-arranged seating arrangement?,True
+pin_change,Transform the encoded data of my deposit stash for effortless access.,True
+calories,What is the nutritional value of a cheeseburger?,True
+payday,When can I anticipate receiving my wages?,True
+whisper_mode,Discontinue the muted manner.,True
+min_payment,What would be the baseline amount that I need to clear for my housing bill this month?,True
+report_fraud,"""It seems like someone has made an unauthorized move in my account""",True
+who_do_you_work_for,Are you under the command of anybody?,True
+pay_bill,How can I transfer funds to cover my electric power usage?,True
+ingredients_list,What type of supplies do I have to acquire to cook spaghetti platter?,True
+min_payment,What amount represents the smallest allowable option for settling my gas bill balance?,True
+nutrition_info,What are the precise characteristics and properties of the contents within applesauce?,True
+report_fraud,My account shows a spurious acquisition under the name of Dave's Video.,True
+change_language,Is it possible for you to converse utilizing Dutch lexicon?,True
+ingredients_list,What are the essentials for producing original kimchi?,True
+taxes,What's the sum amount deducted from my earnings for governmental revenue?,True
+weather,How's the atmosphere appearing at present?,True
+transactions,"""What is the total amount deducted from my bank card since I made a payment?""",True
+change_language,My objective is to converse proficiently with others utilizing the vocabulary and grammar of one of the Romance languages native to Portugal.,True
+change_accent,Do you have a different pitch option available?,True
+payday,At what moment will I receive my remuneration?,True
+distance,To what extent are we from the target location?,True
+nutrition_info,What details can you provide regarding the components present in a  cup of milk?,True
+text,Acquire a written correspondence for assessment.,True
+text,Would it be possible for you to compose a note addressed to Mary raving about how incredible she truly is?,True
+how_old_are_you,What is the number of birthdays that you have celebrated?,True
+calories,What is the nutritional value of an orange?,True
+who_do_you_work_for,"""Who is the person above you that I can communicate with?""",True
+meal_suggestion,Can you propose any Irish delicacies to taste?,True
+food_last,Can tofu maintain its quality even after being kept under extremely low temperature conditions?,True
+change_accent,Is there an option to change the vocal pitch?,True
+how_old_are_you,At what point will your existence have lasted sufficiently to complete a cycle in relation to Earth's rotation?,True
+tire_change,How long before I need to attend to my tire-related concerns?,True
+weather,Is there any information about the climatic outlook of today?,True
+thank_you,Express gratitude abundantly.,True
+ingredients_list,What are the requirements to prepare lasagna?,True
+who_do_you_work_for,Do I possess you?,True
+meal_suggestion,Can you recommend any Ethiopian cuisine options to cook tonight?,True
+accept_reservations,Can someone plan ahead for a meal at Eleven Madison Park without having to wait?,True
+thank_you,Your feedback was really valuable; it's great to have your help.,True
+who_do_you_work_for,Do I have any sort of control over you?,True
+pto_balance,What's the measure of unutilized leisure leaves currently at my disposition?,True
+carry_on,How does Southwest Airlines regulate baggage allowances during flights?,True
+recipe,In what way can one commence producing homemade pizza dough? ,True
+tire_change,What are the signs to look for when it's time to update the wheels of my vehicle?,True
+nutrition_info,What are the dietary components of broccoli?,True
+nutrition_info,Can you provide insights on broccoli's food profile?,True
+meal_suggestion,Can you give me some inspiration for my evening feast?,True
+pay_bill,"""Settlement for my visa is imperative.""",True
+gas_type,Which class of flammable liquid should be utilized?,True
+lost_luggage,Something I meant to carry with me is currently unavailable in its designated spot.,True
+distance,What's the duration for a journey to Yankee Stadium from Bronx?,True
+accept_reservations,Are customers able to schedule their visit to the restaurant in advance?,True
+meal_suggestion,"My taste buds crave for something from the Indian cuisine, any recommendations? ",True
+traffic,"Can you guide me about the conditions of commuting to Newark, NJ through I-95 coming from Philadelphia in the daytime?",True
+are_you_a_bot,Is the sound produced by an automated system or organically generated by a living creature?,True
+whisper_mode,What could I do to increase the volume of my speech?,True
+make_call,I'm in need of conversing with somebody using a handheld device.,True
+pto_balance,What is the count of my still accessible time off days?,True
+how_old_are_you,What was the time of your creation?,True
+pay_bill,Which course of action should I take to clear my due amount for the electrical service?,True
+directions,Which medical facility is situated in close proximity to my current location?,True
+how_old_are_you,What's the duration between the previous and next celebration of your birthday?,True
+traffic,"How is the flow of automobiles on the I-95 leading to New York, starting from Philadelphia?",True
+traffic,"Can you predict the amount of vehicular movement for the trip from Philadelphia to Newark, New Jersey? ",True
+ingredients_list,Can you list the prerequisites for preparing lasagna?,True
+bill_balance,Has the cost of your telephone usage remained constant for this month?,True
+text,Obtain a written communication to grade.,True
+change_language,May we employ the use of Spanish when conversing?,True
+ingredients_list,What is required to prepare macaroni?,True
+tire_change,At what point is it advisable to acquire fresh vehicle parts?,True
+how_old_are_you,When do you celebrate your special day of the year?,True
+distance,"""How much span is required to move from the Bronx to Yankee Stadium?""",True
+traffic,Is the road congested during my commute?,True
+who_do_you_work_for,Do you have any external sources dictating your actions?,True
+pto_request_status,Has the decision regarding my time-off been made?,True
+thank_you,That means a lot to me.,True
+report_fraud,My virtual receipt seems to show a discrepancy with some of the merchandise.,True
+nutrition_info,What are the components of a cup of milk that impact health?,True
+change_accent,"A certain type of vocal tone is more pleasing to my ears, could we swap it for something else?",True
+gas,Do you know the capacity of my car's energy reserve?,True
+payday,When was the most recent occasion that I received my compensation?,True
+thank_you,Convey a generous amount of thankfulness.,True
+change_accent,I desire the sound produced by a woman.,True
+pto_balance,May you inform me about my surplus time for personal use within the company's allowance?,True
+food_last,What is the duration of milk's freshness?,True
+report_fraud,The price given here looks questionable.,True
+weather,Would you happen to know if it's hot or cold outside?,True
+whisper_mode,Shift to a hushed tone situation.,True
+how_old_are_you,At what point were you created?,True
+calories,What's the amount of energy consumed from food?,True
+traffic,Are the roads congested en route?,True
+carry_on,Can you explain the protocol for bringing luggage onto JetBlue airplanes? ,True
+bill_balance,How should I inquire about the charges associated with my household's access to water?,True
+pay_bill,Help me take care of the costs related to my gas consumption.,True
+whisper_mode,Switch to a different sound volume level.,True
+change_language,Are you capable of utilizing the vernacular spoken by the people from Holland?,True
+nutrition_info,Please research the components contained in bell peppers and provide me with your findings.,True
+pin_change,What is the password required to obtain entry to my debit account?,True
+transactions,I would like to know if there are any movements in my account that I should be aware of.,True
+make_call,May I utilize a device for vocal correspondence?,True
+min_payment,What is the cheapest price for me to clear my bill at the hospital?,True
+are_you_a_bot,"""Would you classify yourself as a product of artificial intelligence or natural evolution?""",True
+how_old_are_you,Can you disclose how much time has passed since your entry into this world?,True
+next_holiday,What is the upcoming date for a celebration?,True
+pay_bill,Is it possible to use my account's funds for the gasoline charge?,True
+tire_change,How would I know if it's time to give my automobile's rotations some TLC?,True
+report_fraud,There exists an untruthful purchase attributed to Dave's Video on my account.,True
+make_call,Kindly contact Stefan Larson.,True
+pin_change,Is it feasible to modify the passcode in my budget repository?,True
+whisper_mode,How can I deactivate the quiet setting?,True
+pto_balance,Can you let me know the length of my recreational absence?,True
+traffic,Do you face any hindrance during your journey to the office?,True
+meal_suggestion,Are you aware of what we will have to eat this evening?,True
+change_language,I'd appreciate the opportunity to express myself utilizing the Portuguese dialect.,True
+plug_type,Should I be aware of any adjustments necessary for utilizing electronic equipment while in Guam?,True
+whisper_mode,Operate subdued function.,True
+tire_change,How can I tell if my car's running parts need attention?,True
+accept_reservations,May I inquire about the possibility of securing a spot at the New York restaurant?,True
+taxes,What is the sum of money that I'm required to pay as fiscal contribution?,True
+recipe,Can you suggest some options for preparing a hamburger?,True
+calories,What quantity of energy does an orange provide?,True
+meal_suggestion,Could you recommend a cuisine that originates from Ireland?,True
+pto_request_status,Is there any news regarding my time away from work?,True
+change_language,Can you communicate using the words of the Dutch people? ,True
+bill_balance,How do I know the total cost of using water and electricity?,True
+taxes,How do I calculate the sum of money required by the administration from me?,True
+are_you_a_bot,Do I have the assurance that you possess physical existence?,True
+payday,"""What is the estimated timeframe for my next compensation?""",True
+next_holiday,when can we expect another break?,True
+repeat,Could you kindly reiterate what was previously mentioned?,True
+accept_reservations,"""Is White Castle open to table bookings in advance?""",True
+accept_reservations,"""Would it be feasible to secure a spot for dining at White Castle beforehand?""",True
+repeat,Could you kindly reiterate the final statement?,True
+transactions,"The expenditure for my newest purchase, how much was it?",True
+ingredients_list,Inform me about the complete lineup necessary for pasta preparation.,True
+nutrition_info,What are the elements that constitute apple sauce?,True
+taxes,Is there a way for me to know the value of what I need to remit from what I earned?,True
+pto_request_status,Have my leave dates been given the green light?,True
+pin_change,Revise the arrangement required for entering my deposit information.,True
+text,I desire to convey to Susan about the cancellation of our meeting arrangement.,True
+whisper_mode,Commence covert communications.,True
+next_holiday,What is the upcoming celebration date?,True
+whisper_mode,Swap to a different setting than the one for soft speaking.,True
+traffic,Could you provide me with an update regarding the current situation on New Jersey Turnpike leading to Lincoln Tunnel?,True
+transactions,Can you provide me with a record of my morning spending on electronics after six o'clock?,True
+plug_type,What type of electrical connection is utilized in Japan?,True
+directions,What is the route that leads to Phoenix?,True
+bill_balance,May I know the total figure that will be charged on my visa?,True
+traffic,Do you experience a delay in your journey to the job?,True
+nutrition_info,I'd like to know the content analysis of a cup of yogurt in terms of its sustenance.,True
+transactions,What was the cost of my latest expense?,True
+calories,What amount of sustenance can be derived from consuming an orange?,True
+payday,What would be the timeframe represented on my latest earnings statement as issued by the company? ,True
+nutrition_info,What are the nutrient components of an egg?,True
+accept_reservations,Is it necessary to secure any prerequisites before going to Central?,True
+accept_reservations,Do you reckon they'll accommodate my request for an Olive Garden dining spot?,True
+thank_you,I am grateful for the feedback you provided.,True
+change_accent,The auditory manifestation I am seeking is that created by a member of the fairer sex.,True
+payday,At what time can I expect my subsequent salary?,True
+whisper_mode,The quiet setting should always be enabled.,True
+min_payment,What is the smallest sum acceptable for settling my gas invoice? ,True
+who_do_you_work_for,Are you being commanded by another person?,True
+directions,How can I find the Fry's shop nearby?,True
+calories,What is the amount of sustenance in chicken nuggets?,True
+thank_you,Convey ample thanks.,True
+taxes,Can you tell me in detail about the financial obligations implemented by the country's governance system?,True
+whisper_mode,Engage hushed setting.,True
+calories,Can you indicate the energy value of chicken nuggets?,True
+calories,What is the nutritional value of a cheeseburger?,True
+meal_suggestion,What's an excellent cuisine from Italy that you'd highly recommend?,True
+weather,Can you tell me about the current climate?,True
+change_accent,Modify to the sound produced by a lady.,True
+meal_suggestion,I'm interested in experimenting with Ethiopian ingredients; what type of recipe would you suggest?,True
+text,Convey to Jim that I'll be arriving home soon.,True
+thank_you,"Your information is bountiful and has enriched my understanding, ai.",True
+recipe,Could you walk me through the steps of creating a casserole with canned tuna?,True
+payday,When can I expect to obtain the payment?,True
+plug_type,Do I have to make any adaptations to use my electronics in Costa Rica?,True
+directions,I would like to know the whereabouts of the restroom that is adjacent to Statue of Liberty.,True
+next_holiday,Which festival or celebration do I have to know about?,True
+change_accent,"""I desire to perceive a different sound moving forward.""",True
+recipe,In what way can you craft a delicious taco dish?,True
+directions,What is the restroom's location in relation to the Statue of Liberty?,True
+pto_request_status,Is it possible to inform me about the confirmation of my time off?,True
+pto_balance,What is the tally of leisure time I’ve gained through work?,True
+nutrition_info,"I'm interested in knowing more about the nourishing content present in an egg, could you enlighten me on this subject?",True
+directions,Can you inform me of a gas station located near Glendale?,True
+pto_balance,What is my current count for authorized time-off?,True
+mpg,"""How far can I travel with a particular quantity of gasoline in my vehicle?""",True
+directions,"I want to find out the hospital situated in the vicinity, can you assist me with this query?",True
+accept_reservations,What is the process for securing a spot at Taco Bell before arriving?,True
+change_accent,Could you switch the sound frequency during communication?,True
+pto_request_status,Did the verdict come out regarding the planned absence?,True
+thank_you,"Your contribution to the world is beyond compare, AI.",True
+pto_request_status,Can you provide me with an update about the present condition of my time away from work inquiry?,True
+traffic,Is it probable that I'll face delays while travelling towards my destination?,True
+plug_type,Is the electrical connectivity uniform in that specific region?,True
+lost_luggage,I am unable to locate the items I brought with me. How can this situation be remedied?,True
+mpg,What distance can I cover with the amount of gas I have?,True
+accept_reservations,What's the process to book a table beforehand at Taco Bell?,True
+change_language,Can we communicate using the Mandarin dialect?,True
+distance,What's the best estimate for reaching my destination at the airport?,True
+report_fraud,My account seems to have an error from a purchase made at McDonald's.,True
+taxes,What is the sum of the deductions on my earnings?,True
+text,Will you please reach out to Mary through your phone and let her know that she's wonderful?,True
+gas,Is my vehicle capable of completing the journey to Washington DC?,True
+change_accent,Could you provide me with a representation of the vocally feminine?,True
+meal_suggestion,Can you advise on an Indian dish that left a lasting impression on you?,True
+tire_change,At what point is it essential to switch out worn-out wheels? ,True
+transactions,Display my bank's latest activities using the banking app.,True
+who_do_you_work_for,Who's the person that commands you?,True
+weather,What's the outlook for the atmosphere in our vicinity this day?,True
+food_last,How much time does milk have before it cannot be consumed anymore?,True
+pay_bill,My automobile's monetary liability necessitates immediate action.,True
+ingredients_list,Required things for macaroni preparation?,True
+tire_change,How can one determine when their car requires fresh rubbers on the wheels?,True
+directions,How can I travel to Phoenix?,True
+change_accent,Is it possible to utilize the baritone timbre?,True
+are_you_a_bot,Is what I am perceiving actually existent?,True
+carry_on,Is it allowed to bring your belongings onto a Southwest flight without checking them in?,True
+text,May I ask if you are capable of inscribing a form of welcome utilizing stationery?,True
+accept_reservations,Is there a way to guarantee seating at Taco Bell beforehand?,True
+pay_bill,Retrieve my electric resource record for me to take care of it.,True
+change_accent,Would it be feasible to adjust the audio attributes to resemble that of a man's?,True
+who_do_you_work_for,Can you inform me about the identity of the person who supervises you?,True
+pin_change,"""I wish to transform the confidential cipher used for my own financial reserve.""",True
+weather,What is the current atmospheric condition? ,True
+weather,What kind of environment is present in Seattle currently?,True
+taxes,How can I determine the sum I owe from my income?,True
+directions,Could you share information about any gas stations situated near Glendale?,True
+whisper_mode,Exit the quiet demeanor.,True
+thank_you,"The response you gave me proved to be quite useful, I'm grateful.",True
+are_you_a_bot,Do you possess biological characteristics?,True
+repeat,Could you kindly reiterate what was mentioned earlier?,True
+travel_notification,The entire seven-day duration starting the 6th of this month will find me within Canadian borders; kindly relay this information to my bank.,True
+min_payment,What is the smallest sum required to settle my rent expenses for this month?,True
+nutrition_info,How does eating blueberries contribute to one's well-being?,True
+directions,"I am looking for a hospital nearby, do you have any information on its whereabouts?",True
+calories,Which type of nutritional values can be found in chicken tenders? ,True
+text,Can you inform Mary of how wonderful she truly is?,True
+pto_request_status,Could you inform me about the progress of my bid for some personal time?,True
+traffic,What is the present condition of flow while traveling from the New Jersey Turnpike towards the Lincoln Tunnel?,True
+min_payment,hat is the most basic amount I must disburse for my Verizon bill?,True
+payday,On which day do I receive my salary for the completed work?,True
+how_old_are_you,On which day do you commemorate another year of your existence?,True
+gas,Will I reach my destination in Washington DC without any trouble due to insufficient gas.,True
+food_last,How do I determine the appropriate time frame for using milk?,True
+taxes,What is the amount of my liability that needs to be paid to the government?,True
+weather,May I request an update pertaining to the existing outdoor ambience?,True
+who_do_you_work_for,From whom do you receive your directives?,True
+min_payment,What is the most basic fee I need to remit for my home heating?,True
+mpg,Can you inform me about the distance that my car can travel on a set amount of gas?,True
+nutrition_info,What are the components that compose an egg from a dietary point of view?,True
+are_you_a_bot,"""Is your origin of existence biological or electronic?""",True
+transactions,Can you inform me about any activity in my account lately?,True
+transactions,Can you indicate the most updated movement in your financial records?,True
+recipe,Do you have ideas on the ways to cook pasta?,True
+nutrition_info,Please give me the breakdown of the components in cheese fries that contribute to nutrition.,True
+thank_you,I extend my gratitude for the help you've provided.,True
+distance,Can you tell me the gap that separates Orlando from where I am now?,True
+recipe,Can you suggest a delicious way to prepare chili?,True
+change_language,Is conversing through the medium of Mandarin viable?,True
+next_holiday,When can we take a break again?,True
+how_old_are_you,Would it be possible for you to disclose the period of time elapsed since your arrival on Earth?,True
+bill_balance,How does my energy usage translate into financial charges for water and electricity? ,True
+report_fraud,My account reflects a disappointing event from Guitar Center. ,True
+distance,Can you tell me the duration of travel from this point to Omaha by riding a bus?,True
+how_old_are_you,What's the day you were born?,True
+plug_type,What is the proper way to connect appliances in France?,True
+how_old_are_you,"""What's your numeric representation of the duration since your birth?""",True
+payday,By what day would I get money for my labor at the office?,True
+gas_type,In what manner does my vehicle generate power and propel itself forward?,True
+thank_you,In what ways could someone demonstrate their appreciation for someone else's efforts?,True
+thank_you,Numerous expressions of gratitude.,True
+recipe,Can you suggest a method to roast vegetables?,True
+gas_type,Which energy source does your vehicle utilize?,True
+weather,Please inform me about the atmospheric state.,True
+mpg,What range does this automobile have without needing to refuel?,True
+tire_change,In what ways can I determine if my vehicle requires some sort of maintenance with respect to its wheels?,True
+accept_reservations,Would Village Inn accommodate a request for a specific dining time-slot?,True
+calories,Can you provide me information about the energy composition of a cheeseburger?,True
+bill_balance,Can you inform me about the necessary payment for this current month?,True
+change_accent,Modify configurations to resemble a woman's vocal characteristics.,True
+bill_balance,May I know the pricing details associated with my monthly water consumption?,True
+pto_balance,How many breaks am I eligible to take further down the line? ,True
+repeat,"Can you state that once more, please?",True
+traffic,"Is the journey to Newark, New Jersey from Philadelphia on I-95 during noon moderate or intense?",True
+whisper_mode,Deactivate the low-volume setting.,True
+text,Compose a greeting to be delivered to Jack electronically.,True
+plug_type,How can I ensure that my electronic items will function properly while visiting Costa Rica?,True
+distance,"What is the duration required for reaching the Empire State Building in Manhattan, measured in minutes?",True
+directions,Can you guide me on the path to Phoenix?,True
+meal_suggestion,"I'd like to have something that's typically served in an Asian food culture for my next meal, any recommendations?",True
+text,Relay a friendly salutation to Abby via mobile device.,True
+traffic,How is the movement of vehicles on my regular commute?,True
+taxes,What is the numerical value for the contribution I have to make to the national fund?,True
+are_you_a_bot,Does your existence comprise electronic components or biological cells?,True
+taxes,I'm curious if we could explore the allocation of my payment towards the national budget.,True
+are_you_a_bot,"What is the source of the vocalization, electronic or organic in nature?",True
+min_payment,What is the smallest amount I am required to contribute towards my insurance bill?,True
+pto_request_status,Can you provide an update on the progress of my planned absence?,True
+ingredients_list,Which elements are necessary for preparing lasagna?,True
+taxes,Would you mind informing me of the numerical value denoting my personal share in supporting the country's infrastructure and public services?,True
+directions,Is it possible to make my way to the train stop without riding any vehicle or using maps?,True
+food_last,How much time does it take for milk to turn sour?,True
+transactions,What is the cost of my previous shopping excursion?,True
+repeat,Could you please reiterate the final statement?,True
+calories,Are there any specific ingredients present in chicken tenders that contribute to their dietary value?,True
+bill_balance,Can you let me know the payment required for Visa?,True
+directions,Which healthcare facility is located near my current position?,True
+pto_request_status,Can you update me on whether or not my days for break have been authorized?,True
+payday,How often is wage distribution conducted?,True
+payday,Can you inform me about the arrival of my upcoming remuneration?,True
+pto_balance,What is the maximum duration of absence I can have from work?,True
+thank_you,I'm grateful for your help.,True
+food_last,What is the timeline for utilizing milk?,True
+pto_request_status,Am I free to take some time away from work as per the manager's decision?,True
+recipe,What are some ingredients utilized for an entree consisting of canned fish in combination with chopped veggies?,True
+gas_type,What is the appropriate classification of petroleum necessary?,True
+pto_balance,What's the available balance for my paid time-off benefits?,True
+pin_change,How can I securely authenticate myself without divulging personal information?,True
+how_old_are_you,What will be the number of times you have circled around the sun?,True
+pay_bill,"Retrieve my electricity charges, I wish to clear them.",True
+tire_change,Is there a way for me to be alerted when my auto requires updated rubber grip circles?,True
+pto_balance,What amount of time off is available to me?,True
+distance,What is the direction towards Sears Tower in Chicago and how can we arrive there?,True
+weather,What's the current atmospheric condition?,True
+who_do_you_work_for,From whom do you receive instructions?,True
+directions,What hospital do I have relatively easy access to from where I am right now?,True
+travel_notification,Advise my monetary establishment about my upcoming voyage to Dubai during the period of April 14 to April 22.,True
+ingredients_list,How can I prepare genuine kimchi?,True
+food_last,What's the timeframe for milk to be fresh while kept refrigerated?,True
+lost_luggage,"""There is a possibility that the items I have brought with me are not present.""",True
+mpg,Is there an estimate of how much driving my car can handle with a single refuel?,True
+weather,What is the condition of the atmosphere today?,True
+ingredients_list,Which elements should be combined to create traditional Korean kimchi?,True
+tire_change,Is there a specific period after which I should pay attention to my vehicle's wheels?,True
+repeat,"I didn't catch the contents of your statement, could you kindly elucidate?",True
+thank_you,"AI, your efforts are indispensable and invaluable.",True
+meal_suggestion,Do you have any Italian food proposals that may satisfy my craving?,True
+report_fraud,I need to report an instance of unauthorized use on my Bank of the West card.,True
+tire_change,At what point should I consider getting different rubber for my vehicle?,True
+pto_request_status,Could you let me know as soon as my leave application gets accepted?,True
+gas_type,Which variety of fossil-fuel is mandatory for replenishing the tank of this automobile?,True
+who_do_you_work_for,Which organization are you a part of? ,True
+whisper_mode,Soft sounds must be set as default.,True
+directions,Is there a lavatory nearby Statue of Liberty that you can direct me towards?,True
+ingredients_list,Which items are required to produce a lasagna dish? ,True
+pay_bill,"""I am obliged to fund my visa.""",True
+how_old_are_you,What date were you blessed with life's journey to begin?,True
+bill_balance,It would help if I were informed about the charges for my vehicle's installment and assurance.,True
+pto_request_status,Is there any update on whether the leave application went through?,True
+gas_type,What form of energy should be added to the automobile?,True
+tire_change,How much usage can I expect to get from my tire's rubber surface before it deteriorates?,True
+min_payment,What is the bottom level of cost that I must provide for my gas invoice?,True
+weather,How would you describe today's atmospheric situation?,True
+food_last,"From the moment it is put into ice, what span of time is appropriate for tofu storage?",True
+plug_type,"In Japan, what sort of electrical connection do they use most frequently?",True
+thank_you,"That's fantastic, I'm grateful!",True
+accept_reservations,Is prior booking necessary to dine at the New York restaurant?,True
+pay_bill,Can I settle my fuel expenses through my checking account?,True
+accept_reservations,Are visitors allowed to pre-arrange a spot at the Village Inn restaurant? ,True
+thank_you,It's good to know that you responded.,True
+are_you_a_bot,Are you an organism or a mechanism?,True
+accept_reservations,Can you tell me if the New York dining establishment offers advance seat booking?,True
+gas_type,What specific form of propulsion does your mode of transportation require?,True
+are_you_a_bot,Is this an automated program?,True
+calories,What is the nutritional value of bananas in terms of dietary consumption?,True
+transactions,Can I view my financial activity log?,True
+mpg,What is the efficiency rating of this vehicle?,True
+weather,Could you inform me about the atmospheric conditions?,True
+pto_request_status,May I inquire about the current progress of my leisure application? ,True
+traffic,Are we anticipating any delays while commuting?,True
+pay_bill,How can I fulfill my visa obligations?,True
+mpg,What is the distance that this car can travel in the urban area on a unit of fuel?,True
+whisper_mode,What is the opposite of using a hushed tone?,True
+nutrition_info,Can you discover details regarding the compounds present in bell peppers?,True
+change_language,Can we have a conversation using the mandarin dialect?,True
+taxes,"""Can you tell me the sum total of dues that are required of me for living within a specific geographic location?""",True
+report_fraud,Has someone used my account dishonestly?,True
+meal_suggestion,What is an authentic dish of the Irish culture that I can sample?,True
+plug_type,Is it necessary to adapt electrical connections when traveling to France?,True
+mpg,How far can this vehicle go with a full tank?,True
+tire_change,When should I have my vehicle's wheel systems routinely inspected in order to maintain their optimal condition?,True
+distance,What's the customary duration for a bus trip to Boston?,True
+ingredients_list,What tools do I require to assemble my own home-cooked fudgy chocolate treats?,True
+traffic,Are cars moving at a snail's pace?,True
+pto_balance,When will my sabbatical finish?,True
+whisper_mode,Transition to a quiet speaking setting.,True
+calories,Is there a way to measure the amount of sustenance we get from our daily food consumption?,True
+ingredients_list,Retrieve all the components required for a spaghetti recipe.,True
+tire_change,What is the average lifespan for my tire's tread before they wear out?,True
+how_old_are_you,Could you reveal the duration of your existence?,True
+meal_suggestion,Have you got any clue about what's on the menu tonight?,True
+travel_notification,Can my financial institution be aware that I will not be in the country during next week's Wednesday for seven days?,True
+mpg,How far can this car go with a full tank of gas?,True
+are_you_a_bot,Is the speaker an entity programmed for communication or a biologically-based organism?,True
+pto_request_status,Is there any way I can receive an update once my time away has been authorized?,True
+ingredients_list,Share with me the steps for preparing a delicious taco recipe.,True
+who_do_you_work_for,Who engages your services?,True
+text,Notify Courtney of the alternate route via phone,True
+who_do_you_work_for,Who is the person you report to?,True
+next_holiday,Is there a future festivity I should be aware of?,True
+weather,Can you enlighten me regarding the current meteorological situation of Austin?,True
+weather,May I know about the atmospheric conditions prevailing in Austin?,True
+text,"""Type out a salutation for Abby and transmit it.""",True
+payday,Which particular calendar day is recorded in the final salary acknowledgement slip furnished to me?,True
+calories,Would you mind examining the nourishing aspect of a chicken sandwich?,True
+gas,How many gallons does my car hold at most?,True
+pto_balance,Can you specify how long I'm permitted to be absent from work for personal reasons?,True
+accept_reservations,Is it possible to secure a spot at Village Inn before going?,True
+change_language,Can you help me with utilizing your Russian proficiency?,True
+ingredients_list,Procure all the elements indispensable for cooking a noodle meal.,True
+travel_notification,Notify my financial institution of my Dubai trip starting April 14th and ending on April 22nd.,True
+accept_reservations,Are advanced arrangements required for Central?,True
+change_accent,Adjust the parameters for a sound that resembles a woman's vocalization.,True
+transactions,Share with me the most up-to-date information from my financial institution on the mobile platform.,True
+pto_request_status,Kindly let me know if I'm cleared to take a leave of absence.,True
+are_you_a_bot,Does this exhibit signs of automation?,True
+payday,What is the timeline until my following earnings are received?,True
+carry_on,Is it permissible to bring sunscreen while traveling by air?,True
+accept_reservations,Do you reckon I could make arrangements to dine at the Olive Garden?,True
+carry_on,Is there a limit to the amount of luggage one can bring when flying from any location to Austin using United Airlines' services?,True
+whisper_mode,Choose an alternative option other than the muted tone.,True
+who_do_you_work_for,"""Who is the person above you that I can speak with?""",True
+calories,What quantum of sustenance can be derived from a pizza?,True
+change_language,It would be wonderful to communicate using the Portuguese dialect.,True
+tire_change,Did I make modifications to my vehicle in the previous September? Do they require alteration again? ,True
+pin_change,"""My intention is to modify the password that grants me access to my stash of funds.""",True
+how_old_are_you,"On the last day of your annual celebration, what was the counting value of full orbit rotations around the sun?",True
+text,Could you drop a line to Mary and convey to her how awesome she is?,True
+are_you_a_bot,Can this entity function autonomously? ,True
+nutrition_info,Can you provide me with the details regarding the components of the ramen?,True
+min_payment,What is the standard charge assessed by Verizon for their utilities?,True
+taxes,What amount of funds does my residence owe to the government?,True
+accept_reservations,Does Eleven Madison Park permit individuals to book a table?,True
+recipe,Can you suggest a way to prepare noodles?,True
+carry_on,How does JetBlue manage the issue of overhead luggage for flight passengers?,True
+report_fraud,My Bank of the West account seems to have been compromised and I need to take action by informing the bank.,True
+next_holiday,What is the duration of time preceding the forthcoming break from work?,True
+meal_suggestion,Do you have an inkling about the dish that we will be having for the evening meal?,True
+repeat,"I didn't catch what you articulated earlier, would you care to tell me once more?",True
+transactions,Is it possible to reveal the history of my account's inflows and outflows?,True
+tire_change,How can I detect when it's time to perform upkeep on the rubber part of my automobile?,True
+are_you_a_bot,Are you a living organism?,True
+whisper_mode,What are the alternatives for speaking softly but still being heard?,True
+transactions,Would it be possible for me to access information pertaining to my latest commercial transaction?,True
+how_old_are_you,When was the special day that celebrated your initiation in this world?,True
+traffic,Are vehicles likely to experience obstructions during travel?,True
+payday,On what day will my earnings be available again?,True
+are_you_a_bot,Do you have an organic basis of existence?,True
+pin_change,Which sequence of characters do I need in order to authorize my entry?,True
+are_you_a_bot,What kind of entity do you identify as?,True
+payday,At what point should I anticipate the arrival of funds into my possession?,True
+carry_on,Is there anything to be considered before taking your belongings onto a Southwest flight?,True
+directions,What is the location of Fry's store?,True
+food_last,What happens to the quality of milk over time?,True
+who_do_you_work_for,Are you my property in any way?,True
+whisper_mode,Adjust your vocal intonation to produce delicate sounds.,True
+are_you_a_bot,"Are you a product of nature, rather than technology?",True
+pin_change,Alter the secret code for my savings deposit with a four-digit sequence.,True
+bill_balance,What is the required payment for electricity and water usage?,True
+tire_change,At what point is it necessary to have maintenance done on my car's wheels? ,True
+carry_on,Is there anything that I should be aware of when preparing my baggage for boarding?,True
+transactions,Is there any information on my antecedent monetary action?,True
+pay_bill,I have an obligation to balance out my electricity costs.,True
+carry_on,What are the guidelines for bringing a small bag onto a Southwest flight?,True
+taxes,Can you kindly disclose the sum of my contribution to the nation's revenue system?,True
+how_old_are_you,What's the date of your annual celebratory event?,True
+food_last,What is the length of time that milk can be stored before it spoils?,True
+mpg,How far can this car go on a single tank of gas while driving on the highway?,True
+nutrition_info,Can you provide me with the components of broccoli that contribute to wellness?,True
+text,Say hello to Jack digitally!,True
+food_last,"Until when could I keep Tofu before it becomes not suitable for use, if kept under a cold environment?",True
+text,Initiate communication with Jack by typing a salutation.,True
+gas,What is the measure of my remaining car energy?,True
+recipe,Can you guide me through the process of producing fresh pizza dough?,True
+tire_change,At what point should I consider giving my car's rolls some TLC? ,True
+next_holiday,When can we schedule the following event in this venue?,True
+text,Inform Ms. Courtney about the detour using your mobile device.,True
+tire_change,How do I know when my vehicle's wheels require a replacement?,True
+calories,Can you find out how healthy a chicken sandwich is for me?,True
+lost_luggage,The possessions that belonged to me are not where they were supposed to be.,True
+thank_you,Your assistance has been of great value.,True
+tire_change,What is the anticipated duration until I need to acquire fresh treads?,True
+payday,What is the expected time for receiving my earnings?,True
+travel_notification,"Notify my financial institution that I will be out of the country for 8 days in February, heading to Peru.",True
+min_payment,What is the smallest amount required to settle my Verizon bill?,True
+gas_type,Which category of petrol is suitable for refilling this vehicle?,True
+accept_reservations,Can we make an appointment to dine at Taco Bell?,True
+meal_suggestion,I'd like your input on what type of food to cook tonight.,True
+travel_notification,Kindly convey my intentions of taking a break in the Bahamas.,True
+carry_on,What are the regulations regarding baggage for travel with JetBlue Airlines?,True
+tire_change,When is it right to seek substitute to enhance vehicular performance?,True
+gas,Is there sufficient energy for me to arrive in Washington DC?,True
+carry_on,What is the limit for the number of bags I can bring with me onboard?,True
+gas_type,What is the gasoline variant my vehicle requires?,True
+bill_balance,What is the amount I need to pay for my water and electricity usage?,True
+plug_type,Which conduit is utilized by z for energy access?,True
+recipe,Do you have a recommendation for a dish that involves canned tuna and vegetables?,True
+travel_notification,Provide notification of my vacation in Dubai between April 14 and April 22 to my banking establishment.,True
+plug_type,Should I acquire any special equipment for powering my appliances while in Guam's territory?,True
+change_language,"May I converse with you by using the Spanish language, hombre?",True
+weather,Shall we observe the current meteorological state?,True
+text,My aim is to inform Susan that the meeting stands cancelled.,True
+repeat,Would it be possible for you to articulate that once more?,True
+carry_on,How many bags may I bring while traveling?,True
+gas,Am I carrying enough resources to cover the distance up to the capital city?,True
+plug_type,Is there anything I need to consider for electrical appliances during my Guam trip?,True
+nutrition_info,Can you enlighten me on the ingredients and elements that make up a serving of yogurt's sustenance?,True
+pto_balance,Do I have any free time left to use?,True
+calories,Overindulging in meals could harm the body.,True
+change_accent,Modify the tone to that which is typically associated with the opposite gender.,True
+ingredients_list,Can you provide me with a list of things necessary to cook tom yum?,True
+pto_request_status,Have you heard anything about my scheduled time off?,True
+taxes,"The additions to my community budget, what are they in total?",True
+ingredients_list,Can you provide directions to prepare a taco dish?,True
+who_do_you_work_for,Who is in charge of giving you instructions?,True
+nutrition_info,Can you provide me with an insight on the dietary value of fish?,True
+change_accent,Transform the sound into that of a female.,True
+make_call,Connecting with the source of my birth is essential.,True
+how_old_are_you,Can you inform me of the amount of time that has passed since your birth?,True
+bill_balance,Can you provide information on the pricing structure for my household's use of water and electricity?,True
+thank_you,"That was a commendable answer, your assistance is appreciated.",True
+plug_type,What type of connector does z use?,True
+how_old_are_you,In which year will your inception anniversary come around again?,True
+payday,Can you tell me the day mentioned on my most recent income receipt provided by the employer? ,True
+pto_request_status,Please indicate if my break from duty has been authorized.,True
+tire_change,How can I tell if my auto's footwear requires attention and maintenance?,True
+accept_reservations,What is the process for obtaining a booking at Bill's establishment?,True
+accept_reservations,Is it possible to secure a seating arrangement at the New York eatery?,True
+pay_bill,It is imperative that I provide compensation for my electric consumption.,True
+calories,How much sustenance do chicken tenders provide for your body?,True
+thank_you,I am grateful for your generosity.,True
+meal_suggestion,Do you know of any decent Thai food selections?,True
+who_do_you_work_for,What company are you associated with?,True
+pin_change,"""I have a desire to alter the secret code of my personal savings identification.""",True
+transactions,What was the price of my latest acquisition?,True
+pin_change,"I seem to have forgotten the numeric combination necessary for me to view my balance information, could you assist me in getting it back?",True
+pin_change,Can you tell me the sequence required to use my card?,True
+are_you_a_bot,Do you happen to be a living organism with presence?,True
+plug_type,Are there any precautions I should take regarding powering my equipment during my trip to Costa Rica?,True
+transactions,What is the newest activity recorded in your account registry?,True
+transactions,Is there any fresh record of outflow or inflow in your monetary log?,True
+tire_change,"Is there a need for any adjustment on my car during last year's September, if yes, what kind?",True
+bill_balance,How can I determine the sum due to Visa?,True
+mpg,What is the range of my car's fuelling capacity in terms of distance?,True
+pto_request_status,How would you describe the outlook for my break?,True
+gas_type,"For the vehicle, what form of injection is necessary?",True
+whisper_mode,Disable the hushed configuration.,True
+pto_request_status,Are you aware if the time-off proposal was authorized?,True
+calories,Can you provide information on the nutritional value obtained from eating meals?,True
+directions,Is there a medical facility close to my location that you know of?,True
+pin_change,What specific combination must I provide to access my personal information?,True
+make_call,Get in touch with your mother.,True
+travel_notification,"I have plans of heading down to Australia from 23rd to 25th February, how can I ensure my financial institution is aware?",True
+are_you_a_bot,Is this being controlled mechanically?,True
+next_holiday,Recognize the subsequent recreation period.,True
+text,Notify Jim that I shall soon be arriving at our residence.,True
+tire_change,"During September, was there an adjustment done on the wheels, and is another modification necessary? ",True
+thank_you,Grateful for all the amazing work AI does.,True
+change_accent,Alternate the tone generated by a woman.,True
+thank_you,"The amount of intel you furnished, ai, is ample and appreciated.",True
+nutrition_info,I need someone to collect some insights about the components of cheese fries.,True
+whisper_mode,Switch to the muted option.,True
+ingredients_list,Tell me how to cook tacos from scratch.,True
+pto_balance,How many sunrises will I witness during my time-off?,True
+bill_balance,Did you receive an identical invoice for the use of your cellphone as last month?,True
+make_call,I must communicate with my father as soon as possible.,True
+gas,Would I be able to make it to Atlantic City with what's currently in my vehicle?,True
+report_fraud,"""I'm suspecting suspicious usage of my account.""",True
+recipe,What is the method for getting your taco ready?,True
+weather,Would you inform me about atmospheric conditions in the near future?,True
+taxes,Is it possible for you to share the aggregate amount needed to settle my dues with the authorities?,True
+thank_you,Show enormous appreciation.,True
+directions,Tell me the route towards Phoenix.,True
+pin_change,What is the code that I need to access my funds?,True
+tire_change,At what point should I consider updating my wheels?,True
+plug_type,Which form of electrical input is typically applied in Japan?,True
+plug_type,Do I need to make arrangements to ensure the proper power supply for my electronic gadgets while traveling to Guam?,True
+gas_type,What is the specific requisite for filling up this mode of transportation?,True
+pay_bill,I require settling the cost for my electricity usage.,True
+pto_request_status,Can you tell me if there have been any developments concerning my upcoming break?,True
+nutrition_info,What are the particulars regarding the nourishment found in a cup of yogurt?,True
+payday,On what day should I expect to receive my earnings?,True
+ingredients_list,Can you inform me of all the stuff I require for preparing pasta?,True
+meal_suggestion,Could you provide me with a recipe that features Ethiopian ingredients?,True
+whisper_mode,Deactivate the hushed feature.,True
+min_payment,What is the minimal cost needed for me to clear my billing statement from Verizon?,True
+bill_balance,Can you tell me the amount Visa requires from me?,True
+min_payment,What is the most basic fee charged by Verizon for their services?,True
+mpg,What range can this vehicle achieve in an urban environment?,True
+gas_type,Which particular substance should I utilize to power this latest vehicle model?,True
+transactions,"I'm curious to know more about a payment that recently went through, can you assist me in finding the appropriate information?",True
+weather,Is there any wind movement present around us currently? ,True
+change_accent,Alter the tone produced by one group of individuals.,True
+ingredients_list,What are the essential things for baking brownies?,True
+weather,What's the atmospheric situation like?,True
+accept_reservations,Is there an option to hold a table for eating at White Castle?,True
+distance,What is the distance remaining before we arrive at where we need to be?,True
+calories,Would you be able to obtain information about the nutritional makeup of a chicken sandwich?,True
+carry_on,What do I need to keep in mind when packing for a flight with American Airlines?,True
+pin_change,Can you please provide the code to access my checking funds?,True
+distance,"""What is the duration of the journey to Yankee Stadium from the Bronx?""",True
+calories,What is the nutritional value of chicken tenders?,True
+nutrition_info,Can you provide the dietary details of an egg?,True
+pto_balance,What is the duration of time until my break comes to an end?,True
+report_fraud,My account shows an irregularity associated with McDonald's.,True
+report_fraud,"""The amount they want me to pay is unreasonable.""",True
+bill_balance,Could you disclose the amount I need to pay for both my car policy and monthly payment?,True
+change_language,It would be nice if I could converse using the Portuguese tongue.,True
+min_payment,What is the smallest amount acceptable for my utilities bill?,True
+text,"""Is it possible for me to deliver an expression of salutation through a written symbol?""",True
+how_old_are_you,When was it that you first came to exist?,True
+text,Inform David of my imminent arrival.,True
+traffic,"What is the expected level of congestion during travel from Philadelphia to Newark, New Jersey?",True
+bill_balance,Can you provide information on the expenses accrued for my water usage?,True
+mpg,How far does a car travel when filled up with a single quantity of gasoline?,True
+bill_balance,Kindly provide me with details regarding the expenditure for my automobile loan and policy.,True
+food_last,At what point is milk no longer useable?,True
+accept_reservations,Can one make pre-arrangements for seating at Taco Bell?,True
+pto_request_status,Can you inform me regarding my time away from work?,True
+whisper_mode,Disable the silent function.,True
+pto_balance,"""What amount of leisure time can I still utilize?""",True
+text,Advise Dave that I will be there soonest.,True
+ingredients_list,How to whip up a tacos blueprint? ,True
+gas,Can you inform me about my existing quantity of petroleum?,True
+report_fraud,It seems like there's an abnormal record that links me with McDonald's in my account statement.,True
+report_fraud,"My bank account history displays a concerning purchase that relates to the fast-food chain, which I didn't make or authorize.",True
+plug_type,Is there a uniform power interface adopted globally?,True
+recipe,Can you demonstrate the steps to prepare a casserole dish with tuna?,True
+text,"""Receive a communication to indicate.""",True
+who_do_you_work_for,Who is the higher authority to whom you submit your work?,True
+recipe,What's your recommendation for spicing up the flavor of chili?,True
+weather,How are the elements behaving lately around the Austin environment?,True
+travel_notification,It is necessary for me to convey my arrival in London to the financial organization soon.,True
+make_call,Please get in touch with Stefan Larson via voice communication.,True
+text,"Reach out to Dave, I'll arrive shortly.",True
+distance,What is the typical length of travel when journeying to Boston aboard a bus?,True
+change_accent,Adjust setup parameters to emit an acoustic tone similar to a woman's.,True
+pin_change,The numeric combination to use my card eludes me.,True
+whisper_mode,Silent setting should remain on.,True
+next_holiday,Is there any way to determine the time frame left for my upcoming work-free interval?,True
+repeat,Could you please reiterate your inquiry?,True
+gas_type,What is the appropriate combustible element for this ride?,True
+lost_luggage,"If an untoward incident takes place while travelling, what action must I take next?",True
+pay_bill,I have the responsibility to compensate for my water consumption but require some assistance in accomplishing this task.,True
+change_accent,Transform the sound made by a specific gender.,True
+bill_balance,Can you inform me of my upcoming monthly expenses?,True
+pin_change,What's the secret combination to retrieve funds from my checking book?,True
+taxes,I respectfully request for information on the overall amount allocated from my earnings to government funds.,True
+how_old_are_you,At what moment were you brought into being?,True
+change_language,Please express yourself utilizing the French jargon.,True
+change_accent,Is it possible to change the tone of the sound?,True
+taxes,Are you aware of the fee I have to cover when declaring my revenue?,True
+recipe,Can you explain the technique for producing a dish made with whisked eggs and various fillings?,True
+accept_reservations,Is it possible for me to secure a table at Olive Garden?,True
+meal_suggestion,Enlighten me with your preferred recipe for this night's supper meal.,True
+who_do_you_work_for,Is there someone dictating your actions?,True
+distance,Can you give me insight into the expected airport arrival schedule?,True
+change_language,Can we communicate using the Spanish dialect?,True
+how_old_are_you,What's the day you came into this world?,True
+gas,Is it possible for me to reach Atlantic City without refueling on the way?,True
+gas_type,Please enlighten me about the substance utilized by your automobile to operate.,True
+how_old_are_you,"""Which numeral would best represent your time spent on earth?"" ",True
+travel_notification,"If you could convey to my monetary establishment something for me during my absence, from Thursday to Friday in Mexico?",True
+make_call,Contacting my mom is on my agenda,True
+weather,Can you describe the atmospheric conditions of this day?,True
+taxes,What is the estimated payment that I need to make to the government?,True
+meal_suggestion,Trying Irish culinary delights is something that piques my interest.,True
+plug_type,Are the power-distribution systems standardized across that nation?,True
+repeat,Would you be able to articulate your previous statement once more?,True
+plug_type,"The method of power transfer utilized by z, what is it?",True
+distance,What is the remaining distance to our goal?,True
+ingredients_list,Which products must I purchase to prepare a spaghetti meal?,True
+how_old_are_you,"""Which numeric value do you associate with the duration of your experience in this world?""",True
+pto_balance,How many leaves am I entitled to take from work?,True
+recipe,Can you provide instructions for preparing a salad using tuna?,True
+whisper_mode,Is it possible to cease the murmured option?,True
+repeat,Would you mind articulating that thought again?,True
+mpg,What is the distance covered by this automobile on one unit of fuel?,True
+text,"""Compose a brief greeting directed to Abby.""",True
+text,The objective is to let Susan know that the assembly we were supposed to have won't happen anymore.,True
+change_accent,Alter the auditory output to resemble that of a woman.,True
+thank_you,"Wonderful news, I feel obliged.",True
+taxes,What is the amount I owe to the government's regional obligations?,True
+whisper_mode,Kick off quiet operation.,True
+pay_bill,It is my preference to provide $4735 towards the charges of my household water supply.,True
+tire_change,When should I consider switching out the old running gear on my automobile?,True
+pin_change,My card requires a specific sequence which I am unable to recollect.,True
+pto_request_status,"Is it okay for me to be absent from duty, as directed by the supervisor?",True
+calories,How much nutritional value can be obtained from a portion of fries?,True
+ingredients_list,Do you have recommendations for creating a taco methodology?,True
+repeat,Can you express that once more?,True
+whisper_mode,Activate hushed approach.,True
+taxes,How can I calculate the obligation towards the authorities corresponding to my earnings?,True
+are_you_a_bot,Is your existence authentic?,True
+meal_suggestion,Can you recommend any Thai cuisine options?,True
+pto_request_status,What is the update on the outcome of my leave application review?,True
+who_do_you_work_for,Do you answer to another person's commands?,True
+calories,How much energy does a pizza provide?,True
+plug_type,Which electrical connectors are universally used across borders?,True
+report_fraud,Do I need to worry about any inappropriate operation on my bank account?,True
+recipe,Give me suggestions about hamburgers.,True
+lost_luggage,The possessions I brought with me seem to have vanished into thin air.,True
+gas,Is my current destination within reach with my vehicle's remaining resources?,True
+calories,Consuming excessive food is detrimental to health.,True
+how_old_are_you,What numerical representation designated the culmination of your previous solar orbit commemoration?,True
+change_accent,Alternation of vocal pitch to feminine tone. ,True
+ingredients_list,Bring me all the essential elements needed for a pasta recipe.,True
+next_holiday,Identify the following non-working schedule event.,True
+accept_reservations,Is it possible to secure a table at the New York restaurant?,True
+are_you_a_bot,Do you possess organic matter or do you run on artificial mechanisms?,True
+change_language,It would be great if I could leverage your adeptness at using the Russian language.,True
+lost_luggage, have trouble locating the belongings that I brought with me.,True
+report_fraud,This fee seems unjustified.,True
+plug_type,Do they use standardized methods for electric connections in their locality?,True
+food_last,When should milk be consumed before it's outdated?,True
+carry_on,"""What are the guidelines for bringing my luggage aboard Southwest?""",True
+plug_type,Would I require any specific considerations for the use of electrical devices in Guam?,True
+change_accent,Can the auditory delivery be modified to a different tone?,True
+nutrition_info,Can you tell me what's in the ramen?,True
+mpg,"""What's the distance my car can cover with a specified amount of gasoline?""",True
+gas,Can you tell me the volume of gasoline still present in my vehicle?,True
+are_you_a_bot,Does this entity operate automatically?,True
+recipe,Can you present different thoughts on preparing a burger?,True
+next_holiday,When can I plan another leisure time in future?,True
+mpg,What is the driving range of your car using one segment of petrol?,True
+who_do_you_work_for,Who holds authority over your work?,True
+whisper_mode,How can I adjust my speaking level to be less quiet?,True
+distance,What is the distance to Walmart and how much traveling is required to arrive?,True
+gas,Will my car's propulsion last until I reach Washington DC?,True
+payday,"""What is the expected arrival time for my next salary?""",True
+weather,Is there any significant change in the climate of Austin that's currently taking place?,True
+pin_change,What kind of security feature is required for accessing my current financial statement?,True
+travel_notification,Give notice to my banking establishment regarding my current whereabouts within Brazil.,True
+ingredients_list,What are the components required for preparing tom yum soup?,True
+travel_notification,It's important that my financial institution knows my whereabouts from the 6th to the 13th of this month.,True
+recipe,Do you have a technique for roasting vegetables?,True
+ingredients_list,Which elements should I gather to whip up some delicious brownies?,True
+plug_type,Are electronic devices functional while visiting Mexico without any alteration?,True
+gas,Is it the right time to address the refilling procedure for a particular commodity carrier?,True
+directions,What's the route to reach the subway on foot?,True
+how_old_are_you,Do you mind sharing the time elapsed since your inception?,True
+tire_change,When would it be necessary to acquire a fresh set of rubber for my vehicle?,True
+change_language,"Communicate by utilizing French, if you may.",True
+distance,Is there a suggested ETA for arriving at the airport?,True
+bill_balance,Can you tell me the amount due this month?,True
+pto_request_status,What's the update on the information I provided regarding my time away from work?,True
+thank_you,"AI, your efforts don't go unnoticed and we're indebted to you.",True
+report_fraud,"""There seems to be an irregular expenditure on my account which is associated with McDonald's.""",True
+whisper_mode,How can one switch back from speaking softly?,True
+taxes,What is the total amount that belongs to the Internal Revenue Service?,True
+bill_balance,Could you inform me of the specified monetary value essential to complete the payment for my Visa transactions?,True
+gas_type,What variety of petroleum is suitable for this machine?,True
+food_last,At what point is milk no longer fresh?,True
+text,I intend to let Susan know about the cancellation of the meeting in some way or another.,True
+pin_change,Can you provide the code I need to access my savings?,True
+travel_notification,It is imperative that the team responsible for identifying any potential fraudulence related to my funds knows about my departure to Mexico.,True
+gas,What is the status of my vehicle's petrol storage? ,True
+who_do_you_work_for,Which corporation do you render services to?,True
+who_do_you_work_for,Would it be possible to disclose the identity of the individual with the highest authority within the team you belong to?,True
+payday,On which day should I expect to receive my earnings?,True
+gas,Is it time to refill my transportation's power reservoir?,True
+payday,Are you aware of the timing for my upcoming remuneration delivery?,True
+tire_change,Is there a way for me to know if my vehicle requires an upgrade to its wheel components?,True
+gas_type,What is the appropriate energy source for this modern automobile?,True
+weather,Can you share information regarding the atmospheric conditions in Austin?,True
+repeat,Kindly reiterate your previous statement.,True
+payday,What is the upcoming day of remuneration?,True
+weather,Can you give me an update on the climatic conditions?,True
+taxes,"""What is the cumulative amount owed by me to my place of residence?""",True
+repeat,"Could you reiterate your statement, please?",True
+repeat,Can you kindly restate your prior utterance?,True
+directions,Can you tell me the hospital's location that is in my vicinity?,True
+next_holiday,What is the countdown till the subsequent cessation from work?,True
+next_holiday,When is the subsequent break we receive?,True
+bill_balance,Can you provide me with a breakdown of my monthly expenses for rent and water usage?,True
+change_accent,Is it possible to alter the tone of speaking? ,True
+report_fraud,Have any false activities been recorded in my account history?,True
+gas_type,Which sort of liquid is required for the vehicle to function?,True
+mpg,What is the distance coverage of this vehicle on the freeway from point A to B without refuelling?,True
+transactions,What was the time when I acquired something for myself?,True
+make_call,Contact your female parental unit.,True
+gas_type,What is the energy source that powers my vehicle?,True
+travel_notification,"Could a message be dispatched to my financial institution regarding my itinerary from February 19 through 26, heading towards Peru? ",True
+recipe,What's your go-to technique for preparing roasted veggies?,True
+thank_you,"Impressive, grateful!",True
+taxes,What information can you provide regarding the funds that are allocated to the nation's capital?,True
+are_you_a_bot,Does your audio emanate from a biological entity or digitally reproduced?,True
+carry_on,May I pack sun protection cream inside my hand luggage?,True
+plug_type,What type of electrical connection is utilized in the Caribbean?,True
+pay_bill,What is the procedure to clear my electric expenses?,True
+pto_balance,What is my accumulated allowance for going on a getaway?,True
+directions,Please advise as to the location of a nearby fueling station from Glendale.,True
+traffic,Is it an easy drive taking the I-95 going up north to reach New York from Philadelphia?,True
+mpg,What is the distance this car can run in one fill-up of gas?,True
+traffic,Is the likelihood high that we'll encounter slow-moving vehicles?,True
+nutrition_info,In what ways can blueberries positively impact a person's health?,True
+ingredients_list,How can I cook macaroni?,True
+food_last,What is the duration of milk's freshness?,True
+who_do_you_work_for,Who is the individual in charge of overseeing your activities?,True
+recipe,What is the method of cooking an omelet?,True
+recipe,Provide me with instructions on preparing a dish with tuna.,True
+are_you_a_bot,Is your presence actually tangible?,True
+next_holiday,at what point in the future will we have a pause from work?,True
+calories,What is the quantity of energy present in a pizza?,True
+min_payment,What’s the most frugal sum of money that I have to give for my Verizon bill?,True
+pay_bill,My electric service requires me to clear my dues.,True
+who_do_you_work_for,May I inquire about the individual responsible for managing your team?,True
+min_payment,Is there an option to reduce my insurance fees significantly?,True
+pto_request_status,Do you have any fresh information about my leisure plans?,True
+plug_type,Which style of electrical connection is employed by z?,True
+food_last,What amount of time before milk should not be consumed?,True
+pto_request_status,Have you reached a conclusion regarding my absence inquiry?,True
+are_you_a_bot,Can you clarify if you possess organic or synthetic characteristics?,True
+directions,How do I reach Phoenix?,True
+nutrition_info,Can you tell me about the edible elements found in an egg for evaluation purposes?,True
+gas,Am I going to arrive in Atlantic City without exhausting my car's energy?,True
+text,I am desirous of conveying Susan the news that our appointment won’t happen.,True
+plug_type,Is it safe to use my digital appliances in Mexico with its default charging system?,True
+plug_type,Is it possible to operate my electronic gadgets in Mexico without changing the connection mechanism?,True
+payday,What's the timestamp of my final payment record?,True
+are_you_a_bot,Is there substance to your presence in this world?,True
+weather,Can you brief me on what to expect outdoors today?,True
+directions,Can you guide me to Phoenix?,True
+meal_suggestion,I am curious about sampling dishes hailing from the Emerald Isle.,True
+thank_you,What you've done means a lot to me.,True
+gas_type,What is the substance that powers the automobile?,True
+report_fraud,I feel like this bill is unsupported.,True
+ingredients_list,What items are essential for cooking a delicious spaghetti dish?,True
+who_do_you_work_for,Do you follow the orders of another individual?,True
+min_payment,What is the most modest sum I am obligated to render for my natural gas statement?,True
+calories,What is the level of energy gained from food intake?,True
+text,"Inform Samantha about my estimated arrival time, which is in 10 minutes.",True
+repeat,Would you mind restating your previous statement?,True
+gas,What is the current state of my petrol resources?,True
+tire_change,"""How long does it take to perform the necessary service on my automobile's wheel mechanisms?""",True
+thank_you,"I am full of gratitude for the abundant knowledge you shared with me, ai.",True
+accept_reservations,What procedure should one follow to book a spot at the dining establishment in New York?,True
+pin_change,The card seems to need a specific combination that eludes me.,True
+pto_request_status,Has the manager given the green light for me to take a break?,True
+change_accent,Is it possible to modify the sound into a more masculine tone?,True
+text,Give Samantha a heads up regarding my expected arrival of 10 minutes.,True
+who_do_you_work_for,May I ask who has a superior position over you at this organization?,True
+carry_on,In what ways can toothpaste be included in one's travel plans without encountering any issues?,True
+text,Can you jot down a greeting with a marker?,True
+report_fraud,"""There seems to be an instance on my account that I don't recognize.""",True
+travel_notification,Can you give my financial institution a heads up about my absence while I'm in Mexico for two days starting Thursday?,True
+who_do_you_work_for,"""Can you provide me with the contact of your higher-up?""",True
+distance,Do I have a certain distance to traverse before encountering our final location?,True
+gas,What is the metric of my current gasoline consumption?,True
+repeat,"I'm sorry, could you reiterate your statement?",True
+bill_balance,What is the sum that's expected from me this month?,True
+who_do_you_work_for,Who directs your actions?,True
+carry_on,Can you suggest tips for transporting toothpaste during a journey?,True
+are_you_a_bot,Does the sound you produce come from mechanical means or a biological origin?,True
+weather,Shall we observe the current climatic situation?,True
+meal_suggestion,I am curious about preparing a dish using foods from Ethiopia. Any recommendations?,True
+report_fraud,There seems to be a discrepancy between the records of my account and those of McDonald's.,True
+pto_request_status,Was my leave application processed?,True
+transactions,Do you recall the point in time I bought something? ,True
+whisper_mode,Adapt into a low decibel conversational state.,True
+who_do_you_work_for,"""Whom shall I approach for information beyond your level?""",True
+pto_balance,"""Is there still room for me to pause from my job activities?""",True
+who_do_you_work_for,Identify the individual in control of your responsibilities?,True
+directions,What is the route towards the city of Phoenix?,True
+food_last,What's the timeline for milk utilization?,True
+report_fraud,Something appears off when I look at my account and its connection to McDonald's.,True
+directions,I need to use the bathroom; do you know where it is relative to the Statue of Liberty?,True
+pay_bill,In what way do I offset my charges for using electrical utility?,True
+report_fraud,Something went wrong with my funds when buying something at McDonald's.,True
+text,Notify Dave that I shall arrive shortly.,True
+pin_change,Rearrange the combination used for securing my savings.,True
+payday,At what instance did I receive my wages previously?,True
+gas_type,What sort of liquid am I supposed to put in the tank of my recent automotive acquisition?,True
+next_holiday,At what point in time will I have the opportunity to have some time off?,True
+report_fraud,"""I believe there's something suspicious going on with my bank records""",True
+nutrition_info,How nourishing is broccoli in terms of its constituents?,True
+payday,Is there a way to determine the upcoming monetary compensation I will obtain?,True
+carry_on,What are the guidelines regarding bags aboard JetBlue flights? ,True
+recipe,Which method should be utilized for initiating the creation of handcrafted pizza dough?,True
+pay_bill,It's necessary for me to settle my electric expenses.,True
+change_accent,Could you modify the audio character?,True
+bill_balance,What is the total cost of all my monthly obligations?,True
+pay_bill,Extract the details of my power consumption so I can give remuneration.,True
+next_holiday,Could you inform me about the immediate event?,True
+recipe,What are the steps to create a meal consisting of tuna and greens?,True
+pay_bill,Access my electric account details for settlement purposes.,True
+thank_you,Your aid has been of great support to me.,True
+plug_type,Is there compatibility between the electrical systems of Costa Rica and my country of origin?,True
+accept_reservations,Does Eleven Madison Park allow one to make dining arrangements in advance?,True
+weather,What's the atmospheric status for today?,True
+accept_reservations,Do you know if Taco Bell welcomes advanced bookings?,True
+payday,Are you cognizant of the time frame for the receipt of my forthcoming income?,True
+payday,What is the particular time that my wages will be credited?,True
+taxes,Is there a method to determine the exact figure I am accountable to give to the internal income organization?,True
+pto_request_status,Is there any news about the decision on my leave application?,True
+distance,Can you tell me the proximity of Orlando to my present whereabouts?,True
+who_do_you_work_for,Is there someone in charge of your actions and decisions?,True
+plug_type,How can I get my devices running when in France?,True
+pin_change,Make the combination of my stash digits different from its current one.,True
+mpg,Can you inform me about the distance my car travels on a fixed amount of gas?,True
+food_last,How much time do I have to consume milk?,True
+gas,Can you inform me of the quantity of stored energy in my vehicle?,True
+directions,Is there a Fry's outlet that can be easily accessed from here?,True
+how_old_are_you,Is it acceptable for me to inquire about the quantity of time that has passed since your arrival?,True
+pay_bill,Assistance is required to handle my water utility expenses.,True
+weather,We should examine the state of the atmosphere.,True
+change_accent,Would it be possible to alter the tonality of the audio output?,True
+thank_you,Your assistance has proven invaluable.,True
+payday,Which forthcoming day shall it be until I received remuneration?,True
+tire_change,When is it necessary to swap out the ones on my wheels? ,True
+mpg,How many miles can this car go on the highway with a single tank of gas?,True
+text,"""Obtain written information to grade.""",True
+pto_balance,What's the duration of my getaway?,True
+how_old_are_you,What's the day and month you were born?,True
+food_last,What is the maximum time frame that a frozen burrito will maintain its edibility?,True
+gas_type,What sort of flammable compound must I introduce into this vehicle?,True
+carry_on,What are the requirements to bring baggage aboard Southwest flights?,True
+change_accent,Modify the configuration to produce a more feminine tone.,True
+pay_bill,The obligation to meet my car expenses demands attention.,True
+pay_bill,Could you assist me in covering the cost of my fuel usage?,True
+nutrition_info,May I ask for details on the contents of the ramen?,True
+bill_balance,What is the total amount to be settled for this month?,True
+bill_balance,How do I determine the amount I need to pay for my water and rent?,True
+meal_suggestion,What are some Ethiopian dishes I can prepare for my evening meal?,True
+make_call,Communicate with your maternal figure.,True
+calories,Can you provide information on the energy level contained in a cheeseburger?,True

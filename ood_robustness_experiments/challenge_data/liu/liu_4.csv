@@ -1,0 +1,603 @@
+intent,text
+cooking_recipe,Can you give me the steps to prepare yummy cookies?
+cooking_recipe,"I would love to know how to make some delicious cookies, could you explain it to me?"
+cooking_recipe,Do you have any instructions on how to bake a batch of tasty cookies?
+cooking_recipe,Can you provide instructions on how to prepare cookies?
+cooking_recipe,What are the steps required to make some yummy baked treats?
+cooking_recipe,Would you be able to give a detailed guide on preparing sweet and crunchy bites?
+cooking_recipe,What degree should I set the oven for making cookies?
+cooking_recipe,"When baking cookies, which temperature is ideal?"
+cooking_recipe,How hot should the oven be while preparing chocolate chip cookies?
+cooking_recipe,What's the ideal heat to prepare cookie dough in the oven?
+cooking_recipe,At what degree should I set my oven to make cookies?
+cooking_recipe,What temperature do you recommend when baking cookies?
+cooking_recipe,Can you provide details on how to create a delicious piece of baked goodness?
+cooking_recipe,I'm looking for instructions on how to make a sweet treat that involves flour and sugar.
+cooking_recipe,Do you have any tips for crafting a tasty baked dessert featuring chocolate chips?
+cooking_recipe,Can you provide me with the steps to make some delightful cookies?
+cooking_recipe,Please guide me in creating a batch of scrumptious treats to indulge in.
+cooking_recipe,"I am craving for some sweet snacks, can you assist me in whipping up something delectable?"
+cooking_recipe,What is the appropriate heat setting to cook a whole turkey by frying method?
+cooking_recipe,How can I determine the precise level of heat while cooking an entire turkey through frying?
+cooking_recipe,Is there a specific temperature that needs to be maintained for preparing a full turkey using the frying technique?
+cooking_recipe,What is the ideal heat level for cooking a whole turkey by frying?
+cooking_recipe,How can one determine the right temperature required to deep-fry an entire turkey?
+cooking_recipe,What should be the precise degree of hotness while frying an intact turkey?
+cooking_recipe,What is the ultimate method to prepare meatballs?
+cooking_recipe,How can I make incredibly delicious meatballs?
+cooking_recipe,What are some secrets to crafting fantastic meatballs?
+cooking_recipe,What is the ideal way to make delicious meatballs? 
+cooking_recipe,Recommended steps to create a flavorful meatball dish?
+cooking_recipe,How can I prepare mouth-watering meatballs for my meal?
+cooking_recipe,What is the ideal heat level for roasting potatoes in the oven?
+cooking_recipe,"When it comes to baking potatoes in the oven, what temperature works best?"
+cooking_recipe,"For potato roasting in the oven, which temperature setting yields optimal results?"
+cooking_recipe,What temperature setting is optimal for roasting potatoes in an oven?
+cooking_recipe,In what way can we roast potatoes to get the best results with oven temperature?
+cooking_recipe,How hot does an oven needs to be set for potatoes to cook perfectly while being roasted?
+cooking_recipe,Can you suggest sources for preparing a delicious four-cheese omelet?
+cooking_recipe,What are some ways to find instructions for making a flavorful omelet filled with four types of cheese?
+cooking_recipe,Any ideas on where to locate steps for whipping up a tasty omelet composed of four different kinds of cheeses?
+cooking_recipe,Find suggestions for making a four-cheese omelette.
+cooking_recipe,Discover ways to prepare a delicious omelette with four types of cheese.
+cooking_recipe,Investigate methods for making an omelette containing a blend of four different cheeses.
+cooking_recipe,"Can you provide a rundown of the components required to make welsh rarebit, dear robot?"
+cooking_recipe,"Hey there, robotic buddy. Would you kindly jot down the elements necessary for preparing some welsh rarebit?"
+cooking_recipe,"O' droid, could you furnish me with a catalog detailing the ingredients needed for whipping up some delicious welsh rarebit?"
+cooking_recipe,"Can you provide me with the components required to prepare Welsh rarebit, oh robot?"
+cooking_recipe,"Oh mechanized being, could you furnish me with a roster of ingredients for Welsh rarebit?"
+cooking_recipe,"Would it be feasible for you, mechanical entity, to give me an inventory of the elements necessary to produce Welsh rarebit?"
+cooking_recipe,I am interested in preparing that dish.
+cooking_recipe,My desire is to make that particular cuisine.
+cooking_recipe,"The meal in question, I aim to prepare it."
+cooking_recipe,I desire to prepare that dish.
+cooking_recipe,"The meal in question, I wish to make it myself."
+cooking_recipe,My aim is to concoct that particular feast.
+cooking_recipe,What are the methods to prepare a dish?
+cooking_recipe,What techniques can I use to create a meal?
+cooking_recipe,Is there any way to put together a food course?
+cooking_recipe,What is the process for preparing a meal?
+cooking_recipe,Which method should I use to make a dish?
+cooking_recipe,How can I make a delicious plate of food?
+datetime_query,Can you inform me the moment of the day?
+datetime_query,"What is the present hour, if I may ask?"
+datetime_query,Could you convey to me the precise minute at this very instance?
+datetime_query,Can you inform me about the present moment?
+datetime_query,Do you happen to know what hour it is at the moment?
+datetime_query,Could you indicate the instant we are currently in?
+datetime_query,What is the current hour of Chicago?
+datetime_query,How to know when you are in sync with Chicago's schedule?
+datetime_query,What is the chronological representation of Chicago at this moment?
+datetime_query,What is the current hour in the Windy City?
+datetime_query,How much ahead of Pacific time is Chicago?
+datetime_query,In what moment does Chicago's day transition to evening?
+datetime_query,What is the concept of temporal measurement?
+datetime_query,"How do we differentiate between past, present, and future?"
+datetime_query,How can one measure moments that pass by as seconds turn into minutes?
+datetime_query,Can you describe the concept of temporal measurement?
+datetime_query,How do we measure the duration between two events?
+datetime_query,What is the unit used to quantify the sequence of events?
+datetime_query,What's the current moment in Chicago?
+datetime_query,Any clue about hour-status in Chicago?
+datetime_query,Could you inform me about the temporal conditions of Chicago?
+datetime_query,What's the current moment indication for Chicago?
+datetime_query,How can you tell if you're in sync with Chicago?
+datetime_query,"In Chicago, what indicates the present duration?"
+datetime_query,Can you tell me the present moment in Germany?
+datetime_query,What's the instant in Germany according to German standard time?
+datetime_query,"Inform me about the current hour in Germany, please."
+datetime_query,Can you inform me about the present moment in Germany?
+datetime_query,May I know what's currently happening in terms of hours and minutes in Germany?
+datetime_query,Is it possible for you to indicate the current German timeline?
+datetime_query,Look up the prevailing temporal state and geographical region simultaneously.
+datetime_query,Hunt for the existing time in your vicinity along with its corresponding geographic zone.
+datetime_query,Explore to discover the contemporary temporal status as well as the spatial-region details.
+datetime_query,Seek out the current time and zone in your locality.
+datetime_query,Look up the geographical area to determine its accurate timing and regional time setting.
+datetime_query,Explore to discover the present moment and corresponding geographic region's temporal configuration.
+datetime_query,What is the current hour in NYC at present?
+datetime_query,Could you inform me about the actual timing in New York City?
+datetime_query,What hour of the day is it presently in the city of New York?
+datetime_query,Can you tell me the current hour in the city that never sleeps?
+datetime_query,In which moment would you be in the Big Apple at this very instant?
+datetime_query,What is the present hour of day in the location known for Broadway and skyscrapers?
+datetime_query,Can you tell me the current hour in Ivory Coast?
+datetime_query,What is the present state of time in Ivory Coast?
+datetime_query,Do you know what hour it is currently in Ivory Coast?
+datetime_query,What hour would it be in Ivory Coast at this moment?
+datetime_query,Can you determine the present moment in Ivory Coast?
+datetime_query,Is it possible to tell the exact timing in Ivory Coast right now?
+datetime_query,How many hours ahead or behind is Dakar compared to this location?
+datetime_query,Is there a difference in the timing between this place and Dakar?
+datetime_query,Can you tell me the time variation between here and Dakar?
+datetime_query,How many hours apart are we from Dakar?
+datetime_query,What's the difference in timing between our current location and Dakar?
+datetime_query,How far ahead or behind is Dakar compared to where we are right now?
+datetime_query,When will the middle of next week arrive?
+datetime_query,What is the day that follows Tuesday in seven days?
+datetime_query,When will we reach the mid-point of next week?
+datetime_query,"On the middle of the next week, which day will it be?"
+datetime_query,"What is the scheduled day after tomorrow, not counting yesterday?"
+datetime_query,Which particular weekday will follow tomorrow's yesterday?
+audio_volume_up,Can you improve the auditory experience?
+audio_volume_up,Could you amplify the sound?
+audio_volume_up,Is it possible to enhance the audio level?
+audio_volume_up,Can you enhance the sound a bit?
+audio_volume_up,Would you mind making it more audible?
+audio_volume_up,"Could you amplify the audio, please?"
+audio_volume_up,Enhance the audio.
+audio_volume_up,Make the noise louder.
+audio_volume_up,Amplify the auditory experience.
+audio_volume_up,Amplify the audio.
+audio_volume_up,Boost the sound intensity.
+audio_volume_up,Crank up the auditory output.
+audio_volume_up,Is it possible to enhance the audio level?
+audio_volume_up,Could you amplify the sound a bit more?
+audio_volume_up,Would you mind making the music louder?
+audio_volume_up,Is it possible to make the sound more audible?
+audio_volume_up,Could you enhance the audio level please?
+audio_volume_up,Would you like me to adjust the acoustic intensity?
+audio_volume_up,Can you turn up the decibels a notch?
+audio_volume_up,I require intensifying the sound output.
+audio_volume_up,"Could you amplify the audio level, please?"
+audio_volume_up,Can you make it sound more powerful?
+audio_volume_up,Is there a way to enhance the intensity?
+audio_volume_up,Could you amplify its audio capacity?
+audio_volume_up,Can you dial up the sound coming from the left speaker by ten?
+audio_volume_up,Is it possible to make the audio playing through the left speaker stronger by a factor of 10?
+audio_volume_up,Would you please adjust the output of the left speaker so that it becomes louder by 10 units?
+audio_volume_up,Adjust the left speaker's sound level to ten times its current output.
+audio_volume_up,Turn up the auditory strength of the left speaker by a factor of 10. 
+audio_volume_up,Enhance the decibel count of the left-side loudspeaker by 10 units.
+audio_volume_up,Can you make the sound a bit more audible than it is now?
+audio_volume_up,"I want to hear the audio better, can it go higher than the current level?"
+audio_volume_up,Would it be possible to set the noise level at twenty one notches above the current setting?
+audio_volume_up,Could you kindly adjust the audio level of the device to 21?
+audio_volume_up,"It would be great if you could make the sound stronger, up to the twenty-one mark."
+audio_volume_up,Can you modify the decibel scale to reach the value corresponding to twenty-one?
+audio_volume_up,Can you make the sound as robust as it can be?
+audio_volume_up,I'd appreciate it if you could crank up the audio.
+audio_volume_up,Is it possible to amplify the decibels to their maximum level?
+audio_volume_up,"""Could you adjust the sound to its maximum level?"""
+audio_volume_up,"""Can you make the audio as loud as possible?"""
+audio_volume_up,"""Would you mind setting the volume to its highest capacity?"""
+audio_volume_up,Can you turn up the sound level a bit?
+audio_volume_up,Is it possible to amplify the audio output?
+audio_volume_up,Could you enhance the decibels of the sound?
+audio_volume_up,Can you make the sound more audible?
+audio_volume_up,"I need to hear it better, can you adjust something?"
+audio_volume_up,The audio is too quiet; can you make it more perceptible?
+audio_volume_up,"Pardon me, I didn't get what you just said."
+audio_volume_up,"Could you please speak again, it's difficult to catch your words?"
+audio_volume_up,Your voice needs to be more audible for me to understand what you are saying.
+audio_volume_up,"Excuse me, can you please speak up a bit?"
+audio_volume_up,"Pardon me, would you mind repeating what you said? "
+audio_volume_up,"I'm sorry, could you articulate your words more clearly?"
+audio_volume_up,Can you amplify the audio a bit more?
+audio_volume_up,Is it possible to enhance the sound output further?
+audio_volume_up,Would it be feasible to augment the decibel levels?
+audio_volume_up,Could you turn up the sound a bit more?
+audio_volume_up,Would it be possible to amplify the audio in any way?
+audio_volume_up,Is there a way to enhance the auditory output from this device?
+news_query,What is the latest update on the Sweden bombing incident?
+news_query,Is there any recent development regarding the Sweden bombing occurrence?
+news_query,Has there been any fresh information reported about the Sweden bombing event?
+news_query,Can you provide any updates regarding the recent incident in Sweden?
+news_query,Is there any development or progress on the case of the bombing in Sweden?
+news_query,Has there been any fresh information that came up about the Sweden blast?
+news_query,What are the current popular topics that everyone is talking about?
+news_query,Which subjects are causing a buzz among people in the present era?
+news_query,What are the highly discussed and shared themes in recent times?
+news_query,What are the popular subjects that everyone is talking about currently? 
+news_query,Which topics have gained significant attention and are being widely discussed? 
+news_query,Do you know which issues are currently being widely shared and talked about amongst people?
+news_query,What are the recent local events that have occurred?
+news_query,Can you inform me about the latest occurrences in our community?
+news_query,What is the updated information about the happenings in our area?
+news_query,What are the latest updates in the local community?
+news_query,What is the present situation of the nearby region?
+news_query,Can you provide me with information on recent occurrences in our vicinity?
+news_query,Could you inform me about the latest events concerning Donald Trump?
+news_query,Can you tell me what is currently going on with Donald Trump?
+news_query,What updates do you have regarding Donald Trump that I should be aware of?
+news_query,Can you provide me with updates regarding Donald Trump?
+news_query,May I know the latest on Donald Trump's activities?
+news_query,Do you have any information about Donald Trump that I should be aware of?
+news_query,"""Has the allocation of funds been approved already?"""
+news_query,"""Did the proposed budget receive the necessary votes?"""
+news_query,"""Has there been a decision made regarding the budget's appropriations?"""
+news_query,"""Has the voting process for the budget concluded?"""
+news_query,"""Is the budget decision already made through voting?"""
+news_query,"""Have lawmakers taken their vote on the budget?"""
+news_query,What are the most recent happenings within the community?
+news_query,Could you brief me on what's unfolding in the city these days?
+news_query,"I'm curious about the current events taking place locally, can you fill me in?"
+news_query,Can you update me on the current events happening around the city?
+news_query,What's the recent information about the local occurrences in our community?
+news_query,Would you be so kind as to enlighten me with the newest updates around town?
+news_query,What is happening at the Capitol?
+news_query,Can you provide me with details about the situation unfolding at the Capitol?
+news_query,Is there any development taking place in the immediate vicinity of the Capitol building?
+news_query,Can you update me on the events taking place at the Capitol?
+news_query,What are the current developments occurring at the Capitol?
+news_query,Is there any information regarding activities unfolding at the Capitol?
+news_query,What events occurred recently that are noteworthy this morning?
+news_query,Any noteworthy updates or developments to start off the day?
+news_query,Is there any important information that has surfaced at the outset of the day?
+news_query,"""What are the current events from this morning?"""
+news_query,"""Can you share any updates from earlier today?"""
+news_query,"""Is there any noteworthy information that took place in the morning hours?"""
+news_query,What is the current status of the travel ban implemented by Trump?
+news_query,Can you provide any updates regarding Trump's travel ban?
+news_query,Is there any new information on Trump's restrictions on travel?
+news_query,What is the current status of Trump's travel ban?
+news_query,Could you provide an update on the progress of Trump's travel ban?
+news_query,Has there been any development regarding Trump's travel ban recently?
+news_query,Is there any recent development on Facebook?
+news_query,Are there any updates or changes in Facebook that I should know about?
+news_query,Has anything noteworthy occurred on the platform of Facebook lately?
+news_query,Has anything changed recently on Facebook?
+news_query,Is there any fresh content to view on Facebook?
+news_query,"Are there any updates to discover on the social media platform, Facebook?"
+audio_volume_down,Can you turn the sound less harshly?
+audio_volume_down,May I request for a gentle audio stream?
+audio_volume_down,"Would it be possible to reduce the noise level, perhaps?"
+audio_volume_down,Could you kindly reduce the level of audio?
+audio_volume_down,"Can you make the sound less loud, please?"
+audio_volume_down,Would it be possible to turn down the volume a bit?
+audio_volume_down,Can you turn the sound level any softer?
+audio_volume_down,Is there a way to reduce how loud the audio is playing?
+audio_volume_down,Could you bring the volume to a more bearable level?
+audio_volume_down,Adjust the level of sound.
+audio_volume_down,Reduce the intensity of audio.
+audio_volume_down,Bring down the loudness of the sound.
+audio_volume_down,Can you make the sound less loud?
+audio_volume_down,Would it be possible to reduce the noise level?
+audio_volume_down,Is there any chance of toning down the volume?
+audio_volume_down,"Can you soften the sound a bit, please?"
+audio_volume_down,Would it be possible to tone down the volume?
+audio_volume_down,Is it okay if you make the audio less loud?
+audio_volume_down,Reduce the speaker's sound intensity.
+audio_volume_down,Decrease the audio level of the speaker.
+audio_volume_down,Diminish the loudness of the speaker's voice.
+audio_volume_down,Adjust the sound level of the speaker to a more moderate rate. 
+audio_volume_down,Bring the audio's loudness to a pace that is less intense. 
+audio_volume_down,Moderate the intensity of the speaker's volume to a milder degree.
+audio_volume_down,Can you please adjust the loudness of the speakers?
+audio_volume_down,Is it possible to turn down the sound coming from the speakers?
+audio_volume_down,Could you tune the speakers to produce a milder tone?
+audio_volume_down,Can you reduce the loudness of the speakers?
+audio_volume_down,Is it possible to turn down the sound waves emitted by the speaker system?
+audio_volume_down,Would it be feasible to tone down the intensity of the sound emanating from the audio devices?
+audio_volume_down,Can you use a softer tone?
+audio_volume_down,Could you please reduce the volume of your voice?
+audio_volume_down,Is it possible to tone down your speech?
+audio_volume_down,Could you tone down your voice a bit?
+audio_volume_down,Can you restrain the volume of your speech?
+audio_volume_down,Would it be possible for you to soften your vocalization?
+audio_volume_down,Reduce the sound?
+audio_volume_down,Diminish the audio level?
+audio_volume_down,Minimize the volume?
+audio_volume_down,Reduce the audio level.
+audio_volume_down,Diminish the sound intensity.
+audio_volume_down,Tone down the volume.
+audio_volume_down,Reduce the loudness of media.
+audio_volume_down,Diminish the volume of media content.
+audio_volume_down,Bring media audio to a subdued level.
+audio_volume_down,Decrease the level of noise produced by media.
+audio_volume_down,Adjust the audio output from media sources.
+audio_volume_down,Reduce the volume of sound generated by media devices.
+audio_volume_down,Turn the volume knob in a manner that reduces the noise level by 50%.
+audio_volume_down,Make the sound come out of the speakers with a diminished intensity equal to one-half of its initial loudness.
+audio_volume_down,Set the audio output to emanate at half of its total power output capacity.
+audio_volume_down,Reduce the audio level by fifty percent.
+audio_volume_down,Bring the volume to just half of its current amplitude.
+audio_volume_down,Set the sound intensity at a value that is exactly one-half of the original.
+audio_volume_down,"Can you adjust the volume of your voice to a lower level, please?"
+audio_volume_down,Is it possible for you to make your speech more subdued?
+audio_volume_down,Would you kindly reduce the intensity of your vocalization?
+audio_volume_down,Kindly adjust your voice's intensity.
+audio_volume_down,"Can you modify your speaking volume, please?"
+audio_volume_down,I would appreciate it if you could soften the sound of your voice while speaking.
+weather_query,"What is the state of precipitation in the vicinity of New Brighton, Pennsylvania?"
+weather_query,"Are the streets and sidewalks in New Brighton, PA currently wet due to atmospheric conditions?"
+weather_query,Can you tell me if there is any sort of aqueous substance falling from the sky around the area of New Brighton in the Keystone State?
+weather_query,Are the streets wet in New Brighton PA?
+weather_query,Can you hear droplets falling in New Brighton PA?
+weather_query,Are umbrellas a necessity in New Brighton PA?
+weather_query,Are there any chances of precipitation in today's sky?
+weather_query,Will the atmosphere be moistened as per expectation?
+weather_query,Is the climate supposed to get wet on this day?
+weather_query,Is today's atmosphere likely to be damp?
+weather_query,Will the skies let out humidity today?
+weather_query,Does a moist ambiance await us on this day?
+weather_query,Is it too bright outside to go out without sunglasses?
+weather_query,Do I need to pack sun protection for the day?
+weather_query,Will my eyes hurt if I don't wear shades when I step outdoors?
+weather_query,Do I need to wear my shades outside today?
+weather_query,Should I bring my sunglasses with me while going out?
+weather_query,Will the sunlight be bright enough for me to need to carry my sunglasses?
+weather_query,Could we expect precipitation in the coming days?
+weather_query,Would the atmosphere get cooler throughout this week?
+weather_query,Is there any possibility of a snowfall during this period?
+weather_query,Is the precipitation expected to be in solid form during the coming week?
+weather_query,Can we expect the sky to grace us with its frozen angels in this ongoing week?
+weather_query,Will our surroundings be covered in a blanket of frosty crystals within the next few days?
+weather_query,Can you update me about the climatic conditions for tomorrow?
+weather_query,"I need to know if I should carry my umbrella tomorrow, could you help me with that?"
+weather_query,Is there any information regarding how the atmosphere would be like in the coming day?
+weather_query,Can you inform me of the expected conditions outside for tomorrow?
+weather_query,I would appreciate it if you could tell me what to expect outside tomorrow.
+weather_query,Is there any way that you can give me an idea of the environment we should anticipate for tomorrow?
+weather_query,Can you let me know what the atmosphere would be like in Barcelona after two days?
+weather_query,What can I expect from the climate conditions during my visit to Barcelona in a couple of days?
+weather_query,Could you inform me about the atmospheric situation expected to occur in Barcelona by day-after-tomorrow?
+weather_query,Can you describe the atmospheric conditions expected in Barcelona after two days?
+weather_query,What can I expect with regards to the climate if I travel to Barcelona two days hence? 
+weather_query,Provide me information about the meteorological state of Barcelona following a couple of days.
+weather_query,"Provided that precipitation occurs, I will abstain from attending work."
+weather_query,"In the case of inclement atmospheric conditions, I shall avoid going to my employment."
+weather_query,"Should wetness occur, I will refrain from heading toward my place of occupation."
+weather_query,"In the event of precipitation, I shall refrain from attending to my occupational duties."
+weather_query,"Should wetness fall upon the earth's surface, I would opt not to pursue my work obligations."
+weather_query,"Upon experiencing a specific atmospheric condition, it is unlikely that I will engage in any employment-related activities."
+weather_query,Do I require a protective shield from the elements?
+weather_query,Is it wise to carry an object for shielding purposes?
+weather_query,Would it be helpful to have protection against atmospheric conditions?
+weather_query,Do I need to bring something to keep myself dry?
+weather_query,Is it necessary for me to carry a certain object that protects me during precipitation?
+weather_query,Would it be advantageous if I had an item that provides cover against water droplets?
+weather_query,Can you display the climatic conditions for Monday?
+weather_query,Kindly exhibit the atmospheric state set for Monday.
+weather_query,Would it be possible to reveal the meteorological situation for Monday?
+weather_query,Can you give me information on what to expect for the upcoming weekday?
+weather_query,What is the atmospheric condition going to be like at the beginning of the workweek?
+weather_query,Tell me about the atmosphere that will exist on the start of the weekdays.
+weather_query,Do I need to prepare myself for getting out of the house using a shovel?
+weather_query,Is it necessary for me to have a plan in case I have to dig my way out of the house?
+weather_query,Would it be wise for me to anticipate needing a shovel to exit my home?
+weather_query,Is it necessary to prepare myself to clear the exit of my abode?
+weather_query,Do I need to make arrangements to remove the obstruction from the door of my dwelling?
+weather_query,Would it be wise to organize an effort to get rid of the blockage in front of my home's entrance?
+qa_currency,How much does a calone value in relation to the American dollar?
+qa_currency,"In terms of worth, how does a calone compare with the US currency?"
+qa_currency,What is the comparative worth of a calone and the US dollar?
+qa_currency,How much value does a calone have in comparison to a US dollar?
+qa_currency,In what proportion does the worth of a calone stand against that of a US dollar?
+qa_currency,What is the relative value between a calone and a US dollar?
+qa_currency,What is the value of five hundred pesos?
+qa_currency,How much can I purchase with five hundred pesos?
+qa_currency,What is the equivalent amount of money for five hundred pesos?
+qa_currency,What is the value of five hundred pesos?
+qa_currency,How valuable is five hundred pesos?
+qa_currency,What worth does five hundred pesos have?
+qa_currency,How many dollars can you get for one unit of pound sterling?
+qa_currency,What is the price conversion of pound sterling into US currency?
+qa_currency,How much worth does one pound in sterling hold against an American dollar?
+qa_currency,How much is the pound sterling worth compared to the US dollar?
+qa_currency,Can you tell me the value of pound sterling in terms of the US dollar?
+qa_currency,What is the equivalence of the pound sterling and the US dollar?
+qa_currency,Translate the US currency into the British one.
+qa_currency,Transform dollars to pounds sterling.
+qa_currency,Convert United States dollars to Great British pounds.
+qa_currency,How many pounds can you get with a certain amount of dollars?
+qa_currency,What's the equivalent value of dollars in pounds?
+qa_currency,How much would it cost to purchase pounds with dollars?
+qa_currency,How does the lera fare in comparison to the dollar?
+qa_currency,"In terms of value, how does the lera stack up against the dollar?"
+qa_currency,What is the worth of a lera relative to the dollar?
+qa_currency,How does the value of lera stack up against that of the dollar?
+qa_currency,"In terms of monetary worth, how do the lera and dollar weigh up against each other?"
+qa_currency,"When compared to the dollar, how valuable is the lera?"
+qa_currency,How much does one US dollar cost in Indian rupees?
+qa_currency,What is the value of a dollar when converted to the Indian currency?
+qa_currency,"In terms of Indian money, how much can you get for each American dollar?"
+qa_currency,What is the value of USD when compared with INR?
+qa_currency,How much INR I get for a single unit of USD?
+qa_currency,"In terms of money, how much do I receive if I convert USD to INR?"
+qa_currency,What is the money used in Egypt?
+qa_currency,How do people pay for things in Egypt?
+qa_currency,Which type of cash is accepted in Egypt?
+qa_currency,What is the monetary unit used in Egypt?
+qa_currency,In what form is money circulated in Egypt?
+qa_currency,What type of cash do people use in Egypt?
+qa_currency,What is the value of the Japanese money compared to others?
+qa_currency,Can you inform me about how much the yen worth in other countries' cash?
+qa_currency,How many bucks can I get for every unit of Japan's currency?
+qa_currency,Can you provide me with the current value of yen conversion?
+qa_currency,What is the equivalent worth of one unit of yen?
+qa_currency,How much does one yen equal in other currencies?
+qa_currency,What is the monetary unit utilized in England?
+qa_currency,In what denomination do people transact business in England?
+qa_currency,Which monetary system is prevalent in England?
+qa_currency,What type of money is utilized in England?
+qa_currency,In what form does England conduct its monetary transactions? 
+qa_currency,How is money transacted in the country of England?
+qa_currency,What is the value of one US dollar in Japanese yen?
+qa_currency,How much does a Japanese yen cost compared to one US dollar?
+qa_currency,What is the worth of one American dollar when converted into Japanese yen?
+qa_currency,What is the numerical value of one unit of American money when compared to Japanese money?
+qa_currency,How much does a single US dollar equal in terms of Japanese yen? 
+qa_currency,Can you provide me with information on the comparative worth of the United States and Japanese forms of money?
+play_music,Can you start the music from Titanic?
+play_music,Commence playing tracks from the movie Titanic.
+play_music,Begin streaming melodies featured in Titanic film.
+play_music,Could you please stream songs from the Titanic soundtrack?
+play_music,"I'm interested in hearing the music featured on the Titanic movie, could you assist me with that?"
+play_music,Is it possible for you to broadcast tunes that were played in the Titanic film?
+play_music,Can you make the Titanic soundtrack play?
+play_music,The song from Titanic - can you get that to come on?
+play_music,Is it possible to have the theme song of Titanic start?
+play_music,Could you start the Titanic movie soundtrack theme?
+play_music,Could you commence the playing of the title song from Titanic?
+play_music,Would it be possible to kick off the tune of the theme song from Titanic?
+play_music,"If songs by Cat Stevens are on the soundtrack, I will feel elated."
+play_music,My spirits shall rise in case of any musical selection from Cat Stevens.
+play_music,I'll be delighted if there is any song composed by Cat Stevens present in the playlist.
+play_music,"If Cat Stevens' music fills the room, my spirit will soar."
+play_music,I'll find joy in any song from Cat Stevens.
+play_music,The mere sound of Cat Stevens' tunes brings me immense pleasure.
+play_music,Can you initiate some tunes from The Beatles?
+play_music,How about unleashing the rhythms crafted by The Beatles?
+play_music,Is it possible to enjoy melody authored by The Beatles?
+play_music,Can you put on a song from the Beatles' catalog?
+play_music,Let's enjoy some tunes created by one of the most influential music bands in history.
+play_music,Would you mind putting some Beatles melodies to brighten up our mood?
+play_music,Initiate the playlist from the very beginning track. 
+play_music,Commence the playback of the collection starting with the initial song. 
+play_music,"Trigger the sequence of musical pieces, beginning with the first track."
+play_music,Initiate music collection beginning at the first song.
+play_music,Activate compilation with the opening track.
+play_music,Commence playlist by playing the initial tune.
+play_music,Groove to some funky tunes.
+play_music,Blast those groovy beats.
+play_music,Tune in to some funky jams.
+play_music,What are some groovy tunes of the funk genre that I could put on?
+play_music,Could you suggest some melodies with a funky vibe?
+play_music,Any suggestions for music in the rhythm and blues category that evokes an upbeat mood?
+play_music,What is the most recent Bob Dylan playlist that I can access?
+play_music,How can I access the latest collection of songs from Bob Dylan?
+play_music,Which Bob Dylan playlist is currently the most up-to-date?
+play_music,Access the latest playlist from Bob Dylan.
+play_music,Start playing Bob Dylan's most recent selection of songs.
+play_music,Tune in to the newest curation of tunes from Bob Dylan.
+play_music,"Can you put on the song ""Let Me Love You"" by Ariana Grande?"
+play_music,"Would you mind turning on the Ariana Grande track called ""Let Me Love You""?"
+play_music,"Could you start the Ariana Grande tune titled ""Let Me Love You""?"
+play_music,"Can you put on the song ""Let Me Love You"" by Ariana Grande?"
+play_music,"Is it possible to have ""Let Me Love You"" by Ariana Grande played?"
+play_music,"Do you happen to know how I can enjoy the music of ""Let Me Love You"" by Ariana Grande?"
+play_music,Can you start the tunes that are on my list?
+play_music,"I'd like to hear specific songs, can you help me with that?"
+play_music,Is it possible for you to activate music from a previously curated selection?
+play_music,Kindly activate the tracks from my roster of songs.
+play_music,I would appreciate it if you could initiate the tunes on my curated music collection.
+play_music,Could you take action to commence the melodies contained in my listing of songs?
+play_music,What artist would you like to listen to?
+play_music,Which musician are you interested in?
+play_music,Who do you want to hear perform as an artist?
+play_music,What musician is currently entertaining the audience?
+play_music,Which artist's performance is live on stage?
+play_music,Who is performing music at the moment?
+transport_traffic,What should be the ideal duration of time taken to reach the workplace? 
+transport_traffic,What is a reasonable length of travel-time to get to the office?
+transport_traffic,"In general, how much time should it take to reach your place of employment?"
+transport_traffic,What's the required travel time to reach your workplace?
+transport_traffic,In what duration should an individual commute to their job location?
+transport_traffic,What is the standard time frame for covering the distance between home and the office?
+transport_traffic,"""Are there any obstructions on the way?"""
+transport_traffic,"""Is the commute flowing smoothly?"""
+transport_traffic,"""Any congestion on the route?"""
+transport_traffic,Are there any hindrances to commuting today?
+transport_traffic,Is the flow of transportation currently disrupted?
+transport_traffic,Are there any obstacles affecting movement on the streets?
+transport_traffic,What is the status of movement along the one hundred and one route?
+transport_traffic,How smooth is the commute on the one hundred and one path?
+transport_traffic,Is there any congestion on the one hundred and one highway?
+transport_traffic,Can you tell me the flow of vehicles on the 101?
+transport_traffic,Is the one hundred and one moving smoothly or packed with automobiles?
+transport_traffic,Is there any obstruction in the movement of cars along the highway one zero one?
+transport_traffic,What is the level of obstruction in my daily commute?
+transport_traffic,I'm curious about the amount of hindrance during my routine passage.
+transport_traffic,To what extent does my usual route impede me?
+transport_traffic,What level of gridlock exists on my route to the office?
+transport_traffic,To what extent are vehicles clogging up the thoroughfare leading me to my place of employment?
+transport_traffic,How much rushing will I have to do because of the high volume of automobiles en route to my workplace?
+transport_traffic,What's the current situation with the pathways?
+transport_traffic,Any updates on the condition of the route?
+transport_traffic,Can you give an insight on the status of the street system at present?
+transport_traffic,What's the current state of the pavement?
+transport_traffic,Are there any impediments on the way?
+transport_traffic,How easy it is to get around in your vehicle?
+transport_traffic,"""How was the movement of vehicles at the moment?"""
+transport_traffic,"""What was the state of transportation presently?"""
+transport_traffic,"""Did you encounter any hassle while commuting just now?"""
+transport_traffic,What was the situation like on the way here?
+transport_traffic,Was there any congestion en route to this location?
+transport_traffic,Did you encounter any hassle getting to your destination?
+transport_traffic,Can you tell me about the current state of vehicular movement on the route?
+transport_traffic,How is the present situation regarding the flow of automobiles and other means of transportation in operation?
+transport_traffic,Do you have any insights into the ongoing status of mobility for motorized vehicles within the locality?
+transport_traffic,What's the status of mobility in our surroundings at present?
+transport_traffic,Can you provide information on the current flow of movement in the locality?
+transport_traffic,How is the situation regarding vehicular movement progressing as of now?
+transport_traffic,What is the current state of vehicular movement?
+transport_traffic,How is the flow of automobiles at present?
+transport_traffic,Can you let me know what's happening with the movement of vehicles right now?
+transport_traffic,How is the flow of vehicles at present?
+transport_traffic,What's the status of vehicular movement currently?
+transport_traffic,Could you tell me about the current situation of commuting?
+transport_traffic,Is the route to the office unobstructed?
+transport_traffic,Can I reach my workplace without any hindrance?
+transport_traffic,Is there no obstruction on the way to my work location?
+transport_traffic,Is there any hindrance towards reaching your workplace on time?
+transport_traffic,Are the routes leading to your work convenient?
+transport_traffic,Does your commutation towards the workplace occur smoothly?
+transport_traffic,"""What's the status of my daily transportation routine?"""
+transport_traffic,"""How's my journey to and from my destination?"""
+transport_traffic,"""Can you give me an update on the way I travel regularly?"""
+transport_traffic,"""What's your experience like getting to where you need to be?"""
+transport_traffic,"""How does your journey fare in terms of convenience and time efficiency?"""
+transport_traffic,"""In what manner do you move from place to place?"""
+music_query,Can you identify the audio currently being heard?
+music_query,Tell me what tune is presently playing.
+music_query,What's the current sound that's resonating?
+music_query,Can you provide me the title of what's currently being played?
+music_query,I would like to know the current track in play. 
+music_query,Is it possible for you to identify the melody that's on air now?
+music_query,Which genre of sound do I favor the highest?
+music_query,The sort of auditory category that I am most attuned to is?
+music_query,Which musical family do I have a penchant for?
+music_query,"""Which type of sound is my go-to preference?"""
+music_query,"""What genre entertains me the most frequently?"""
+music_query,"""In what melody category do I hold a strong affinity for?"""
+music_query,Who is responsible for that melody?
+music_query,Whose tune is that?
+music_query,By whom was that composition created?
+music_query,Can you identify the artist behind that musical composition?
+music_query,Do you happen to know who produced that particular track?
+music_query,Could you tell me the name of the person who created this melody?
+music_query,Can you send me the lines of this tune through email? 
+music_query,Could you drop a message containing the words for this melody?
+music_query,Is it possible for you to dispatch the verses of this track via email?
+music_query,Can you send me the verses of this track over email?
+music_query,I require the written lyrics for this piece by means of electronic mail.
+music_query,Kindly forward to my inbox the wording of this particular composition.
+music_query,Can you provide me with details regarding the audio playing right now?
+music_query,Do you have any insight into the current piece of sound being broadcasted?
+music_query,Could you furnish me with facts about the noise that's presently audible?
+music_query,Can you enlighten me about the melody that's being sung?
+music_query,What details do you have about the rhythm that's currently audible?
+music_query,Could you share some insights regarding the sound that's emanating?
+music_query,Inform me about my preferred rhythm choices.
+music_query,
+music_query,Reveal to me the nature of my audio preferences.
+music_query,
+music_query,Enlighten me on the genre that suits my taste.
+music_query,Can you inform me about my auditory preferences? 
+music_query,What are the types of sounds that resonate with me? 
+music_query,How can you describe my sonic inclinations?
+music_query,Identify the person who vocalizes.
+music_query,Who's the individual that produces sounds with their voice?
+music_query,Can you tell me who's responsible for using their vocal chords to make sound?
+music_query,Identify the vocalist.
+music_query,Tell me who crooned.
+music_query,Mention the person behind the microphone.
+music_query,In which year was this melody released?
+music_query,At what point in time did this tune become available?
+music_query,What is the chronological origin of this particular audio composition?
+music_query,In which year was this musical composition introduced to the public?
+music_query,When did this particular audio arrangement first make an appearance?
+music_query,What is the specific timeframe in which this piece of sound was initially released?
+music_query,Can you identify what's currently being played aurally?
+music_query,"I need to learn the name of the ongoing audio track, can you assist me?"
+music_query,Is it possible for you to provide me with the title of the current audible tune?
+music_query,Could you identify the tune that's currently audible?
+music_query,What is the present song that can be heard?
+music_query,Would you be able to tell me the melody that’s playing right now?
+music_query,What details does the track currently hold?
+music_query,What specifics can be found in the current track information?
+music_query,What information is available about the present track?
+music_query,"""What are the details of the current audio track?"""
+music_query,"""Can you provide information regarding the current playback selection?"""
+music_query,"""What is the data available for the currently played media?"""

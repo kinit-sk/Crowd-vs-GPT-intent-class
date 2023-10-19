@@ -1,0 +1,2429 @@
+intent,text
+accept_reservations,Is it possible to make a reservation at the restaurant in New York?
+accept_reservations,Are reservations accepted at the restaurant located in New York?
+accept_reservations,Can one book a table in advance at the restaurant situated in New York?
+accept_reservations,Are reservations available at the New York restaurant?
+accept_reservations,Can one make a reservation at the restaurant in New York?
+accept_reservations,Is it possible to secure a booking at the dining establishment located in New York?
+accept_reservations,Is it possible to book a table beforehand at Village Inn?
+accept_reservations,Are reservations allowed to be made at Village Inn?
+accept_reservations,Can you secure a spot at Village Inn by making a reservation?
+accept_reservations,Is it possible to reserve a table in Village Inn?
+accept_reservations,Can bookings be made at Village Inn?
+accept_reservations,Does Village Inn allow customers to make reservations beforehand?
+accept_reservations,Can I reserve a table at Olive Garden? 
+accept_reservations,Would it be possible for me to book a table at Olive Garden? 
+accept_reservations,Is there any chance that I could make a reservation for a table at Olive Garden?
+accept_reservations,Is it possible that I would be allowed to make a table reservation at Olive Garden?
+accept_reservations,Would it be likely for me to reserve a table at Olive Garden?
+accept_reservations,Do you reckon they'd permit me to book a table at Olive Garden?
+accept_reservations,Is it possible to make reservations at Eleven Madison Park?
+accept_reservations,Can you book a table at Eleven Madison Park beforehand?
+accept_reservations,Does Eleven Madison Park accept reservations?
+accept_reservations,Is it possible to make a booking at Eleven Madison Park?
+accept_reservations,Can reservations be made for Eleven Madison Park?
+accept_reservations,Does Eleven Madison Park accept advance bookings?
+accept_reservations,Can anyone inform me about Taco Bell's reservation policy?
+accept_reservations,"I'm curious if reservations are accepted at Taco Bell, can someone confirm this for me?"
+accept_reservations,Is it possible to reserve a table at Taco Bell? Please let me know.
+accept_reservations,Can you confirm if Taco Bell accepts reservations? 
+accept_reservations,Is it possible to make a reservation at Taco Bell? 
+accept_reservations,"I am curious, does Taco Bell have the option to reserve a table in advance?"
+accept_reservations,Is it possible to make a reservation at Bill's House of Chop Suey?
+accept_reservations,Can one secure a table in advance at Bill's House of Chop Suey?
+accept_reservations,Does Bill's House of Chop Suey have the option for guests to reserve a spot beforehand?
+accept_reservations,Are reservations accepted at Bill's House of Chop Suey?
+accept_reservations,Does Bill's House of Chop Suey allow for advance bookings?
+accept_reservations,Can you make a reservation at Bill's House of Chop Suey?
+accept_reservations,Do you know if Taco Bell accepts reservations?
+accept_reservations,Is it possible to reserve a spot at Taco Bell?
+accept_reservations,Can I secure a reservation at Taco Bell?
+accept_reservations,Do you have any clue whether Taco Bell accepts advance bookings?
+accept_reservations,Is there any information regarding the possibility of making reservations at Taco Bell?
+accept_reservations,Can you tell me if Taco Bell allows customers to reserve tables?
+accept_reservations,Can one make a reservation at White Castle?
+accept_reservations,Is there an option to reserve a table at White Castle?
+accept_reservations,Would it be feasible to book a table ahead of time at White Castle?
+accept_reservations,Can one make a reservation at White Castle?
+accept_reservations,Is it feasible to book a table at White Castle?
+accept_reservations,Would it be possible to secure a dining spot at White Castle?
+accept_reservations,Are reservations necessary at Central? 
+accept_reservations,Do you know if Central requires reservations?
+accept_reservations,Is it mandatory to book reservations at Central?
+accept_reservations,Are reservations necessary at Central? 
+accept_reservations,Do you know if Central requires reservations? 
+accept_reservations,Is it mandatory to make reservations for Central?
+accept_reservations,Can you confirm if the New York restaurant accepts reservations?
+accept_reservations,Is it possible to reserve a table at the restaurant in New York?
+accept_reservations,Would it be possible to secure a booking at the New York restaurant?
+accept_reservations,Could you inform me if the dining establishment in New York accepts bookings?
+accept_reservations,Is it possible to find out if reservations are allowed at the restaurant situated in New York?
+accept_reservations,Would you happen to know whether or not the New York eatery accepts advanced reservations?
+are_you_a_bot,Can it be confirmed if this is an automated program? 
+are_you_a_bot,Is this system being operated by a machine? 
+are_you_a_bot,Is the user of this application a human or an artificial intelligence?
+are_you_a_bot,"""Can it be confirmed if this is an automated software?"""
+are_you_a_bot,"""Is the entity in question a machine encoded with artificial intelligence?"""
+are_you_a_bot,"""Would it be accurate to state that this is an automated program?"""
+are_you_a_bot,Are you indeed a living being or is it just a rumor?
+are_you_a_bot,Can you confirm whether you're an actual human or not?
+are_you_a_bot,Is there any veracity to the claim that you exist as a real person?
+are_you_a_bot,Can you confirm that you are a human being?
+are_you_a_bot,Are you truly a genuine person?
+are_you_a_bot,"Is it accurate to say that you're an actual, living individual?"
+are_you_a_bot,Is it true that you are genuinely real?
+are_you_a_bot,Can I confirm if you truly exist?
+are_you_a_bot,Are you truly tangible and not just a figment of my imagination?
+are_you_a_bot,Is it true that you actually exist?
+are_you_a_bot,Can you confirm if your existence is genuine?
+are_you_a_bot,Do you truly believe that you are not a figment of my imagination?
+are_you_a_bot,"""Is your existence authentic?"""
+are_you_a_bot,"""Do you truly exist?"""
+are_you_a_bot,"""Can I confirm the reality of your being?"""
+are_you_a_bot,Do you really exist?
+are_you_a_bot,Are you an actual being?
+are_you_a_bot,Is it true that you are a tangible entity?
+are_you_a_bot,"""Do you identify yourself as a computer or a human?"""
+are_you_a_bot,"""Are you simply a machine or a living being?"""
+are_you_a_bot,"""Is your existence based on technology or biology?"""
+are_you_a_bot,Are you a machine or a person?
+are_you_a_bot,Are you an automated program or a flesh and blood organism?
+are_you_a_bot,Are you a digital entity or a natural being?
+are_you_a_bot,Are you a real person?
+are_you_a_bot,Are you of human origin?
+are_you_a_bot,Do you possess human attributes?
+are_you_a_bot,"""Do you possess the characteristics of a human being?"""
+are_you_a_bot,"""Is your identity that of a Homo sapien?"""
+are_you_a_bot,"""Are you a representative of the human species?"""
+are_you_a_bot,Is the voice I am hearing generated by a computer?
+are_you_a_bot,Are you an artificial intelligence program responsiblle for this voice?
+are_you_a_bot,Can it be considered that the voice I am currently listening to is created by a machine?
+are_you_a_bot,"""Is your voice computer-generated?"""
+are_you_a_bot,"""Does a computer create your speaking voice?"""
+are_you_a_bot,"""Are you an artificial intelligence program that produces your vocalization?"""
+are_you_a_bot,Is it possible for you to disclose whether or not you are an automated system?
+are_you_a_bot,Could you let me know if you are programmed as a bot or not?
+are_you_a_bot,Would you mind informing me whether you are an artificial intelligence or not?
+are_you_a_bot,May I know whether you are a bot or not?
+are_you_a_bot,Can you confirm if you're an automated program?
+are_you_a_bot,Is it possible for you to disclose if you're an artificial intelligence?
+are_you_a_bot,"""Can you confirm if you're a human or machine?"""
+are_you_a_bot,"""Are you an individual or an automaton?"""
+are_you_a_bot,"""Do you identify as a person or a robot?"""
+are_you_a_bot,Can you ascertain if you are a human or a machine?
+are_you_a_bot,Are you of the humanoid variety or mechanical in nature?
+are_you_a_bot,Do you classify yourself as a person or an automated system?
+are_you_a_bot,Has your voice been generated artificially or is it humanly produced? 
+are_you_a_bot,Is your vocal sound computer-generated or naturally occurring? 
+are_you_a_bot,Did you use a synthesized or organic voice?
+are_you_a_bot,Has your voice been synthesized or is it a human voice?
+are_you_a_bot,Is your voice naturally human or has it been artificially generated?
+are_you_a_bot,Can you confirm whether your voice is the product of synthesis or if it originates from a human source?
+bill_balance,What is the outstanding balance on my visa card?
+bill_balance,Could you tell me how much I owe on my visa account?
+bill_balance,May I know the total amount payable on my visa?
+bill_balance,What's the balance owed on my Visa card?
+bill_balance,Could you tell me the outstanding amount on my Visa?
+bill_balance,How much do I have to pay for my Visa bill?
+bill_balance,"""What is the total amount I have to pay for the bills this month?"""
+bill_balance,"""Can you tell me the sum of all the bills due this month?"""
+bill_balance,"""How much money do I need to allocate for my expenses this month?"""
+bill_balance,Can you tell me the list of my expenses for this month?
+bill_balance,"I would like to know the amount of money I need to pay for this month's bills, can you provide me with that information?"
+bill_balance,Could you kindly provide me with an overview of my monthly financial obligations?
+bill_balance,"""What is the amount of money I have to pay for my monthly water and electricity consumption?"""
+bill_balance,"""How much do I need to budget for my water and electricity bills on a monthly basis?"""
+bill_balance,"""What are the costs associated with using water and electricity in my home each month?"""
+bill_balance,What is the amount I have to pay for my water and electricity bills?
+bill_balance,Can you tell me the total cost of my water and electricity consumption?
+bill_balance,How much should I budget for my water and electricity expenses?
+bill_balance,What is the outstanding balance on my Visa account?
+bill_balance,How much money do I need to pay Visa?
+bill_balance,Can you tell me what my Visa payment amount is?
+bill_balance,What is the outstanding balance on my Visa card?
+bill_balance,How much money do I need to pay back on my Visa account?
+bill_balance,What is the total amount that I owe to Visa?
+bill_balance,Can you tell me how much my monthly car payment and insurance will cost?
+bill_balance,What is the total amount of money that I'll need to pay for my vehicle's insurance and payments per month?
+bill_balance,Could you please let me know the costs associated with both my auto loan payments and insurance?
+bill_balance,Kindly provide me with the details of my car payment and insurance costs.
+bill_balance,Can you inform me regarding the expenses for my vehicle's financing and insurance?
+bill_balance,What are the charges that I need to pay for my car loan and insurance?
+bill_balance,What is the amount that I need to pay for this month?
+bill_balance,Can you tell me how much money I owe for this current month?
+bill_balance,Is there a specific payment required from me for this particular month?
+bill_balance,What is the amount due for this month?
+bill_balance,How much money am I expected to pay for this current month?
+bill_balance,What is my payment obligation for this month?
+bill_balance,Has the phone bill remained constant compared to the previous month?
+bill_balance,Is there any alteration in the amount of phone bill from the preceding month?
+bill_balance,Was the previous month's phone bill identical to the current one?
+bill_balance,"as the phone bill remained uniform compared to the previous month, or has it shifted?"
+bill_balance,s there a chance that the phone bill hasn't changed since last month's issuance?
+bill_balance,ould it be possible that the current phone bill holds similarities or differences with regards to the preceding one?
+bill_balance,Can you give me the details of my water bill?
+bill_balance,"I would like to know how much my water bill is, can you inform me?"
+bill_balance,Please tell me the current amount due on my water bill.
+bill_balance,Could you inform me about my water bill please?
+bill_balance,Would you be able to disclose the amount of my water bill?
+bill_balance,May I ask for an update on my water bill balance?
+bill_balance,How much money do I need to pay for my monthly rent and water bills?
+bill_balance,What is the total amount due every month for my rent and water services?
+bill_balance,Can you tell me the combined cost of my monthly rental fee and water consumption?
+bill_balance,What is the expense associated with my rental and water utilities?
+bill_balance,How much do I need to budget for my monthly rent and water expenses?
+bill_balance,Can you provide me with an estimate of the amount required to cover my rent and water bills?
+bill_balance,"""What amount is required for me to settle my power and water bills?"""
+bill_balance,"""How much do I have to spend on my electricity and water consumption?"""
+bill_balance,"""What is the cost I need to cover for my utilities' electric and water charges?"""
+bill_balance,What is the total amount I need to settle for my electricity and water utilities?
+bill_balance,How much money do I owe for the consumption of electricity and water?
+bill_balance,Can you tell me the actual cost that I have to pay for both my electricity and water bills?
+calories,What is the number of calories present in a serving of chicken nuggets?
+calories,Can you provide the information about the calorie count in chicken nuggets?
+calories,How many calories are there in one serving of chicken nuggets?
+calories,Can you tell me how many calories are in chicken nuggets?
+calories,What is the caloric value of a serving size of chicken nuggets?
+calories,"I am curious about the calorie count of chicken nuggets, can you provide that information?"
+calories,How many calories does a pizza typically contain?
+calories,What is the calorie count of a pizza?
+calories,Could you tell me the approximate calorie content of a pizza?
+calories,"""How many calories does a pizza contain?"""
+calories,"""What is the calorie count of a pizza?"""
+calories,"""Could you tell me the number of calories in a pizza?"""
+calories,What is the calorie count of a cheeseburger?
+calories,Can you tell me how many calories are in a cheeseburger?
+calories,How many calories does a typical cheeseburger have?
+calories,What is the calorie count of a cheeseburger?
+calories,Can you tell me the number of calories present in a cheeseburger?
+calories,How many calories does a cheeseburger contain?
+calories,What would be the estimated amount of calories found in a serving of fries?
+calories,Can you approximate the calorie count of french fries?
+calories,How many calories typically come in an order of fries?
+calories,What is the estimated caloric value of fries?
+calories,How many calories can I anticipate to find in a serving of fries?
+calories,What would be the expected calorie count for fries?
+calories,what is the calorie count of an orange?
+calories,how many calories are present in a single orange?
+calories,can you tell me the amount of calories an orange contains?
+calories,What is the caloric content of an orange?
+calories,How many calories can be found in an orange fruit?
+calories,Do you know how much energy an orange contains in terms of calories?
+calories,"""What is the calorie content of chicken tenders?"" "
+calories,"""Are there any specific types of calories found in chicken tenders?"" "
+calories,"""Could you provide information on the caloric value of chicken tenders?"""
+calories,What is the calorie content of chicken tenders?
+calories,Can you tell me about the calorific value of chicken tenders?
+calories,Do chicken tenders have high or low amounts of calories?
+calories,What is the amount of calories one should intake?
+calories,Can you tell me how many calories I need to consume?
+calories,How much energy do I have to obtain through my diet?
+calories,"""What is the level of calorie consumption?"""
+calories,"""How many calories are being consumed?"""
+calories,"""What is the amount of energy intake in calories?"""
+calories,Consuming excessive calories can be harmful to health.
+calories,Overloading on calorie intake can have a negative impact on one's well-being.
+calories,It is not recommended to ingest too many calories as it may lead to adverse consequences for the body.
+calories,Consuming excessive amounts of calories can have adverse effects on one's health.
+calories,The consumption of calories in excess is hazardous for the human body.
+calories,Intaking too many calories can lead to negative consequences for an individual's well-being.
+calories,How many calories can we find in a banana?
+calories,What is the calorie count of a banana?
+calories,What amount of calories does a banana have?
+calories,"""What amount of calories are present in bananas?"""
+calories,"""How many calories do bananas possess?"""
+calories,"""What is the calorie count of bananas?"""
+calories,Is it possible to examine the calorie count of a chicken sandwich?
+calories,Would you be able to verify the number of calories in a chicken sandwich?
+calories,Can you determine the caloric content present in a chicken sandwich?
+calories,Is it possible for you to verify the calorie content of a chicken sandwich?
+calories,"Could you examine the caloric value of a chicken sandwich, please?"
+calories,Would you be able to confirm how many calories are in a chicken sandwich?
+carry_on,What are the regulations for carry-on baggage on Southwest flights?
+carry_on,Could you explain the policy regarding carry-on luggage for Southwest airlines?
+carry_on,How much can passengers bring with them as a carry-on on a Southwest flight?
+carry_on,What are the rules for carry-on luggage on Southwest Airlines?
+carry_on,Could you provide information about Southwest Airlines' policy on carrying baggage onboard flights?
+carry_on,How does Southwest Airlines regulate carry-on items during their flights?
+carry_on,What guidelines must one follow while carrying toothpaste during travel?
+carry_on,Are there any regulations applicable when taking toothpaste on a journey?
+carry_on,Could you specify the protocols for transporting toothpaste on a trip?
+carry_on,"""What guidelines should be followed while carrying toothpaste during travels?"""
+carry_on,"""Are there any regulations that one needs to abide by when bringing toothpaste on a trip?"""
+carry_on,"""When traveling, what are the protocols concerning transporting toothpaste?"""
+carry_on,Can you provide me with the carry-on guidelines for Southwest Airlines?
+carry_on,What are the regulations for carrying a bag on Southwest Airlines flights?
+carry_on,Could you inform me about the allowable dimensions and weight limitations for carry-on luggage on Southwest Airlines?
+carry_on,Could you provide me with the carry-on regulations for Southwest Airlines?
+carry_on,What are the guidelines for carrying your luggage on board a Southwest flight?
+carry_on,Can you inform me about Southwest's policy regarding carry-on baggage?
+carry_on,Can you provide information on the guidelines for carrying luggage onboard my upcoming flight?
+carry_on,I'm curious about the regulations related to carrying carry-on bags on my flight. Could you please explain them?
+carry_on,May I inquire about the rules and restrictions regarding carry-on baggage for the flight that I will be taking?
+carry_on,Can you provide me with the guidelines for carrying luggage on my upcoming flight?
+carry_on,What are the regulations regarding the size and weight of carry-on bags for my scheduled flight?
+carry_on,Could you inform me about the requirements for bringing hand baggage onto the plane I'll be traveling on?
+carry_on,Could you provide me with information on JetBlue's regulations around carrying a personal item on a flight?
+carry_on,What limitations or rules does JetBlue impose for bringing carry-on bags onboard their flights?
+carry_on,"I am looking for an explanation of the guidelines that need to be followed for carrying baggage aboard JetBlue flights, would you be able to help me?"
+carry_on,"""What are the regulations for carrying baggage aboard JetBlue flights as a carry-on?"""
+carry_on,"""Could you explain the policy regarding carry-on luggage on JetBlue flights?"" "
+carry_on,"""What is the allowed size and weight limit for carry-on bags on JetBlue airlines?"""
+carry_on,What are the carry-on limitations for American Airlines that I need to know?
+carry_on,Can you inform me about the carry-on policies of American Airlines?
+carry_on,"I want to learn about the carry-on restrictions applicable on American Airlines flights, could you help?"
+carry_on,Can you provide me with the carry-on regulations of American Airlines that I need to be aware of?
+carry_on,It would be helpful if you could inform me about the baggage restrictions for American Airlines.
+carry_on,"I am curious regarding the carry-on rules imposed by American Airlines, can you provide some insight?"
+carry_on,What is the maximum number of carry-on bags allowed on a United Airlines flight to Austin?
+carry_on,How many pieces of cabin baggage can I bring when travelling with United Airlines to Austin?
+carry_on,Is there a limit to the number of carry-on items that passengers can bring on a United Airlines flight to Austin?
+carry_on,What is the maximum number of carry-on bags that I can bring on a United Airlines flight to Austin?
+carry_on,Are there any restrictions on the number of carry-on luggage items that I can take with me on my trip to Austin via United Airlines?
+carry_on,Can you tell me the allowed quantity of carry-ons on a United Airlines flight towards Austin?
+carry_on,Is it permissible to carry sunblock in my hand luggage?
+carry_on,May I bring along sunscreen in my cabin baggage?
+carry_on,Would it be acceptable to have suntan lotion in my carry-on bag?
+carry_on,Is it permissible to pack sunblock in my carry-on luggage?
+carry_on,Would I be allowed to include sunscreen in my hand baggage?
+carry_on,May I bring suntan lotion in my cabin baggage?
+carry_on,What is the maximum number of bags allowed for carry-on?
+carry_on,How many pieces of luggage can I take with me on board as carry-on?
+carry_on,What is the limit of carry-on bags I'm permitted to bring?
+carry_on,What is the maximum number of bags allowed for carry-on luggage?
+carry_on,Is there a limit to the number of bags I can bring on board as carry-on luggage?
+carry_on,How many pieces of baggage am I permitted to bring as carry-on?
+carry_on,What is the maximum number of carry-on bags allowed on an American Airlines flight to Japan?
+carry_on,Is there a limit to the number of carry-ons I can bring with me on an American Airlines flight to Japan?
+carry_on,How many pieces of hand luggage am I authorized to take on an American Airlines flight headed for Japan?
+carry_on,What is the maximum number of carry-on luggage allowed on my American Airlines flight to Japan?
+carry_on,Is there a limit to how many carry-on bags I can bring onboard an American Airlines plane to Japan?
+carry_on,How many pieces of hand luggage am I able to take on an American Airlines journey to Japan?
+change_accent,Alter the configuration to produce a feminine audio output.
+change_accent,Modify the preferences to mimic a female sounding voice.
+change_accent,Adjust the settings to achieve a sound that resembles that of a woman's voice.
+change_accent,Modify the configurations to produce a feminine voice.
+change_accent,Adjust the parameters to emulate a woman's sound.
+change_accent,Tweak the settings to make the audio resemble that of a female.
+change_accent,Is it possible for you to change the voice to male?
+change_accent,Could you alter the voice to a masculine one?
+change_accent,Would it be feasible to switch the narrator's tone to that of a man?
+change_accent,Is it possible to change the gender of the voice?
+change_accent,Would it be feasible to switch over to a man's voice?
+change_accent,Can you activate the male vocal option?
+change_accent,"""I desire the presence of a female voice."""
+change_accent,"""A female vocal is what I'm after."""
+change_accent,"""My preference lies with a woman's voice."""
+change_accent,My preference is to have the voice of a female.
+change_accent,I would like to hear a female's voice instead.
+change_accent,The voice that I desire to listen to is that of a female.
+change_accent,Can we switch to the female voice? I find it more appealing.
+change_accent,Is it possible to change to the female voice? It's my preferred choice.
+change_accent,Could you please switch to the female voice? I enjoy listening to it more.
+change_accent,"""Can you change to the female voice? It's my preference."""
+change_accent,"""Please switch to the female voice, I find it appealing."""
+change_accent,"""The female voice is my favorite, would you mind changing to it?"""
+change_accent,Is it possible for you to utilize the male vocal?
+change_accent,Would a male voice be suitable in this scenario?
+change_accent,Can you employ a man's voice?
+change_accent,May you utilize the voice of a male?
+change_accent,Would it be possible for you to employ a masculine vocal tone?
+change_accent,Is it feasible for you to incorporate the sound of a man's voice?
+change_accent,Convert voice to a feminine tone.
+change_accent,Alter the sound of the voice to make it more feminine.
+change_accent,Transform the vocal cords to produce a female-sounding voice.
+change_accent,Can you transform the voice into a female's?
+change_accent,Is it possible to alter the vocal tonality to that of a woman's?
+change_accent,Could you modify the sound to resemble that of a female?
+change_accent,Is it possible for you to switch to the male voice?
+change_accent,Can the male voice be selected by you?
+change_accent,Would it be feasible for you to modify your voice to a male tone?
+change_accent,Is it possible for you to switch the voice to a male one?
+change_accent,Could you modify the vocal output to sound like a man's voice?
+change_accent,Would it be feasible for you to alter the speech patterns to emulate a masculine tone?
+change_accent,Convert the voice to female.
+change_accent,Alter the sound to a female tone.
+change_accent,Transform the vocal pitch to that of a woman's.
+change_accent,Convert the voice to a female one.
+change_accent,Alter the voice to sound feminine.
+change_accent,Transform the voice into that of a woman's.
+change_accent,"From this point on, I'd prefer to listen to a female voice."
+change_accent,My preference now is to exclusively hear female voices.
+change_accent,"Henceforth, it is my desire to solely tune in to the sound of a woman's voice."
+change_accent,"Henceforth, I prefer the sound of the feminine voice."
+change_accent,"Moving forward, it is my desire to exclusively listen to female vocals."
+change_accent,My preference is to hear only the sweet melodic tones of women's voices.
+change_accent,Modify the voice to female.
+change_accent,Switch the voice to a feminine tone.
+change_accent,Convert the voice into a woman's voice.
+change_accent,Modify the vocal tone to that of a female.
+change_accent,Alter the voice output to match that of a woman.
+change_accent,Adjust the sound of the speaker to be more feminine-sounding.
+change_language,"Is it okay if I converse with you in Spanish, my friend?"
+change_language,"May I address you in the language of español, buddy?"
+change_language,"Do you mind if I speak to you using the Spanish tongue, hombre?"
+change_language,"Hombre, would you mind if I communicate with you in Spanish?"
+change_language,"Is it alright for me to speak Spanish to you, my friend?"
+change_language,"May I converse with you in the Spanish language, hombre?"
+change_language,Can we converse in Mandarin?
+change_language,Is it feasible to communicate with you in Mandarin?
+change_language,Would it be practical to speak with you in Mandarin?
+change_language,Can we converse in Mandarin?
+change_language,Would it be feasible to communicate with you in Mandarin?
+change_language,Is it achievable to have a discussion in Mandarin with you?
+change_language,Can you communicate using the Dutch language?
+change_language,Would you be able to express yourself in Dutch?
+change_language,Is it possible for you to speak using the Dutch tongue?
+change_language,Use the Dutch language to communicate.
+change_language,Express yourself in the Dutch vernacular.
+change_language,Converse in the dialect spoken in the Netherlands.
+change_language,"""I want to utilize your Russian language skills to communicate."""
+change_language,"""Using the proficiency in Russian that you possess, I would like your assistance."""
+change_language,"""Would it be possible for me to employ your ability to speak Russian?"""
+change_language,"""I'd prefer to utilize your Russian language skills."""
+change_language,
+change_language,"""Could you put your knowledge of the Russian language at my disposal?"""
+change_language,
+change_language,"""If I may, would it be possible for me to employ your proficiency in Russian?"""
+change_language,Would you be willing to switch the language setting to Russian?
+change_language,Is it possible for you to alter your language setting to Russian?
+change_language,Could you make a modification to the language setting so that it displays in Russian?
+change_language,Would it be possible for you to switch your language preference to Russian?
+change_language,
+change_language,Can I request that you modify your language settings to Russian?
+change_language,
+change_language,Might you consider adjusting your language configuration to utilize Russian?
+change_language,My preference would be to converse in the Portuguese language.
+change_language,I am interested in communicating using the Portuguese tongue.
+change_language,It would be my choice to use Portuguese as the medium of conversation.
+change_language,Speaking in Portuguese is my preference.
+change_language,My desire is to communicate using the Portuguese language.
+change_language,It would be great if I could converse in Portuguese.
+change_language,My preference is that the language is in Spanish.
+change_language,"To my liking, it would be ideal if the conversation was conducted in Spanish."
+change_language,Spanish is the language I wish to use for communication.
+change_language,It would be preferable if the language used could be Spanish.
+change_language,My preference is for the language to be in Spanish.
+change_language,"If possible, I would like the language to be expressed in Spanish."
+change_language,It is mandatory that we communicate in the English language.
+change_language,Speaking in the English dialect is a requisite.
+change_language,"For successful communication, the use of English vernacular is necessary."
+change_language,English needs to be the language we use for communication.
+change_language,Speaking in English is a necessity.
+change_language,It is imperative that we converse using the English language.
+change_language,Can you please communicate in the French language?
+change_language,Kindly express yourself using French.
+change_language,"Could you speak in French, if possible?"
+change_language,"Could you converse in the French language, please?"
+change_language,I would appreciate it if you could communicate using the French tongue.
+change_language,Kindly use French when conversing with me.
+change_language,Can we please communicate in the Spanish language?
+change_language,May I request that our conversation be held in Spanish?
+change_language,Would it be possible for us to converse in the Spanish tongue?
+change_language,Could we switch to Spanish for our conversation?
+change_language,Would it be possible to communicate in Spanish?
+change_language,May I suggest that we converse in the Spanish language?
+directions,Can you inform me of the gas station closest to Glendale?
+directions,Could you advise me on the nearest gas station in proximity to Glendale?
+directions,I'd appreciate it if you could tell me where the closest gas station is located near Glendale.
+directions,Kindly inform me about the gas station closest to Glendale.
+directions,Could you point out the nearest gas station in proximity to Glendale?
+directions,I would appreciate it if you could share with me the gas station that is at the shortest distance from Glendale.
+directions,What is the hospital closest to my current location?
+directions,Could you tell me which hospital is the most proximal to where I am?
+directions,"I'm trying to locate the hospital that's nearest to me, could you help me with the information?"
+directions,"""What is the hospital closest to my location?"""
+directions,"""Which medical center is located in close proximity to me?"""
+directions,"""Can you tell me the nearest hospital from where I am currently situated?"""
+directions,Could you provide me with instructions to reach Phoenix?
+directions,Can you guide me on how to get to Phoenix?
+directions,What are the directions to Phoenix?
+directions,Could you provide me with instructions to reach Phoenix?
+directions,Can you guide me on how to get to Phoenix?
+directions,What are the directions I need to follow to reach Phoenix?
+directions,What is the closest Fry's location?
+directions,Can you tell me the nearest Fry's store whereabouts?
+directions,Where can I find a Fry's nearby?
+directions,What is the closest Fry's location?
+directions,Can you tell me the Fry's store that is nearest to my current location?
+directions,Where can I find the Fry's store that is nearest to me?
+directions,What is the gas station nearest to Glendale? 
+directions,Can you tell me where I can find a gas station in close proximity to Glendale? 
+directions,"In the vicinity of Glendale, what is the location of the nearest gas station?"
+directions,What is the gas station nearest to Glendale? 
+directions,Could you tell me where the closest gas station is in relation to Glendale? 
+directions,In what location is the gas station that is closest to Glendale?
+directions,Can you provide me with directions to Phoenix? 
+directions,"I need some guidance on how to reach Phoenix, could you assist me with that? "
+directions,Please help me navigate my way to Phoenix by giving me instructions.
+directions,Can you provide me with the necessary instructions to reach Phoenix?
+directions,I am in need of some guidance or directions to arrive at Phoenix. Could you help me with that?
+directions,"Would you mind sharing the route or directions to get to Phoenix with me, please?"
+directions,Can you provide me with directions on how to reach the train station by walking?
+directions,What is the route that I should take on foot to reach the railway station?
+directions,"Is it possible to walk to the train station, and if so, can you guide me accordingly?"
+directions,What is the route to the train station on foot?
+directions,"Is it possible to reach the train station by walking and, if yes, what's the way?"
+directions,Could you direct me towards the train station while considering a pedestrian course of traveling?
+directions,Can you tell me the location of the nearest hospital to me?
+directions,I am looking for information on where the closest hospital to my current position is. Could you help me with that?
+directions,Is it possible for you to provide me with the whereabouts of the hospital in proximity to me?
+directions,Can you tell me the location of the nearest hospital to my current position?
+directions,I'm looking for information on the hospital that's most proximate to my present whereabouts. Could you let me know where it is?
+directions,Do you have any idea about the whereabouts of the closest healthcare facility to my current location?
+directions,What is the way to walk to the subway?
+directions,Can you instruct me on how to reach the subway on foot?
+directions,By what means can I get to the subway on foot?
+directions,By what means can I reach the subway on foot?
+directions,Is there a way to get to the subway by walking?
+directions,What is the walking route to reach the subway?
+directions,What is the nearest restroom to the Statue of Liberty?
+directions,Can you tell me the location of the closest lavatory to the Statue of Liberty? 
+directions,Where can I find the restroom that is closest to the Statue of Liberty?
+directions,What is the nearest restroom to the statue of liberty? 
+directions,Could you tell me where I can find the bathroom closest to the statue of liberty? 
+directions,In which direction do I need to head to reach the nearest restroom from the statue of liberty?
+distance,"""How long does it generally take to reach Boston when traveling by bus?"""
+distance,"""What is the typical duration of a bus ride to Boston?"""
+distance,"""On average, how much time do buses take to arrive in Boston from other locations?"""
+distance,What is the typical duration of a bus ride to Boston?
+distance,"On average, how long does it take to get to Boston by bus?"
+distance,How much time should I expect to spend traveling by bus to Boston?
+distance,What's the estimated travel time to reach the Empire State Building in Manhattan?
+distance,Can you provide an approximate duration to reach the Empire State Building located in Manhattan?
+distance,How much time should I allocate for traveling from my current location to the Empire State Building situated in Manhattan?
+distance,What is the estimated travel time to reach the Empire State Building in Manhattan?
+distance,How long does it take to get to the Empire State Building if traveling by foot or vehicle in Manhattan?
+distance,What is the approximate duration of the journey towards the Empire State Building located in Manhattan?
+distance,Could you provide me with information on the appropriate time for me to reach the airport? 
+distance,Do you have any knowledge regarding the optimal time of arrival at the airport that you could share with me?
+distance,I was wondering if you could give me some details about when I should aim to arrive at the airport?
+distance,Could you provide information regarding what time should I reach the airport?
+distance,Can you give me an idea of when I should plan to be at the airport?
+distance,Would you enlighten me on the appropriate airport arrival time?
+distance,"""What is the estimated arrival time if I take a bus to reach Omaha?"""
+distance,"""Can you tell me how long it takes to get to Omaha via bus route?"""
+distance,"""How much time would it take for me to reach Omaha by using a bus?"""
+distance,"""How long does it take to reach Omaha by bus?"""
+distance,"""What is the estimated travel time to arrive at Omaha taking a bus route?"""
+distance,"""Can you provide me with an approximate duration of the journey from here to Omaha if I choose to commute via bus?"""
+distance,What is the expected travel duration for reaching Yankee Stadium situated in The Bronx?
+distance,How much time does it require to arrive at Yankee Stadium located in The Bronx?
+distance,Can you indicate the estimated time of journey required to get to Yankee Stadium found in The Bronx?
+distance,What is the duration of the journey to reach Yankee Stadium in the Bronx?
+distance,How much time is required to arrive at Yankee Stadium when traveling to the Bronx?
+distance,Could you tell me how long it takes to get to Yankee Stadium situated in the Bronx?
+distance,Can you inform me about the remaining distance I have to travel to reach my destination?
+distance,How much further do I have to drive until I arrive at my intended location?
+distance,Would you mind letting me know the amount of driving time left before I reach my desired end point?
+distance,Can you inform me about the remaining distance that I need to cover until I reach my desired location?
+distance,
+distance,Do you have an idea of how far more I must drive before I eventually arrive at the destination?
+distance,
+distance,Could you please let me know the estimated time left for driving until I successfully reach my final stop?
+distance,What is the distance left to reach our destination?
+distance,Can you tell me how much further we have to go to get to our destination?
+distance,How close or far away are we from our intended arrival point?
+distance,What is the distance between us and our intended endpoint?
+distance,Could you inform me of the remaining travel distance till we reach our destination?
+distance,"I am curious about the extent of the distance left before we arrive at our final location, can you provide insight?"
+distance,What is the direction to reach the Sears Tower in Chicago and how much time it will take?
+distance,Can you tell me the path that leads to the Sears Tower in Chicago and the estimated duration of travel?
+distance,What route should we take to get to the Sears Tower in Chicago and how long will our journey last?
+distance,"What is the route that leads to the Sears Tower in Chicago, and what's the estimated time of travel?"
+distance,Could you tell me the directions to reach the Sears Tower in Chicago and how much time it takes to get there?
+distance,"Which path should we take to arrive at the Sears Tower in Chicago, and what's the approximate duration of traveling?"
+distance,What is the estimated time of arrival for me at Walmart?
+distance,Can you tell me how much time it will take me to reach Walmart?
+distance,I am wondering about the duration required for reaching Walmart.
+distance,What is the estimated duration of my travel time to Walmart?
+distance,Can you give me an idea of how much time it would take for me to reach Walmart?
+distance,How much time should I allot for my transit to Walmart?
+distance,What is the distance between my current location and Orlando?
+distance,Can you tell me the approximate distance from where I am to Orlando?
+distance,How many miles away is Orlando from my present location?
+distance,What is the distance between me and Orlando?
+distance,How many miles away am I from Orlando?
+distance,What's the approximate distance separating me from Orlando?
+food_last,What is the length of time milk can be stored for?
+food_last,How long can you keep milk before it spoils?
+food_last,What is the shelf life of milk?
+food_last,What is the maximum number of days that milk can be stored for?
+food_last,How long can milk be kept fresh before it spoils?
+food_last,Is there a limit to how many days milk can stay consumable?
+food_last,What is the duration in which milk can be kept in my fridge?
+food_last,How long does milk remain consumable if stored in my fridge?
+food_last,For what length of time can I store milk in my fridge and still have it drinkable?
+food_last,How long is it safe to store milk in my refrigerator?
+food_last,What is the maximum period milk can be kept in my fridge?
+food_last,Is there a time limit for keeping milk in my fridge?
+food_last,How long can a burrito be frozen before it is no longer safe for consumption?
+food_last,What is the maximum duration for which a burrito can remain frozen and still be considered edible?
+food_last,At what point does a burrito become inedible after being kept frozen?
+food_last,"""How long can I freeze a burrito before it becomes unfit for consumption?"""
+food_last,"""What is the maximum duration that a burrito can be stored in the freezer without spoiling?"""
+food_last,"""At what point does a frozen burrito become inedible due to prolonged freezing?"""
+food_last,What does the expiration date of milk indicate?
+food_last,When does milk expire?
+food_last,What is the meaning of the milk's expiry date?
+food_last,What is the expiration date of milk?
+food_last,When does milk expire?
+food_last,How long does milk last before it expires?
+food_last,What is the expiry date of the honey? 
+food_last,When does the honey become unfit for consumption?
+food_last,How long until the honey expires?
+food_last,What is the expiration date of the honey?
+food_last,When will the honey go bad?
+food_last,By what time should the honey be consumed?
+food_last,What is the maximum duration that tofu can be stored in the freezer without going bad?
+food_last,How long does it take for tofu to go bad when stored in the freezer?
+food_last,Is there a specific timeframe within which tofu would spoil if placed in the freezer?
+food_last,What is the longevity of tofu in the freezer before it spoils?
+food_last,Can tofu be preserved for an extended period in the freezer without going bad?
+food_last,How long can tofu stay fresh in the freezer before it starts to spoil?
+food_last,What is the expiration date of milk before it can't be consumed?
+food_last,Until when can you use milk before it goes bad?
+food_last,At what point does the milk's expiry date occur prior to consumption?
+food_last,What is the expiration date of the milk before it gets spoiled?
+food_last,"Before drinking the milk, what is the date to check for its freshness?"
+food_last,At what point does the milk become expired and should not be used?
+food_last,"""What is the expiration timeline for milk?"" "
+food_last,"""When does milk usually go bad?"" "
+food_last,"""At what point does milk become expired?"""
+food_last,"""When does milk go bad?"""
+food_last,"""At what point does milk expire?"""
+food_last,"""What is the expiration timeline for milk?"""
+food_last,What is the duration for which I can store milk in the refrigerator?
+food_last,Until how many days can milk be preserved in the fridge?
+food_last,What's the maximum period for which milk can be kept in the refrigerator?
+food_last,What's the duration that milk can stay refrigerated?
+food_last,For how long is it okay to store milk in a fridge?
+food_last,How many days can I preserve milk in a refrigerator?
+food_last,What is the maximum duration I can store tofu in the freezer before it spoils?
+food_last,"Before becoming spoiled, what is the longest time tofu can be preserved in the freezer?"
+food_last,How much time can elapse before tofu become unsuitable to eat when frozen?
+food_last,What is the maximum time that tofu can remain in the freezer before it becomes spoiled?
+food_last,Is there a specific period of time during which tofu will stay fresh if stored in the freezer?
+food_last,"Before it spoils, how much time does tofu need to be frozen?"
+gas,What amount of fuel remains in my tank?
+gas,Can you inform me about the quantity of gasoline that's left in my vehicle's tank?
+gas,How many gallons of gas are still available in my tank?
+gas,What is the amount of fuel remaining in my gas tank?
+gas,Could you tell me the quantity of gasoline I still have in my vehicle's tank?
+gas,Is it possible to inform me about the level of petrol that is left in my gas tank?
+gas,Is it possible for you to inform me of the amount of fuel present in my gas tank?
+gas,Could you supply me with information regarding the quantity of gasoline that is currently in my tank?
+gas,Would you mind letting me know the exact level of petrol contained within my vehicle's gas tank?
+gas,Is there any way you could inform me about the level of gas present in my tank? 
+gas,Would you mind telling me the amount of fuel currently present in my car's tank? 
+gas,Could you let me know the quantity of gasoline that remains in my automobile's tank?
+gas,Is my fuel tank sufficiently filled to get me to Washington DC?
+gas,Will the quantity of gas in my tank be able to take me all the way to Washington DC?
+gas,Can I make it up to Washington DC with the amount of gasoline that I currently have in my vehicle's tank?
+gas,Is there sufficient gas in my tank to reach Washington DC?
+gas,Can I make it to Washington DC with the current amount of fuel in my tank?
+gas,Is the amount of gasoline in my car's tank enough to get me to Washington DC?
+gas,What's the level of fuel in the gas tank?
+gas,Can you tell me how much gas is available in the tank?
+gas,Is the tank running low on gas or is it filled to capacity?
+gas,What is the level of fuel in the gas tank?
+gas,Is the gas tank nearly empty or almost full?
+gas,Could you tell me how much gasoline the gas tank contains?
+gas,Do I have enough fuel to reach Atlantic City?
+gas,Is it possible that I might run out of gas prior to reaching Atlantic City?
+gas,Will my vehicle require refueling before we arrive at Atlantic City?
+gas,Is it possible for me to deplete my gas before I arrive at Atlantic City?
+gas,Could I exhaust my fuel supply prior to reaching Atlantic City?
+gas,Is there a chance that my gas will run out before I make it to Atlantic City?
+gas,What is the level of fuel in my tank?
+gas,Is there enough gasoline left in the tank?
+gas,How many gallons of fuel do I have?
+gas,What is the quantity of gasoline present in my fuel tank?
+gas,Can you tell me the amount of gas that's currently in my gas tank?
+gas,How much petrol is left in my vehicle's fuel reservoir?
+gas,Can I reach my intended location with the current amount of fuel in my tank?
+gas,Is it possible for me to arrive at my present destination with the remaining fuel in my vehicle?
+gas,Will the gasoline left in my fuel tank be sufficient to take me to where I am heading right now?
+gas,Can I reach my current destination with the remaining fuel in my tank?
+gas,Is it possible for me to make it to my intended location using the fuel I have left?
+gas,Will the amount of fuel left in my tank be enough to take me to my current destination?
+gas,What is the level of fuel in my tank?
+gas,Can you tell me how much gasoline is left in my car's tank?
+gas,Is my gas tank close to being empty or still holding a good amount of fuel?
+gas,"""What is the level of gas in my tank?"""
+gas,"""How much fuel do I have left in my tank?"""
+gas,"""Is my gas tank at capacity or nearing empty?"""
+gas,Can you inform me about the levels of fuel in my gas tank?
+gas,What are the current levels of petrol or diesel present in my gas tank?
+gas,Could you let me know the status of the levels of gasoline in my tank?
+gas,Could you inform me about the levels of gas present in my fuel tank?
+gas,Can you let me know how much gasoline is remaining in the tank?
+gas,Would you please tell me the current quantity of fuel stored in my gas tank?
+gas,Can you tell me how much gasoline is remaining in my tank?
+gas,Is there a way to check the quantity of gasoline I have left?
+gas,Do you know the amount of gasoline that is still available in my vehicle?
+gas,Can you tell me the level of gasoline in my vehicle?
+gas,What is the remaining quantity of gasoline in my tank?
+gas,Do you know how much gas I have left in my car?
+gas_type,What type of fuel does your vehicle consume?
+gas_type,Which category of gasoline is appropriate for your automobile?
+gas_type,What sort of gas do you put in your car?
+gas_type,What is the type of fuel utilized by your car?
+gas_type,Which gas variant does your vehicle consume?
+gas_type,What sort of petrol does your automobile run on?
+gas_type,What type of gasoline is recommended?
+gas_type,Which rating should I use for the gas?
+gas_type,What grade of fuel is appropriate?
+gas_type,What type of gasoline is recommended?
+gas_type,Which grade of fuel should be used?
+gas_type,What level of gas quality is required?
+gas_type,Which type of gasoline should I put in my car?
+gas_type,What kind of fuel is suitable for this vehicle?
+gas_type,What is the appropriate gas to be used with this automobile?
+gas_type,Which fuel should I put in this vehicle?
+gas_type,What is the appropriate gas to use for this automobile?
+gas_type,Is there a specific type of gasoline that should be used for this car?
+gas_type,What kind of fuel should be used for this vehicle?
+gas_type,Which type of gas is suitable for filling up this particular car?
+gas_type,What type of gasoline should I put in this automobile?
+gas_type,What kind of fuel does this vehicle require?
+gas_type,Which gas is compatible with this automobile?
+gas_type,What type of gasoline should be used with this car?
+gas_type,What type of fuel is required for filling up the tank?
+gas_type,Which specific type of gas should be used to fill the tank?
+gas_type,Is there a particular kind of gasoline that should be added to the tank?
+gas_type,Which type of fuel is suitable for use?
+gas_type,What variety of petrol is appropriate to fill in?
+gas_type,What kind of gasoline is intended to be inserted?
+gas_type,"What kind of gas is required for this vehicle, as I need to fill up?"
+gas_type,I'm in need of refueling my car - which type of fuel should I use?
+gas_type,"For this particular automobile, what type of gasoline is necessary?"
+gas_type,What kind of fuel do I need for this car?
+gas_type,Which type of gasoline is required for my vehicle?
+gas_type,Can you tell me what specific fuel my car needs?
+gas_type,"""May I inquire about the type of fuel your vehicle utilizes?"""
+gas_type,"""Could you enlighten me with information regarding the gasoline type used in your car?"""
+gas_type,"""Do you mind sharing the specific kind of gas that powers your automobile?"""
+gas_type,Could you inform me about the type of fuel that your car requires?
+gas_type,May I know what kind of gasoline is compatible with your vehicle?
+gas_type,Is it possible for you to specify which gas variety your automobile utilizes?
+gas_type,What is the kind of gas that my vehicle utilizes?
+gas_type,Which variety of fuel does my car require?
+gas_type,What type of gasoline should I put in my automobile?
+gas_type,"""What kind of fuel is required for my automobile?"""
+gas_type,"""Which gas variant should be utilized in my vehicle?"""
+gas_type,"""Can you tell me the specific type of gas I should put in my car?"""
+gas_type,Which type of gas is required for the vehicle?
+gas_type,What is the appropriate fuel for the vehicle?
+gas_type,What kind of gasoline do I need for the vehicle?
+gas_type,"""What type of fuel should be used in the car?"""
+gas_type,"""Which gas is suitable for the automobile?"""
+gas_type,"""What kind of gasoline can be filled up in the car?"""
+gas_type,Which variety of fuel is suitable for this latest automobile?
+gas_type,What grade of gasoline should be used for this brand-new vehicle?
+gas_type,In what manner would I determine which type of gas to add to this new car?
+gas_type,Which type of fuel should I use to fill up my new car?
+gas_type,What kind of gasoline is suitable for my recently purchased vehicle? 
+gas_type,In what manner do I know what gas to place in my newly acquired automobile?
+how_old_are_you,Could you disclose your age to me?
+how_old_are_you,May I know your current age?
+how_old_are_you,Would it be possible for you to share how many years you've been alive?
+how_old_are_you,Could you disclose your age to me?
+how_old_are_you,"May I know your current age, please?"
+how_old_are_you,Would you let me in on how many years you've been alive?
+how_old_are_you,"Can you disclose your age to me, please?"
+how_old_are_you,May I inquire about your age?
+how_old_are_you,What is your current age?
+how_old_are_you,Can you let me know how old you are?
+how_old_are_you,Could you disclose your age to me?
+how_old_are_you,Would you mind sharing your age with me?
+how_old_are_you,Could you tell me your date of birth?
+how_old_are_you,When were you born?
+how_old_are_you,What is the day and month on which you were born?
+how_old_are_you,When is your birthday?
+how_old_are_you,May I know the date of your birth?
+how_old_are_you,What day were you born on?
+how_old_are_you,What will be your age?
+how_old_are_you,At what age shall you be?
+how_old_are_you,How many years will have passed until you reach that age?
+how_old_are_you,"""What is your age going to be?"""
+how_old_are_you,"""At what point in time will you reach a particular age?"""
+how_old_are_you,"""Can you tell me the number of years you have been on this planet?"""
+how_old_are_you,"On your most recent birthday, what was your age?"
+how_old_are_you,"At the time of your last birthday, how many years had you lived?"
+how_old_are_you,"When you celebrated your last birthday, what was your age?"
+how_old_are_you,What was your age during your most recent birthday celebration?
+how_old_are_you,At what age did you mark your previous birthday?
+how_old_are_you,On which age did you last celebrate your birthday?
+how_old_are_you,At what point in time were you created?
+how_old_are_you,When was your origin or creation date?
+how_old_are_you,What is the timing of your manufacturing or production?
+how_old_are_you,"""What is your date of manufacture?"" "
+how_old_are_you,"""At what time were you brought into existence?"" "
+how_old_are_you,"""Can you tell me the exact moment of your creation?"""
+how_old_are_you,What is your birth date?
+how_old_are_you,When were you born?
+how_old_are_you,"Could you tell me the day, month and year of your birth?"
+how_old_are_you,What is your birthdate?
+how_old_are_you,When were you born?
+how_old_are_you,Could you tell me the day on which you were born?
+how_old_are_you,How do you want your age to be displayed in numeric form?
+how_old_are_you,In what numerical format would you like your age to be presented?
+how_old_are_you,Which digit would you prefer to represent your age numerically?
+how_old_are_you,How would you prefer your age to be shown in numerical digits?
+how_old_are_you,What numeric display of age do you prefer?
+how_old_are_you,In what manner do you want your age to be represented through digits?
+how_old_are_you,Can you let me know your birth date?
+how_old_are_you,"What's the day, month and year of your birth?"
+how_old_are_you,When were you born?
+how_old_are_you,When were you born?
+how_old_are_you,Could you tell me your birth date?
+how_old_are_you,"What is the day, month, and year of your birth?"
+how_old_are_you,What's your age going to be?
+how_old_are_you,"Tell me, on your next birthday how many years will you have spent on this earth? "
+how_old_are_you,May I know the number of candles that will adorn your cake on your upcoming birthday?
+how_old_are_you,What's your age turning to?
+how_old_are_you,How many years have you completed around the sun?
+how_old_are_you,When is your next birthday?
+ingredients_list,Could you retrieve all the items required to cook a pasta dish for me?
+ingredients_list,Can you gather everything necessary to prepare a pasta meal?
+ingredients_list,May I request that you bring together all the ingredients needed to make a pasta dish?
+ingredients_list,Retrieve all the necessary ingredients to cook a pasta meal.
+ingredients_list,Bring up all the items required for preparing a pasta recipe.
+ingredients_list,Gather everything that is essential to make a pasta dish.
+ingredients_list,"""What are the necessary ingredients for making traditional kimchi?"""
+ingredients_list,"""What is required to prepare authentic kimchi?"""
+ingredients_list,"""Which elements are indispensable to achieve an authentic kimchi recipe?"""
+ingredients_list,What are the necessary ingredients for preparing traditional kimchi?
+ingredients_list,How can I make authentic kimchi using the proper elements?
+ingredients_list,Are there specific components required to produce genuine kimchi?
+ingredients_list,Can you provide me with a list of the components needed to prepare tom yum?
+ingredients_list,What are the specific ingredients required for making tom yum soup?
+ingredients_list,Could you inform me about the essential items necessary for creating a delicious tom yum dish?
+ingredients_list,Can you list down the components needed to prepare tom yum?
+ingredients_list,What are the ingredie  nts necessary for cooking tom yum?
+ingredients_list,Could you share the list of ingredients used in making tom yum?
+ingredients_list,"""What ingredients are necessary to prepare spaghetti?"""
+ingredients_list,"""Which items should I purchase to cook spaghetti?"""
+ingredients_list,"""What is the shopping list for making spaghetti?"""
+ingredients_list,"""What ingredients are necessary for making spaghetti?"""
+ingredients_list,"""What items should be on my grocery list for preparing spaghetti?"""
+ingredients_list,"""What do I have to purchase in order to cook a plate of spaghetti?"""
+ingredients_list,Can you provide me with a taco recipe?
+ingredients_list,I'm in need of a recipe for making tacos. Could you help me out?
+ingredients_list,What is a good recipe for preparing tacos?
+ingredients_list,Can you provide me with a taco recipe?
+ingredients_list,I would like instructions on how to make tacos.
+ingredients_list,Could you share a list of ingredients and steps needed to create delicious tacos?
+ingredients_list,"""What ingredients are required to prepare brownies?"""
+ingredients_list,"""Can you provide me with a list of necessary items for making brownies?"""
+ingredients_list,"""I am planning to bake brownies, what are the essential components I need for the recipe?"""
+ingredients_list,What ingredients are required to prepare brownies?
+ingredients_list,Which components do I need to bake brownies?
+ingredients_list,What items must I have to create a batch of brownies?
+ingredients_list,What are the necessary items to purchase for making pasta?
+ingredients_list,Could you provide me with a list of things required to prepare pasta?
+ingredients_list,Is it possible for you to inform me about all the essential ingredients and equipment needed to make pasta?
+ingredients_list,What are all the necessary items needed to make pasta?
+ingredients_list,Can you provide a list of everything required for making pasta?
+ingredients_list,What items should I purchase to prepare pasta at home?
+ingredients_list,"""What ingredients do you require to make lasagna?"""
+ingredients_list,"""What are the necessary components for preparing lasagna?"""
+ingredients_list,"""What items do you need in order to cook lasagna?"""
+ingredients_list,What are the necessary ingredients for making lasagna?
+ingredients_list,What do you require to prepare lasagna?
+ingredients_list,What items must be gathered in order to cook lasagna?
+ingredients_list,What ingredients are required to cook macaroni?
+ingredients_list,Could you tell me the list of items needed to prepare macaroni dish?
+ingredients_list,What are the things I must have in order to make macaroni?
+ingredients_list,What ingredients are required to prepare macaroni?
+ingredients_list,Could you list the components necessary for making macaroni?
+ingredients_list,What are the necessary elements needed to whip up a batch of macaroni?
+ingredients_list,"To prepare lasagna, what are the necessary components?"
+ingredients_list,What are the required constituents for making lasagna?
+ingredients_list,Which elements should be present to cook lasagna?
+ingredients_list,Which specific components are required to prepare lasagna?
+ingredients_list,What are the essential elements for cooking a lasagna dish?
+ingredients_list,What items must be present in order to whip up a lasagna?
+lost_luggage,What actions should I take if my baggage is misplaced?
+lost_luggage,"In the event of a lost luggage, what would be the appropriate steps to follow?"
+lost_luggage,"If my luggage goes missing, what course of action do I need to undertake?"
+lost_luggage,"""In case my baggage goes missing, what steps do I need to take?"" "
+lost_luggage,"""If my luggage gets lost, what course of action should I follow?"" "
+lost_luggage,"""What are the measures that need to be undertaken if my belongings go astray during travel?"""
+lost_luggage,"In my opinion, I believe that my baggage might have been lost."
+lost_luggage,My perception is that my suitcases could have been displaced.
+lost_luggage,"From what I can gather, it appears that my luggage has been moved from its intended location without my knowledge."
+lost_luggage,I believe my baggage has been lost.
+lost_luggage,It is my opinion that my suitcases are missing.
+lost_luggage,"As far as I can tell, my luggage has gone astray."
+lost_luggage,"""My luggage is nowhere to be found! What steps should I take next?"""
+lost_luggage,"""My baggage seems to have gone missing! What are my courses of action at this point?"""
+lost_luggage,"""It appears that I've misplaced my luggage! What can I do now?"""
+lost_luggage,"""My luggage appears to have gone missing. Can you suggest what choices I have at this point?"""
+lost_luggage,"""It looks like my baggage has been misplaced. What are the alternatives available for me now?"""
+lost_luggage,"""I am unable to locate my luggage at the moment. What options do I have in such a situation?"""
+lost_luggage,I have a suspicion that my baggage has been misplaced.
+lost_luggage,It is my belief that my suitcase cannot be found.
+lost_luggage,"From what I can ascertain, my belongings appear to be missing."
+lost_luggage,"""I believe my baggage has been misplaced."""
+lost_luggage,"""It seems like my suitcases are missing."""
+lost_luggage,"""My luggage appears to have disappeared."""
+lost_luggage,Has my baggage been misplaced?
+lost_luggage,Did my suitcases go missing?
+lost_luggage,Is it possible that my bags are lost?
+lost_luggage,Has my baggage gone missing?
+lost_luggage,Did my suitcases get lost in transit?
+lost_luggage,Am I unable to locate my luggage?
+lost_luggage,"""Unfortunately, it seems like my baggage has been lost?"""
+lost_luggage,"""It appears that my luggage is missing and I am worried about it."""
+lost_luggage,"""I'm filled with anxiety as I think my suitcase might not have made it to the destination."""
+lost_luggage,"""I fear that my baggage is no longer with me."""
+lost_luggage,"""My concern is that my suitcases have disappeared."""
+lost_luggage,"""It seems as though my baggage has been lost."""
+lost_luggage,"In the event of lost luggage, what steps should I take next?"
+lost_luggage,"If my luggage is misplaced, what is the recommended course of action to take?"
+lost_luggage,What actions can I take if my baggage goes missing during travel?
+lost_luggage,"In the event of losing my luggage, what should be the subsequent course of action that I need to take? "
+lost_luggage,What are the steps to be followed after misplacing my baggage?
+lost_luggage,"Suppose my luggage is lost, then what would be the further plan of action I ought to implement?"
+lost_luggage,Assistance required in locating my luggage.
+lost_luggage,I am seeking aid in finding my baggage.
+lost_luggage,Can someone assist me in retrieving my suitcases?
+lost_luggage,Can you assist me in locating my baggage?
+lost_luggage,Could you lend a hand with identifying the whereabouts of my suitcase?
+lost_luggage,Is it possible for you to aid me in discovering my missing luggage?
+lost_luggage,I am feeling anxious as my baggage appears to be lost.
+lost_luggage,"My luggage seems to have disappeared, which is causing me to feel nervous."
+lost_luggage,I am experiencing some degree of panic since my bags are nowhere to be found.
+lost_luggage,"My luggage appears to have disappeared, and I'm feeling a bit anxious."
+lost_luggage,There's some panic setting in as my luggage seems to have vanished.
+lost_luggage,The fact that my luggage is missing has got me feeling a little panicked.
+lost_luggage,"""I seem to have lost my luggage."""
+lost_luggage,"""My bags appear to be missing."""
+lost_luggage,"""It seems that my suitcase has been misplaced."""
+lost_luggage,My baggage has been lost.
+lost_luggage,I cannot find my suitcases.
+lost_luggage,The airport seems to have mishandled my bags.
+make_call,"""My intention is to place a phone call."""
+make_call,"""I desire to initiate a telephone conversation."""
+make_call,"""It is my wish to engage in a phone call."""
+make_call,"""Could you please assist me in placing a phone call?"""
+make_call,"""Is it possible for me to initiate a phone conversation?"""
+make_call,"""May I inquire about the feasibility of making a telephone call?"""
+make_call,I require to phone my mother.
+make_call,It is necessary for me to make a call to my mom.
+make_call,Contacting my mother is something that I must do.
+make_call,"""It's necessary for me to give my mom a call."""
+make_call,"""I must get in touch with my mother immediately."""
+make_call,"""My mother requires a phone call from me."""
+make_call,Get in touch with your mother.
+make_call,Give your mom a call.
+make_call,Contact your maternal parent.
+make_call,Contact your mother
+make_call,Dial mum's number 
+make_call,Ring up mom
+make_call,May I make a call on my mobile phone?
+make_call,Is it possible for me to use my phone and dial someone's number?
+make_call,Could I request permission to place a telephone call?
+make_call,May I place a call on my phone?
+make_call,Is it possible for me to make a telephone call?
+make_call,Would it be alright for me to use my phone to make a call?
+make_call,Can you give Sal a call?
+make_call,Are you able to contact Sal by phone?
+make_call,Is it possible for you to ring up Sal?
+make_call,Is it possible for you to give Sal a call?
+make_call,Would you kindly contact Sal by phone?
+make_call,Can you please ring up Sal?
+make_call,It's necessary for you to make a phone call to Sal.
+make_call,Would you kindly reach out to Sal via the telephone?
+make_call,Can you please give Sal a phone call?
+make_call,It is necessary for you to ring Sal.
+make_call,"Can you give Sal a call, please?"
+make_call,Kindly make a phone call to Sal for me.
+make_call,"Can you connect me to Sal over a call, please?"
+make_call,Is it possible to dial Sal's number so I can speak to him over the phone?
+make_call,"Could you facilitate me in contacting Sal through a voice call, if that's appropriate?"
+make_call,Can I dial Sal's number to call him?
+make_call,Is it feasible for me to place a phone call to Sal?
+make_call,Would it be possible to contact Sal by making a phone call?
+make_call,Kindly initiate a call to Stefan Larson.
+make_call,Would you mind placing a call to Stefan Larson?
+make_call,Is it possible for you to give Stefan Larson a phone call?
+make_call,Can you give Stefan Larson a phone call?
+make_call,Would you kindly place a call to Stefan Larson?
+make_call,Is it possible for you to ring up Stefan Larson?
+make_call,"""I require the need to initiate a phone conversation."""
+make_call,"""The urge to start a telephone call is present within me."""
+make_call,"""Making a phone call is what I'm currently in need of."""
+make_call,"""I have the necessity to place a phone call."""
+make_call,"""Making a phone call is something I must do."""
+make_call,"""My requirement at present is to initiate communication via telephone."""
+make_call,I have to reach out to my father.
+make_call,It's necessary for me to give my dad a call.
+make_call,I require contacting my dad.
+make_call,"""It is necessary for me to contact my father."""
+make_call,"""I have the urge to give my dad a call."""
+make_call,"""Communicating with my father is something I must do."""
+meal_suggestion,Which type of Indian would you advise?
+meal_suggestion,What kind of Indian dish would you suggest?
+meal_suggestion,Can you recommend any specific Indian cuisine?
+meal_suggestion,Which type of Indian cuisine do you suggest?
+meal_suggestion,What is your recommendation for a particular variation of Indian food?
+meal_suggestion,Can you propose a specific category of Indian dish that you prefer?
+meal_suggestion,"""I'm in search of a dish that's rooted in Asian cooking traditions."""
+meal_suggestion,"""I want to have a food item that is indigenous to the Asian culinary heritage."""
+meal_suggestion,"""My taste buds are craving for an Asian cuisine-inspired meal."""
+meal_suggestion,I want to have a dish that belongs to the Asian culinary category.
+meal_suggestion,Can you suggest me an entree that comes from the Asian cuisine?
+meal_suggestion,I'm searching for a food item that is a part of the Asian gastronomy.
+meal_suggestion,Are you aware of what we are having for dinner tonight?
+meal_suggestion,Have you been informed about the meal that will be served for dinner?
+meal_suggestion,Do you have any idea about the dinner menu for this evening?
+meal_suggestion,Are you aware of what we will be having for tonight's meal?
+meal_suggestion,Have you been informed about the food that will be served for dinner?
+meal_suggestion,Do you have any knowledge on what is being prepared for our evening meal?
+meal_suggestion,Can you suggest a delicious Italian dish that I could prepare for my meal?
+meal_suggestion,What Italian food would you recommend as a great meal idea?
+meal_suggestion,Could you provide me with an idea for a tasty meal from Italy?
+meal_suggestion,Can you suggest a delicious meal from Italy for me?
+meal_suggestion,Looking for some mouth-watering Italian meal recommendations!
+meal_suggestion,Any delectable food suggestions from Italy?
+meal_suggestion,Can you suggest a good Thai dish for me to try?
+meal_suggestion,I am looking for a recommendation on what Thai food to eat.
+meal_suggestion,Could you offer any suggestions for tasty Thai cuisine?
+meal_suggestion,Can you recommend me a good Thai dish?
+meal_suggestion,Any suggestions for tasty Thai cuisine?
+meal_suggestion,What's your go-to Thai food recommendation?
+meal_suggestion,Can you suggest some options for dinner tonight?
+meal_suggestion,What dish do you recommend I prepare for this evening's meal?
+meal_suggestion,Do you have any ideas on what should be cooked for dinner?
+meal_suggestion,Could you suggest some dinner options?
+meal_suggestion,"I need ideas for what to cook for dinner, any recommendations?"
+meal_suggestion,Can you give me a list of meals that would be suitable for dinner tonight?
+meal_suggestion,"For dinner, I desire to prepare a dish that originated from Ethiopia."
+meal_suggestion,My intention for tonight's dinner is to cook an Ethiopian-inspired meal.
+meal_suggestion,What I am aiming for in the kitchen tonight is to whip up something using ingredients commonly found in Ethiopian cuisine.
+meal_suggestion,"For dinner, I am interested in concocting a dish with Ethiopian flavors."
+meal_suggestion,My aim is to prepare a meal that features elements of Ethiopian cuisine.
+meal_suggestion,I have a desire to create an Ethiopian-inspired dinner for tonight's meal.
+meal_suggestion,Can you recommend any Roman dishes?
+meal_suggestion,Are there any Roman recipes that you suggest?
+meal_suggestion,Would you happen to have any recommendations for traditional Roman cuisine?
+meal_suggestion,Can you recommend any Roman dishes?
+meal_suggestion,Do you have any favorite recipes from Ancient Rome?
+meal_suggestion,Could you suggest some authentic Roman cuisine to try?
+meal_suggestion,Can you recommend a dish from Indian cuisine that would be suitable for me?
+meal_suggestion,"I have a preference for Indian food, could you suggest a meal option?"
+meal_suggestion,Would you be able to provide a suggestion for an Indian dish that aligns with my taste preferences?
+meal_suggestion,Can you recommend me a meal from the Indian cuisine that would suit my taste preferences?
+meal_suggestion,"For someone like me who enjoys Indian cuisine, do you have any suggestions for what dish I could order?"
+meal_suggestion,I'm in the mood for Indian food and looking for a meal idea that would be a good fit for me - what would you suggest?
+meal_suggestion,I am interested in having a dish from Ireland.
+meal_suggestion,Trying out an Irish cuisine is on my to-do list.
+meal_suggestion,I have a desire to taste the flavors of an Irish meal.
+meal_suggestion,It would be great to sample a dish from Ireland.
+meal_suggestion,I am interested in experiencing cuisine from Ireland.
+meal_suggestion,I am curious about trying out an Irish meal.
+min_payment,What is the lowest amount that I can afford to pay for my heating bill?
+min_payment,Could you tell me the minimum payment required for my heating bill?
+min_payment,Is there a minimal payment threshold for my monthly heating bill?
+min_payment,"""What is the smallest amount that I can pay towards my heating bill?"""
+min_payment,"""What is the minimum payment required for my heating bill?"""
+min_payment,"""What is the least amount of money that I need to spend on my heating bill?"""
+min_payment,What is the minimum amount that I need to pay for settling my hospital expenses?
+min_payment,Could you tell me the lowest possible cost for paying off my medical bill in the hospital?
+min_payment,Is there a way to bring down the payment amount of my hospital bills to the bare minimum?
+min_payment,"""What is the minimum charge for my medical expenses at the hospital?"""
+min_payment,"""What is the least amount I need to pay off my hospital bill?"""
+min_payment,"""What is the smallest sum required of me to clear my hospital expenditures?"""
+min_payment,Can you inform me the lowest amount I am required to pay for my utilities bill?
+min_payment,What is the minimum payment that must be made on my utilities bill?
+min_payment,Could you please tell me how much would be the most economical payment for my utilities bill?
+min_payment,What is the lowest amount I can pay for my utilities bill?
+min_payment,Can you inform me about the minimum payment required for my utility bills?
+min_payment,Could you let me know the least possible quantity to pay on my utilities bill?
+min_payment,"""What's the smallest amount I can pay for my Verizon bill?"" "
+min_payment,"""What is the minimum payment required for my Verizon account?"" "
+min_payment,"""What is the least amount of money I need to pay for my Verizon bill?"""
+min_payment,"""What is the least amount I can pay for my Verizon bill?"""
+min_payment,"""Could you tell me the minimum payment required for my Verizon bill?"""
+min_payment,"""What is the smallest possible payment I have to make to settle my Verizon bill?"""
+min_payment,What is the minimum amount that should be paid on my Verizon bill?
+min_payment,"As a minimum payment requirement, how much should I pay for my Verizon bill?"
+min_payment,At least how much money should I set aside to settle my Verizon bill?
+min_payment,What is the least amount I have to pay on my Verizon bill?
+min_payment,"At a minimum, how much do I have to pay for my Verizon bill?"
+min_payment,What is the minimum payment required for my Verizon bill?
+min_payment,"""What is the smallest amount I can pay for my gas bill?"""
+min_payment,"""What is the lowest possible payment for my gas bill?"""
+min_payment,"""Can you tell me the minimal payment required for my gas bill?"""
+min_payment,What is the lowest amount I can pay for my gas bill?
+min_payment,Can you tell me the minimum payment required for my gas bill?
+min_payment,How much is the possible lowest payment for my gas bill?
+min_payment,"""What is the least amount that I can pay for my rent bill this month?"""
+min_payment,"""What is the minimum payment required for my rent bill in the current month?"""
+min_payment,"""What is the smallest sum I can pay for my rent bill for this month?"""
+min_payment,What is the smallest possible amount I can pay for my rent bill this month?
+min_payment,What is the minimum payment required for my monthly rent bill?
+min_payment,What is the least amount of money that I need to pay for my rental bill this month?
+min_payment,"""What is the minimum amount that I am required to pay for my insurance bill?"""
+min_payment,"""What is the lowest payment that can be made on my insurance bill?"""
+min_payment,"""What is the smallest sum of money that I have to pay towards my insurance bill?"""
+min_payment,"""What is the least amount that I am required to pay on my insurance bill?"""
+min_payment,"""What is the minimum payment threshold for my insurance bill?"""
+min_payment,"""What is the absolute minimum amount that I can settle on my insurance bill?"""
+min_payment,What is the minimum amount that I am required to pay for my insurance bill?
+min_payment,Is there a specific limit to the least amount that can be paid towards my insurance bill?
+min_payment,Could you tell me the lowest possible payment that I can make towards my insurance bill?
+min_payment,"""What is the minimum payment required for my insurance bill?"""
+min_payment,"""What is the least amount of money I can pay towards my insurance bill?"""
+min_payment,"""What is the smallest sum needed to fulfill my insurance bill payment?"""
+min_payment,What is the least amount I can pay towards my gas bill?
+min_payment,Can you tell me what is the minimum required payment for my gas bill?
+min_payment,Is there a minimum payment threshold that needs to be met for my gas bill?
+min_payment,What is the least possible payment that I am allowed to make on my gas bill?
+min_payment,Is there a minimum amount required for me to pay on my gas bill?
+min_payment,Could you tell me the smallest payment I can make towards my gas bill?
+mpg,"""What is the fuel efficiency of the car?"""
+mpg,"""Can you tell me about the gas mileage of the car?"""
+mpg,"""How efficient is the car's use of fuel?"""
+mpg,What is the fuel efficiency of the car?
+mpg,How does the car perform in terms of gas mileage?
+mpg,Can you tell me about the car's gas consumption rate?
+mpg,Can you tell me the car's fuel efficiency on the highway in terms of miles per gallon?
+mpg,"I'm curious about the number of miles per gallon this car can achieve on the highway, can you provide that information?"
+mpg,Could you give me an idea of how many miles this car can travel per gallon of fuel while driving on the highway?
+mpg,"""Could you tell me the car's fuel efficiency on highways in terms of miles per gallon?"""
+mpg,"""What is the car's highway miles per gallon rating?"""
+mpg,"""I'm interested to know the gas mileage this car can achieve on highways. What is it?"""
+mpg,Can you provide me information on the fuel efficiency of my vehicle?
+mpg,Could you inform me about the gas consumption rate of my automobile?
+mpg,What is the mileage per gallon for my car?
+mpg,Can you enlighten me on the fuel efficiency of my vehicle?
+mpg,"I am curious about the gas consumption of my car, can you provide me with that information?"
+mpg,What is the mileage per gallon for my automobile?
+mpg,Can you tell me the fuel efficiency of my vehicle?
+mpg,I would like to know what is the miles per gallon rating of my car.
+mpg,Is there a way to find out the MPG of my automobile?
+mpg,Can you tell me the gas mileage of my automobile?
+mpg,How many miles per gallon does my vehicle get?
+mpg,I'm curious about the fuel efficiency of my car.
+mpg,What is the mileage I am receiving for my vehicle?
+mpg,Can you tell me the type of gas mileage my car is obtaining?
+mpg,How efficient is the fuel consumption on my transport?
+mpg,What is the average fuel economy of my vehicle?
+mpg,Could you tell me how many miles per gallon I'm getting?
+mpg,Is there any way to determine the mileage efficiency for my car?
+mpg,What is the fuel efficiency in terms of miles per gallon?
+mpg,Can you tell me the number of miles a vehicle can travel on a single gallon of gas?
+mpg,How many miles can a car cover with one gallon of fuel in terms of its MPG?
+mpg,"What is the fuel efficiency, measured in miles per gallon?"
+mpg,
+mpg,How many miles can you travel with one gallon of fuel?
+mpg,
+mpg,Could you tell me the number of miles a vehicle can cover using a single gallon of gasoline?
+mpg,"""What is the fuel efficiency of this car in city driving?"""
+mpg,"""How many miles per gallon does this vehicle achieve in urban areas?"""
+mpg,"""In the city, what is the gas mileage for this particular car?"""
+mpg,Could you tell me the city's fuel efficiency rating for this vehicle in miles per gallon?
+mpg,What is the estimated mileage this car can achieve when driving through urban areas?
+mpg,"In terms of fuel consumption, how many miles per gallon does this particular car obtain while being driven within city limits?"
+mpg,Can you give me an estimate of the car's fuel efficiency?
+mpg,How many miles per gallon can this vehicle run on?
+mpg,Could you provide information on the distance this car can cover with a single tank of gas?
+mpg,Could you provide information on the fuel efficiency of this particular car?
+mpg,"I'm curious about the average distance per gallon this car can travel, do you have any idea?"
+mpg,What is the approximate amount of miles a gallon of gas will get me in this vehicle?
+mpg,What mileage does my car get in terms of gas consumption?
+mpg,Could you tell me what the gas efficiency of my vehicle is like?
+mpg,"I am curious to know how much fuel gets consumed per mile on my car, would you be able to inform me?"
+mpg,How many miles per gallon does my vehicle get?
+mpg,Can you tell me the fuel efficiency of my car?
+mpg,What is the average distance that my car travels on a gallon of gasoline?
+mpg,What is the fuel efficiency of this vehicle? 
+mpg,Could you provide me with the miles per gallon rating for this car? 
+mpg,Do you know what kind of gas mileage I can expect from driving this automobile?
+mpg,What is the fuel efficiency of this vehicle?
+mpg,Can you tell me the gasoline consumption rate for this car?
+mpg,How many miles per gallon does this automobile get?
+next_holiday,Can you inform me about the upcoming holiday?
+next_holiday,What is the next holiday that I should be aware of?
+next_holiday,May I inquire when the next holiday will be?
+next_holiday,Can you inform me about the upcoming holiday?
+next_holiday,What is the next holiday that we will be having?
+next_holiday,Could you possibly let me know when the next holiday will be?
+next_holiday,Discover the upcoming vacation.
+next_holiday,Determine the succeeding holiday.
+next_holiday,Spot the following day off.
+next_holiday,Discover the upcoming vacation.
+next_holiday,Identify the subsequent day off.
+next_holiday,Determine the succeeding leisure period.
+next_holiday,"""When will our next break be scheduled?"""
+next_holiday,"""Could you please inform me when we are getting our next holiday?"""
+next_holiday,"""Do we have any upcoming time off?"""
+next_holiday,"""When will the next non-working day be?"""
+next_holiday,"""What is the date of the upcoming day off?"""
+next_holiday,"""Can you tell me when the next holiday or break is?"""
+next_holiday,"""When is the next upcoming holiday that we will celebrate here?"" "
+next_holiday,"""Which holiday are we going to have next in this place?"""
+next_holiday,"""What holiday is the next event we will be having here for the celebrations?"""
+next_holiday,"""When is the upcoming holiday that we will celebrate at this location?"""
+next_holiday,"""What is the next occasion here where we'll observe the holidays?"""
+next_holiday,"""At what point in time will we hold our next holiday gathering in this place?"""
+next_holiday,What is the date of my upcoming vacation leave?
+next_holiday,At what time will I be eligible for my next day off?
+next_holiday,When can I schedule my next break from work?
+next_holiday,What is the date of my upcoming vacation day?
+next_holiday,When can I expect to have my next day off for vacation?
+next_holiday,On what day will my next holiday occur?
+next_holiday,What's the duration until the next free day from work?
+next_holiday,How many days are there until the next off day from work?
+next_holiday,When is the next day off from work?
+next_holiday,What is the remaining number of days until the next day off from work?
+next_holiday,How many days are still there for the subsequent day out of the workplace?
+next_holiday,When can we expect to have our next day off from work in terms of days?
+next_holiday,What is the date of our upcoming day off?
+next_holiday,When do we have our next scheduled day off?
+next_holiday,When will we have time off next?
+next_holiday,When is our upcoming day off?
+next_holiday,What day do we have as our next day off?
+next_holiday,Could you tell me the date of our next day off?
+next_holiday,Can you tell me when the next holiday is and what it is called?
+next_holiday,What is the upcoming holiday and its scheduled date?
+next_holiday,When can we expect the next holiday and what's the name of that day?
+next_holiday,"""When is the next holiday and what day is it?"""
+next_holiday,"""What's the upcoming holiday and when does it fall on?"""
+next_holiday,"""What's the next scheduled holiday and its date?"""
+next_holiday,Can you tell me the duration until my next day off?
+next_holiday,What is the remaining time until my next day off?
+next_holiday,Could you inform me about when my next day off will be?
+next_holiday,Could you inform me of the duration remaining until my next day off?
+next_holiday,"I am curious about the time frame until the upcoming day off, can you assist me with this information? "
+next_holiday,What is the amount of time left until my subsequent day off that I require knowledge about?
+next_holiday,"""Can you inform me of the upcoming holiday?"""
+next_holiday,"""What is the next holiday that I should be aware of?"""
+next_holiday,"""Is there any information regarding the next holiday that I should know about?"""
+next_holiday,"""What is the upcoming holiday that I need to be aware of?"""
+next_holiday,"""Can you inform me about the next holiday on the calendar?"""
+next_holiday,"""I want to be informed about the forthcoming holiday, what is it?"""
+nutrition_info,Can you provide me with the nutritional data on broccoli?
+nutrition_info,What is the nutritional information for broccoli?
+nutrition_info,Please share with me the nutritional facts of broccoli?
+nutrition_info,Can you share information about the nutrition content of broccoli?
+nutrition_info,What are the nutritional facts of broccoli that you can tell me?
+nutrition_info,Please provide me with the nutritional details of broccoli.
+nutrition_info,Can you provide me with the nutritional facts of fish?
+nutrition_info,What are the nutritional details of fish that you can share with me?
+nutrition_info,Could you enlighten me about the nutritional information regarding fish?
+nutrition_info,Can you provide me with the nutritional facts about fish?
+nutrition_info,What are the dietary details for consuming fish?
+nutrition_info,Do you have any information regarding the nutrients found in fish?
+nutrition_info,Can you provide me with the nutritional information of ramen?
+nutrition_info,What are the nutrition facts for instant noodles or ramen?
+nutrition_info,Where can I find the dietary details for a serving of ramen?
+nutrition_info,Could you provide me with the nutritional information of ramen?
+nutrition_info,What are the nutrition facts of ramen?
+nutrition_info,I'm looking for the nutritional data for ramen - do you have it?
+nutrition_info,What is the level of nutritional value present in blueberries?
+nutrition_info,To what extent are blueberries beneficial to one's health?
+nutrition_info,"In terms of promoting good health, how do blueberries fare?"
+nutrition_info,What is the level of healthiness associated with blueberries?
+nutrition_info,Can you tell me about the nutritional value of blueberries and their impact on our health?
+nutrition_info,How beneficial are blueberries for maintaining good health?
+nutrition_info,Could you provide me with the nutritional value of bell peppers?
+nutrition_info,"I'm looking for the nutrition facts of bell peppers, do you have them?"
+nutrition_info,Can you help me locate the dietary information for bell peppers?
+nutrition_info,Can you retrieve the nutritional information of bell peppers on my behalf?
+nutrition_info,Could you assist me in locating the nutrition facts of bell peppers?
+nutrition_info,Is it possible for you to discover and share with me the dietary details concerning bell peppers?
+nutrition_info,Can you provide me with the nutritional facts of an egg?
+nutrition_info,What are the nutritional details of a single egg?
+nutrition_info,"I would like to know the nutritional value of one egg, could you help me with that?"
+nutrition_info,"""Can you provide me with the nutritional facts of an egg?"""
+nutrition_info,"""What are the nutritional details for a singular egg?"""
+nutrition_info,"""I would like to know the specific nutritional information regarding one egg."""
+nutrition_info,"""What is the nutritional information of applesauce?"" "
+nutrition_info,"""Could you provide me with the nutritional facts for apple sauce?"" "
+nutrition_info,"""I am interested to know the nutrition details of apple sauce, can you tell me?"""
+nutrition_info,"""Can you provide me with the nutritional information of applesauce?"""
+nutrition_info,"""I'm trying to find out the nutritional content of applesauce. Can you help me?"""
+nutrition_info,"""Could you give me a breakdown of the nutrition facts for applesauce?"""
+nutrition_info,Please provide me with the nutritional content of a cup of milk.
+nutrition_info,Can you inform me about the nutritional value of one cup of milk?
+nutrition_info,"I would like to know the nutrient information for one cup of milk, could you help me?"
+nutrition_info,Could you share the nutritional content of a cup of milk with me? 
+nutrition_info,"I'm curious about the nutrition statistics for a single cup of milk, would you be able to inform me? "
+nutrition_info,May I know the nutrients found in one serving size of milk?
+nutrition_info,Can you locate the nutritional details of cheese-based fries?
+nutrition_info,
+nutrition_info,Is it possible for you to retrieve the dietary information of cheesy french fries?
+nutrition_info,
+nutrition_info,Could you help me discover the nutrition facts of fries topped with cheese?
+nutrition_info,Can you search for the nutritional details of cheesy fries on my behalf?
+nutrition_info,"I am looking for someone to find me the nutritional information regarding cheese fries, can you assist with that?"
+nutrition_info,Would you be able to look up the nutritional facts of cheese fries and provide them to me?
+nutrition_info,Please provide me with the nutritional information of one serving of yogurt.
+nutrition_info,Can you give me a breakdown of the nutrients found in a cup of yogurt?
+nutrition_info,"I would like to know the nutritional details for a single cup-sized portion of yogurt, could you please tell me more?"
+nutrition_info,What are the nutritional facts of a single serving yogurt cup?
+nutrition_info,Can you provide me with the dietary components of a single cup of yogurt?
+nutrition_info,What is the nutrient information for one portion of yogurt in a cup measurement?
+pay_bill,My electric bill requires immediate payment.
+pay_bill,"To keep the electricity running, I must pay my bill."
+pay_bill,"In order to avoid a disruption in service, settling my electric bill is necessary."
+pay_bill,My electric bill requires payment.
+pay_bill,The payment of my electricity charge is necessary.
+pay_bill,There is a need for me to settle my electric bill.
+pay_bill,"""Retrieve my electrical invoice, I wish to settle it."""
+pay_bill,"""Get me my electricity bill so that I can clear the payment."""
+pay_bill,"""Can you fetch my electric statement? I intend to make a payment."""
+pay_bill,I would like to access my electric bill in order to make a payment.
+pay_bill,Could you help me retrieve my electric bill so that I can settle the payment?
+pay_bill,"In order to make a payment, I need to locate and view my electric bill; can you assist me with this?"
+pay_bill,There is a car payment that requires immediate payment.
+pay_bill,Payment for my vehicle is currently due and outstanding.
+pay_bill,My responsibility to pay off my automobile loan remains unfulfilled.
+pay_bill,My car payment must be settled.
+pay_bill,The payment for my vehicle is due and needs to be paid.
+pay_bill,I am required to pay the installment for my car.
+pay_bill,Assistance is required for paying my rent bill.
+pay_bill,I will require support to cover my monthly rental expenses.
+pay_bill,Paying my rent bill will need some external aid.
+pay_bill,Assistance will be required to cover my rental expenses.
+pay_bill,I will need some support to pay for my monthly rent.
+pay_bill,Looking for aid to settle my rental bill.
+pay_bill,What is the process of paying my electricity bill?
+pay_bill,In what way can I settle my electric bill payment?
+pay_bill,Can you provide me with information on how to make a payment for my electric bill?
+pay_bill,What is the process I can follow to settle my electric bill payment?
+pay_bill,Can you suggest ways on how I can remit my payment for electricity usage?
+pay_bill,Is there any method that I can use to make payment for my electric charges?
+pay_bill,"""The amount I intend to remit for my water bill is $4735."""
+pay_bill,"""My plan is to settle my water bill for the sum of $4735."""
+pay_bill,"""To clear my water bill, I am looking to make a payment of $4735."""
+pay_bill,My intention is to settle the outstanding balance of precisely $4735 in my water bill.
+pay_bill,The amount I want to transfer to my water bill is $4735 without fail.
+pay_bill,"There is a due payment for my water bill that amounts specifically to $4735, which I would like to pay now."
+pay_bill,Assistance required for paying my water bill.
+pay_bill,I need help with settling my water bill payment.
+pay_bill,I am in need of aid to pay off my charges for water usage.
+pay_bill,"""I require assistance in paying my water bill."""
+pay_bill,"""Paying the water bill is necessary for me, but I need help doing so."""
+pay_bill,"""I am in need of aid to fulfill my obligation of settling my water bill."""
+pay_bill,Can I settle my gas bill using funds from my checking account?
+pay_bill,Is it possible to make a payment for my gas bill through my checking account?
+pay_bill,Will my checking account be accepted as a mode of payment for my gas bill?
+pay_bill,Can I use my checking account to pay for my gas bill?
+pay_bill,Is it possible to settle my gas bill using the funds from my checking account?
+pay_bill,Would it be acceptable to make payment for my gas expenses using the money in my checking account?
+pay_bill,My visa payment needs to be settled.
+pay_bill,The amount for my visa fee requires payment.
+pay_bill,I have to make a payment for my visa application.
+pay_bill,The payment for my visa needs to be made.
+pay_bill,I must fulfill the payment of my visa.
+pay_bill,It is necessary for me to pay for my visa.
+pay_bill,Could you assist me in paying my gas bill? 
+pay_bill,I need someone to aid me in settling the payment for my gas bill.
+pay_bill,I'm searching for help to clear my outstanding gas bill.
+pay_bill,I require assistance in settling my gas payment.
+pay_bill,Can someone aid me in clearing my gas bill?
+pay_bill,Seeking help with paying off my gas expenses.
+payday,On which day will I receive my payment?
+payday,When do I get paid?
+payday,What's the date when I'll receive my payment?
+payday,When can I expect to receive my payment?
+payday,On which day will the payment be credited to my account?
+payday,What is the scheduled date for my payment to come through?
+payday,Can you provide me with information on the date when I will receive my next paycheck?
+payday,Would you happen to know the exact time frame in which my following payment will be issued?
+payday,Do you have any knowledge or insight regarding the arrival date of my upcoming salary?
+payday,Can you inform me the date of my upcoming paycheck?
+payday,Do you have any idea when my next salary will be deposited?
+payday,Please let me know the expected arrival date of my following payment.
+payday,Could you tell me the date printed on my most recent paycheck stub?
+payday,When was the last pay stub issued to me and what date is written on it?
+payday,"I'm unsure of the date indicated on my previous payslip, can you inform me?"
+payday,"""Could you inform me of the date appearing on my most recent pay stub?"""
+payday,"""When was the last time I received payment, as indicated by the date on my pay stub?"""
+payday,"""What's the date listed on my latest paycheck stub?"""
+payday,"""What was the date of my most recent salary collection?"""
+payday,"""When was the last time I received my wage payment?"""
+payday,"""At what point in time did I collect my latest salary?"""
+payday,"""What was the date of my most recent salary collection?"""
+payday,"""When did I receive my salary last time?"""
+payday,"""At which point in time did I collect my salary?"""
+payday,Can you tell me the date of my next payment?
+payday,When should I expect to receive my payment again?
+payday,What is the schedule for my upcoming payments?
+payday,Could you tell me the date of my next payment?
+payday,When will I receive my next payment?
+payday,Can you inform me about the date of my upcoming payment?
+payday,"""What is the date of my next payday?"""
+payday,"""Can you tell me when I will receive my salary?"""
+payday,"""When can I expect to receive payment for my work?"""
+payday,What is the date for my payday?
+payday,When will I receive my salary?
+payday,On which day of the month will I be paid?
+payday,"""When can I expect my next payday to arrive?"""
+payday,"""What is the anticipated date for my next payday?"""
+payday,"""At what point in time will my next payday be deposited into my account?"""
+payday,"""What is the date of my upcoming payday?"""
+payday,"""When will I receive my next paycheck?"""
+payday,"""On which day can I expect to get paid again?"""
+payday,On which day will my work payment be credited?
+payday,When can I expect to receive my wages for working?
+payday,What is the expected day of crediting my pay for my job?
+payday,On which day can I expect to receive my salary from work?
+payday,
+payday,What is the expected day of payment for my work earnings?
+payday,
+payday,When will my work pay me for the services rendered on what particular day?
+payday,"""At what time can I expect to receive my upcoming salary payment?"""
+payday,"""By when should I anticipate receiving my subsequent payroll deposit?"""
+payday,"""What is the scheduled date for my following paycheck remuneration?"""
+payday,What is the date of my upcoming salary payment?
+payday,When can I expect to receive my following paycheck?
+payday,At what point will my next payment be processed and issued?
+payday,"""At what point in time will I receive my next payment?"""
+payday,"""When can I anticipate my following payment to arrive?"""
+payday,"""On which date will my subsequent compensation be disbursed?"""
+payday,"""May I know the date of my upcoming payment?"""
+payday,"""When can I expect to receive my next paycheck?"""
+payday,"""What is the schedule for my next salary disbursement?"""
+pin_change,Is a pin number associated with my checking account?
+pin_change,Can you confirm whether I have a pin number for my checking account?
+pin_change,"Are there any security measures, such as a pin number, linked to my checking account?"
+pin_change,Is a pin number required for my checking account?
+pin_change,Do I need to set up a pin number for my checking account?
+pin_change,What is the process of creating a pin number for my checking account?
+pin_change,My checking account name needs to be updated.
+pin_change,I desire to modify the name on my checking account.
+pin_change,Changing the name on my checking account is something I want to do.
+pin_change,Is it possible for me to modify the name on my checking account?
+pin_change,Can I alter the title of my checking account?
+pin_change,How can I replace the name associated with my checking account?
+pin_change,Modify the personal identification number for my savings account to 1234.
+pin_change,Alter the PIN of my savings account with the code 1234.
+pin_change,Revise the passcode used for accessing my savings account so that it becomes 1234.
+pin_change,Modify the personal identification number on my savings account to 1234.
+pin_change,Adjust the security code of my savings account to 1234.
+pin_change,Replace the current pin on my savings account with 1234.
+pin_change,Could you inform me about the numerical combination required to access my checking account?
+pin_change,"I need to acquire the secret code necessary for accessing my checking account, can you provide it to me?"
+pin_change,Would you kindly share with me the personal identification number that grants access to my checking account?
+pin_change,Can you provide me with the PIN code to access my checking account?
+pin_change,What is the numeric passcode that I need to enter in order to check my bank account balance?
+pin_change,Could you kindly inform me of the personal identification number required to access my checking account details?
+pin_change,"""Could you tell me the exact PIN I have set?"""
+pin_change,"""I am unsure of my PIN, would you mind specifying it for me?"""
+pin_change,"""Can you clarify what pin I am supposed to use?"""
+pin_change,"""Could you provide me with the specific details of my pin?"""
+pin_change,"""I am unsure about the exact nature of my pin, can you assist me with that information?"""
+pin_change,"""Might you be able to clarify the precise definition of my pin?"""
+pin_change,The pin number to my card seems to have slipped from my memory.
+pin_change,My card's pin number eludes me at the moment.
+pin_change,I cannot remember the pin code that corresponds with my card.
+pin_change,The pin number for my card eludes my memory.
+pin_change,I cannot recollect the pin number for my card.
+pin_change,The pin code to my card is not something I can remember at the moment.
+pin_change,May I know the PIN number for my checking account?
+pin_change,Could you provide me with the PIN number of my checking account?
+pin_change,Can you disclose the PIN number of my checking account?
+pin_change,Can you tell me the PIN code for my checking account?
+pin_change,What is the personal identification number for accessing my checking account?
+pin_change,Do you happen to know the numeric passcode required to access my checking account?
+pin_change,Modify the numerical code associated with my savings account to read as 1234.
+pin_change,Alter the digits of my savings account's code so that it shows 1234 instead.
+pin_change,"Transform the password connected to my savings account into the numbers 1, 2, 3, and 4."
+pin_change,Can you modify the PIN of my savings account to 1234?
+pin_change,I want to update the code of my savings account and set it as 1234.
+pin_change,"Please alter the password for my savings account, making it 1234."
+pin_change,"""My intention is to alter the PIN of my savings account to 1234."""
+pin_change,"""I am looking to modify the personal identification number for my savings account as 1234."""
+pin_change,"""It is my desire to update the passcode for my savings account with 1234."""
+pin_change,My desire is to modify the personal identification number of my savings account to 1234.
+pin_change,I would like to update my savings account pin to 1234.
+pin_change,It is my intention to alter the pin for my savings account to 1234.
+pin_change,The pin number for my card eludes my memory.
+pin_change,I am unable to recall the pin code for my card.
+pin_change,My card's personal identification number is forgotten by me.
+pin_change,The numerical password for my card is not recalled by me.
+pin_change,Recollection of the PIN number for my card eludes me.
+pin_change,My card's secret identification code cannot be remembered by me.
+plug_type,What type of plug is used for electrical appliances in Japan?
+plug_type,"In Japan, which specific plug configuration is required for devices to function properly?"
+plug_type,Could you inform me about the appropriate type of plug that is utilized for electronic equipment in Japan?
+plug_type,What type of plug is typically used in Japan?
+plug_type,"In Japan, which plug is commonly utilized?"
+plug_type,Which kind of plug do they usually employ in Japan?
+plug_type,What type of plug does z utilize?
+plug_type,Which kind of plug is employed by z?
+plug_type,"The plug that z uses, what type is it?"
+plug_type,Which type of plug does z use?
+plug_type,What kind of plug is utilized by z?
+plug_type,What sort of plug is employed by z?
+plug_type,"When I go to Costa Rica, will it be necessary for me to get a plug adapter?"
+plug_type,Do I need to purchase a plug converter before traveling to Costa Rica?
+plug_type,Would I require a plug adapter during my trip to Costa Rica?
+plug_type,"In visiting Costa Rica, will it be necessary to have a plug converter?"
+plug_type,"When planning a trip to Costa Rica, do I need to bring a plug converter with me?"
+plug_type,Can I use my electronic devices in Costa Rica without the need for a plug converter?
+plug_type,Is it possible to utilize electronic gadgets in Mexico without the need of a socket adapter?
+plug_type,Do I need to bring a socket converter when using electronic equipment in Mexico?
+plug_type,Are electrical devices compatible for use in Mexico without requiring a socket converter?
+plug_type,Is it possible to use electronic gadgets in Mexico without a power socket adapter?
+plug_type,"Without a socket converter, can I operate my electronic devices smoothly in Mexico? "
+plug_type,Would I be able to use my electronic devices in Mexico without needing a plug adapter?
+plug_type,Do the electrical sockets have the same specifications in that nation?
+plug_type,Are the power outlets identical in that region as they are here?
+plug_type,Is it true that those countries use electric sockets with the same standards as ours?
+plug_type,Do the electrical sockets have the same specifications in that particular nation?
+plug_type,Are the power outlets standardized in that country?
+plug_type,Is there uniformity among electric plugs in that region?
+plug_type,What kind of electrical socket is utilized in the Caribbean?
+plug_type,Which type of connector do they use in the Caribbean for power outlets?
+plug_type,"In the Caribbean, what specific type of plug is commonly used?"
+plug_type,What type of socket is commonly utilized in the Caribbean region?
+plug_type,"In the Caribbean, which kind of electrical connector is typically implemented?"
+plug_type,What category of plug is generally employed in the Caribbean area?
+plug_type,Which type of plug is universally utilized? 
+plug_type,What is the standard plug type across various countries?
+plug_type,Is there a globally accepted plug type?
+plug_type,Which type of plug is used universally?
+plug_type,Is there a standard plug type adopted worldwide?
+plug_type,What kind of plug is utilized on an international level?
+plug_type,Do I require a plug converter for my trip to Guam?
+plug_type,"When visiting Guam, is it necessary for me to have a plug converter?"
+plug_type,Would it be advisable for me to bring a plug converter when travelling to Guam?
+plug_type,Is it necessary for me to acquire a plug converter if I visit Guam?
+plug_type,Would I have to purchase a plug adaptor when traveling to Guam?
+plug_type,Do I need to get a plug transformer if I plan on visiting Guam?
+plug_type,Is a socket converter needed for France?
+plug_type,Are there different electrical sockets in use in France?
+plug_type,Do I require an adapter for my electronic devices when travelling to France?
+plug_type,Is a socket converter needed for France?
+plug_type,Do the electrical outlets in France require a socket adapter?
+plug_type,"In France, is it necessary to use a plug adapter?"
+plug_type,What is the process for connecting appliances in France?
+plug_type,How can I properly insert electronic devices in French electrical outlets?
+plug_type,Can you provide instructions on how to plug in my belongings while in France?
+plug_type,What is the process of connecting devices in France?
+plug_type,How can I connect my gadgets while in France?
+plug_type,Is there a specific way to plug electronics in when traveling to France?
+pto_balance,What is my remaining count of PTO days?
+pto_balance,How many PTO days do I still have available?
+pto_balance,Can you tell me the number of unused PTO days that I have?
+pto_balance,"""How many paid time off days do I still have?"""
+pto_balance,"""What is the remaining balance of my PTO days?"""
+pto_balance,"""Can you provide me with the count of the available PTO days?"""
+pto_balance,"""How many days of vacation do I still have?"""
+pto_balance,"""What's my remaining vacation allowance?"""
+pto_balance,"""Can you tell me how many more vacation days I can take?"""
+pto_balance,"""How many days of vacation do I still have?"""
+pto_balance,"""What is the remaining count of my vacation allowance?"""
+pto_balance,"""Can you tell me the total number of vacation days that are still available for me to use?"""
+pto_balance,"""What is the amount of vacation time available to me?"""
+pto_balance,"""Can you tell me how many days of vacation I still have left?"""
+pto_balance,"""I am curious about the quantity of my unused vacation days, can you inform me?"""
+pto_balance,What is the extent of my paid leave from work?
+pto_balance,Can you tell me how many days off I have accumulated for vacation purposes?
+pto_balance,Do you know the amount of time allocated for my annual vacation?
+pto_balance,"""How many days of paid time off do I have remaining?"""
+pto_balance,"""What is the number of PTO days that I still possess?"" "
+pto_balance,"""Can you inform me about the quantity of unused PTO days that are available to me?"""
+pto_balance,"""How many remaining PTO days do I possess?"""
+pto_balance,"""What is the count of unused PTO days that I still have?"""
+pto_balance,"""Is there any balance left on my PTO days?"""
+pto_balance,Can you inform me how many remaining vacation days I have left?
+pto_balance,Kindly let me know the number of vacation days I still have available.
+pto_balance,May I request to be informed about my current balance of unused vacation days?
+pto_balance,May you kindly inform me of the number of vacation days I still have?
+pto_balance,"How many days of vacation do I have left, if you could let me know?"
+pto_balance,Could you provide me with the amount of days I have remaining for my vacation?
+pto_balance,What is the number of days left on my vacation?
+pto_balance,How many days do I still have on my holiday allocation?
+pto_balance,Could you tell me how much time I have remaining for my vacation?
+pto_balance,"""What is the duration of my remaining vacation days?"""
+pto_balance,"""How many more days do I have left for my vacation leave?"""
+pto_balance,"""What is the number of days still available for my time off?"""
+pto_balance,What is the total number of vacation days that are still at my disposal?
+pto_balance,How many days of vacation are left unused and available to me?
+pto_balance,Can you let me know the amount of vacation days I have remaining?
+pto_balance,What is the number of remaining vacation days I have?
+pto_balance,How many days can I still take off from work for vacation?
+pto_balance,What's my current availability of vacation days?
+pto_balance,How many days of vacation time do I get?
+pto_balance,What is the duration of my holiday leave?
+pto_balance,What is the extent of my time off for vacation?
+pto_balance,"""What is the duration of my holiday?"""
+pto_balance,"""How long am I permitted to stay on vacation?"""
+pto_balance,"""What is the length of the period allocated for my leisure time?"""
+pto_balance,What is the maximum number of days that I can take off for vacation?
+pto_balance,How long of a vacation can I go on for?
+pto_balance,What's the limit for the number of vacation days that I can take?
+pto_balance,What's the maximum vacation time I can take?
+pto_balance,Is there a limit to the number of days I can take off work for vacation?
+pto_balance,How long am I allowed to be on vacation for?
+pto_balance,What is the amount of vacation time that I have accrued?
+pto_balance,How many days of vacation am I eligible for based on my accumulated hours?
+pto_balance,Can you tell me the total amount of vacation leave I have earned so far?
+pto_balance,What is the total number of vacation days that I have accrued?
+pto_balance,How many days of paid time off do I have in my balance?
+pto_balance,Can you tell me the amount of leave days that I have accumulated?
+pto_request_status,"""What's the status of my vacation plan?"""
+pto_request_status,
+pto_request_status,"""Can you provide an update on how my vacation is shaping up?"""
+pto_request_status,
+pto_request_status,"""What's the outlook for my upcoming vacation?"""
+pto_request_status,What does the outlook for my vacation seem to be?
+pto_request_status,Can you provide an update on what my vacation plans look like?
+pto_request_status,Is there any indication as to how my vacation is shaping up?
+pto_request_status,Has my vacation been approved by the manager?
+pto_request_status,Is it possible to know if the manager has authorized my holiday leave?
+pto_request_status,Did the manager already give his or her consent for me to take my scheduled vacation?
+pto_request_status,Has my vacation been approved by the manager yet?
+pto_request_status,Is it confirmed that the manager approved my vacation?
+pto_request_status,Has the manager granted his approval for my vacation yet?
+pto_request_status,What is the current status of my day off request?
+pto_request_status,Has there been any update regarding my day off request?
+pto_request_status,Can you tell me if my day off request has been approved or denied?
+pto_request_status,What is the current status of my day off request?
+pto_request_status,Can you provide an update on the status of my day off request?
+pto_request_status,Has there been any change in the approval status of my day off request?
+pto_request_status,Are you aware if the vacation request has been authorized? 
+pto_request_status,"Has the authorization for the requested vacation been confirmed, do you know? "
+pto_request_status,Can you tell me if the holiday leave was officially approved?
+pto_request_status,Are you aware if the vacation was sanctioned?
+pto_request_status,Do you have any knowledge of the approval status for the vacation?
+pto_request_status,Is there any information available about whether the time off was authorized or not?
+pto_request_status,Is it possible to inform me once my holiday leave gets approved?
+pto_request_status,Would you kindly let me know when my vacation days have been confirmed?
+pto_request_status,Can you give me a heads up once my time off request has been approved?
+pto_request_status,Could you inform me when my requested vacation days have been approved?
+pto_request_status,Is it possible for you to let me know once my vacation leave has been authorized?
+pto_request_status,Would you kindly notify me when my time off application has been sanctioned?
+pto_request_status,Can you update me on the progress of my vacation request?
+pto_request_status,Could you please inform me about the status of my request to take time off?
+pto_request_status,"I would like to receive an update regarding the current state of my vacation application, can you provide that information?"
+pto_request_status,May I inquire about the current status of my vacation request?
+pto_request_status,Could you update me on the status of my requested time off?
+pto_request_status,What's the progress on my vacation leave request?
+pto_request_status,Do you have any new information about my planned holiday?
+pto_request_status,Can you provide me with an update regarding my vacation schedule?
+pto_request_status,Is there any fresh news on the subject of my forthcoming vacation?
+pto_request_status,Can you provide me with any information regarding my upcoming vacation?
+pto_request_status,Is there any news about the status of my vacation plans?
+pto_request_status,Could you give me an update on the progress of arranging my vacation?
+pto_request_status,"""Has there been any update on the status of my vacation approval?"""
+pto_request_status,"""Can you provide me with an update regarding my vacation approval status?"""
+pto_request_status,"""Is there any new information available regarding the approval of my vacation request?"""
+pto_request_status,Can you provide me with an update on the approval status of my vacation request?
+pto_request_status,I'm wondering if there is any news about the status of my vacation approval.
+pto_request_status,Is there any information available yet regarding the status of my approved vacation time?
+pto_request_status,Has my vacation request been approved?
+pto_request_status,Am I cleared to take my planned vacation?
+pto_request_status,Has my time off been authorized for my vacation?
+pto_request_status,Has my vacation request been granted?
+pto_request_status,Did I receive approval for my vacation?
+pto_request_status,Was my vacation application approved?
+pto_request_status,Kindly inform me whether my vacation is approved or not.
+pto_request_status,Can you let me know if my vacation has been given the green light?
+pto_request_status,Has my holiday request been sanctioned? Could you please confirm?
+pto_request_status,Can you let me know if my holiday request has been granted already?
+pto_request_status,Has my leave application been authorized? Kindly inform me.
+pto_request_status,May I inquire if my vacation time off has been sanctioned or not?
+recipe,What steps should I follow to begin making pizza dough from scratch?
+recipe,Can you provide a tutorial on how to make homemade pizza dough?
+recipe,What is the process for creating pizza dough at home?
+recipe,"""What are the steps to make pizza dough from scratch?"""
+recipe,"""Can you provide guidance on making your own pizza dough at home?"""
+recipe,"""I would like to learn how to start preparing homemade pizza dough, what is the process?"""
+recipe,Can you provide me with a recipe for making tuna salad?
+recipe,Please share the method to prepare tuna salad.
+recipe,Could you suggest how to make a delicious tuna salad at home?
+recipe,Can you provide me with a recipe for tuna salad?
+recipe,Would it be possible for you to share a tuna salad recipe?
+recipe,"I am looking for a tuna salad recipe, can you help me with that?"
+recipe,What are the steps to get ready a taco?
+recipe,In what manner can you make a taco?
+recipe,How should one go about creating a taco?
+recipe,What steps should be taken to make a taco?
+recipe,In what way can you get ready a taco?
+recipe,How should one go about preparing a taco?
+recipe,Can you suggest a delicious chili recipe?
+recipe,Do you know any tasty chili recipes?
+recipe,What's your favorite way to make chili?
+recipe,Could you suggest a delicious recipe for chili?
+recipe,Do you have any recommendations for a tasty and satisfying chili recipe?
+recipe,I'm curious if you know of an exceptional chili recipe that you could share with me?
+recipe,Could you kindly demonstrate how to prepare a tuna casserole?
+recipe,Can you share with me the steps on cooking a tuna casserole?
+recipe,What are the instructions for making a tuna casserole?
+recipe,Can you provide instructions on how to prepare a tuna casserole?
+recipe,Kindly demonstrate the steps involved in making tuna casserole.
+recipe,Could you enlighten me on the process for cooking a tasty tuna casserole?
+recipe,What is the process of preparing pasta?
+recipe,Could you explain the steps to cook pasta?
+recipe,How can one make a plate of pasta from scratch?
+recipe,What is the process of preparing pasta?
+recipe,Can you explain how to cook pasta?
+recipe,What are the steps to making pasta?
+recipe,What steps are involved in making an omelet?
+recipe,Can you explain the process of preparing an omelet?
+recipe,How do you go about making an omelet?
+recipe,What is the procedure for making an omelet?
+recipe,Can you explain the steps involved in preparing an omelet?
+recipe,How does one go about cooking an omelet?
+recipe,Can you suggest a pasta recipe?
+recipe,Do you have any good pasta recipes to share?
+recipe,Could you please recommend a delicious pasta recipe?
+recipe,Can you provide me with a recipe for making pasta?
+recipe,Could you recommend a good way to prepare pasta dish?
+recipe,Would you kindly suggest a pasta recipe I can make at home?
+recipe,Can you give me suggestions of hamburger ideas?
+recipe,What are some creative ways to make a hamburger?
+recipe,"I am looking for some inspiration on making a delicious hamburger, what do you recommend?"
+recipe,Can you provide me with some suggestions for creating a delicious hamburger?
+recipe,What are some concepts for making a tasty burger that you can share with me?
+recipe,Do you have any interesting ideas or recommendations on how to make an appetizing hamburger?
+recipe,Could you provide me with a recipe for baked vegetables?
+recipe,Is it possible for you to give me instructions on how to roast mixed vegetables?
+recipe,May I request a formula for preparing roasted veggies?
+recipe,Can you provide me with a guide on how to prepare vegetables that are roasted? 
+recipe,Could you possibly give me some instructions for creating roasted vegetables? 
+recipe,Do you happen to have a recipe handy for making delicious roasted vegetable dishes?
+repeat,Could you kindly repeat what you just said?
+repeat,"Would you mind restating your statement, please?"
+repeat,"Can I ask you to say that one more time, please?"
+repeat,Can you kindly repeat what you just said?
+repeat,Could you please articulate that once more?
+repeat,Would you mind restating your previous statement?
+repeat,Would you mind restating what you just said? 
+repeat,Can you clarify what was stated previously? 
+repeat,"I'm sorry, could you please say that again?"
+repeat,Would you mind saying that again?
+repeat,Can you please repeat what you said?
+repeat,"I'm sorry, could you say that one more time?"
+repeat,Can you say it again?
+repeat,Could you please reiterate that?
+repeat,Would you mind repeating what you just said?
+repeat,Can you say that again?
+repeat,Could you reiterate what you just said?
+repeat,Would you mind repeating yourself?
+repeat,Could you please repeat what you just said?
+repeat,"I'm sorry, could you say that one more time?"
+repeat,"Pardon me, can you rephrase your statement?"
+repeat,"Can you repeat yourself, please?"
+repeat,"I'm sorry, could you say that once more?"
+repeat,"Pardon me, could you kindly rephrase what you just said?"
+repeat,Can you say that again?
+repeat,Could you repeat what you just said?
+repeat,Would you mind restating that?
+repeat,"Could you kindly restate that, please?"
+repeat,Would you mind saying that again?
+repeat,Can you repeat your previous statement?
+repeat,Kindly restate the last utterance.
+repeat,Can you say that again?
+repeat,"Could you repeat the last sentence, please?"
+repeat,May you kindly reiterate the previous statement?
+repeat,Could you please recite the last thing again?
+repeat,Would you mind repeating the final statement?
+repeat,Could you please say that again?
+repeat,Would you mind repeating yourself?
+repeat,Can you rephrase what you just said?
+repeat,"Can you restate that, please?"
+repeat,Could you say that again for me?
+repeat,Would you mind repeating what you said?
+repeat,Can you please say that again?
+repeat,Could you kindly repeat what you just said?
+repeat,Would it be alright if I asked you to rephrase that statement?
+repeat,Could you kindly repeat what you just said?
+repeat,"I apologize, could you please reiterate your statement?"
+repeat,Was it possible for you to say that again?
+repeat,Would you mind repeating what you said?
+repeat,Could you kindly restate your statement?
+repeat,"May I ask you to say that one more time, please?"
+repeat,"Could you kindly repeat that statement, please?"
+repeat,Would you mind restating what you just said?
+repeat,Can you give me a do-over and say it again?
+repeat,Could you please repeat the question once more?
+repeat,Would you mind asking the question again?
+repeat,Can you rephrase the question for me?
+repeat,Could you kindly reiterate the inquiry once more?
+repeat,"May I ask you to repeat the question one more time, please?"
+repeat,"Sorry if I'm mistaken, could you possibly tell me what the question was again?"
+report_fraud,I noticed some charges on my online bill from Penneys that I didn't make.
+report_fraud,There are items on my online bill charged by Penneys that I did not purchase.
+report_fraud,My online payment statement shows unauthorised transactions for products from Penneys.
+report_fraud,There are some items on my Penneys online bill that I didn't buy.
+report_fraud,My online bill from Penneys contains things I didn't purchase.
+report_fraud,Penneys charged me for items on my online bill that I never bought.
+report_fraud,It is necessary for me to disclose fraudulent transactions on my Bank of the West card.
+report_fraud,Reporting deceitful actions on my Bank of the West card is imperative.
+report_fraud,I need to inform about fraudulent activity carried out using my Bank of the West card.
+report_fraud,A report regarding unauthorized transactions on my Bank of the West card needs to be filed.
+report_fraud,Fraudulent activity has been observed on my Bank of the West card and I should report it.
+report_fraud,It is necessary for me to alert Bank of the West about deceitful usage on my credit card.
+report_fraud,Is there a unauthorized transaction on my account?
+report_fraud,Has someone made an illegal purchase using my account without my knowledge?
+report_fraud,Is there any suspicious activity detected in my account that could suggest fraud?
+report_fraud,Is there any unauthorized activity in my account?
+report_fraud,Have any fraudulent transactions been made on my account?
+report_fraud,Is it possible that my account has been subjected to fraudulent activity?
+report_fraud,"""I believe there's an unauthorized charge on my account."""
+report_fraud,"""It seems like a transaction was made fraudulently using my account."""
+report_fraud,"""I suspect that there's a fraudulent activity involving my account."""
+report_fraud,"""I am almost certain that a fraudulent transaction has taken place on my account."""
+report_fraud,"""There is a high possibility of a fraudulent transaction occurring on my account."""
+report_fraud,"""It seems like there may be an unauthorized transaction made on my account."""
+report_fraud,"""I believe there is an unauthorized transaction from McDonald's on my account."""
+report_fraud,"""It appears that I have been charged fraudulently by McDonald's on my account."""
+report_fraud,"""There seems to be a suspicious charge from McDonald's on my account that I did not authorize."""
+report_fraud,"""I believe there may be an erroneous transaction from McDonald's on my account."""
+report_fraud,"""I suspect that an unauthorized charge was made by McDonald's on my account."""
+report_fraud,"""There appears to be a suspicious charge from McDonald's on my account."""
+report_fraud,There is a purchase on my account from Dave's Video that seems to be fraudulent.
+report_fraud,I believe there has been a fraudulent transaction made from Dave's Video on my account.
+report_fraud,A purchase from Dave's Video seems to be fraudulent and it appears on my account.
+report_fraud,Dave's Video made a fraudulent purchase on my account.
+report_fraud,Someone used my account to make a fraudulent purchase from Dave's Video.
+report_fraud,There is an unauthorized purchase by Dave's Video on my account.
+report_fraud,"""My account has incurred an erroneous charge from McDonald's."""
+report_fraud,"""There appears to be an erroneous transaction on my account associated with McDonald's."""
+report_fraud,"""A mistaken purchase by McDonald's seems to have been charged to my account."""
+report_fraud,A transaction from McDonald's on my account seems to be inaccurate. 
+report_fraud,There appears to be an erroneous transaction from McDonald's on my account. 
+report_fraud,My account shows a faulty transaction from McDonald's.
+report_fraud,This fee seems illegitimate.
+report_fraud,I don't believe this charge is justified.
+report_fraud,It appears that this expense is unfounded.
+report_fraud,This fee is unjustified.
+report_fraud,The amount charged is absurd.
+report_fraud,I can't believe they're asking for this much money.
+report_fraud,The transaction that I received from Guitar Center is of poor quality.
+report_fraud,
+report_fraud,My account has a terrible transaction recorded from my purchase at Guitar Center.
+report_fraud,
+report_fraud,The transaction made on my account with Guitar Center seems unsatisfactory.
+report_fraud,My account shows a bad transaction from Guitar Center.
+report_fraud,The transaction I had with Guitar Center on my account wasn't great.
+report_fraud,A poor transaction from Guitar Center is reflected on my account.
+report_fraud,"Despite not having made a purchase, my bill indicates that I have bought something from Payless Shoes."
+report_fraud,There is an entry on my bill from Payless Shoes indicating that I have made a purchase even though I did not.
+report_fraud,"Although I did not buy anything from Payless Shoes, my bill shows that I have made a purchase with them."
+report_fraud,"Despite not making any purchase, my bill displays a transaction from Payless Shoes."
+report_fraud,I have an item charged on my bill from Payless Shoes even though I did not make any purchase there.
+report_fraud,There is an unauthorized payment made to Payless Shoe store that reflects in my billing statement.
+taxes,"""What is the cumulative amount of my state taxes?"""
+taxes,"""What is the aggregate figure for my state tax payments?"""
+taxes,"""What is the grand total of my state tax expenses?"""
+taxes,What amount do I owe for the state tax?
+taxes,How much is the sum of my state taxes?
+taxes,Can you tell me the overall figure for my state tax payment?
+taxes,What amount of taxes have been deducted from my income in total? 
+taxes,Could you tell me the overall sum of taxes taken from my earnings? 
+taxes,I'm wondering what the complete figure of taxes withheld from my income is.
+taxes,What's the aggregate amount of taxes which have been levied on my earnings?
+taxes,How much tax has been deducted from my total income?
+taxes,Could you tell me the total sum of taxes taken out of my earnings?
+taxes,"""What's the amount I need to pay to the IRS?"" "
+taxes,"""To what extent am I indebted to the IRS?"" "
+taxes,"""How much money do I have to give to the IRS?"""
+taxes,What is the specific amount that I am indebted to the Internal Revenue Service?
+taxes,Can you tell me the exact sum of money that I need to pay back to IRS?
+taxes,"In terms of owing taxes, what is the precise figure I owe the Internal Revenue Service?"
+taxes,"""What is the total amount of state taxes that I owe?"""
+taxes,"""Could you tell me the exact sum of my state tax payments?"""
+taxes,"""I'm wondering about the specific figure of my state taxes, could you provide that information?"""
+taxes,"""What amount do I need to pay for my state taxes?"""
+taxes,"""Can you tell me the estimated sum of my state tax payment?"""
+taxes,"""What is the total cost of my state tax obligation?"""
+taxes,Can you show me a preview of my federal tax information?
+taxes,How does my federal taxes appear in terms of numbers?
+taxes,Could you provide an overview of my federal taxes?
+taxes,Can you provide me with a description or breakdown of my federal taxes?
+taxes,How would you describe the appearance and composition of my federal taxes? 
+taxes,Could you give me an overview of what my federal tax payments entail?
+taxes,Can we have a conversation about the appearance of my federal taxes?
+taxes,Is it possible to discuss the features of my federal taxes?
+taxes,Would it be appropriate to deliberate on the visual aspects of my federal taxes?
+taxes,Can we discuss the appearance of my federal taxes?
+taxes,"I would like to converse about the visual presentation of my federal taxes, are you available?"
+taxes,Do you have time to talk about how my federal taxes seem?
+taxes,What would be my tax liability?
+taxes,How much do I have to pay in taxes?
+taxes,What is the amount of taxes that I will owe?
+taxes,What will be the amount of taxes I have to pay?
+taxes,How much tax do I need to pay?
+taxes,Can you tell me the exact figure of my owed taxes?
+taxes,Are you aware of the amount I need to pay for my income taxes?
+taxes,Can you tell me how much I will have to spend on my taxes based on my income?
+taxes,Do you have any information about the cost of taxes I should expect to pay from my income?
+taxes,Can you tell me the exact amount I need to pay for my income taxes?
+taxes,Is it possible for you to provide me with the cost of my tax payment regarding my income?
+taxes,Do you have any idea about how much I have to spend on income tax?
+taxes,Kindly let me know the exact amount of my federal tax contribution.
+taxes,Could you disclose to me how much I have paid in federal taxes?
+taxes,May I request for information on the total sum of my federal taxes?
+taxes,Can you kindly provide me with the total amount of my federal taxes?
+taxes,I'd appreciate it if you could let me know how much I owe in federal taxes.
+taxes,Would you mind sharing the exact sum of my federal tax payments?
+taxes,What is the amount of tax I would have to pay for my income?
+taxes,How much will be deducted from my earnings as income tax?
+taxes,Can you tell me the total sum that I need to pay in taxes based on my income?
+taxes,What is the amount of taxes I have to pay based on my income?
+taxes,Could you tell me the figure for my tax liability considering my earnings?
+taxes,I would like to know the exact value of my taxes that is determined by my income.
+text,Send a message to Samantha informing her that I will be there in 10 minutes.
+text,Please shoot Sam a text message to notify her that I will arrive in 10 short minutes
+text,Kindly inform Samantha via message that my anticipated arrival time is 10 minutes from now.
+text,Can you please send Samantha a message informing her that I'll be there in 10 minutes?
+text,"Kindly drop a text to Samantha, notifying her of my arrival in ten minutes."
+text,Would you mind texting Samantha and giving her a heads up that I'll be there in 10?
+text,Could you please compose a message that greets Abby?
+text,"Is it possible for you to send a text containing the word ""hi"" to Abby?"
+text,Would you mind putting together a short text message that says hello to Abby?
+text,Please send Abby a text message that says hello.
+text,Can you compose a text saying hi to Abby? 
+text,"Would you mind sending a brief message to Abby, saying hey?"
+text,Notify Courtney via text message regarding the detour.
+text,Send a text to Courtney and let her know about the detour.
+text,Inform Courtney of the detour by sending her a text.
+text,Send a message to Courtney and let her know about the alternate route.
+text,Reach out to Courtney via text and notify her of the road diversion.
+text,Inform Courtney by sending a text message regarding the detour.
+text,My intention is to inform Susan that the assembly has been called off.
+text,"The message I wish to convey is that the scheduled conference will not take place, and I need to notify Susan."
+text,"In order for Susan to be notified, I need to let her know that the meeting has been cancelled."
+text,My intention is to inform Susan about the cancellation of the meeting.
+text,It is my desire to communicate to Susan that the meeting has been called off.
+text,I am inclined to let Susan know that there has been a cancellation of the scheduled meeting.
+text,Receive a message to indicate.
+text,Obtain a written communication to grade.
+text,Acquire a textual content to evaluate.
+text,Receive a message to grade.
+text,Obtain a written communication to assess.
+text,Acquire a piece of text to evaluate.
+text,"Send Dave a message, I'll arrive shortly."
+text,Let Dave know via text that I will be there soon.
+text,Shoot a message to Dave informing him that I am on my way.
+text,"Send a message to Dave, informing him that I'll arrive shortly."
+text,Let Dave know via text that I'll be arriving soon.
+text,Drop Dave a quick text to notify him that I'll be there shortly.
+text,Hello can be marked through a text.
+text,Saying hello via text can be marked.
+text,A mark in the form of a text can convey a greeting.
+text,"Can you mark the ""hello"" in the text?"
+text,"Highlight the word ""hello"" in the given text."
+text,"Is it possible to identify the term ""hello"" from the provided text?"
+text,"Would it be possible for you to send a text message to Mary, letting her know that she is amazing?"
+text,"Could you please take the time to send a text to Mary, informing her of how truly amazing she is?"
+text,Is there any chance that you could drop a quick text to Mary and express just how incredible she really is?
+text,Could you send a message to Mary conveying her awesomeness?
+text,Is it possible to text Mary and let her know how awesome she is?
+text,Can you communicate with Mary via text to express her fantastic qualities?
+text,Inform Jim that I will be returning home shortly.
+text,Let Jim know that I'll be back home soon.
+text,Convey to Jim that I shall be heading back home in a little while.
+text,Notify Jim that I will return home in a little while.
+text,Let Jim know that I'll be coming back home shortly.
+text,Inform Jim that my arrival at home is imminent.
+text,Drop Jack a message greeting him.
+text,"Dispatch a text to Jack, conveying a simple ""hi""."
+text,Type out a textual salutation to Jack and hit send.
+text,"Compose a text message that says ""hi"" to Jack."
+text,"Drop a quick message to Jack saying ""hi"" via text."
+text,"Use your phone to send a brief text message to Jack with the greeting ""hi."""
+thank_you,Express gratitude for a multitude.
+thank_you,Convey appreciation for a large amount.
+thank_you,Offer thanks for a great quantity.
+thank_you,Show gratitude by the masses.
+thank_you,Appreciation in abundance.
+thank_you,"Thank you very much, an ample amount."
+thank_you,Numerous expressions of gratitude
+thank_you,A multitude of thanks 
+thank_you,Several acknowledgments of appreciation
+thank_you,"""Numerous expressions of gratitude"""
+thank_you,"""A multitude of thanks"""
+thank_you,"""Abundant appreciation"""
+thank_you,"Thank you for providing me with a wealth of information, AI."
+thank_you,"I'm grateful for the abundance of information that you've given me, AI."
+thank_you,"The volume of information you've shared is much appreciated, thank you, AI."
+thank_you,"Thank you for providing me with an abundance of data, AI."
+thank_you,"All this information you've shared with me is greatly appreciated, AI. "
+thank_you,"You've imparted so much knowledge upon me, AI, and I am grateful."
+thank_you,"Thanks, that response was quite useful."
+thank_you,"The answer was certainly helpful, thank you for that."
+thank_you,"Your response provided a lot of value, I appreciate it."
+thank_you,"""Thank you, your response provided relevant and valuable information."""
+thank_you,"""Your answer has proven to be beneficial, thank you for sharing it."""
+thank_you,"""I appreciate the helpfulness of your reply, thank you very much."""
+thank_you,I appreciate all your assistance.
+thank_you,Thank you for being so helpful.
+thank_you,"You've been a great help, thank you."
+thank_you,Your help has been greatly appreciated.
+thank_you,I am grateful for the assistance you have provided.
+thank_you,Thank you for all the support and aid given to me.
+thank_you,"""I am grateful for it."""
+thank_you,"""It is much appreciated."""
+thank_you,"""I value it highly."""
+thank_you,I am grateful.
+thank_you,It's very much appreciated.
+thank_you,Thank you for that.
+thank_you,"Excellent, many thanks!"
+thank_you,"Superb, much obliged!"
+thank_you,"Fabulous, thank you!"
+thank_you,"""Thank you, that's awesome!"""
+thank_you,"""Many thanks, that's fantastic!"""
+thank_you,"""I appreciate it, that's amazing!"""
+thank_you,Your help is greatly appreciated.
+thank_you,I am grateful for your aid.
+thank_you,Thank you very much for supporting me.
+thank_you,"""I appreciate your help."""
+thank_you,"""Your aid is much appreciated."""
+thank_you,"""Thank you kindly for your assistance."""
+thank_you,Your response is greatly appreciated.
+thank_you,I am grateful for your reply.
+thank_you,Thank you for getting back to me.
+thank_you,Your response is appreciated.
+thank_you,I am grateful for your reply.
+thank_you,Thank you for taking the time to respond.
+thank_you,"""I am grateful to AI for all the efforts it puts in."""
+thank_you,"""My hearty gratitude goes out to AI for its immense contribution."""
+thank_you,"""AI deserves all my appreciation for the valuable work it does."""
+thank_you,"""I appreciate all that AI does, thank you."""
+thank_you,"""Thank you for your valuable contributions, AI."""
+thank_you,"""AI, thank you for everything you bring to the table."""
+tire_change,Are my tires still good after being changed in September?
+tire_change,Is it necessary to replace my tires that were changed in September?
+tire_change,Do I need to put new tires on my car since the ones from September have been used?
+tire_change,Do my tires need to be changed if I changed them last September?
+tire_change,Should I replace my tires even though I got new ones installed in September?
+tire_change,Is it necessary to get another set of new tires considering that I replaced them this past September?
+tire_change,How long will it take to replace my tires?
+tire_change,What is the estimated time required to have my tires replaced?
+tire_change,Could you provide information on how much time I should expect for changing my tires?
+tire_change,Within what duration can my tires be replaced?
+tire_change,What is the estimated time needed for changing my tires?
+tire_change,How long does it take to have my tires swapped?
+tire_change,When should I replace my tires? 
+tire_change,At what point is it necessary to swap out my old tires? 
+tire_change,What are the indicators that signal it’s time to invest in new tires for my vehicle?
+tire_change,When should I consider changing my tires?
+tire_change,What are the signs that indicate tire replacement is needed?
+tire_change,How can I tell if it's time to replace my tires?
+tire_change,What is the recommended interval for changing my tires next?
+tire_change,When should I plan to have my tires replaced again?
+tire_change,At what point in time should I expect to change my tires again?
+tire_change,"""What's the recommended interval for changing my tires?"" "
+tire_change,"""At what point do I need to replace my tires?"" "
+tire_change,"""How often should I change my tires?"""
+tire_change,What is the estimated lifespan of my tires before requiring replacement?
+tire_change,When should I anticipate replacing my tires due to wear and tear?
+tire_change,How much time can I expect my tires to go without needing a replacement?
+tire_change,What is the estimated lifespan of my tires before requiring replacement?
+tire_change,At what point do my tires become due for replacement in terms of their longevity?
+tire_change,How much longer until I need to replace my tires?
+tire_change,What is the appropriate time to replace my vehicle's tires?
+tire_change,At what point do I need to swap out my tires on my car?
+tire_change,When exactly should I consider getting new tires for my automobile?
+tire_change,"""At what point should I replace my tires?"""
+tire_change,"""What is the recommended lifespan of a tire before replacement?"""
+tire_change,"""How do I know when it's time to purchase new tires for my vehicle?"""
+tire_change,Can you inform me when it's time to replace my tires?
+tire_change,
+tire_change,Could you give me a heads up as to when I should get new tires?
+tire_change,
+tire_change,When do I need to purchase new tires?
+tire_change,Can you inform me about the appropriate time to change my tires?
+tire_change,"At what point should I replace my tires, please let me know."
+tire_change,Kindly indicate when it's necessary for me to purchase new tires.
+tire_change,"""When should I replace the tires on my car?"""
+tire_change,"""What is the ideal time to change the tires of my vehicle?"""
+tire_change,"""At what point do I need to consider changing the tires on my car?"""
+tire_change,"""At what point should I consider changing the tires on my car?"""
+tire_change,"""What indications exist that suggest it's time to replace the tires on my vehicle?"""
+tire_change,"""When is it necessary to get new tires for my car?"""
+tire_change,"""When is the appropriate time to replace my tires?"""
+tire_change,"""At what point should I consider changing my tires?"""
+tire_change,"""What are some signs that indicate I need to replace my tires?"""
+tire_change,When should I replace my tires?
+tire_change,At what point do I need to change my tires?
+tire_change,What are the signs that show that my tires should be replaced?
+tire_change,Could you inform me about the right time to replace my tires?
+tire_change,Can you advise me on when it's necessary for me to change my tires?
+tire_change,What is the recommended period for changing my tires?
+tire_change,Can you tell me the appropriate time to replace my tires?
+tire_change,What is the recommended timeframe for a tire replacement?
+tire_change,When should I consider changing my tires for safety reasons?
+traffic,Are there any traffic jams on my usual work route?
+traffic,Is the daily route I take for work congested with vehicular traffic?
+traffic,Does my everyday route to work have any instances of heavy traffic?
+traffic,Does the route I take to work have heavy traffic?
+traffic,Is it congested on the way I commute to work?
+traffic,Are there any traffic jams on my usual work path?
+traffic,Is there traffic when commuting to work?
+traffic,"During the commute to work, are there traffic obstructions?"
+traffic,Does heavy traffic occur on the way to work?
+traffic,Is there congestion during the commute to work?
+traffic,Does traffic affect the journey to work?
+traffic,Are there any delays during the route to work due to traffic?
+traffic,Will there be heavy traffic during my commute to work?
+traffic,I wonder if I'll encounter any congestion on the way to my workplace.
+traffic,Is it likely that there will be a traffic jam when I'm heading towards my job location?
+traffic,Will I encounter traffic while commuting to work?
+traffic,Is there a likelihood of experiencing traffic on the way to work?
+traffic,Can I expect any traffic during my journey to work?
+traffic,"At noon, what is the traffic like on I-95 from Philadelphia to Newark, New Jersey?"
+traffic,"How heavy is the traffic going towards Newark, New Jersey via I-95 from Philadelphia at midday?"
+traffic,"If I drive on I-95 from Philadelphia to Newark, New Jersey around noon, can you describe the traffic conditions?"
+traffic,"At noon, driving from Philadelphia to Newark, what traffic patterns should I anticipate on I-95?"
+traffic,"Expectations for traffic on I-95 when driving from Philadelphia to Newark, New Jersey at noon?"
+traffic,"How heavy will the traffic be around noon on I-95 while driving to Newark, New Jersey from Philadelphia?"
+traffic,"""What kind of traffic should I anticipate while driving from Philadelphia to Newark, New Jersey?"" "
+traffic,"""Can you give me an idea of what the traffic flow is like from Philadelphia to Newark, New Jersey?"" "
+traffic,"""I'm planning a trip from Philadelphia to Newark, New Jersey, could you tell me what the traffic situation might be along the way?"""
+traffic,"""What is the amount of traffic I should anticipate when traveling from Philadelphia to Newark, New Jersey?"""
+traffic,"""Will the commute from Philadelphia to Newark, New Jersey be congested with traffic?"""
+traffic,"""Is there a high volume of traffic along the route from Philadelphia to Newark, New Jersey?"""
+traffic,"""Is the road congested at the moment?"""
+traffic,"""Are there any obstacles along the route?"""
+traffic,"""Can you anticipate any delays during the commute?"""
+traffic,Are there any delays on the road?
+traffic,Is the traffic flow smooth or congested currently?
+traffic,Will I come across any traffic while travelling?
+traffic,Are there any traffic projections?
+traffic,Do we anticipate traffic congestion?
+traffic,Is the traffic expected to be heavy?
+traffic,Can we anticipate traffic?
+traffic,Are there any expectations regarding traffic?
+traffic,Is it likely that we will encounter traffic?
+traffic,Can you provide me with information on the current status of traffic from the New Jersey Turnpike into the Lincoln Tunnel?
+traffic,How does traffic appear currently on the route from the New Jersey Turnpike to the Lincoln Tunnel?
+traffic,I would appreciate it if you could inform me of the current state of traffic on the path leading from the New Jersey Turnpike to the Lincoln Tunnel.
+traffic,Can you provide an update on the current traffic conditions from the New Jersey Turnpike to the Lincoln Tunnel?
+traffic,I'd like to know what the traffic situation is like at present between the New Jersey Turnpike and the Lincoln Tunnel.
+traffic,Could you inform me about the current status of traffic from the New Jersey Turnpike leading up to the Lincoln Tunnel?
+traffic,Is there any traffic on my route to work?
+traffic,Will I be encountering heavy traffic while commuting to work?
+traffic,Can you tell me if the roads are congested during my journey to work?
+traffic,"""Is the traffic heavy on my route to work?"""
+traffic,"""Will I encounter any congestion while commuting to the workplace?"""
+traffic,"""Does the road to my office have a high volume of vehicles?"""
+traffic,"""Are there any congestions on the way from Philadelphia to New York on I-95 North?"""
+traffic,"""Does I-95 North from Philadelphia to New York have heavy traffic flow?"""
+traffic,"""Can you tell me if there's any traffic on I-95 North enroute Philadelphia and New York?"""
+traffic,Is there congestion on I-95 northward bound to New York from Philadelphia?
+traffic,Does traffic affect travel time on I-95 heading from Philadelphia to New York?
+traffic,Are there any delays on the route from Philadelphia to New York via I-95 northbound?
+transactions,Can you provide me with details regarding my latest transaction?
+transactions,"I am seeking information pertaining to the transaction that occurred recently, could you assist me?"
+transactions,Would it be possible for you to furnish me with particulars concerning my most recent transaction?
+transactions,Can you provide me with details regarding my recent transaction?
+transactions,I'm curious if you have any information pertaining to my most recent transaction.
+transactions,Would it be possible for you to give me some insight into my recently completed transaction?
+transactions,"""What was the date of my last transaction?"""
+transactions,"""When was it that I last bought something?"""
+transactions,"""Can you tell me when I made my most recent purchase?"""
+transactions,"""At what point in time did I most recently complete a transaction?"""
+transactions,"""When was the last instance of me buying something recorded?"""
+transactions,"""Can you tell me when I made my most recent purchase?"""
+transactions,"""What was the cost of my latest purchase?"""
+transactions,"""Could you tell me the amount spent in my recent transaction?"""
+transactions,"""How expensive was my most recent transaction?"""
+transactions,What was the amount of money I spent on my latest transaction?
+transactions,How much money did I expend during my recent transaction?
+transactions,Can you tell me how much I spent on my last transaction?
+transactions,Display the latest transactions on my banking application.
+transactions,Access my bank app and exhibit my most recent activities.
+transactions,Show me my most up-to-date financial transactions by opening the banking app.
+transactions,Display the latest transactions by opening the banking application
+transactions,Show me my most recent activity upon launching the bank app
+transactions,Access the bank app and present my recent transactions
+transactions,"""What is the total amount charged to my bank card since I last made a payment?"""
+transactions,"""Since the last time I paid my credit card bill, how much money have I spent on it?"""
+transactions,"""Can you tell me the exact figure of expenditure on my bank card from the day after my last payment until today?"""
+transactions,What is the total amount I have used my bank card since the last time I settled my bill?
+transactions,"Since my last payment, how much money have I expended using my bank card?"
+transactions,How much has been charged to my bank card since the last bill payment?
+transactions,Display a record of my transactions.
+transactions,Present a list of all my transactions.
+transactions,Exhibit a summary of my transaction history.
+transactions,Display my transaction records.
+transactions,Present a list of my transactions.
+transactions,Illustrate all the dealings I have made.
+transactions,"""What was the cost of my previous visit to Target?"""
+transactions,"""What amount did I spend during my recent trip to Target?"""
+transactions,"""For my last Target outing, how much did I end up shelling out?"""
+transactions,What was the cost of my most recent visit to Target?
+transactions,How much did I spend during my last trip to Target?
+transactions,What was the total amount of my previous purchase at Target?
+transactions,Which electronic purchases did I make this morning after 6am?
+transactions,What were the electronics transactions that occurred after 6am this morning?
+transactions,Can you tell me which electronic transactions I made after 6am this morning?
+transactions,"""Which electronic purchases did I make after 6am this morning?"""
+transactions,"""Can you tell me the transactions made on electronics by me after 6am today?"""
+transactions,"""After 6am this morning, which purchases of electronic items did I make?"""
+transactions,Can you mention the most recent transaction?
+transactions,What was the recently conducted transaction?
+transactions,Could you tell me about the latest transaction made?
+transactions,What was the most recent transaction recorded?
+transactions,Can you provide information on the latest transaction made?
+transactions,Could you tell me about the transaction that took place recently?
+transactions,Can you tell me the details of my latest transaction?
+transactions,"I would like to know about the recent activity in my account, could you provide information on that?"
+transactions,Is it possible for you to inform me about the most recent transaction made under my name?
+transactions,Can you tell me about the transaction I made recently?
+transactions,Could you inform me of my most recent transaction?
+transactions,"I'm curious, what was my last transaction?"
+travel_notification,Can you do me a favor and inform my bank that I will be in Mexico from Thursday to Friday?
+travel_notification,"As I'll be away in Mexico for two days, would it be possible for you to notify my bank on my behalf?"
+travel_notification,I need someone to relay the message to my bank about my unavailability on Thursday and Friday while I'm in Mexico. Could you possibly help?
+travel_notification,"""During my stay in Mexico from Thursday to Friday, could you kindly inform my bank?"""
+travel_notification,
+travel_notification,"""Would it be possible for you to notify my bank that I will be in Mexico from Thursday until Friday?"""
+travel_notification,
+travel_notification,"""Can you please inform my banking institution about my temporary absence in Mexico from Thursday till Friday?"""
+travel_notification,Can I inform my bank about my upcoming trip to Dubai from 14th to 22nd April?
+travel_notification,Is it possible to notify my bank regarding my travel plans to Dubai between April 14 and April 22?
+travel_notification,How can I let my bank know that I will be traveling to Dubai during the period of April 14-22?
+travel_notification,Notify my bank that I'll be traveling to Dubai from April 14th until April 22nd.
+travel_notification,Advise my bank about my upcoming trip to Dubai during the dates of April 14th through April 22nd.
+travel_notification,Inform my bank of my travels to Dubai for the period starting on April 14th and ending on April 22nd.
+travel_notification,Please notify my bank that I will be in Australia from February 23rd to February 25th.
+travel_notification,Kindly inform my financial institution that I'll be traveling to Australia starting on February 23rd until February 25th.
+travel_notification,Could you please let my bank know that I intend to go to Australia sometime between February 23rd and February 25th?
+travel_notification,"""Notify my financial institution that I will be in Australia from February 23rd to February 25th."""
+travel_notification,"""Advise my bank of my travel plans to Australia during the period of February 23-25."""
+travel_notification,"""Inform my banking institution about my visitation to Australia scheduled between February 23 and February 25."""
+travel_notification,Kindly notify my bank that I will be going on a vacation to the Bahamas soon.
+travel_notification,Could you please inform my bank about my upcoming trip to the Bahamas in a few days?
+travel_notification,I would appreciate it if you could let my bank know that I'll be taking a vacation in the Bahamas shortly.
+travel_notification,"""I would appreciate it if you could notify my bank that I will be spending my vacation in the Bahamas within a few days."""
+travel_notification,
+travel_notification,"""Kindly inform my bank that I have plans of going on vacation to the Bahamas in a couple of days."""
+travel_notification,
+travel_notification,"""To make sure everything is in order, please notify my bank that I'll be on vacation in the Bahamas in just a matter of days."""
+travel_notification,Inform my bank's fraud department that I will be traveling to Mexico.
+travel_notification,Please let my bank's fraud department know that I am planning a trip to Mexico.
+travel_notification,Kindly inform the fraud department of my bank about my upcoming journey to Mexico.
+travel_notification,Inform the fraud division at my bank that I will be in Mexico.
+travel_notification,Let my bank's fraud team know that I am traveling to Mexico.
+travel_notification,Advise my financial institution's fraud department that I will be visiting Mexico.
+travel_notification,Inform my bank of my actual visit to Brazil.
+travel_notification,Notify my bank that I am really going to Brazil. 
+travel_notification,Advise my bank about my true trip to Brazil.
+travel_notification,Kindly inform my bank of my travel to Brazil.
+travel_notification,It is necessary for me to notify my bank about my visit to Brazil.
+travel_notification,Please relay my presence in Brazil to my bank.
+travel_notification,Inform my bank that I will be in Canada from the 6th to the 13th of next month.
+travel_notification,Notify my bank that I will remain in Canada from the 6th until the 13th of the upcoming week.
+travel_notification,Advise my bank that I'll be spending the whole week starting from the 6th to the 13th of next month within Canada.
+travel_notification,Inform my bank that I will be in Canada from the 6th to the 13th for a whole week.
+travel_notification,Let my bank know that I'll be present in Canada throughout the entire week of 6th-13th period.
+travel_notification,"Pass on my whereabouts information to the bank, that I'll be staying in Canada for the entire week starting from the 6th and ending on the 13th."
+travel_notification,"In a few hours, I require to communicate with my bank that I will be in London."
+travel_notification,It is necessary for me to inform my bank that I will shortly be arriving in London.
+travel_notification,I have to let my bank know that I am going to be in London within the next few hours.
+travel_notification,I have to inform my bank that I will be in London in a few hours.
+travel_notification,It is necessary for me to notify my bank that I will definitely be in London within a few hours.
+travel_notification,My bank needs to be informed that I'll be arriving in London in a few hours without fail.
+travel_notification,"Notify my bank of my travel itinerary to Peru, from February 19th till 26th."
+travel_notification,"I need to inform my bank about my trip dates for Peru, which are from February 19th until February 26th."
+travel_notification,Can you please send a notification to my bank stating that I will be travelling to Peru between February 19th and 26th?
+travel_notification,Notify my bank of my travel itinerary from February 19 to 26 to Peru.
+travel_notification,Inform my bank about my travel plans to Peru from February 19th to 26th.
+travel_notification,Request a notification to be sent to my bank with my travel details to Peru from February 19-26th.
+travel_notification,Kindly inform my bank of my upcoming travel to Mexico for a week starting next Wednesday.
+travel_notification,I would appreciate it if you could notify my bank that I will be traveling to Mexico from next Wednesday for a week.
+travel_notification,"Could you please pass on the message to my bank that I'll be in Mexico for a week, starting next Wednesday?"
+travel_notification,Kindly inform my bank that I will be traveling to Mexico starting next Wednesday for a duration of one week.
+travel_notification,
+travel_notification,"Could you please relay a message to my bank informing them of my upcoming travel plans to Mexico, beginning next Wednesday and lasting for a week?"
+travel_notification,
+travel_notification,I would appreciate it if you could notify my bank on my behalf about my intention to visit Mexico starting from next Wednesday till the end of the week.
+weather,Can you inform me about the current weather conditions in Austin?
+weather,Would it be possible for you to update me on the climate in Austin?
+weather,May I ask for an update on the atmospheric situation in Austin?
+weather,Can you provide me with information about the current weather in Austin?
+weather,Would you be able to inform me of the present weather conditions in Austin?
+weather,Is it possible for you to give me an update on the weather situation in Austin?
+weather,What is the current atmospheric condition?
+weather,Could you describe the climate outside?
+weather,Is it possible for you to inform me about the weather status?
+weather,What's the condition of the weather today?
+weather,Could you tell me what the climate is like currently?
+weather,Is it possible to describe the atmospheric conditions at this moment?
+weather,What is the current weather condition that I should be aware of?
+weather,Can you provide me with an update on the present weather situation?
+weather,Is there any information available regarding the weather at this moment?
+weather,What's the current weather condition that I should be aware of at this moment?
+weather,Can you provide me with an update on the existing weather situation right now?
+weather,Is it possible to inform me about the present atmospheric state as soon as possible?
+weather,Can you provide an update on the current weather conditions in Austin?
+weather,What's the latest development regarding the climate in Austin? 
+weather,Could you tell me about the prevailing atmospheric conditions in Austin these days?
+weather,What's the current weather situation in Austin?
+weather,Could you give me an update on the weather conditions in Austin?
+weather,How is the climate like lately in Austin?
+weather,Can you inform me about the weather conditions for today?
+weather,What is the forecast for the weather like today?
+weather,Will you please let me know the temperature and other climatic factors expected for today?
+weather,Can you inform me about the weather conditions expected today?
+weather,What is the forecast for the weather today?
+weather,Could you give me an update on the weather situation for today?
+weather,Could you provide me with the weather forecast?
+weather,Is it possible for you to inform me about the weather prediction?
+weather,May I know what the weather outlook is?
+weather,Could you inform me about the expected weather conditions?
+weather,Would you mind giving me a rundown of the upcoming weather forecast?
+weather,May I inquire what weather predictions are anticipated?
+weather,"""Shall we have a glance at the current weather condition?"""
+weather,"""Would you like to check out the prevailing weather conditions?"""
+weather,"""Can we examine the present state of the weather?"""
+weather,"""Shall we examine the current weather conditions?"""
+weather,"""Could we observe the atmospheric conditions at the moment?"""
+weather,"""Would it be feasible to inspect the prevailing weather?"""
+weather,How is the weather today?
+weather,Can you describe the current weather conditions?
+weather,What kind of climate can we expect for today?
+weather,How is the weather behaving today?
+weather,Can you describe the weather conditions for today?
+weather,What kind of climate can we expect to face today?
+weather,Can you inform me about the current atmospheric conditions?
+weather,What is the forecast for the weather today?
+weather,Could you provide me with an update on the present climate?
+weather,Can you provide me with information about the current atmospheric conditions?
+weather,I would like to know what the meteorological forecast is for today.
+weather,Could you inform me about the prevailing climate conditions?
+weather,What's the current weather condition in Seattle?
+weather,Could you inform me about the temperature and climate in Seattle?
+weather,How would you describe the weather situation of Seattle at the moment?
+weather,What's the weather like in Seattle?
+weather,Can you give me an update on the Seattle weather situation?
+weather,Is it sunny or cloudy in Seattle today?
+whisper_mode,Change your mode to a whisper.
+whisper_mode,
+whisper_mode,Transition to a quieter mode.
+whisper_mode,
+whisper_mode,Shift the mode to a hushed tone.
+whisper_mode,Change to the whispering mode.
+whisper_mode,Begin using the mode for whispering talks.
+whisper_mode,Move into a whisper talking style.
+whisper_mode,Turn off the whisper mode.
+whisper_mode,Deactivate the whisper mode setting.
+whisper_mode,"Disable the ""whisper"" feature."
+whisper_mode,End the whisper function.
+whisper_mode,Cease the ability to whisper.
+whisper_mode,Turn off the hushed mode.
+whisper_mode,Change back from whisper mode.
+whisper_mode,Exit whisper mode.
+whisper_mode,Stop using whisper mode.
+whisper_mode,"""Switch back from quiet mode"" "
+whisper_mode,"""Return to normal volume setting"" "
+whisper_mode,"""Revert to regular speaking level"""
+whisper_mode,Disable the whisper mode.
+whisper_mode,Deactivate the feature that makes you whisper.
+whisper_mode,Turn off the function that enables you to speak softly.
+whisper_mode,Deactivate the whisper mode feature.
+whisper_mode,Turn off the whispering function.
+whisper_mode,Disable the option for whisper mode.
+whisper_mode,Disable whisper mode.
+whisper_mode,Deactivate the silent mode.
+whisper_mode,Turn off the function that allows whispering.
+whisper_mode,Disable the whisper mode.
+whisper_mode,Switch off the whispering feature.
+whisper_mode,Deactivate whisper mode.
+whisper_mode,"""Leaving whisper mode is mandatory."""
+whisper_mode,"""Whisper mode should not be continued."""
+whisper_mode,"""Discontinuing whisper mode is a must."""
+whisper_mode,It is necessary to keep the whisper mode on.
+whisper_mode,The whisper mode should not be turned off.
+whisper_mode,Leaving the whisper mode is mandatory.
+whisper_mode,Switch over to an alternate mode that is not a whisper.
+whisper_mode,Transition to a different setting that excludes the use of whispering.
+whisper_mode,"Modify the current mode to something other than a low-volume, hushed state."
+whisper_mode,Modify the setting to a non-whisper mode.
+whisper_mode,Switch to a mode that is not in whispering volume.
+whisper_mode,Alter the mode setting to something that is no longer in a whispering state.
+whisper_mode,Alter the setting from whisper mode.
+whisper_mode,Adjust the mode to a non-whisper state.
+whisper_mode,Switch out of whispering mode.
+whisper_mode,What are the ways to switch off whisper mode?
+whisper_mode,How can one disable the feature of speaking in a low voice?
+whisper_mode,What steps are involved for turning off the whispering function?
+whisper_mode,Turn on the whisper mode.
+whisper_mode,Initiate the whispering mode.
+whisper_mode,Activate the mode for whispering.
+whisper_mode,Initiate the whisper mode.
+whisper_mode,Begin operating in whispering mode.
+whisper_mode,Activate the hushed mode.
+whisper_mode,Activate the whisper mode.
+whisper_mode,Enable the feature of whispering.
+whisper_mode,Start using the function that allows you to talk softly.
+whisper_mode,Activate the whisper mode.
+whisper_mode,Enable the whispering function.
+whisper_mode,Turn the whisper mode on.
+who_do_you_work_for,"""By whom are you employed?"""
+who_do_you_work_for,"""Who is your employer?"""
+who_do_you_work_for,"""Which organization do you work for?"""
+who_do_you_work_for,Who is your employer?
+who_do_you_work_for,Who pays your salary?
+who_do_you_work_for,By whom are you employed?
+who_do_you_work_for,Is it my ownership on you?
+who_do_you_work_for,Am I the owner of you?
+who_do_you_work_for,Do you belong to me?
+who_do_you_work_for,Am I the proprietor of your existence?
+who_do_you_work_for,Do you belong to me? 
+who_do_you_work_for,Is it within my rights to claim you as mine?
+who_do_you_work_for,Which company do you currently work at?
+who_do_you_work_for,Can you tell me the name of the organization where you are employed?
+who_do_you_work_for,What is the name of the firm that you are currently affiliated with?
+who_do_you_work_for,Which company are you employed at?
+who_do_you_work_for,At which organization do you hold a position?
+who_do_you_work_for,What is the name of the business that employs you?
+who_do_you_work_for,"""Who is the person in charge of you?"""
+who_do_you_work_for,"""Whom do you report to as your superior?"""
+who_do_you_work_for,"""Who holds the position of authority over you in the workplace?"""
+who_do_you_work_for,Who is the person you report to?
+who_do_you_work_for,To whom do you answer in your work?
+who_do_you_work_for,Who holds a higher position than you in your workplace?
+who_do_you_work_for,Who is the person to whom you submit your work reports?
+who_do_you_work_for,To whom are you accountable for your job responsibilities?
+who_do_you_work_for,Which individual do you report your work progress and status to?
+who_do_you_work_for,Who is the person you are answerable to for your job?
+who_do_you_work_for,
+who_do_you_work_for,To whom do you submit reports with regards to your employment?
+who_do_you_work_for,
+who_do_you_work_for,On whose direction and supervision do you perform your professional duties?
+who_do_you_work_for,To whom can I speak above your authority?
+who_do_you_work_for,Who is higher up the chain of command that I can communicate with?
+who_do_you_work_for,Is there someone at a higher level that I can direct my inquiries to?
+who_do_you_work_for,"Whom should I discuss matters with, higher than your position?"
+who_do_you_work_for,To whom can I direct my concerns who holds a higher rank than you?
+who_do_you_work_for,Could you suggest someone above your authority whom I may converse with?
+who_do_you_work_for,Are you being controlled by someone else?
+who_do_you_work_for,Is there any external force controlling your actions?
+who_do_you_work_for,Do you feel like your decisions are influenced by someone else?
+who_do_you_work_for,Is there someone else who has control over you?
+who_do_you_work_for,Do you feel like you are being controlled by someone else?
+who_do_you_work_for,Are you under the influence of another individual that is controlling your actions?
+who_do_you_work_for,Can you inform me of the identity of your superior?
+who_do_you_work_for,Would it be possible for you to disclose the name of your employer?
+who_do_you_work_for,May I inquire as to who holds the position of authority over you?
+who_do_you_work_for,Can you tell me the identity of your superior?
+who_do_you_work_for,May I ask for the name of your manager?
+who_do_you_work_for,Would you kindly inform me about the person who holds authority over you?
+who_do_you_work_for,From whom do you receive your instructions?
+who_do_you_work_for,Who is your superior or commanding officer?
+who_do_you_work_for,To whom do you owe allegiance and take direction from?
+who_do_you_work_for,From whom do you receive your instructions?
+who_do_you_work_for,By whom are you directed in your tasks?
+who_do_you_work_for,Who is the source of your commands?
+who_do_you_work_for,Are you working under the commands of someone else?
+who_do_you_work_for,Do you follow the instructions of any other person?
+who_do_you_work_for,Is there anyone else who tells you what to do?
+who_do_you_work_for,Are you under the command of someone else?
+who_do_you_work_for,Do you follow directions from others?
+who_do_you_work_for,Are your actions dictated by someone else's orders?

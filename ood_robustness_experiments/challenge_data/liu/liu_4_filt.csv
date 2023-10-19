@@ -1,0 +1,571 @@
+intent,text,no_taboo_words
+play_music,"Trigger the sequence of musical pieces, beginning with the first track.",True
+qa_currency,How many bucks can I get for every unit of Japan's currency?,True
+transport_traffic,How easy it is to get around in your vehicle?,True
+play_music,Any suggestions for music in the rhythm and blues category that evokes an upbeat mood?,True
+news_query,Can you provide me with updates regarding Donald Trump?,True
+cooking_recipe,What should be the precise degree of hotness while frying an intact turkey?,True
+qa_currency,How much does a Japanese yen cost compared to one US dollar?,True
+music_query,Which musical family do I have a penchant for?,True
+datetime_query,What is the current hour of Chicago?,True
+audio_volume_up,Can you make the sound more audible?,True
+weather_query,What can I expect with regards to the climate if I travel to Barcelona two days hence? ,True
+weather_query,Is there any way that you can give me an idea of the environment we should anticipate for tomorrow?,True
+cooking_recipe,Can you give me the steps to prepare yummy cookies?,True
+transport_traffic,Is there any hindrance towards reaching your workplace on time?,True
+news_query,Could you provide an update on the progress of Trump's travel ban?,True
+news_query,What updates do you have regarding Donald Trump that I should be aware of?,True
+audio_volume_up,Adjust the left speaker's sound level to ten times its current output.,True
+play_music,Could you take action to commence the melodies contained in my listing of songs?,True
+play_music,Blast those groovy beats.,True
+transport_traffic,Is the one hundred and one moving smoothly or packed with automobiles?,True
+cooking_recipe,I'm looking for instructions on how to make a sweet treat that involves flour and sugar.,True
+transport_traffic,"""How was the movement of vehicles at the moment?""",True
+weather_query,Do I need to make arrangements to remove the obstruction from the door of my dwelling?,True
+audio_volume_down,Make the sound come out of the speakers with a diminished intensity equal to one-half of its initial loudness.,True
+transport_traffic,What's the required travel time to reach your workplace?,True
+play_music,Could you start the Titanic movie soundtrack theme?,True
+cooking_recipe,"Would it be feasible for you, mechanical entity, to give me an inventory of the elements necessary to produce Welsh rarebit?",True
+news_query,Any noteworthy updates or developments to start off the day?,True
+news_query,Has there been any fresh information that came up about the Sweden blast?,True
+play_music,Could you commence the playing of the title song from Titanic?,True
+weather_query,Is the climate supposed to get wet on this day?,True
+audio_volume_up,Can you improve the auditory experience?,True
+audio_volume_down,Reduce the intensity of audio.,True
+datetime_query,How many hours apart are we from Dakar?,True
+audio_volume_down,Set the sound intensity at a value that is exactly one-half of the original.,True
+datetime_query,Could you indicate the instant we are currently in?,True
+play_music,What musician is currently entertaining the audience?,True
+music_query,Can you inform me about my auditory preferences? ,True
+play_music,Commence playlist by playing the initial tune.,True
+weather_query,Provide me information about the meteorological state of Barcelona following a couple of days.,True
+news_query,"""Has the voting process for the budget concluded?""",True
+qa_currency,Can you provide me with information on the comparative worth of the United States and Japanese forms of money?,True
+audio_volume_up,Is it possible to enhance the audio level?,True
+cooking_recipe,My desire is to make that particular cuisine.,True
+weather_query,Do I need to wear my shades outside today?,True
+audio_volume_down,Is it okay if you make the audio less loud?,True
+play_music,Which Bob Dylan playlist is currently the most up-to-date?,True
+cooking_recipe,How can I make a delicious plate of food?,True
+play_music,Could you please stream songs from the Titanic soundtrack?,True
+play_music,My spirits shall rise in case of any musical selection from Cat Stevens.,True
+audio_volume_up,Can you turn up the sound level a bit?,True
+cooking_recipe,Investigate methods for making an omelette containing a blend of four different cheeses.,True
+music_query,Whose tune is that?,True
+transport_traffic,"""In what manner do you move from place to place?""",True
+music_query,Can you identify what's currently being played aurally?,True
+music_query,Is it possible for you to identify the melody that's on air now?,True
+audio_volume_up,Is it possible to make the sound more audible?,True
+datetime_query,Could you convey to me the precise minute at this very instance?,True
+qa_currency,"In terms of money, how much do I receive if I convert USD to INR?",True
+transport_traffic,Can you tell me the flow of vehicles on the 101?,True
+transport_traffic,What level of gridlock exists on my route to the office?,True
+datetime_query,Look up the prevailing temporal state and geographical region simultaneously.,True
+news_query,Has there been any development regarding Trump's travel ban recently?,True
+news_query,Can you provide me with information on recent occurrences in our vicinity?,True
+cooking_recipe,"I am craving for some sweet snacks, can you assist me in whipping up something delectable?",True
+qa_currency,What is the value of the Japanese money compared to others?,True
+music_query,Can you send me the lines of this tune through email? ,True
+weather_query,Does a moist ambiance await us on this day?,True
+qa_currency,What is the equivalent worth of one unit of yen?,True
+transport_traffic,Do you have any insights into the ongoing status of mobility for motorized vehicles within the locality?,True
+datetime_query,Explore to discover the contemporary temporal status as well as the spatial-region details.,True
+audio_volume_down,Bring the volume to just half of its current amplitude.,True
+play_music,"Can you put on the song ""Let Me Love You"" by Ariana Grande?",True
+cooking_recipe,How can I prepare mouth-watering meatballs for my meal?,True
+qa_currency,How much worth does one pound in sterling hold against an American dollar?,True
+datetime_query,What's the instant in Germany according to German standard time?,True
+music_query,In which year was this melody released?,True
+play_music,Let's enjoy some tunes created by one of the most influential music bands in history.,True
+audio_volume_down,Is there a way to reduce how loud the audio is playing?,True
+audio_volume_up,"I'm sorry, could you articulate your words more clearly?",True
+transport_traffic,I'm curious about the amount of hindrance during my routine passage.,True
+music_query,Could you identify the tune that's currently audible?,True
+play_music,"Can you put on the song ""Let Me Love You"" by Ariana Grande?",True
+music_query,Could you drop a message containing the words for this melody?,True
+datetime_query,May I know what's currently happening in terms of hours and minutes in Germany?,True
+audio_volume_down,Decrease the level of noise produced by media.,True
+audio_volume_down,Decrease the audio level of the speaker.,True
+audio_volume_up,"Pardon me, would you mind repeating what you said? ",True
+music_query,In which year was this musical composition introduced to the public?,True
+news_query,Has anything changed recently on Facebook?,True
+music_query,Could you share some insights regarding the sound that's emanating?,True
+audio_volume_up,"""Can you make the audio as loud as possible?""",True
+cooking_recipe,Can you provide instructions on how to prepare cookies?,True
+play_music,How about unleashing the rhythms crafted by The Beatles?,True
+cooking_recipe,What's the ideal heat to prepare cookie dough in the oven?,True
+news_query,What are the popular subjects that everyone is talking about currently? ,True
+qa_currency,What is the price conversion of pound sterling into US currency?,True
+transport_traffic,How is the present situation regarding the flow of automobiles and other means of transportation in operation?,True
+transport_traffic,To what extent are vehicles clogging up the thoroughfare leading me to my place of employment?,True
+play_music,Is it possible to enjoy melody authored by The Beatles?,True
+news_query,What are the latest updates in the local community?,True
+music_query,What specifics can be found in the current track information?,True
+datetime_query,Is it possible to tell the exact timing in Ivory Coast right now?,True
+weather_query,I would appreciate it if you could tell me what to expect outside tomorrow.,True
+news_query,Is there any development taking place in the immediate vicinity of the Capitol building?,True
+news_query,What is the latest update on the Sweden bombing incident?,True
+weather_query,Would it be possible to reveal the meteorological situation for Monday?,True
+audio_volume_down,Diminish the loudness of the speaker's voice.,True
+datetime_query,What is the current hour in the Windy City?,True
+cooking_recipe,Discover ways to prepare a delicious omelette with four types of cheese.,True
+qa_currency,What is the money used in Egypt?,True
+transport_traffic,"""Is the commute flowing smoothly?""",True
+datetime_query,Which particular weekday will follow tomorrow's yesterday?,True
+cooking_recipe,Would you be able to give a detailed guide on preparing sweet and crunchy bites?,True
+news_query,Is there any important information that has surfaced at the outset of the day?,True
+audio_volume_up,"""Could you adjust the sound to its maximum level?""",True
+cooking_recipe,Any ideas on where to locate steps for whipping up a tasty omelet composed of four different kinds of cheeses?,True
+news_query,What are the recent local events that have occurred?,True
+datetime_query,How can you tell if you're in sync with Chicago?,True
+music_query,What details do you have about the rhythm that's currently audible?,True
+weather_query,Would it be advantageous if I had an item that provides cover against water droplets?,True
+music_query,I would like to know the current track in play. ,True
+cooking_recipe,In what way can we roast potatoes to get the best results with oven temperature?,True
+datetime_query,How to know when you are in sync with Chicago's schedule?,True
+audio_volume_up,Would you mind making it more audible?,True
+cooking_recipe,Find suggestions for making a four-cheese omelette.,True
+play_music,Can you initiate some tunes from The Beatles?,True
+qa_currency,What is the value of one US dollar in Japanese yen?,True
+music_query,Can you identify the audio currently being heard?,True
+weather_query,Can you give me information on what to expect for the upcoming weekday?,True
+qa_currency,What is the comparative worth of a calone and the US dollar?,True
+qa_currency,"In terms of monetary worth, how do the lera and dollar weigh up against each other?",True
+weather_query,Will the atmosphere be moistened as per expectation?,True
+transport_traffic,How is the flow of automobiles at present?,True
+cooking_recipe,"When it comes to baking potatoes in the oven, what temperature works best?",True
+qa_currency,In what proportion does the worth of a calone stand against that of a US dollar?,True
+datetime_query,Explore to discover the present moment and corresponding geographic region's temporal configuration.,True
+audio_volume_down,Diminish the audio level?,True
+datetime_query,How can one measure moments that pass by as seconds turn into minutes?,True
+audio_volume_down,Reduce the speaker's sound intensity.,True
+weather_query,Is it too bright outside to go out without sunglasses?,True
+datetime_query,"What is the present hour, if I may ask?",True
+music_query,"""What genre entertains me the most frequently?""",True
+news_query,What's the recent information about the local occurrences in our community?,True
+datetime_query,How do we measure the duration between two events?,True
+play_music,The mere sound of Cat Stevens' tunes brings me immense pleasure.,True
+weather_query,Can you hear droplets falling in New Brighton PA?,True
+music_query,Which genre of sound do I favor the highest?,True
+datetime_query,What is the chronological representation of Chicago at this moment?,True
+play_music,I would appreciate it if you could initiate the tunes on my curated music collection.,True
+cooking_recipe,What are the steps required to make some yummy baked treats?,True
+news_query,Which subjects are causing a buzz among people in the present era?,True
+play_music,I'll be delighted if there is any song composed by Cat Stevens present in the playlist.,True
+weather_query,"In the event of precipitation, I shall refrain from attending to my occupational duties.",True
+audio_volume_up,Is there a way to enhance the auditory output from this device?,True
+music_query,Can you identify the artist behind that musical composition?,True
+transport_traffic,What is the standard time frame for covering the distance between home and the office?,True
+datetime_query,"On the middle of the next week, which day will it be?",True
+qa_currency,What is the equivalent amount of money for five hundred pesos?,True
+datetime_query,What's the current moment in Chicago?,True
+play_music,Start playing Bob Dylan's most recent selection of songs.,True
+cooking_recipe,What is the process for preparing a meal?,True
+cooking_recipe,"Can you provide a rundown of the components required to make welsh rarebit, dear robot?",True
+transport_traffic,How is the flow of vehicles at present?,True
+audio_volume_down,Is it possible for you to make your speech more subdued?,True
+datetime_query,What's the current moment indication for Chicago?,True
+audio_volume_up,Could you amplify the sound a bit more?,True
+audio_volume_down,"Would it be possible to reduce the noise level, perhaps?",True
+play_music,"Could you start the Ariana Grande tune titled ""Let Me Love You""?",True
+music_query,Could you furnish me with facts about the noise that's presently audible?,True
+transport_traffic,Can I reach my workplace without any hindrance?,True
+audio_volume_down,Adjust the sound level of the speaker to a more moderate rate. ,True
+qa_currency,What is the worth of a lera relative to the dollar?,True
+audio_volume_down,May I request for a gentle audio stream?,True
+qa_currency,In what form is money circulated in Egypt?,True
+audio_volume_down,Adjust the audio output from media sources.,True
+qa_currency,Transform dollars to pounds sterling.,True
+weather_query,Will my eyes hurt if I don't wear shades when I step outdoors?,True
+audio_volume_up,I require intensifying the sound output.,True
+audio_volume_up,I'd appreciate it if you could crank up the audio.,True
+cooking_recipe,Please guide me in creating a batch of scrumptious treats to indulge in.,True
+music_query,What are the types of sounds that resonate with me? ,True
+news_query,Has anything noteworthy occurred on the platform of Facebook lately?,True
+qa_currency,How much INR I get for a single unit of USD?,True
+audio_volume_down,Can you reduce the loudness of the speakers?,True
+datetime_query,Can you tell me the current hour in Ivory Coast?,True
+cooking_recipe,"The meal in question, I wish to make it myself.",True
+weather_query,Do I need to bring something to keep myself dry?,True
+music_query,Can you provide me with details regarding the audio playing right now?,True
+audio_volume_down,"Can you soften the sound a bit, please?",True
+transport_traffic,"In general, how much time should it take to reach your place of employment?",True
+play_music,"Do you happen to know how I can enjoy the music of ""Let Me Love You"" by Ariana Grande?",True
+music_query,Tell me what tune is presently playing.,True
+audio_volume_up,Amplify the auditory experience.,True
+music_query,The sort of auditory category that I am most attuned to is?,True
+play_music,Groove to some funky tunes.,True
+transport_traffic,Can you let me know what's happening with the movement of vehicles right now?,True
+weather_query,Will our surroundings be covered in a blanket of frosty crystals within the next few days?,True
+transport_traffic,Is the route to the office unobstructed?,True
+weather_query,Is it necessary for me to carry a certain object that protects me during precipitation?,True
+play_music,"If Cat Stevens' music fills the room, my spirit will soar.",True
+qa_currency,How much does a calone value in relation to the American dollar?,True
+play_music,Begin streaming melodies featured in Titanic film.,True
+audio_volume_up,Is there a way to enhance the intensity?,True
+music_query,Do you have any insight into the current piece of sound being broadcasted?,True
+cooking_recipe,What degree should I set the oven for making cookies?,True
+audio_volume_down,Bring media audio to a subdued level.,True
+cooking_recipe,What temperature do you recommend when baking cookies?,True
+weather_query,Are there any chances of precipitation in today's sky?,True
+audio_volume_down,Bring the audio's loudness to a pace that is less intense. ,True
+qa_currency,How valuable is five hundred pesos?,True
+cooking_recipe,Which method should I use to make a dish?,True
+transport_traffic,How is the situation regarding vehicular movement progressing as of now?,True
+music_query,Do you happen to know who produced that particular track?,True
+news_query,What are the current popular topics that everyone is talking about?,True
+news_query,Do you have any information about Donald Trump that I should be aware of?,True
+weather_query,Kindly exhibit the atmospheric state set for Monday.,True
+play_music,Which musician are you interested in?,True
+audio_volume_down,Diminish the volume of media content.,True
+cooking_recipe,Do you have any instructions on how to bake a batch of tasty cookies?,True
+datetime_query,What is the present hour of day in the location known for Broadway and skyscrapers?,True
+transport_traffic,Can you provide information on the current flow of movement in the locality?,True
+qa_currency,How much value does a calone have in comparison to a US dollar?,True
+play_music,Access the latest playlist from Bob Dylan.,True
+datetime_query,Do you know what hour it is currently in Ivory Coast?,True
+music_query,By whom was that composition created?,True
+qa_currency,"In terms of worth, how does a calone compare with the US currency?",True
+qa_currency,What is the relative value between a calone and a US dollar?,True
+news_query,"""What are the current events from this morning?""",True
+audio_volume_up,"Pardon me, I didn't get what you just said.",True
+transport_traffic,How smooth is the commute on the one hundred and one path?,True
+music_query,Can you enlighten me about the melody that's being sung?,True
+audio_volume_up,Could you amplify the sound?,True
+play_music,Commence playing tracks from the movie Titanic.,True
+play_music,What are some groovy tunes of the funk genre that I could put on?,True
+transport_traffic,Can you give an insight on the status of the street system at present?,True
+transport_traffic,"""Can you give me an update on the way I travel regularly?""",True
+qa_currency,Can you inform me about how much the yen worth in other countries' cash?,True
+music_query,"""What are the details of the current audio track?""",True
+audio_volume_down,Reduce the audio level by fifty percent.,True
+datetime_query,Could you inform me about the temporal conditions of Chicago?,True
+cooking_recipe,"Oh mechanized being, could you furnish me with a roster of ingredients for Welsh rarebit?",True
+play_music,Commence the playback of the collection starting with the initial song. ,True
+audio_volume_down,Can you restrain the volume of your speech?,True
+news_query,Can you update me on the current events happening around the city?,True
+qa_currency,Which monetary system is prevalent in England?,True
+datetime_query,Can you determine the present moment in Ivory Coast?,True
+datetime_query,What is the day that follows Tuesday in seven days?,True
+transport_traffic,"""Any congestion on the route?""",True
+play_music,Can you make the Titanic soundtrack play?,True
+weather_query,Would it be wise to organize an effort to get rid of the blockage in front of my home's entrance?,True
+cooking_recipe,Can you suggest sources for preparing a delicious four-cheese omelet?,True
+weather_query,Can you describe the atmospheric conditions expected in Barcelona after two days?,True
+news_query,"""Has the allocation of funds been approved already?""",True
+audio_volume_down,"Can you make the sound less loud, please?",True
+news_query,Is there any information regarding activities unfolding at the Capitol?,True
+audio_volume_down,Can you turn the sound level any softer?,True
+weather_query,Do I require a protective shield from the elements?,True
+qa_currency,Can you tell me the value of pound sterling in terms of the US dollar?,True
+audio_volume_down,Adjust the level of sound.,True
+audio_volume_up,Is it possible to enhance the audio level?,True
+audio_volume_up,Could you enhance the decibels of the sound?,True
+transport_traffic,"""Did you encounter any hassle while commuting just now?""",True
+play_music,Who is performing music at the moment?,True
+news_query,"Are there any updates to discover on the social media platform, Facebook?",True
+play_music,Is it possible for you to broadcast tunes that were played in the Titanic film?,True
+transport_traffic,In what duration should an individual commute to their job location?,True
+transport_traffic,To what extent does my usual route impede me?,True
+weather_query,Could we expect precipitation in the coming days?,True
+datetime_query,What hour of the day is it presently in the city of New York?,True
+weather_query,Are umbrellas a necessity in New Brighton PA?,True
+music_query,"""In what melody category do I hold a strong affinity for?""",True
+cooking_recipe,What is the ideal heat level for roasting potatoes in the oven?,True
+qa_currency,How much is the pound sterling worth compared to the US dollar?,True
+audio_volume_up,Make the noise louder.,True
+cooking_recipe,"I would love to know how to make some delicious cookies, could you explain it to me?",True
+weather_query,"Are the streets and sidewalks in New Brighton, PA currently wet due to atmospheric conditions?",True
+cooking_recipe,What is the ideal way to make delicious meatballs? ,True
+datetime_query,Is it possible for you to indicate the current German timeline?,True
+datetime_query,"How do we differentiate between past, present, and future?",True
+play_music,Initiate music collection beginning at the first song.,True
+audio_volume_up,"Excuse me, can you please speak up a bit?",True
+weather_query,Is it necessary for me to have a plan in case I have to dig my way out of the house?,True
+qa_currency,What is the monetary unit utilized in England?,True
+transport_traffic,What should be the ideal duration of time taken to reach the workplace? ,True
+play_music,The song from Titanic - can you get that to come on?,True
+transport_traffic,Can you tell me about the current state of vehicular movement on the route?,True
+audio_volume_up,"Could you amplify the audio, please?",True
+music_query,Mention the person behind the microphone.,True
+cooking_recipe,Can you provide details on how to create a delicious piece of baked goodness?,True
+weather_query,Would it be helpful to have protection against atmospheric conditions?,True
+music_query,"""What is the data available for the currently played media?""",True
+qa_currency,"In terms of value, how does the lera stack up against the dollar?",True
+news_query,Is there any fresh content to view on Facebook?,True
+music_query,When did this particular audio arrangement first make an appearance?,True
+play_music,Tune in to some funky jams.,True
+play_music,Can you put on a song from the Beatles' catalog?,True
+audio_volume_up,Could you amplify its audio capacity?,True
+weather_query,"Upon experiencing a specific atmospheric condition, it is unlikely that I will engage in any employment-related activities.",True
+cooking_recipe,Do you have any tips for crafting a tasty baked dessert featuring chocolate chips?,True
+music_query,Kindly forward to my inbox the wording of this particular composition.,True
+music_query,Can you tell me who's responsible for using their vocal chords to make sound?,True
+news_query,"""Is the budget decision already made through voting?""",True
+audio_volume_up,Crank up the auditory output.,True
+audio_volume_up,Can you amplify the audio a bit more?,True
+play_music,I'll find joy in any song from Cat Stevens.,True
+news_query,Do you know which issues are currently being widely shared and talked about amongst people?,True
+audio_volume_down,Can you use a softer tone?,True
+audio_volume_up,Can you enhance the sound a bit?,True
+audio_volume_up,Can you turn up the decibels a notch?,True
+cooking_recipe,I desire to prepare that dish.,True
+music_query,What is the chronological origin of this particular audio composition?,True
+datetime_query,What's the difference in timing between our current location and Dakar?,True
+qa_currency,What's the equivalent value of dollars in pounds?,True
+transport_traffic,"""Are there any obstructions on the way?""",True
+datetime_query,What hour would it be in Ivory Coast at this moment?,True
+weather_query,"What is the state of precipitation in the vicinity of New Brighton, Pennsylvania?",True
+music_query,Is it possible for you to provide me with the title of the current audible tune?,True
+qa_currency,What type of money is utilized in England?,True
+audio_volume_down,Can you turn the sound less harshly?,True
+news_query,Is there any new information on Trump's restrictions on travel?,True
+audio_volume_up,Could you kindly adjust the audio level of the device to 21?,True
+weather_query,Is there any information regarding how the atmosphere would be like in the coming day?,True
+play_music,Activate compilation with the opening track.,True
+qa_currency,"In terms of Indian money, how much can you get for each American dollar?",True
+audio_volume_up,Can you make the sound a bit more audible than it is now?,True
+qa_currency,How much does one yen equal in other currencies?,True
+audio_volume_up,Is it possible to amplify the audio output?,True
+audio_volume_up,The audio is too quiet; can you make it more perceptible?,True
+transport_traffic,What is the status of movement along the one hundred and one route?,True
+news_query,"""Has there been a decision made regarding the budget's appropriations?""",True
+news_query,What are the highly discussed and shared themes in recent times?,True
+transport_traffic,What's the current state of the pavement?,True
+weather_query,Can you update me about the climatic conditions for tomorrow?,True
+audio_volume_up,Is it possible to make the audio playing through the left speaker stronger by a factor of 10?,True
+qa_currency,How much would it cost to purchase pounds with dollars?,True
+news_query,"""Can you share any updates from earlier today?""",True
+news_query,What is happening at the Capitol?,True
+transport_traffic,What is a reasonable length of travel-time to get to the office?,True
+transport_traffic,What's the current situation with the pathways?,True
+audio_volume_down,"Can you modify your speaking volume, please?",True
+music_query,Enlighten me on the genre that suits my taste.,True
+qa_currency,What is the numerical value of one unit of American money when compared to Japanese money?,True
+music_query,How can you describe my sonic inclinations?,True
+play_music,How can I access the latest collection of songs from Bob Dylan?,True
+audio_volume_up,Is it possible to enhance the sound output further?,True
+transport_traffic,"""How does your journey fare in terms of convenience and time efficiency?""",True
+transport_traffic,What is the level of obstruction in my daily commute?,True
+news_query,Can you provide any updates regarding Trump's travel ban?,True
+music_query,Identify the vocalist.,True
+audio_volume_down,Diminish the sound intensity.,True
+qa_currency,In what denomination do people transact business in England?,True
+news_query,What is the current status of the travel ban implemented by Trump?,True
+datetime_query,In which moment would you be in the Big Apple at this very instant?,True
+audio_volume_down,Set the audio output to emanate at half of its total power output capacity.,True
+transport_traffic,Does your commutation towards the workplace occur smoothly?,True
+qa_currency,What is the value of five hundred pesos?,True
+cooking_recipe,My aim is to concoct that particular feast.,True
+news_query,"""Is there any noteworthy information that took place in the morning hours?""",True
+music_query,Who's the individual that produces sounds with their voice?,True
+music_query,"""Can you provide information regarding the current playback selection?""",True
+audio_volume_up,"It would be great if you could make the sound stronger, up to the twenty-one mark.",True
+audio_volume_down,Would it be possible for you to soften your vocalization?,True
+audio_volume_up,Is it possible to amplify the decibels to their maximum level?,True
+audio_volume_down,Could you please reduce the volume of your voice?,True
+cooking_recipe,"O' droid, could you furnish me with a catalog detailing the ingredients needed for whipping up some delicious welsh rarebit?",True
+music_query,"I need to learn the name of the ongoing audio track, can you assist me?",True
+datetime_query,How far ahead or behind is Dakar compared to where we are right now?,True
+play_music,Initiate the playlist from the very beginning track. ,True
+news_query,Could you brief me on what's unfolding in the city these days?,True
+datetime_query,How many hours ahead or behind is Dakar compared to this location?,True
+weather_query,Is there any possibility of a snowfall during this period?,True
+audio_volume_up,"Could you please speak again, it's difficult to catch your words?",True
+datetime_query,Any clue about hour-status in Chicago?,True
+cooking_recipe,"The meal in question, I aim to prepare it.",True
+datetime_query,Can you tell me the present moment in Germany?,True
+cooking_recipe,How hot should the oven be while preparing chocolate chip cookies?,True
+cooking_recipe,"For potato roasting in the oven, which temperature setting yields optimal results?",True
+datetime_query,Can you tell me the current hour in the city that never sleeps?,True
+datetime_query,Is there a difference in the timing between this place and Dakar?,True
+audio_volume_up,Could you enhance the audio level please?,True
+weather_query,Can you let me know what the atmosphere would be like in Barcelona after two days?,True
+news_query,What events occurred recently that are noteworthy this morning?,True
+cooking_recipe,Recommended steps to create a flavorful meatball dish?,True
+audio_volume_down,Reduce the volume of sound generated by media devices.,True
+transport_traffic,What is the current state of vehicular movement?,True
+cooking_recipe,What techniques can I use to create a meal?,True
+audio_volume_up,Can you make the sound as robust as it can be?,True
+transport_traffic,What's the status of vehicular movement currently?,True
+transport_traffic,"""What's your experience like getting to where you need to be?""",True
+weather_query,Will the skies let out humidity today?,True
+cooking_recipe,I am interested in preparing that dish.,True
+datetime_query,"In Chicago, what indicates the present duration?",True
+transport_traffic,Are there any obstacles affecting movement on the streets?,True
+cooking_recipe,What temperature setting is optimal for roasting potatoes in an oven?,True
+weather_query,What can I expect from the climate conditions during my visit to Barcelona in a couple of days?,True
+datetime_query,Can you inform me about the present moment?,True
+qa_currency,How is money transacted in the country of England?,True
+qa_currency,How does the lera fare in comparison to the dollar?,True
+weather_query,Can we expect the sky to grace us with its frozen angels in this ongoing week?,True
+qa_currency,How many dollars can you get for one unit of pound sterling?,True
+play_music,Is it possible to have the theme song of Titanic start?,True
+news_query,Is there any recent development on Facebook?,True
+qa_currency,In what form does England conduct its monetary transactions? ,True
+music_query,What information is available about the present track?,True
+weather_query,Is it wise to carry an object for shielding purposes?,True
+cooking_recipe,"Can you provide me with the components required to prepare Welsh rarebit, oh robot?",True
+play_music,"I'm interested in hearing the music featured on the Titanic movie, could you assist me with that?",True
+weather_query,Are the streets wet in New Brighton PA?,True
+transport_traffic,Could you tell me about the current situation of commuting?,True
+audio_volume_up,Could you turn up the sound a bit more?,True
+news_query,Can you update me on the events taking place at the Capitol?,True
+transport_traffic,What's the status of mobility in our surroundings at present?,True
+audio_volume_down,Would you kindly reduce the intensity of your vocalization?,True
+audio_volume_down,Could you bring the volume to a more bearable level?,True
+music_query,What is the specific timeframe in which this piece of sound was initially released?,True
+play_music,Can you start the music from Titanic?,True
+weather_query,"I need to know if I should carry my umbrella tomorrow, could you help me with that?",True
+weather_query,Is today's atmosphere likely to be damp?,True
+news_query,Can you tell me what is currently going on with Donald Trump?,True
+audio_volume_up,Would you like me to adjust the acoustic intensity?,True
+cooking_recipe,What is the ultimate method to prepare meatballs?,True
+qa_currency,What is the monetary unit used in Egypt?,True
+play_music,Would you mind putting some Beatles melodies to brighten up our mood?,True
+news_query,Is there any development or progress on the case of the bombing in Sweden?,True
+news_query,"""Did the proposed budget receive the necessary votes?""",True
+audio_volume_up,Would you mind making the music louder?,True
+audio_volume_down,I would appreciate it if you could soften the sound of your voice while speaking.,True
+datetime_query,When will we reach the mid-point of next week?,True
+news_query,"I'm curious about the current events taking place locally, can you fill me in?",True
+music_query,Identify the person who vocalizes.,True
+music_query,What details does the track currently hold?,True
+music_query,"""Which type of sound is my go-to preference?""",True
+play_music,"Would you mind turning on the Ariana Grande track called ""Let Me Love You""?",True
+news_query,What is the current status of Trump's travel ban?,True
+qa_currency,Can you provide me with the current value of yen conversion?,True
+news_query,Can you provide me with details about the situation unfolding at the Capitol?,True
+cooking_recipe,Is there any way to put together a food course?,True
+weather_query,Will the sunlight be bright enough for me to need to carry my sunglasses?,True
+news_query,Can you provide any updates regarding the recent incident in Sweden?,True
+music_query,Inform me about my preferred rhythm choices.,True
+transport_traffic,"""What was the state of transportation presently?""",True
+weather_query,"Should wetness fall upon the earth's surface, I would opt not to pursue my work obligations.",True
+news_query,Is there any recent development regarding the Sweden bombing occurrence?,True
+datetime_query,Could you inform me about the actual timing in New York City?,True
+datetime_query,When will the middle of next week arrive?,True
+qa_currency,How do people pay for things in Egypt?,True
+audio_volume_down,Minimize the volume?,True
+play_music,"If songs by Cat Stevens are on the soundtrack, I will feel elated.",True
+datetime_query,"What is the scheduled day after tomorrow, not counting yesterday?",True
+cooking_recipe,Is there a specific temperature that needs to be maintained for preparing a full turkey using the frying technique?,True
+audio_volume_up,Your voice needs to be more audible for me to understand what you are saying.,True
+qa_currency,What type of cash do people use in Egypt?,True
+qa_currency,"When compared to the dollar, how valuable is the lera?",True
+music_query,Who is responsible for that melody?,True
+cooking_recipe,What are the methods to prepare a dish?,True
+audio_volume_up,Would it be feasible to augment the decibel levels?,True
+weather_query,Can you inform me of the expected conditions outside for tomorrow?,True
+news_query,What is the updated information about the happenings in our area?,True
+news_query,Could you inform me about the latest events concerning Donald Trump?,True
+play_music,Is it possible for you to activate music from a previously curated selection?,True
+transport_traffic,Is there any congestion on the one hundred and one highway?,True
+weather_query,What is the atmospheric condition going to be like at the beginning of the workweek?,True
+news_query,Has there been any fresh information reported about the Sweden bombing event?,True
+audio_volume_down,Could you tune the speakers to produce a milder tone?,True
+weather_query,Do I need to prepare myself for getting out of the house using a shovel?,True
+news_query,What are the current developments occurring at the Capitol?,True
+audio_volume_up,Boost the sound intensity.,True
+weather_query,Tell me about the atmosphere that will exist on the start of the weekdays.,True
+qa_currency,What worth does five hundred pesos have?,True
+weather_query,"Should wetness occur, I will refrain from heading toward my place of occupation.",True
+transport_traffic,Any updates on the condition of the route?,True
+transport_traffic,Are there any hindrances to commuting today?,True
+datetime_query,Can you inform me the moment of the day?,True
+news_query,Can you inform me about the latest occurrences in our community?,True
+audio_volume_up,"Could you amplify the audio level, please?",True
+qa_currency,What is the worth of one American dollar when converted into Japanese yen?,True
+audio_volume_up,Turn up the auditory strength of the left speaker by a factor of 10. ,True
+news_query,May I know the latest on Donald Trump's activities?,True
+audio_volume_up,Would it be possible to set the noise level at twenty one notches above the current setting?,True
+qa_currency,What is the equivalence of the pound sterling and the US dollar?,True
+qa_currency,What is the value of a dollar when converted to the Indian currency?,True
+weather_query,"In the case of inclement atmospheric conditions, I shall avoid going to my employment.",True
+qa_currency,Convert United States dollars to Great British pounds.,True
+transport_traffic,"""How's my journey to and from my destination?""",True
+cooking_recipe,At what degree should I set my oven to make cookies?,True
+datetime_query,What is the current hour in NYC at present?,True
+news_query,What are the most recent happenings within the community?,True
+music_query,Would you be able to tell me the melody that’s playing right now?,True
+music_query,Could you tell me the name of the person who created this melody?,True
+weather_query,Could you inform me about the atmospheric situation expected to occur in Barcelona by day-after-tomorrow?,True
+datetime_query,Can you describe the concept of temporal measurement?,True
+datetime_query,What is the unit used to quantify the sequence of events?,True
+audio_volume_down,Moderate the intensity of the speaker's volume to a milder degree.,True
+audio_volume_up,Enhance the decibel count of the left-side loudspeaker by 10 units.,True
+transport_traffic,Was there any congestion en route to this location?,True
+music_query,Can you send me the verses of this track over email?,True
+play_music,Tune in to the newest curation of tunes from Bob Dylan.,True
+audio_volume_down,Would it be possible to reduce the noise level?,True
+qa_currency,What is the value of five hundred pesos?,True
+weather_query,Is the precipitation expected to be in solid form during the coming week?,True
+audio_volume_up,"I want to hear the audio better, can it go higher than the current level?",True
+weather_query,Can you tell me if there is any sort of aqueous substance falling from the sky around the area of New Brighton in the Keystone State?,True
+news_query,Which topics have gained significant attention and are being widely discussed? ,True
+weather_query,Can you display the climatic conditions for Monday?,True
+audio_volume_down,Could you kindly reduce the level of audio?,True
+datetime_query,Can you inform me about the present moment in Germany?,True
+music_query,Can you provide me the title of what's currently being played?,True
+qa_currency,How much does a single US dollar equal in terms of Japanese yen? ,True
+audio_volume_down,Turn the volume knob in a manner that reduces the noise level by 50%.,True
+audio_volume_up,"I need to hear it better, can you adjust something?",True
+music_query,Is it possible for you to dispatch the verses of this track via email?,True
+audio_volume_up,Can you modify the decibel scale to reach the value corresponding to twenty-one?,True
+weather_query,Would it be wise for me to anticipate needing a shovel to exit my home?,True
+qa_currency,How many pounds can you get with a certain amount of dollars?,True
+audio_volume_down,Reduce the audio level.,True
+audio_volume_up,Enhance the audio.,True
+cooking_recipe,How can one determine the right temperature required to deep-fry an entire turkey?,True
+audio_volume_down,Reduce the loudness of media.,True
+play_music,Kindly activate the tracks from my roster of songs.,True
+qa_currency,How much can I purchase with five hundred pesos?,True
+cooking_recipe,How can I make incredibly delicious meatballs?,True
+news_query,What is the present situation of the nearby region?,True
+datetime_query,Do you happen to know what hour it is at the moment?,True
+cooking_recipe,Can you provide me with the steps to make some delightful cookies?,True
+play_music,"Is it possible to have ""Let Me Love You"" by Ariana Grande played?",True
+audio_volume_down,Kindly adjust your voice's intensity.,True
+weather_query,"Provided that precipitation occurs, I will abstain from attending work.",True
+cooking_recipe,What are some secrets to crafting fantastic meatballs?,True
+cooking_recipe,"Hey there, robotic buddy. Would you kindly jot down the elements necessary for preparing some welsh rarebit?",True
+transport_traffic,Is there any obstruction in the movement of cars along the highway one zero one?,True
+transport_traffic,Did you encounter any hassle getting to your destination?,True
+music_query,Reveal to me the nature of my audio preferences.,True
+play_music,Could you suggest some melodies with a funky vibe?,True
+qa_currency,How does the value of lera stack up against that of the dollar?,True
+datetime_query,In what moment does Chicago's day transition to evening?,True
+music_query,What's the current sound that's resonating?,True
+play_music,What is the most recent Bob Dylan playlist that I can access?,True
+play_music,Would it be possible to kick off the tune of the theme song from Titanic?,True
+audio_volume_down,Can you please adjust the loudness of the speakers?,True
+news_query,"""Have lawmakers taken their vote on the budget?""",True
+weather_query,Should I bring my sunglasses with me while going out?,True
+transport_traffic,What was the situation like on the way here?,True
+weather_query,Do I need to pack sun protection for the day?,True
+transport_traffic,"""What's the status of my daily transportation routine?""",True
+weather_query,Would the atmosphere get cooler throughout this week?,True
+cooking_recipe,"When baking cookies, which temperature is ideal?",True
+qa_currency,What is the value of USD when compared with INR?,True
+audio_volume_up,Can you make it sound more powerful?,True
+datetime_query,"Inform me about the current hour in Germany, please.",True
+play_music,Which artist's performance is live on stage?,True
+transport_traffic,How much rushing will I have to do because of the high volume of automobiles en route to my workplace?,True
+news_query,Would you be so kind as to enlighten me with the newest updates around town?,True
+music_query,Tell me who crooned.,True
+music_query,I require the written lyrics for this piece by means of electronic mail.,True
+qa_currency,Which type of cash is accepted in Egypt?,True
+transport_traffic,Is the flow of transportation currently disrupted?,True
+audio_volume_down,Can you make the sound less loud?,True
+play_music,Can you start the tunes that are on my list?,True
+weather_query,Is it necessary to prepare myself to clear the exit of my abode?,True
+audio_volume_down,Reduce the sound?,True
+audio_volume_up,Would it be possible to amplify the audio in any way?,True
+qa_currency,How much does one US dollar cost in Indian rupees?,True
+transport_traffic,Are there any impediments on the way?,True
+music_query,At what point in time did this tune become available?,True
+audio_volume_up,Amplify the audio.,True
+audio_volume_up,Can you dial up the sound coming from the left speaker by ten?,True
+datetime_query,What is the concept of temporal measurement?,True
+news_query,Are there any updates or changes in Facebook that I should know about?,True
+cooking_recipe,What are some ways to find instructions for making a flavorful omelet filled with four types of cheese?,True
