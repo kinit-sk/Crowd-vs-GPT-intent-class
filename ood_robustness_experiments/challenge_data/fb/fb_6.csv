@@ -1,0 +1,1193 @@
+intent,text
+get_distance,What is the road length to move from this place to Disney World?
+get_info_traffic,What's the condition of vehicular mobility near the Essence Music Festival in Los Angeles?
+get_info_traffic,Could construction work be hindering the accessibility of some exit points on Highway 50 at this time?
+get_estimated_departure,What time should I get to Bandelier Monument on Saturday if I want to arrive by 9 am?
+get_info_route,Is there a designated road space for vehicles carrying multiple passengers in the upcoming stretch?
+update_directions,How can we navigate through this gridlock?
+get_directions,How can I navigate my way to Nashville TN?
+get_estimated_departure,"If I intend to arrive at the event one hour prior when it commences at 7 pm, what is the appropriate time I must depart from home?"
+get_distance,How much time it takes to journey from New York to Boston by car?
+get_estimated_duration,What amount of traveling should I expect to get to my workplace?
+get_distance,"What is the approximate duration of a trip from Moab, UT to Provo, UT?"
+get_info_route,Is it possible for you to provide me with information regarding the Shell fueling stations that are located on the highway I-59 from this location all the way up to Hattiesburg?
+get_estimated_departure,Is it possible to arrive home before sunset if I stay the whole duration of the festival?
+get_info_route,"""What are the service stations positioned on the itinerary connecting my whereabouts and target locality?"""
+get_distance,What is the span of land from Florida to California?
+get_info_road_condition,What's the estimated time for the arrival of precipitation on highway 90?
+get_location,Which theme park of Six Flags can be found nearby?
+update_directions,In what ways can someone escape from the hustle and bustle of overcrowded streets?
+get_estimated_arrival,What are my chances of getting to work on time given the current traffic conditions?
+get_estimated_duration,"If I depart by 1 pm, when should I anticipate reaching my 2pm engagement?"
+get_info_road_condition,Can someone drive smoothly along the route of I-57?
+get_estimated_arrival,"Leaving at this moment, would I be able to get downtown by 7:30?"
+get_estimated_departure,At what hour is it best for me to head over to the 4 pm meeting in Mayfield?
+get_info_road_condition,Was the Black Bear able to clean up after last night's heavy rainfall?
+get_estimated_duration,How far apart are Chicago and Indianapolis in terms of transportation?
+get_estimated_duration,What is the duration required for traveling from NYC to Philadelphia?
+get_info_road_condition,Can I reach the dog show without taking the flooded Main Street?
+get_estimated_duration,What's the estimated duration of my journey to traverse the city?
+get_estimated_arrival,Is it feasible for me to make it back home before 9 PM having started my journey presently from work?
+get_distance,How much time does it take to reach El Paso?
+get_info_road_condition,Are there indications of hazardous driving conditions due to freezing temperatures?
+update_directions,Is there a swifter route that leads directly to Phoenix Avenue?
+get_estimated_departure,Could you furnish me with an alternate departure schedule for the appointment appointed at 5 pm in Gardena that is presently delayed until 6 pm?
+get_estimated_departure,What hour do I need to wind up work in order to show up on time for my checkup with the doctor on Monday?
+get_directions,
+get_estimated_arrival,Is it possible for me to arrive at work on schedule amidst this traffic?
+get_estimated_duration,What's the duration of my journey to work?
+get_estimated_departure,By what time should I head to my workplace?
+update_directions,Locate diversified routes back to your place of residence.
+get_distance,How much ground separates San Antonio from Houston?
+get_directions,Can you suggest the speediest path to get to West Chester University on a Sunday night?
+get_distance,How do I measure the geographical separation between here and Disney World?
+get_distance,"What is the territory that separates Alabama from Georgia, as traveled by car?"
+get_estimated_departure,"To be in New Jersey at 5, what would be the best departure time for the train?"
+get_distance,How long is the route to my place of employment from my dwelling?
+get_info_traffic,Can you tell me which thoroughfares are obstructed?
+get_estimated_duration,How much time is needed to reach downtown in rush traffic?
+get_estimated_arrival,At what point should I plan to conclude my trip?
+get_estimated_arrival,"Assuming a departure time of 8 am, what is the estimated time of arrival in Miami?"
+get_estimated_duration,What's the average duration to reach downtown while in heavy traffic?
+get_info_road_condition,Is it safe to traverse along Champaign ave. now? 
+get_estimated_departure,When is the latest I can arrive at the Atlanta airport for a 6:30 am flight?
+get_estimated_departure,At what hour must I commence my travel to the soccer event scheduled for 5?
+get_directions,"By which means can I reach the residence of Katie, located in Robertsdale, at 1:00 PM?"
+get_location,Which entertainment venues offer aquatic activities in Minneapolis?
+get_directions,What route would you recommend taking from Saint George to Las Vegas?
+update_directions,Is there an alternative way we can proceed?
+get_info_route,Are there any establishments along the journey between here and my residence where I could purchase fuel for my car?
+get_estimated_duration,In what length would I arrive at Shreveport assuming departure now?
+get_estimated_departure,"What's the ideal arrival time in Portland OMSI, considering my 2:30 appointment? "
+get_estimated_duration,What's the driving distance from Miami to Key West and how much time would it take?
+get_estimated_departure,By which hour is it possible for me arrive at the medical facility before 5 o'clock without being unnecessary delayed in leaving from the workplace?
+get_info_traffic,Would it take longer than usual to travel from Wilshire to 3rd Street in Los Angeles?
+get_info_route,Is it possible to direct me to areas where I can access petrol along the course?
+get_estimated_duration,
+get_distance,What is the travel duration from San Antonio to Houston?
+get_directions,Can you suggest a route to reach Cherokee Casino from my residence that doesn't involve taking HWY 321?
+get_directions,What is the shortest way to get to International Drive in Orlando that doesn't involve facing interruptions or slowdowns?
+get_estimated_departure,At what time should I be present at Atul's birthday celebration on Thursday afternoon?
+get_distance,What is the extent of the distance that needs to be traversed to reach the Wine and Food Festival being held in Orlando?
+get_info_traffic,"""Is there a smooth flow of vehicles on I-84?"""
+get_estimated_arrival,Is it feasible for me to reach New York City by 9 pm tonight from my home?
+get_estimated_arrival,"""Considering the roadwork on i-90 and my early exit at 8:15 am, what are my chances of boarding the 9 am flight?"""
+get_estimated_departure,By when do I have to initiate my journey so as to attend Cairo festival punctually at 9 pm?
+get_directions,Which path would be the most secure for traveling towards San Antonio Airport tomorrow morning?
+update_directions,Can you guide me through a separate way?
+get_info_road_condition,Are there any waterlogged areas hindering traffic flow on the route from my home to workplace?
+get_info_road_condition,Does the route towards Georgetown have any patches of water overflow?
+get_directions,Do you know the route leading to the Walmart store located near the heart of the town?
+get_location,In which area are handicapped accessible parking spots available for attendees of the Green Day performance?
+update_directions,What are some possible roadway detours I could take to circumvent heavy traffic?
+get_directions,What is the most efficient way to reach West Chester University on a Sunday evening?
+get_estimated_duration,Can you tell me the duration of the trip from Orlando to Louisville on a plane?
+get_estimated_departure,What time do I need to be at the Bull's game tonight?
+get_directions,Is it possible to inform me about the closest exit with minimal congestion?
+get_directions,How can I travel to the San Antonio Airport ensuring the highest level of security for tomorrow morning?
+get_info_road_condition,Is the pathway to Cairo covered in a layer of frost today?
+get_directions,Can you guide me to the mall?
+get_info_road_condition,Are the roads covered in frozen precipitation?
+get_directions,What's the most efficient route to reach the U2 concert?
+get_info_road_condition,Can one travel easily through any of the streets around the ball diamonds in Watseka?
+get_info_traffic,Are the exits located on Highway 50 available at the moment or are they being impeded by anything?
+get_estimated_departure,When is the most ideal moment for me to depart towards my meeting that is scheduled for 4 pm in Mayfield?
+update_directions,Is there a way to take different pathways so as not to be affected by traffic?
+update_directions,Are there ways to lessen the travel time while heading towards home?
+get_estimated_duration,What amount of commute would it require for me to arrive at my destination on the other side of town?
+get_estimated_departure,At what time would a train arrival in New Jersey be possible?
+get_estimated_duration,How far apart are San Francisco and Monterrey in terms of driving distance?
+get_distance,What is the span between NY and Phx?
+get_distance,What is the measure of area between my home and Tacoma Dome?
+get_estimated_arrival,When shall I make an appearance at the desired location?
+get_estimated_duration,How much driving distance needs to be covered to arrive at Lake Wales?
+get_info_road_condition,Can you tell me about the condition of the roads for my drive to work this morning?
+get_location,Is there a nearby way out from this primary route?
+get_info_traffic,re cars moving quickly on the interstate 10?
+get_info_route,Is there a paid path when traveling from Pennsylvania to Kentucky?
+get_info_road_condition,Could my journey to work be impacted by the current climate conditions?
+get_estimated_arrival,Would it be achievable to arrive in Dallas before midnight upon departing now from this place?
+get_distance,"What is the extent that separates Chicago and Peoria, IL?"
+get_estimated_duration,What's the estimated duration to reach the game venue tonight?
+get_estimated_duration,How much travel time do I need to allocate for driving to Lake Wales?
+get_estimated_arrival,How much time would it take for me to arrive at my abode through this novel direction? 
+get_info_traffic,Are there any hindrances in your travel route from Spruce Street to Pine Street?
+get_directions,How do I navigate to the Atlanta aquarium by car?
+get_estimated_duration,How far is it from here to Louveira downtown via Bandeirantes Highway?
+get_info_traffic,Is the congestion about to clear up soon?
+get_distance,What area lies amidst New York and Los Angeles?
+update_directions,Can we find any expedited route for this?
+get_estimated_arrival,
+get_distance,How much time does it take to travel from Miami to Orlando?
+get_info_road_condition,Have the streets been affected by freezing weather conditions?
+get_estimated_departure,I need an updated departure time as my meeting originally set at 5 in Gardena now takes place at 6.
+update_directions,Can you suggest ways to enhance my pace?
+get_estimated_arrival,Can I arrive at the HNL airport in 15 minutes if I leave prior to 5 p.m. using Nimitz route?
+get_estimated_duration,At what point should I take off to ensure I am punctual for my 2 pm appointment once I begin leaving around 1 pm?
+get_distance,What's the gap or space lying amid New York and Los Angeles?
+get_estimated_arrival,At what time should I set out from Syracuse to reach New York City?
+get_info_traffic,Is it possible to encounter barriers or obstacles when navigating through certain exits on Highway 50 presently?
+get_estimated_duration,What is the distance you have to cover while traveling from San Francisco to Monterrey by road?
+get_estimated_arrival,Can I anticipate being punctual for work while navigating through this heavy flow of vehicles?
+get_estimated_duration,How much time is required for a drive from Union College to Trustco Bank on Madison Avenue in Albany?
+get_info_route,Is it required to pay a fee for using the highway?
+get_estimated_departure,What is the earliest time I have to arrive at work?
+get_location,What is the location of the Six Flags amusement park that is most proximate?
+get_estimated_departure,By what time do I need to arrive at Cairo festival if I start driving now?
+get_estimated_arrival,How long will it take for mom to get here from Blytheville once she sets off immediately?
+get_estimated_duration,What amount of driving would be required for reaching the grocery store starting from our present location?
+get_estimated_duration,What is the duration of the journey from Detroit to Atlanta?
+get_estimated_arrival,When should I depart from my home to get to Myrtle Beach without delay?
+get_info_road_condition,Are the paths surrounding the ball parks in Watseka still submerged?
+update_directions,Could you propose an option for steering the course elsewhere?
+get_distance,What is the total length of the route towards your workplace?
+get_estimated_departure,What is the latest time I can arrive at the airport for a 9:00 am departure?
+get_info_traffic,"""Would you say there's a heavy flow of cars at this hour?"""
+get_directions,Can you provide me with a guide to reach the Atlanta aquarium while driving?
+get_estimated_departure,At what hour do I have to depart from my residence to reach Grand Blvd Movies before 7 pm?
+get_distance,How distant are New York and Los Angeles from each other in terms of traveling time?
+get_location,Does H1 Freeway have a close adjacency to Brian's residence?
+get_info_traffic,Can you describe how the flow of vehicles is on LI Expressway at present?
+get_info_road_condition,Is it likely that motorists will experience any obstructions while traveling along the roads tonight?
+get_info_road_condition,Was there any cleaning that occurred to the Black Bear yesterday night?
+get_estimated_departure,What time could I depart from my office and reach the physician's center prior to 5 pm?
+get_distance,What's the space that separates Hollywood and Houston?
+get_estimated_arrival,What is the estimated time for your presence here?
+update_directions,Could there be an alternative avenue to take?
+get_info_traffic,Are there any significant incidents that occurred in Boston today? 
+get_estimated_arrival,What's the expected time of my Miami arrival if I depart by 8 am? 
+get_info_road_condition,Would the atmospheric state have an influence on my daily travel?
+get_estimated_arrival,When can I expect to get there?
+update_directions,Uncover miscellaneous ways to reach your house.
+get_distance,How long will it take to reach El Paso?
+update_directions,Are there any methods that can facilitate me in moving at a higher speed?
+update_directions,Is there an option available wherein we can circumvent the heavy flow of cars currently occupying the route?
+get_distance,How much ground should be covered to get to the Disney World starting from here?
+get_info_road_condition,Can you tell me how the roads look for my drive to work today?
+get_estimated_departure,By when do I have to be present to watch the Jazz game that begins at 8 PM?
+get_info_road_condition,Has anyone encountered any obstacles while driving towards the campground this morning?
+get_estimated_departure,What time is ideal to hit the road for me to get to Cairo festival prior to 9 PM?
+get_estimated_arrival,How much longer until I come?
+get_info_road_condition,Are there any hindrances to pass through while going to Ellen's abode?
+get_estimated_arrival,Can I make it to Detroit by noon based on my present leaving moment? 
+get_estimated_duration,What is the duration of the trip required to get to the grocery shop using a vehicle?
+update_directions,Could you suggest some detours that can help me steer clear of heavy traffic?
+get_info_road_condition,Is the 90 freeway experiencing any adverse weather conditions?
+get_estimated_arrival,Is it realistic to make it to the 7 o'clock concert leaving in less than an hour?
+get_info_route,Is there an ATM available near the path leading to Stephanie's place of work?
+get_estimated_arrival,How much longer until I make it there?
+get_estimated_departure,At what time should I reach my nephew's game that begins at 5:00?
+get_info_road_condition,Can you predict the weather conditions I will face while traveling to work at 5 o'clock?
+get_estimated_departure,At what hour must I be present at the Mayfield meeting scheduled for 4 pm?
+get_location,In what direction should I head to find a Target nearby?
+update_directions,Could you recommend a distinct way with reduced traffic flow?
+get_estimated_departure,At what time I should arrive at Grand Blvd Movies to watch the 7 pm show? 
+get_info_route,Is there a fee for traveling along the turnpike?
+get_info_route,Could you let me know where I can come across Shell outlets while traveling along the route I-59 stretching from here till Hattiesburg?
+get_estimated_duration,"With I-95 repairs, how much time should I allot for my journey to Atlanta?"
+get_info_traffic,What are some routes that have minimal congestion?
+get_distance,What is the separation ratio of New York and Seattle?
+get_estimated_departure,At what time should I reach my workplace?
+get_location,Is there a Target outlet that I can easily access from this point of reference?
+get_estimated_arrival,Is it feasible for me to reach Marcus cinema by 8:15 in the evening today?
+get_info_traffic,Is the path towards Chapin through the I-26 west direction clear of any disturbances?
+update_directions,Can I choose a different path that avoids this traffic situation from my current location?
+get_info_traffic,Did anything notable happen on the roads of Boston today? 
+update_directions,Do you know any routes that can help me avoid getting caught in the flow of occupied streets?
+get_distance,Could you determine the direction from Orlando to Sanford?
+get_estimated_duration,How much time does it take to travel from Detroit to Atlanta by road?
+get_estimated_departure,At what hour must I head out to get to the Thunder game by 6 p.m?
+get_estimated_duration,"""How much distance separates Maria's whereabouts and the beach, and how long does it take to traverse?"""
+update_directions,Can I find a different path to avoid this traffic in my current location?
+get_estimated_arrival,Could I reach the venue on time for the show scheduled at 7 given my departure schedule?
+get_info_traffic,Is there a smooth flow of cars at around 5 in the evening?
+get_info_route,Are we approaching a highway segment that has a separate lane intended for carpooling?
+get_info_road_condition,Has the street maintenance team already cleared Champaign ave. of any obstructions? 
+get_estimated_departure,By what time must I set off to arrive on time for 6 p.m. Thunder game?
+get_distance,How far apart are Miami and Orlando from each other?
+get_info_road_condition,Will the streets surrounding my home pose a hazard for motorists? 
+get_estimated_arrival,By what time should I depart from my house to get to Billy's in 30 minutes?
+get_info_road_condition,Is the highway clear enough to drive home without obstacles? 
+get_info_route,Am I going near a gas fill-up point with this path?
+get_location,What is the location of Iolani Palace?
+get_location,How far is Brian's residence from the H1 Freeway?
+update_directions,Are there any means to quicken my pace?
+get_estimated_departure,At what time must I set off to arrive at the Dodger game by 5 pm?
+get_estimated_duration,What's the expected duration of my trip if I depart presently to Shreveport?
+get_estimated_departure,When can one make it to Presidente Epitacio by 3 am from work?
+get_distance,Can you provide me with the gap from Orlando and Sanford?
+get_estimated_arrival,What is the distance left for my reach?
+get_info_road_condition,Are there any hazardous conditions on the way to 243?
+get_estimated_arrival,Is it feasible for me to depart by 8 am and make it to Kearney before 11 am?
+get_info_road_condition,Will I face any hindrance during my journey to my grandmother's place due to atmospheric changes?
+get_location,What's the closest highway available?
+get_estimated_departure,What time do I need to plan my journey so that I reach Irvine by 7 pm?
+update_directions,Can I take a different path that will lead me home quicker?
+get_info_route,"""Please specify the petrol pumps that can be found between my present location and intended destination?"""
+get_estimated_arrival,Can I reach my workplace in a timely manner despite the heavy traffic?
+get_info_road_condition,Is there any impediment that may affect driving safety on the way down 243?
+get_estimated_arrival,What is the expected time of arrival using this new course?
+get_distance,What is the span that separates here from Chicago?
+get_directions,How can I find my way to the Atlanta aquarium if I'm behind the wheel?
+get_distance,What's the expanse that needs to be covered between Indianapolis and San Antonio?
+get_info_road_condition,Can anyone tell me if the 90 freeway is affected by the current winter weather conditions?
+get_directions,Can you tell me which exit has low flow of vehicles that is close?
+get_info_road_condition,Are there any traffic advisories for motorists traveling on the 90 freeway due to changes in weather patterns?
+get_info_road_condition,Does the expressway connecting my residence and office encounter any obstruction caused by excess water?
+get_estimated_arrival,Can I reach home prior to nine in the evening after departing from work now?
+get_estimated_departure,
+get_info_road_condition,Might the atmospheric conditions have an impact on the way I travel daily?
+get_info_traffic,Is there any way to reach the Novi homebuilder show through 696 without any unwanted events?
+get_estimated_departure,What is the ideal hour to embark on my journey for a 5 pm arrival at the Dodger game?
+get_directions,How can I reach the Concert Hall situated in Chicago by using I-494?
+get_estimated_duration,The span of motoring from Union College to Trustco Bank on Madison Avenue in Albany?
+get_estimated_departure,At what hour should I head out for the Thunder game at 6 p.m.?
+get_estimated_duration,What is the period required to reach Destin from Orlando?
+get_distance,How much space comes in between Orlando to Sanford?
+get_info_road_condition,Should I exercise caution while commuting on the pathways surrounding my residence tonight?
+get_info_road_condition,Are there any waterlogged roads leading to my house?
+get_estimated_duration,What is the distance between Detroit and Atlanta by car?
+get_estimated_departure,"To reach the venue one hour ahead of a musical performance beginning at 7 o'clock, what time must I make my way out of the house?"
+get_info_traffic,How long might it take to reach one's destination in San Diego at this moment?
+get_estimated_departure,What's the timing required for me to get to the 8 pm movie from home?
+get_directions,Are there any specific routes that I should stay away from to prevent traffic during my commute?
+get_estimated_duration,How much time do we need to reach the game venue this evening?
+get_location,Which Target store is in closest proximity to my current whereabouts?
+get_location,The palace of Iolani can be found at what place?
+get_info_traffic,Are there any hindrances on the 696 that will prevent me from arriving at the homebuilder show in Novi?
+get_estimated_departure,By what hour must I commence my commute to arrive by seven in the morning?
+update_directions,Is there a different course you can navigate through?
+get_estimated_arrival,Can I make it to Detroit before midday departing at this moment?
+update_directions,Is there a direction to my house where traffic is not as heavy?
+get_estimated_arrival,Is it feasible for me to get to work while dealing with this traffic?
+get_location,What's the location of Target that can be reached within a short distance?
+get_estimated_duration,How much of a delay should I expect while travelling to Atlanta with the current roadwork happening on I-95?
+get_estimated_arrival,Is it feasible to arrive at the Hamilton show on Broadway by 6 pm taking the freeway route?
+get_estimated_duration,What is the duration of my journey from the shoe store to my house?
+get_estimated_departure,What timing guarantees that I can get to work before 8 despite the usual traffic congestion?
+get_location,In what direction can one find the interstate from this position?
+get_info_traffic,"I need an update on the flow of vehicles in and around Foley, AL currently, could you provide that?"
+update_directions,Is it possible to find a quicker direction that leads to Phoenix Ave?
+get_estimated_duration,Will the maintenance work along I-95 cause any delay in getting to Atlanta?
+get_info_traffic,Is there any unusual occurrence currently happening along the I-55 route?
+get_estimated_departure,At what time should I aim to be at the airport by 9:00 am?
+get_directions,What is the route to go to State Farm Arena starting from McAllen?
+get_info_road_condition,Would it be advisable to avoid using Main Street when traveling to the dog show?
+get_estimated_duration,"""Can you tell me how much time it takes to travel from Chicago to Indianapolis?"""
+get_info_traffic,Are there any thoroughfares with fewer cars passing through them?
+get_estimated_duration,What's the average span of a journey from the Brooklyn Bridge to New Jersey in a vehicle?
+get_estimated_duration,Could you tell me about the timeframe required to arrive in Orlando via path 40?
+get_distance,What is the proximity of the Wine and Food Festival located in Orlando?
+get_estimated_arrival,What time can we expect mom to reach our house from Blytheville if she departs at this moment? 
+get_info_traffic,"""What is the situation like on Interstate 84?"""
+get_info_route,Discover a cash dispenser en route to Stephanie's office.
+get_distance,How much road should be traversed to reach office from home?
+update_directions,Can you suggest a different road to take?
+get_estimated_arrival,Is it feasible to make it to the concert by 7 o'clock if I depart in less than an hour?
+get_location,Which water amusement centers can be enjoyed by Minneapolitans?
+get_distance,What separates Seattle and Chicago?
+update_directions,What is a path towards my residence with fewer cars on the road?
+get_estimated_arrival,Can you let me know the specific time when I'll arrive at my intended location?
+get_info_road_condition,Are the road conditions treacherous today due to precipitation?
+get_info_route,Can you guide me towards places to refuel my vehicle while travelling?
+get_info_traffic,"Is there any event or occurrence that took place on I-26 westward, connecting this position to Chapin?"
+get_directions,Can you suggest the most efficient way to reach Walmart from where I am right now?
+get_info_road_condition,Is there a layer of frozen water on the streets?
+get_estimated_duration,How much time would it require to arrive at the game location this evening?
+get_estimated_arrival,Could I make it to Dallas prior to midnight by leaving from here at the moment?
+get_info_road_condition,Are there any water-related obstructions on the route from here to Georgetown?
+get_estimated_departure,What's the deadline for me to reach the Dr's office before 5 pm?
+get_estimated_duration,What's the estimate on the journey time if I take the route number 40 to get to Orlando?
+get_estimated_arrival,What's the time that I need to arrive at my place of dwelling after departing from work at 4?
+get_estimated_arrival,"If I leave right now, will I make it to Detroit by midday?"
+update_directions,Is there a quicker way to get back home?
+update_directions,What's the best way to evade bumper-to-bumper traffic?
+get_info_traffic,What is the level of vehicular movement like on I-84?
+get_distance,What is the approximate geographic separation between Phoenix and Seattle? 
+get_estimated_duration,What is the expected travel duration to reach Lake Wales by car?
+get_estimated_departure,At what hour do I have to be present at the airport for departing at 9:00 am?
+get_directions,What's the most efficient way to get to St Louis while sidestepping the construction on Poplar Street Bridge?
+update_directions,Are there any faster methods to tackle the workload?
+get_info_road_condition,Is there a likelihood of snowy conditions during my early morning commute for work? 
+get_directions,"Can any other routes be taken to reach Detroit this evening, despite ongoing road construction?"
+get_estimated_departure,What is the earliest time I can head out to arrive at the Zoo for their opening on a Saturday?
+get_estimated_arrival,Is it feasible to depart by 8 am and reach Kearney before 11 am?
+get_info_route,Will we see a segregated lane for commuters sharing a ride just ahead?
+get_info_traffic,Are there any interruptions along Highway 50 that may affect the movement of vehicles?
+get_estimated_duration,What is the duration of travel from Orlando to Destin?
+get_estimated_duration,What's the estimated travel duration from here to Vacaville during heavy road congestion?
+get_directions,Can you suggest me the fastest way to make it back home?
+get_directions,Can you suggest an alternate path to reach downtown Atlanta that isn't obstructed by construction?
+get_estimated_arrival,How much longer until I reach my desired endpoint?
+get_estimated_arrival,Is there a chance to reach the HNL airport within 15 minutes by taking Nimitz before 5 pm?
+get_info_road_condition,Is Champaign Avenue free of any hazards now?
+get_directions,How can I rapidly arrive at the Walmart store from my present position?
+get_location,How do I access a detour that branches from this main road?
+get_estimated_arrival,At what hour should I hit the road for my workplace via I-90 in the morning?
+get_info_traffic,Is there any obstacle in Highway 50 that prevents access to the exits currently?
+get_directions,"Which path should I take to reach Cherokee Casino starting from my house, excluding HWY 321?"
+update_directions,Is there a more speedy path to the movie theatre?
+get_location,In which position can I find Iolani Palace?
+get_distance,What is the distance separating New York and Boston?
+get_estimated_departure,At what hour would be ideal for me to show up at the Dodger game so as not to miss the 5 pm commencement?
+get_distance,How long does it take to travel from Florida to California?
+get_estimated_arrival,When would our presence in Arkansas be ensured upon immediate departure?
+get_estimated_duration,How far away is Beatrice from my present position?
+update_directions,How do I go around the high volume of cars on the road?
+get_estimated_arrival,At what time must I leave to ensure that I'll be at Marcus theatre in time for the 8:15 PM presentation tonight?
+get_directions,I need your assistance in identifying the promptest road to take me to International Drive in Orlando without facing construction work or traffic snarl-ups.
+get_info_traffic,Which ways are impeded?
+update_directions,Can you suggest different paths to steer clear of congestion on the 35 South?
+get_info_road_condition,Are there frozen water particles present on the road I reside?
+get_estimated_arrival,"""Assuming that I depart at 1:30 pm, will I be able to make it to my Waco meeting as scheduled?"""
+update_directions,Could you suggest different ways to evade the traffic?
+get_distance,"""What's the gap from Portland to Seattle?"""
+get_estimated_arrival,What are the chances of me reaching Marcus Movieplex before 8:15 pm this evening?
+get_estimated_departure,What is the earliest hour I can travel to OMSI in Portland in order to reach it prior to 2 : 30?
+update_directions,Is it possible for you to revise my present itinerary to steer clear of traffic jams?
+get_directions,"What's the route I should take to arrive at Ikoyi by 2:44 pm today starting from Harvestrue, building A?"
+update_directions,In what ways can I maneuver around the crowded roads on 35 South?
+get_directions,Can you suggest the most efficient path to travel between Ocala and Gainesville in terms of time?
+get_estimated_arrival,At what time should I expect to reach my residence?
+get_distance,How much time or effort would it take to reach Chicago from here?
+get_directions,"Could you please inform me how I can make it to Ikoyi for 2:44 pm today from Harvestrue, Building A?"
+get_directions,What is the most expeditious way to travel from Ocala to Gainesville?
+get_info_road_condition,Are the spic and span roads to Cairo today?
+get_info_route,Which fueling stations exist on the path from my current spot to where I need to go?
+update_directions,What approaches can be adopted to increase my velocity?
+update_directions,Present me with modified course to skip all traffic jams.
+get_info_traffic,Are cars moving smoothly or facing any obstacle on I - 10?
+get_info_traffic,"""What is the current volume of vehicles passing through 217 for today?"""
+get_estimated_duration,What's the estimated duration of my travel to Atlanta amidst I-95 road construction?
+get_distance,How long does it take to complete the journey from Phoenix to Seattle by land travel?
+get_info_traffic,"""Are there any obstacles faced in the morning commute today?"""
+get_directions,What is the fastest path to my workplace?
+get_directions,"What is the route I should take to reach my destination in Nashville, TN?"
+get_estimated_duration,Could you provide me with an estimate for the driving duration between Miami and Key West?
+get_estimated_duration,What is the duration of traveling to the game tonight?
+update_directions,Can I take a different course that would get me to Phoenix Ave sooner?
+update_directions,Can the efficiency of work be improved? 
+update_directions,Can you suggest an unusual pathway with lower congestion?
+get_info_road_condition,Do I need to steer clear of Main Street while heading towards the dog show because of an existing situation?
+get_info_route,What is the payment requirement to utilize the turnpike?
+get_estimated_duration,Can you estimate the driving duration between Miami and Key West?
+get_location,Can I find a grocery store in my vicinity?
+get_distance,How far apart are Orlando and Sanford?
+get_estimated_arrival,Can I make it to the HNL airport in less than 15 minutes using Nimitz prior to 5 pm?
+get_info_route,Is there a need to pay for passage when traveling between Pennsylvania and Kentucky?
+get_estimated_arrival,At what point in time will I arrive?
+get_distance,What's the distance that separates New York and Seattle?
+get_directions,What's the quickest pathway to West Chester University during Sunday evenings?
+get_info_traffic,Has anything happened on route 85?
+get_estimated_departure,At what hour should I be cruising towards Cairo festival if I wish to reach there by 9 o'clock in the evening?
+get_info_traffic,Is it advisable to avoid traveling during rush hour presently?
+get_distance,How much driving would it take to get from Alabama to Georgia?
+update_directions,Can you suggest a different course for redirection?
+update_directions,Do you have any recommendations for divergent avenues to steer clear of the traffic buildup on 35 South?
+get_estimated_duration,What's the distance between my house and the shoe store?
+get_info_traffic,Has anything happened on the section of I-26 heading towards Chapin from here?
+get_info_traffic,Can we expect the congestion to ease up anytime soon?
+get_estimated_departure,At what hour do I have to arrive at the doctor's office before 5 pm?
+update_directions,Display me additional paths to avoid congestion.
+get_estimated_arrival,Is it possible to reach downtown by 7:30 by leaving now?
+get_directions,What is the route to follow if one wants to go to the Concert Hall located in Chicago through I-494?
+get_directions,Do you know the best way for me to navigate my way to the Atlanta aquarium in my vehicle?
+get_info_road_condition,Might there be excessive water on the streets later tonight?
+get_directions,What are the available bus routes going from Banning to Palm Springs?
+get_directions,"Can you guide me to reach Ikoyi by 2:44 pm today from Harvestrue, Building A?"
+get_info_road_condition,At what time will the precipitation commence on route 90?
+get_info_traffic,How does the flow of vehicles look like around five in the afternoon?
+get_estimated_arrival,"Is it feasible to catch the early morning flight despite leaving at 8:15, taking into account the roadwork across i-90?"
+get_directions,Which path is the most expeditious to get to the U2 concert?
+get_distance,What's the expanse from Seattle to Chicago?
+update_directions,Can you indicate some other ways I can take to avoid being stuck in traffic?
+get_estimated_duration,What is the approximate distance to reach the grocery store by car?
+get_estimated_duration,How far do I have to travel to reach Beatrice?
+get_info_road_condition,Has anyone reported about hazardous conditions while driving towards the campground today?
+get_distance,How much traveling do I need to do to reach the Wine and Food Festival in Orlando?
+get_estimated_arrival,When should I aim to get back home today having left work by 4?
+get_estimated_departure,At what hour must I be there so as to catch the 6:30 am flight from the Atlanta airport?
+get_location,At which point can I enter the freeway?
+get_distance,What's the measurable space separating Atlanta and Nashville?
+get_distance,What is the measure of separation that exists between New York and Los Angeles?
+update_directions,Can we take an unconventional path to bypass this heavy traffic?
+get_estimated_duration,How much time do I need to travel from Orlando to Destin?
+get_info_route,Is refueling possible ahead?
+get_estimated_arrival,At what time should I leave my house to reach work on I - 90 at 8 am?
+update_directions,Is there a quicker way I can reach my destination?
+get_directions,What is the route to reach downtown Atlanta without encountering roadwork? 
+get_estimated_departure,What is the ideal time to be present at the nearest theater for an 8:00 pm screening?
+get_estimated_arrival,Would leaving in three-quarters of an hour be enough to get me at the concert hall before 7?
+get_directions,What is the bus route to reach Long Beach?
+update_directions,Is it possible to take a different path from my current location to avoid the congested traffic?
+get_info_traffic,Is there a way to view the slow movement of automobiles in my area?
+update_directions,
+get_info_traffic,Will I face any obstructions on my way to the Novi homebuilder exhibition if I choose to utilize the 696 route?
+get_distance,How far away is Reykjavik from Seattle?
+get_estimated_duration,How much time is required to reach Orlando by taking the path of 40?
+get_estimated_duration,Calculate the time required to arrive at Walmart utilizing Jabaquara Street.
+get_directions,"How can I reach Ikoyi by 2:44 pm today from Harvestrue, building A?"
+get_estimated_departure,How soon before my shift do I have to be at work?
+get_estimated_duration,How much delay should one expect during peak hours when travelling towards downtown?
+get_estimated_duration,How much driving distance should one cover to arrive at Lake Wales?
+get_distance,How extensive is the stretch from New York to Boston?
+get_info_road_condition,Could the conditions outside hinder my travel to work at 5am early in the morning?
+get_estimated_duration,What is the duration of a drive from Union College to Trustco Bank on Madison Avenue in Albany?
+get_estimated_duration,How far do I need to travel to reach the grocery store from my residence?
+get_estimated_duration,Can you provide an approximation of the roadway travel duration between Tacoma and Seattle?
+get_info_route,Does a road exist with a fee system for those going from Pennsylvania to Kentucky?
+get_estimated_departure,"If my intention is to get there an hour early, what time do I need to depart from home for the concert starting at 7 pm?"
+get_info_road_condition,Could we expect any waterlogging on the highways as twilight approaches?
+get_distance,What is the space separating my home from Tacoma Dome?
+get_estimated_arrival,
+update_directions,Can I take a different path back home to steer clear of traffic congestion? 
+get_distance,"How long would it take to get from Moab, UT to Provo, UT?"
+update_directions,Locate an unconventional way to commute to your job.
+get_info_road_condition,Is the area around path number 202 capable of withstanding high volume of water flow?
+get_info_traffic,Is there a high volume of cars and transportation between Wilshire and 3rd Street in Los Angeles right now?
+get_directions,What path should I take if I want to arrive at State Farm Arena departing from McAllen?
+get_info_traffic,How is the flow of vehicles during busy hours today?
+update_directions,Might there be an available course of action to bypass the congested streets at this position?
+update_directions,Identify an unconventional path to reach your job.
+get_estimated_duration,How much delay should I expect while traveling to Vacaville given the current traffic situation?
+get_location,Do any stores that sell groceries exist nearby?
+get_info_road_condition,What are the odds of encountering wintry conditions on my way to work early in the morning?
+get_location,How can I reach the ramp that leads to the highway?
+get_estimated_arrival,"What is the expected time for me to return home, assuming my work ends at 4 in the evening? "
+get_estimated_duration,"""What is the duration of the journey between Maria's location and the beach?"""
+get_estimated_arrival,At what time can I expect to arrive at my intended location?
+get_estimated_departure,At what point should I set off for work?
+get_estimated_duration,"Can you provide an approximation of the journey time to Vacaville, accounting for the existing traffic conditions?"
+get_info_road_condition,Why is driving on the freeway challenging at the moment?
+get_directions,
+get_distance,What is the driving route from Houston to Vancouver?
+get_estimated_duration,What is the span of road lying ahead of me on the way to the supermarket?
+get_distance,Can you provide directions for a road trip starting from Houston and ending in Vancouver?
+get_distance,"How long does it take to travel from Moab, UT to Provo, UT?"
+get_directions,What is the swiftest possible route to reach the U2 concert venue?
+get_distance,What is the span from Miami to Orlando?
+get_info_road_condition,When can one expect to encounter frozen precipitation along the route of 90?
+get_estimated_arrival,Can reaching downtown by 7:30 be expected if I depart right away?
+get_info_road_condition,Are there any hazards to be aware of while driving down the freeway in winter?
+get_info_road_condition,Has the weather made commuting more challenging?
+get_directions,Can you recommend the most convenient road to take from Saint George leading to Vegas?
+get_info_traffic,Do obstructions exist on Highway 50 that is responsible for hindering accessibility to the exits?
+get_estimated_arrival,"My workday has ended, will I be able to arrive at home prior to 9 o'clock tonight?"
+get_info_traffic,Can you give me an idea about the congestion situation in Phoenix's downtown area?
+get_info_road_condition,Has Black Bear taken a bath in the rushing water?
+get_estimated_duration,How long does it take to go from New York City to Philadelphia?
+get_distance,Can you indicate the span separating Seattle and Chicago?
+get_distance,How long does it take to reach El Paso?
+get_location,What is the location of the interstate that leads to the nearest city?
+update_directions,Are there any means to expedite the pace of completing work?
+get_location,"For the Green Day concert, where can people with disabilities park their vehicles?"
+get_estimated_arrival,How long does it take to get to New York City from Syracuse when I leave my home?
+update_directions,Deviate from the usual route and redirect the journey in order to steer clear of traffic obstructions.
+get_info_road_condition,Are the paths leading up to Ellen's residence unobstructed?
+get_info_traffic,Is there a significant volume of cars traveling along 217 today?
+get_distance,How distant are Atlanta and Nashville from one another?
+get_estimated_arrival,Will my journey on the expressway get me to Broadway's Hamilton show before 6 in the evening?
+get_distance,What is the duration of the journey from NY to Phx?
+get_estimated_arrival,When shall we get to Arkansas with prompt departure?
+get_info_road_condition,Are there any obstacles that I should be aware of while driving to work this morning?
+get_location,How far is Brian's place situated from H1 Freeway?
+get_directions,What bus do I need to board to reach Long Beach?
+get_estimated_arrival,Will the current vehicular congestion hinder me from reaching my workplace on schedule?
+get_distance,What is the travel span from Portland to Seattle?
+get_directions,How can one go to Fargodome coming from the direction of Highway 75 within Minnesota?
+get_location,What movie theatre is in proximity to this place?
+get_directions,What is the route towards the mall?
+get_distance,How far apart are Chicago and Peoria located within Illinois state border?
+get_info_route,Is there a list of fueling spots that can be visited during my journey?
+get_estimated_arrival,What time can I expect to reach my destination?
+get_info_road_condition,Is the condition of roads near the ball diamonds in Watseka still a concern?
+get_info_road_condition,Is it safe to drive on the roads tonight?
+get_info_traffic,Has any unexpected event emerged on the roadway known as 85?
+get_info_traffic,"""How is the movement of vehicles in Portland right now?"""
+get_estimated_departure,What is the suitable time to make it to New Jersey via train by 5?
+get_directions,Can you suggest a hassle-free itinerary that will help me arrive at Disney World before noon without encountering tolls or congestion?
+get_location,What is the location of the entrance to the expressway?
+get_info_traffic,Is the flow of vehicles normal from Wilshire Avenue to 3rd Street in Los Angeles?
+get_info_route,What locations offer fuel services on the path I am taking?
+get_estimated_duration,"In terms of commuting, what is the expected duration of reaching my job site?"
+get_directions,How can I reach my working destination at the earliest convenient time?
+get_distance,What is the length of the travel route from San Diego to San Francisco?
+get_estimated_arrival,Can I get to Broadway to catch Hamilton before 6 pm using the freeway?
+update_directions,What’s a way to bypass congested streets?
+update_directions,How can we take a different direction from the original planned route?
+get_info_road_condition,Can you describe the state of the roads as I make my way to work today?
+get_estimated_arrival,Might I be able to catch the 6 pm Hamilton performance on Broadway via freeway transportation?
+get_distance,What is the span of roadway separating Orlando and Sanford? 
+get_info_traffic,Is the number of automobiles moving around substantial during this time?
+get_estimated_arrival,Is it viable to reach the concert that starts at 7 after departing in 45 minutes?
+get_estimated_departure,What is the ideal timing to reach office before 8 and avoid traffic tomorrow morning?
+get_info_road_condition,Is it easy to drive to Ellen's residence?
+get_estimated_duration,How much time will it take to get to Louveira downtown using Bandeirantes Highway?
+get_directions,Is there a path to Tampa that doesn't require payment?
+get_estimated_arrival,Is there a way to reach Dallas before the clock strikes 12 if I start my journey now?
+get_estimated_duration,What is the expected arrival time for a 2 pm appointment if I leave at 1 pm? 
+get_distance,What is the measure of separation between New York and Los Angeles?
+get_info_road_condition,Does the highway have any freezing layer?
+get_location,Is there any place in the vicinity from where I can get on the freeway without traveling too far?
+get_info_traffic,"""Is there any hindrance to commuting within Portland presently?"""
+get_estimated_duration,"When can I anticipate arriving at my destination, considering traffic conditions?"
+get_info_traffic,Is there any congestion on the streets presently?
+get_info_road_condition,Can one reach Ellen's location without encountering any hindrances on the road?
+get_directions,Which path leads to the U2 performance with maximum speed?
+get_info_road_condition,Are there locations along route 202 where provision has been made to avoid damage from overflowing water levels?
+get_distance,In what direction can I find the city of Chicago with respect to our current position? 
+get_distance,Can you estimate the amount of space separating this place and Disney World?
+update_directions,Is there a possibility to modify the itinerary to steer clear of heavy traffic in the area?
+get_estimated_departure,What's the latest time I can set off for Irvine and still get there by 7 pm?
+update_directions,Is there a method to accelerate the pace of work?
+get_estimated_departure,By what time do I need to be at work in order to reach there by 9 am?
+get_estimated_departure,What is an appropriate commencement time for me to be en route to the football game that commences at 5?
+get_location,Identify the closest evacuation route off the main road.
+update_directions,
+get_info_route,Which establishments provide gasoline along the direction I'm headed?
+get_estimated_duration,What amount of delay should I expect during my drive?
+update_directions,"""Might there exist a more rapid way to get to the cineplex?"""
+get_estimated_arrival,"Leaving presently, can I arrive in Dallas prior to midnight?"
+get_location,Do you know of any market within walking distance from here that sells daily essentials?
+update_directions,Adjust the course to circumnavigate the congested area.
+get_info_road_condition,Could precipitation in the form of frozen water cause hazardous driving situations for me as I travel to work tomorrow at dawn?
+get_estimated_departure,At what hour must work end for me to get to Taylor's house before 10 pm?
+update_directions,"""Could you suggest a new path that is free from heavy traffic?"""
+get_estimated_duration,What's the span of travel from Orlando to Destin?
+get_info_road_condition,Are the current driving conditions favorable on the streets this morning?
+get_info_traffic,Is the usual morning traffic heavier than usual?
+get_estimated_duration,What is the distance between my location and the grocery store?
+get_estimated_departure,What would be an appropriate arrival time for the Jazz game at 8 PM?
+get_estimated_duration,How much time it takes to commute towards the grocery store?
+get_directions,Which path guarantees maximum safety to get to San Antonio Airport tomorrow morning?
+get_estimated_arrival,Will I reach Detroit by noon starting now? 
+get_directions,Can you suggest a secure pathway to reach San Antonio Airport tomorrow morning?
+get_info_road_condition,When can we expect a cold weather event along I-90?
+get_location,What's the designated parking space for people with disabilities at the Green Day show?
+get_estimated_duration,How much travel time is required to reach Trustco Bank on Madison Avenue in Albany starting from Union College?
+update_directions,What are some different pathways to bypass congestion on 35 South?
+get_distance,"What is the geographic separation of Moab, UT and Provo, UT?"
+update_directions,What's another path we could choose to arrive at the intended location?
+get_info_traffic,Is there any congestion on the usual routes towards San Diego?
+get_directions,Is there a bus service available that connects Banning with Palm Springs?
+get_info_traffic,Is there any information on the state of road conditions or car movement in Portland presently?
+get_info_road_condition,Will I encounter any setbacks while driving back home on the freeway?
+get_info_road_condition,Is there any indication of inclement weather on the 90 freeway that could potentially cause driving hazards?
+get_estimated_duration,How much time is needed to reach the beach from Maria's location?
+get_info_traffic,Is there any hindrance or impediment to a smooth flow of vehicles on I-10?
+get_estimated_arrival,"""What is the estimated duration to reach my house through this alternate path?"" "
+get_distance,"How much is the driving journey from Alabama to Georgia, by car?"
+update_directions,Find a way to circumvent the traffic.
+get_directions,Can you suggest a nearby route that's not heavily congested towards an emergency exit?
+get_directions,ould it be possible to take another way that doesn't pass by the construction zone while en route to Detroit later on?
+get_info_route,What is the location of fuel stations on my pathway? 
+get_directions,"""Which route connects McAllen to State Farm Arena?"""
+get_info_road_condition,Is the pavement leading to Cairo slippery-free today?
+get_info_road_condition,Can we expect any hindrances on our way to Shelby’s place?
+get_estimated_duration,What is the distance between San Francisco and Monterrey by car?
+get_estimated_arrival,How many hours does it take to reach Myrtle Beach starting from my home at 8:00 am?
+update_directions,Can you suggest a pathway with decreased congestion compared to 1st avenue?
+get_estimated_arrival,Can I get to the performance scheduled at 7 within the time frame of 45 minutes?
+get_info_traffic,"Can you tell me how smooth or congested it is to drive around Foley, AL at present moment? "
+get_distance,How far apart are Seattle and Reykjavik from each other?
+get_info_road_condition,Is there any news of hazards on the way to the campground today?
+get_estimated_arrival,"""What is the duration left before I reach my destination?"""
+get_info_traffic,Is it possible to travel through Truckee by using Highway 80?
+get_info_traffic,"""Is it possible that the ongoing baseball game of the Chicago Cubs might cause a disturbance to the flow of vehicles around Wrigleyville this evening?"""
+update_directions,Is there an unconventional path that has less congestion?
+get_estimated_departure,At what hour should I hit the road so that I can get to the concert with an hour to spare?
+get_location,On which route can I find an entry point to the freeway?
+get_estimated_duration,What is the duration I will spend on my commute?
+get_estimated_departure,What is the ideal time to head out for the bulls match later today?
+update_directions,What are the different pathways to journey from St. Cloud to Minneapolis?
+get_estimated_duration,How much travel time do I need to get from the shoe store to my residence?
+get_info_traffic,What is the status of vehicular movement on the stretch of road denoted by I-84?
+get_estimated_arrival,Is it feasible for me to attend my 3 pm Waco meeting if I leave at 1:30?
+get_directions,Can you provide me with instructions on how to reach Robertsdale and locate Katie's house by 1:00 PM?
+get_estimated_departure,What is the ideal arrival time for me to get to work before 9 am?
+get_info_route,Will we encounter a dedicated lane for ride sharing purposes?
+get_estimated_arrival,Can you tell me the approximate time you will be here?
+get_estimated_departure,Can you suggest a fresh arrival time since my 5 o'clock schedule in Gardena has been moved?
+get_estimated_duration,How much time does it take to commute from New York City to Philadelphia?
+get_info_traffic,Is it feasible to access Truckee by way of Highway 80?
+get_estimated_duration,"What distance separates my house and the shoe store, and how much time do I require to travel back and forth?"
+get_estimated_duration,How much time does it necessitate to arrive at the game event happening tonight?
+get_distance,Can you indicate the space that must be covered to reach the Wine and Food event from Orlando?
+get_directions,Can you suggest a way to reach downtown Atlanta without encountering any roadwork?
+get_info_road_condition,Could you provide an update on the status of the streets for my daily commute this morning?
+get_info_road_condition,Is there any disturbance in the vehicular movement along the freeway that links my house and job due to excessive moisture?
+get_estimated_duration,How much time does it require to reach the shore from Maria's?
+update_directions,Kindly adjust the route I am on to avoid congested areas.
+update_directions,Any possible detours to bypass the traffic on the southbound lane of highway 35?
+get_estimated_arrival,How long does it take for me to get to work when I use I - 90 starting from 8 am?
+get_info_traffic,How is the flow of automobiles on the 10 highway?
+get_info_traffic,Is there a lot of cars on the road at around 5 pm?
+get_location,What's the easiest way to get to Target without covering much distance?
+get_estimated_arrival,When is the anticipated moment of my arrival?
+update_directions,Is it possible to find a solution to navigate through this heavy traffic?
+update_directions,Do you know of any different pathways that could be taken to prevent getting stuck in traffic? 
+update_directions,Do you know of additional thoroughfares that are considerably less populated and have a smooth flow of traffic?
+update_directions,Is it possible for me to utilize an alternative roadway that will enable me to bypass the heavy traffic on my way back home?
+get_estimated_duration,Determine the duration required to reach downtown Louveira via Bandeirantes Highway.
+update_directions,Is it possible to find supplementary directions devoid of heavy automobile movement?
+get_info_road_condition,"""Is it advisable to take another route when going to the dog exhibition considering the current state of Main Street?"""
+update_directions,Are there any divergent paths leading to 87th Avenue?
+update_directions,"""How can I reach my residence with minimal traffic interruptions?"""
+get_info_road_condition,Is it still hard to drive today due to the recent weather turmoil within the area?
+update_directions,How can I be directed in another direction?
+get_info_route,How do I find an ATM while en route to Stephanie's office?
+get_distance,What's the road span separating Phoenix and Seattle?
+get_directions,I am searching for the path to follow to go to the Walmart situated near the city center.
+get_distance,What amount of area separates Tacoma Dome and my living place?
+get_location,What is the location of the Six Flags amusement park that is most proximate to us?
+get_estimated_duration,What is the duration to reach the zoo from here in case I set off now?
+get_estimated_duration,"If I start my journey to the zoo at this moment, what would be the duration of my trip?"
+update_directions,Discover a different way to get to your workplace.
+get_distance,How much area covers the distance from New York to Boston?
+get_estimated_departure,What is the appropriate arrival time for my nephew's game commencing at 5:00?
+get_estimated_arrival,When would I reach New York City starting from Syracuse?
+get_estimated_arrival,Would the time suffice to allow me to return home prior to 9 pm as soon as I leave work?
+get_estimated_duration,How much duration should I allocate for reaching my workplace?
+get_estimated_arrival,At what hour can I reach my destination by taking this alternative road?
+get_info_route,Will I find any pit stops to refuel on the path ahead?
+get_estimated_departure,At what time is it appropriate to show up for my 4 pm appointment in Mayfield?
+get_directions,How may I accomplish a speedy commute to arrive at International Drive of Orlando while avoiding roadblocks and delays?
+get_estimated_departure,
+update_directions,Do you know of any means to get to where I'm going quicker?
+get_location,What is the proximity of Brian's house from H1 Freeway?
+get_directions,Can we find an alternative route that will bypass the construction site on our way to Detroit tonight?
+get_distance,How much space separates Indianapolis from San Antonio?
+get_directions,"How can I navigate to Disney World without having to encounter excessive traffic or toll charges, ensuring that I get there by noon?"
+get_estimated_arrival,"If I leave at 8 o'clock, will I get to Kearney by 11 am without experiencing any delays?"
+get_info_traffic,What is the status of vehicular movement on the LI Expressway?
+get_info_road_condition,What's the present state of Champaign ave.?
+get_estimated_duration,How far apart are San Francisco and Monterrey when traveled by car?
+get_estimated_duration,How much time will it typically take to reach Vacaville starting from this location in heavy traffic?
+get_info_road_condition,When can I anticipate a winter weather occurrence along highway 90?
+get_distance,What is the span of land separating Seattle from New York?
+get_info_traffic,Can you tell me if there is a considerable amount of automobiles on the freeway marked 10?
+get_estimated_departure,What's the suitable time for me to embark on my trip to the football event beginning at 5 pm?
+get_estimated_arrival,Is there enough time for me to get to Billy's location if I start my journey by 8 in the morning?
+update_directions,Could you suggest some diverse options for avoiding congestion while driving?
+update_directions,Could there be a method to enhance my speed further?
+update_directions,In what way can we redirect the flow in another direction?
+get_info_road_condition,Could the freeway route home be affected by excess water?
+get_info_traffic,Are there any commute disruptions happening at the moment?
+get_estimated_arrival,Is there enough time for me to reach downtown by 7:30 if I leave now?
+get_estimated_arrival,Will I reach Dallas on time departing from this location immediately? 
+get_estimated_departure,What time should I arrive at the airport for a 9:00 am flight?
+get_info_road_condition,Have any incidents been reported on the road to the campground this morning?
+update_directions,How to circumvent congested roads?
+get_directions,What is the route to get to the Fargodome if I am on Hwy75 in Minnesota?
+get_directions,"""What path leads to State Farm Arena from McAllen?"""
+get_distance,"What is the span from Moab, UT to Provo, UT?"
+get_estimated_departure,
+get_estimated_arrival,At what hour would I arrive?
+get_estimated_duration,How much does it take for a plane to reach Louisville from Orlando?
+get_estimated_arrival,"Within a quarter of an hour, can I reach the HNL airport before 5 pm by driving on Nimitz?"
+get_distance,What is the length of the path from this location to Disney World?
+get_estimated_duration,How much time will it take to travel from this place to the grocery store and then return back?
+update_directions,Are there any more unbridled pathways free of vehicular congestion?
+get_location,Is it feasible for me to find a grocery shop in my vicinity?
+get_info_road_condition,Is it possible to travel on the street near the football arena without encountering any standing water?
+update_directions,Inform me of a diverse itinerary with limited crowd.
+get_directions,"Is there a way to get to Ikoyi from Harvestrue, building A by 2:44 pm today?"
+get_distance,"""What is the separation between Portland and Seattle?"""
+get_info_road_condition,Has the condition of Interstate 57 improved for commuters?
+get_estimated_arrival,What's the time left for my appearance?
+get_estimated_duration,What is the duration required for reaching Louveira downtown through Bandeirantes Highway?
+get_directions,What's the route that leads to the mall?
+get_info_road_condition,Has the path next to the football coliseum been rendered safe for vehicles and pedestrians to navigate?
+get_info_traffic,Any incidents occurred on the westbound stretch of I-26 between this location and Chapin?
+update_directions,Is there a route that leads elsewhere? 
+get_distance,How far apart are Louisville and Lexington in terms of geographic proximity?
+get_directions,What are some alternate roads that I could use to evade the rush hour traffic?
+get_estimated_arrival,"Given an 8 AM start, when is the appropriate departure time for me to catch I - 90 and arrive at work as scheduled?"
+get_info_road_condition,What is the driving situation like on 243?
+get_info_road_condition,Does a part of highway 202 have precautionary measures in place against unforeseen inundation?
+get_info_road_condition,Are the streets clear and safe for me to travel to work this morning?
+get_directions,Is there a way to arrive at Fargodome via a path that runs through Minnesota's Highway 75?
+get_estimated_departure,At what hour must I arrive at work by 9 am?
+get_estimated_arrival,What is the quickest route to arrive in New York City before 9 pm tonight departing from my place?
+update_directions,Kindly modify my present path due to the road situation.
+get_info_road_condition,Are all the pathways leading to the ball diamonds in Watseka clear now?
+get_estimated_departure,
+get_directions,Which are the ideal paths to take to bypass heavy congestion when driving? 
+get_directions,How can one reach Gainesville from Ocala in the least amount of time?
+get_directions,What is the route to reach the Fargodome starting from Hwy75 in Minnesota?
+get_info_road_condition,Has anyone reported any perilous circumstances along the path leading to the campground?
+get_directions,Generate a transportation plan that excludes the use of bridges.
+get_info_traffic,How is the movement of vehicles around 5 pm?
+get_directions,Which path can we take tomorrow morning to arrive at San Antonio Airport safely?
+get_estimated_departure,At what hour should I be aiming to arrive in Irvine to make it before 7 pm?
+update_directions,Can you suggest different pathways to bypass the congested traffic on 35 South?
+get_estimated_departure,When shall I make it to my nephew's game scheduled for 5:00?
+get_estimated_arrival,"Assuming I start my journey at 8:00 am, what time can I anticipate arriving in Myrtle Beach, South Carolina?"
+get_estimated_departure,"What is the optimal time frame that would facilitate me being home before sunset, without having to alter my participation in the festival?"
+get_estimated_duration,What's the duration of a journey between San Francisco and Monterrey via road?
+get_info_road_condition,Is there a possibility of the streets becoming inundated tonight?
+get_estimated_arrival,Can I reach Broadway in time for the 6 pm Hamilton show through freeway travel?
+get_estimated_arrival,"By leaving at 4, when ought I plan to reach home that day?"
+get_info_traffic,Can I take Highway 80 to get to Truckee without any obstructions?
+get_directions,"To get to Long Beach, which bus should I take?"
+get_info_traffic,What are the routes that experience the lowest volume of cars?
+get_estimated_departure,What is the latest time that I can depart and still expect to arrive at Irvine by 7 pm?
+get_estimated_arrival,Is it feasible for me to arrive in Detroit earlier than 12 pm leaving now?
+update_directions,Discover a different pathway to get to your workplace.
+get_distance,What is the separation of Phx and NY?
+get_distance,What is the total separation in travel units from Atlanta to Nashville?
+get_directions,Which path is the most efficient to reach West Chester University in the evening of a Sunday?
+get_info_road_condition,Are drivers currently experiencing any obstructions on Interstate 57?
+get_distance,What is the span between Hollywood and Houston?
+update_directions,How can I traverse from St. Cloud to Minneapolis using varying routes?
+update_directions,Is there a way that I could get around any potential traffic jams by taking a unique route?
+get_info_traffic,How's the congestion on the roads today?
+get_estimated_duration,What is the distance required to travel to the grocery store?
+get_estimated_arrival,Can I be present at my Waco meeting by departing at 1:30 pm?
+update_directions,Could you suggest a distinct pathway that has fewer cars on it?
+get_estimated_arrival,What's the expected time of arrival when departing my home in Syracuse en route to New York City?
+update_directions,Is it possible to get back home quicker?
+get_info_road_condition,Is the path to Mariposa clear for a safe drive this weekend?
+get_info_traffic,Can you provide an update on the current situation of cars traveling through the LI Expressway?
+get_distance,The extent of the path taken by a vehicle when going from Alabama to Georgia?
+get_estimated_departure,"What time is ideal for me to reach the concert, if I desire to be there an hour before it begins?"
+get_info_route,Is it possible to locate a gasoline station between my current location and where I reside?
+get_distance,How much space is there between Seattle and Chicago?
+update_directions,Is there a method to dodge the rush hour traffic?
+get_info_road_condition,Is there any region on Road 202 that receives protection against inundation? 
+get_info_route,Where can I locate an ATM on the way to Stephanie's workplace? 
+get_estimated_duration,What's the duration of commute to downtown at rush hour?
+get_directions,"What is the most convenient route to downtown Atlanta, avoiding any roadblocks?"
+get_info_traffic,Can you describe the commotion of cars around downtown Phoenix?
+update_directions,Can one reach home in less time than usual?
+get_estimated_duration,What is the duration of my journey from the shoe store to my home?
+get_info_road_condition,Can one effortlessly access all the ball diamonds situated around Watseka without facing any issues related to road conditions?
+get_distance,How much ground do you need to cover to get from Hollywood to Houston?
+get_info_traffic,What are the roads that cannot be used at present?
+get_info_road_condition,Is vehicular transportation hampered by the aftereffects of yesterday's weather disturbance on the paved surfaces?
+get_directions,Can you tell me which bus heads towards Long Beach?
+get_distance,What is the span of land separating Florida and California?
+get_estimated_arrival,
+get_info_road_condition,Is there any region on the road 202 that has protection from an untimely deluge?
+get_info_route,Are any charges applicable when travelling on turnpike?
+get_info_road_condition,Is it possible that there is any excess liquid on the road connecting my residence and workplace?
+get_info_traffic,Will the traffic flow be impacted by the Cubs' match at Wrigley Field this evening?
+get_directions,How can I navigate my way to Nashville Tn. via driving?
+get_directions,Are there any means of transportation by bus from Banning to Palm Springs?
+get_directions,Is there a viable and reliable route to reach the San Antonio Airport without encountering any hazards tomorrrow?
+update_directions,Any possibility of getting past the heavy traffic jam where I am currently located?
+get_location,I'm in search of a movie theatre within walking distance. Any recommendations?
+get_distance,What is the length of the journey from San Diego to San Francisco?
+get_info_traffic,What can be said about the flow of cars in Portland right now?
+update_directions,"I am looking for a path with minimal vehicular pressure while travelling back home, can you assist me with it?"
+get_estimated_departure,By what time must I plan my journey's conclusion to reach Irvine on or before 7 pm?
+get_estimated_duration,How much distance can be covered while driving from Brooklyn Bridge to New Jersey?
+get_estimated_arrival,When can I expect to see myself at home?
+get_estimated_arrival,At what time should I anticipate for you to reach my home?
+get_estimated_arrival,By what time should I leave to get to Miami around morning hours? 
+get_info_traffic,Is there heavy movement in transportation regarding the Essence Music Festival in Los Angeles?
+get_estimated_arrival,When can I expect to get to New York City from Syracuse if I start my journey from home?
+get_info_road_condition,Are the roads safe to commute today?
+get_estimated_arrival,What time can I expect to reach Miami departing at 8 am?
+get_directions,Can you provide me with instructions on how to get to the Atlanta aquarium by car?
+get_directions,What route will take me to work with the utmost speed?
+get_estimated_departure,Is it possible for me to be back home before the sun sets without staying at the festival too long?
+get_estimated_arrival,By what time should we depart to arrive in Arkansas at a reasonable hour?
+get_estimated_departure,What is the appropriate time to depart from home if I desire to be at the concert hall an hour before showtime scheduled for 7 pm?
+get_estimated_departure,What time is ideal for me to make it to work?
+get_info_road_condition,Are there any waterlogged areas on the highway leading to my workplace from home?
+get_estimated_duration,How far apart are Detroit and Atlanta if I were to drive?
+get_estimated_departure,By what time do I need to get off work to make it to Presidente Epitacio by 3 in the morning?
+update_directions,Discover different pathways to reach your place of residency.
+update_directions,Can you supply an alternate way to reach the destination?
+get_estimated_arrival,"What is the expected time of reaching Myrtle Beach, South Carolina, when I depart from home at 8:00 am?"
+get_estimated_duration,What's the estimated waiting period for me before I reach my destination due to heavy traffic?
+get_info_road_condition,I'm curious about the quality of the roads on my route to work today. Any insights?
+get_estimated_duration,Can you tell me the amount of time needed to get from Miami to Key West by car?
+get_info_road_condition,Have there been any reports of hazardous road conditions this evening?
+get_info_traffic,"""Identify the roads that are presently impassable."""
+get_estimated_arrival,"Suppose mom starts her journey now, what would be the estimated duration for her to arrive at our home in contrast to the distance of Blytheville? "
+get_location,Can you recommend any water parks existing within the boundaries of Minneapolis?
+get_estimated_departure,At what time must I arrive at the Zoo for it to be open on Saturday?
+get_info_road_condition,Is there a possibility of liquid accumulation on the road I take back home?
+get_info_traffic,What is the current situation of transportation along the 202?
+get_estimated_arrival,"In case mom commences her travel immediately, what's the probable time frame for her to make it to our place starting from Blytheville?"
+get_estimated_departure,What is the latest arrival time for me to attend the Dodger game scheduled for 5pm?
+get_distance,What is the travel time between my residence and workplace?
+get_directions,What path would you recommend taking to reach St Louis while minimizing the disturbance caused by Poplar Street bridge maintenance?
+get_estimated_departure,At what time should I aim to reach Presidente Epitacio from work before 3 am?
+get_directions,Is there a path I can follow to get to the mall?
+get_location,What is the location for accessing the expressway?
+update_directions,Is there an alternative direction that I could follow?
+get_distance,What is the separation between Miami and Orlando?
+get_info_route,Is there a special lane for carpoolers coming up on the street? 
+get_estimated_duration,What is the expected arrival of my friend leaving La Jolla at 6?
+get_info_traffic,Are there any unexpected events happening along 85?
+get_location,Is there a specific area allotted for handicap-accessible parking at the Green Day gig?
+get_estimated_departure,At what time must I arrive at the closest cinema for an 8:00 pm showing?
+get_info_road_condition,What is causing the road to be dangerous right now?
+get_distance,How many states does one need to pass through while traveling from Florida to California?
+update_directions,Can you discover a distinct path to take?
+get_info_traffic,How is the flow of vehicles around 5 pm? 
+get_estimated_duration,What is the travel duration to reach Shreveport from my current location if I depart promptly?
+update_directions,Can you suggest various routes that lead to 87th Avenue?
+update_directions,Is it possible to reach the cinema more expeditiously?
+get_distance,"What is the travel time between Moab, UT and Provo, UT?"
+get_estimated_duration,Can you tell me how much time it takes to reach Indianapolis from Chicago?
+get_info_traffic,"""How is the flow of vehicles during the busy time slot today?"""
+get_info_route,Do drivers have to pay to drive through roads connecting Pennsylvania and Kentucky?
+update_directions,Is there a way to reach my destination in lesser time?
+get_directions,I wonder what would be the swiftest way to arrive at my residence?
+get_info_road_condition,What is the current state of roads while going downhill on 243?
+get_distance,What's the extent of ground that needs to be covered to travel from New York to Boston?
+get_estimated_departure,What is the appropriate time to get there for the Jazz game scheduled at 8 PM?
+get_info_traffic,"What is the status of vehicle movements around Foley, AL?"
+update_directions,Take a different path to bypass congested roads and reach the intended location.
+update_directions,Is there a more expeditious method to complete tasks? 
+get_location,What are some of the aquatic recreational facilities available in Minneapolis?
+get_info_traffic,What is the status of vehicular movement on the roads of San Diego?
+get_info_route,Identify an ATM situated along the direction leading to Stephanie's workplace.
+update_directions,Can we take a different passage to reach our destination?
+get_directions,What is the most secure way to access the San Antonio Airport in the early hours of tomorrow?
+get_distance,What is the quantum of gap connecting New York to Seattle?
+get_info_road_condition,Can you advise if there is a place along Route 202 with flood coverage? 
+get_distance,How remote does it take to traverse from my abode towards Tacoma Dome?
+get_estimated_duration,What is the estimated duration it takes from New York City to Philadelphia?
+update_directions,Is it possible to take an indirect path to evade heavy traffic today?
+get_estimated_departure,What is the latest hour for me to depart so that I can reach my workplace by 7AM?
+get_estimated_duration,"When should I expect to see my friend here, given that she leaves La Jolla at 6?"
+get_estimated_departure,What is the appropriate time to get to the Atlanta airport for a 6:30 am flight departure?
+get_info_traffic,What is the current status of roads leading to San Diego?
+get_estimated_departure,When is it advisable to depart in order to attend the Jazz match scheduled for 8 PM?
+get_distance,What is the distance to El Paso?
+get_distance,What is the road itinerary from Alabama to Georgia by car?
+get_info_traffic,Is there a congestion of vehicles in Portland right now?
+get_directions,What route would ensure my timely arrival at the U2 concert?
+get_info_traffic,Which are some of the most deserted roads?
+get_info_road_condition,Do you know whether or not the Black Bear did anything about the downpour from last night?
+get_distance,How wide is the gap that separates Louisville and Lexington?
+get_info_route,"""Which fuel stations lie in the path I need to travel from my current site to the endpoint?"""
+get_info_traffic,Is it easy or difficult to navigate through the streets at 5 pm?
+get_directions,Is there any other approach that I can utilize to reach Cherokee Casino from my abode without having to use HWY 321?
+get_info_route,Can you tell me if there's an area where I can refuel whilst travelling to my place?
+get_distance,How much time does it take to travel from Phoenix to Seattle?
+get_distance,How much commuting should I do to reach Tacoma Dome from my residence?
+get_estimated_duration,"If I leave right away, how much time will it require me to get to Shreveport?"
+get_distance,What lies in the space separating Florida and California?
+get_distance,Can you provide the approximate position of Chicago in relation to here?
+get_estimated_arrival,"""What is the predicted time of my arrival at my place of residence?"""
+get_location,Is it viable for me to board public transportation in proximity to my new workplace? 
+get_directions,Which way should I head towards the exit with a low volume of traffic?
+get_estimated_duration,"If I leave for Shreveport immediately, by when can I expect to arrive?"
+get_estimated_departure,What's the ideal time for me to hit the road so that I can get to Cairo festival before 9 PM?
+get_distance,What is the spread of geographical expanse from Phx to NY?
+get_estimated_arrival,"""What's the remaining time for me to arrive at my intended location?"""
+update_directions,Can we take a different path to dodge the traffic today?
+get_estimated_arrival,When can I expect to be back home utilizing this unexplored route?
+get_distance,How far apart are Florida and California if you were to drive across the United States?
+get_estimated_departure,What's the ideal hour of departure from work to reach Presidente Epitacio before 3 am?
+get_directions,What's the route to reach the jewelry store starting from the highway?
+get_info_traffic,What's the current situation on I-10 regarding vehicle movement?
+get_estimated_duration,"What is the approximate length of the journey to Vacaville during peak traffic hours, traveling from this present spot?"
+get_estimated_duration,What is the total amount of time needed to get to Louveira's city center using the Bandeirantes Highway?
+get_info_road_condition,Is there any dampness or overabundance of water on the route back to home?
+get_distance,How many hours does it take to travel by car from Houston to Vancouver?
+get_estimated_duration,How much time does it take to reach the grocery store from where I stay?
+get_estimated_departure,What is the ideal departure time for me to reach Portland's OMSI at 2:30 pm?
+get_info_traffic,Has there been any noteworthy event that transpired at the I-55 roadway?
+update_directions,Try to take a different route to dodge traffic congestion.
+get_distance,What is the span from New York City to Los Angeles?
+get_distance,What is the road length connecting New York and Boston?
+get_info_traffic,Can you display the congestion on roads nearby for cars?
+get_directions,
+get_info_road_condition,Does any part of the path numbered 202 have provisions for potential flooding?
+update_directions,Is there a feasible approach to circumvent the heavy traffic here?
+get_estimated_departure,Can the sunset arrival be aligned with my departure plans from the festival?
+get_estimated_departure,At what time is it necessary for me to arrive at the arena for tonight's bulls game?
+update_directions,Can there be a detour for escaping the congested area today?
+get_info_route,Can you pinpoint me to places that offer gasoline en route? 
+get_distance,What is the road span from Orlando to Sanford?
+get_estimated_departure,Is it possible to make it back home before sunset if I stay at the festival for a particular amount of time?
+update_directions,Can you suggest a different path?
+get_location,Can you suggest a nearby store where I can get groceries?
+get_estimated_departure,What time do I need to plan my arrival in order to make a flight departing at 9:00 am?
+update_directions,Can I take a more expeditious direction to reach Phoenix Avenue? 
+get_estimated_arrival,When will I arrive in Miami assuming I leave here at 8 AM?
+get_estimated_arrival,Is it feasible for me to reach Marcus Cinema by 8:15 pm today?
+get_directions,What is the route that leads to Katie's house in Robertsdale if I am departing at 1:00 PM?
+get_info_road_condition,Is there any water storage on the route connecting here and Georgetown?
+get_distance,What is the extent of the road that connects Indianapolis and San Antonio?
+get_directions,How can I reach from McAllen to State Farm Arena?
+get_info_traffic,Are there any impediments or obstacles currently affecting the flow of traffic on road 85?
+get_directions,Can you provide instructions on accessing the Concert Hall in Chicago with the help of I-494?
+get_directions,How do I get to the Concert Hall located in Chicago via I - 494?
+get_estimated_duration,How much time does it take to commute approximately from NYC to Philadelphia?
+get_directions,"On a Sunday night, what is the recommended path to reach West Chester University as fast as possible?"
+get_estimated_arrival,Is it feasible for me to make it to Broadway theater for the 6 pm show of Hamilton via the highway?
+get_info_traffic,Is the movement of cars along the path from Spruce to Pine Streets unobstructed?
+update_directions,What measures should one take to circumvent traffic jams?
+get_directions,"""How can I get to State Farm Arena starting in McAllen?"""
+update_directions,Could we opt for a distinct route to evade the heavy traffic today?
+get_info_road_condition,Has anything been done to eliminate the blockage on Champaign ave.?
+get_estimated_departure,By what time should I arrive at Bandelier Monument on a Saturday morning?
+get_estimated_departure,How early do I need to depart from my residence to make the bulls game tonight?
+get_estimated_departure,At what time do I have to end my job for me to get to Taylor's home by 10 pm?
+get_estimated_duration,What is the expected duration of travel to arrive at my 2 pm meeting if I depart at 1 pm?
+get_distance,hat's the space separating Seattle and New York?
+get_estimated_departure,Which hour should I set out from my abode to arrive at the cinema for the 8 pm show?
+get_info_road_condition,Is it difficult to drive on the street today because of cold weather?
+get_distance,What's the time taken for a journey from Phoenix to Seattle?
+get_info_traffic,What's the current state of congestion in Los Angeles during the Essence Music Festival?
+update_directions,Could you locate an unconventional way to travel?
+get_distance,How distant are Atlanta and Nashville?
+update_directions,Seek an alternative travel route for commuting to work.
+get_directions,Which path would lead me to Walmart in minimum time from where I currently am?
+get_info_traffic,Have there been any incidents on Interstate 55?
+get_info_road_condition,Is it possible for climate variations to alter my transportation experience?
+get_info_road_condition,Are there any possibilities of facing driving challenges en route to Mariposa in the upcoming weekend?
+get_info_traffic,How congested is I-84 during peak hours of the day?
+get_info_traffic,Can vehicles travel along Hwy 80 through Truckee?
+get_estimated_departure,What time do I need to arrive at work?
+get_estimated_departure,At what time should I aim to arrive at work by 9 am?
+get_estimated_departure,When should I set off from this location to make it on time for the nearest cinema showtime at 8:00 pm?
+get_distance,Can you tell me the gap or span of land that touches Chicago and Peoria?
+get_info_traffic,Is the passage across Hwy 80 in Truckee currently accessible to drivers?
+get_location,What's the interstate's location near here?
+get_estimated_departure,By what time should I be present at the medical center if it's already 5 pm?
+get_distance,What is the length of the journey from my residence to workplace?
+get_info_traffic,Are there any hurdles on the route that connects Wilshire to 3rd Street in Los Angeles?
+get_info_route,Are tollbooths present at the turnpike?
+get_estimated_duration,What's the duration required to reach the game tonight?
+get_distance,What is the space separating Miami and Orlando?
+get_estimated_duration,What is the traveling period between Union College and Trustco Bank on Madison Avenue in Albany by car?
+get_distance,How many hours does it take to travel from New York to Los Angeles?
+update_directions,Can you suggest a way to get home that has lower congestion?
+get_estimated_departure,What is the best time for me to arrive at this place to make it to Atul’s birthday soiree on Thursday afternoon?
+get_estimated_arrival,"If we depart right now, at what moment should we anticipate reaching Arkansas?"
+get_info_traffic,What is the current road situation like in San Diego?
+get_info_traffic,How is the movement of cars on the road that leads from Wilshire St towards 3rd Ave in Los Angeles?
+get_directions,What path should I follow to reach the Walmart that is close to the city center?
+get_directions,Could you show me the way towards the mall?
+get_estimated_departure,By what time do I need to make it to the Jazz game scheduled at 8 PM?
+get_estimated_duration,Can you tell me the amount of travel needed to make it to the game later on?
+get_location,What is the most nearby Target location? 
+get_directions,Can you suggest the shortest way to reach my dwelling in no time?
+get_info_road_condition,Can you confirm if there is excessive dampness along the expressway connecting my residence and office?
+update_directions,Could you propose an alternative route?
+get_estimated_duration,What is the route to Walmart taking Jabaquara Street?
+get_estimated_departure,What's the ideal time to set out from home for me to be at Grand Blvd Movies by 7 pm?
+get_location,What recreational venues can be found in Minneapolis that specialize in water-related entertainment?
+get_estimated_departure,What time is adequate to reach the Thunder game at 6 p.m.?
+update_directions,What is a more expeditious approach to get work done?
+get_estimated_duration,What's the distance I need to cover while driving from Union College to Trustco Bank on Madison Avenue in Albany?
+get_estimated_arrival,Can I make it to Marcus Theater before 8:15 tonight?
+update_directions,Unearth a unique course to commute to your office.
+get_info_traffic,What is the status of vehicular movement in Portland presently?
+get_estimated_duration,How much time does it take to commute between Tacoma and Seattle?
+update_directions,Can I navigate through a different route than the one I’m currently on to bypass this heavy traffic? 
+get_estimated_duration,Is Beatrice close enough for me to drive to from here?
+get_estimated_arrival,At what hour will Miami be within my reach if I depart at 8 in the morning?
+get_estimated_arrival,What's the expected time of my arrival?
+update_directions,Is there a speedier strategy to manage the job at hand?
+get_directions,Can you guide me on how I can reach the jewelry store from the highway?
+get_info_road_condition,Are there chances of precipitation if I plan to visit my grandma anytime soon?
+get_info_traffic,Is there any hindrance to travel on Highway 50 due to infrastructure development?
+get_info_road_condition,Could there be any instances of obstruction caused by excessive moisture in the street that connects my home to my workplace?
+get_estimated_arrival,Is it feasible to reach downtown by half past seven if I depart now?
+get_info_road_condition,Have there been any mentions of hazardous conditions on the route to the campsite?
+get_info_road_condition,Is Champaign ave. now free from any hindrance?
+get_estimated_arrival,Could I make it to New York City before 9 pm tonight starting from my residence?
+get_directions,Discover a way to get to Tampa without having to pay for toll fees.
+get_estimated_duration,Can you tell me how much time it would take to travel from Chicago to Indianapolis?
+get_estimated_arrival,What is the expected time of your arrival at my place?
+get_location,Could you indicate the film house that's at the shortest distance from here?
+get_info_traffic,What is the current situation regarding vehicular movement on the 202? 
+get_distance,What is the spatial separation between me and the Wine and Food Festival found in Orlando?
+get_info_road_condition,How smooth is the ride for my journey to office today?
+get_estimated_arrival,When do I anticipate reaching my intended location?
+get_directions,How can I get to St Louis with the least amount of disruption from the ongoing renovation on Poplar Street bridge?
+get_estimated_duration,What is the normal amount of airplane journey between Orlando and Louisville?
+get_info_traffic,Are the roads congested at this moment?
+get_directions,Can you suggest a rapid course of travel to get to my work location?
+get_estimated_arrival,At what time should I reach home given a departure of 4 PM from my workplace?
+update_directions,Are there quicker directions to get to the movie theater?
+get_info_traffic,s the tenth highway experiencing a congested situation?
+get_info_traffic,"""Is the current volume of cars higher than usual?"""
+get_directions,"Could you assist me with the itinerary to arrive at Ikoyi by 2:44pm today from the Harvestrue facility, building A?"
+get_directions,Is there a means of commuting by bus from Banning all the way to Palm Springs?
+get_distance,How much ground does one need to cover to travel from New York to Los Angeles?
+get_info_road_condition,Is the path leading to Georgetown experiencing any inundation at present?
+get_location,Is it possible to find a supermarket near my location?
+get_estimated_arrival,What is my chance of reaching Kearney at 11 am after departing at 8 am?
+get_estimated_duration,What's the estimate for my friend's arrival from La Jolla if she departs at 6?
+get_distance,Can you provide directions for driving from Houston to Vancouver?
+get_directions,What is the recommended route to arrive at Disney World by noon without incurring any toll or traffic issues?
+get_directions,Could you suggest a way to reach Tampa that doesn't involve paying tolls?
+get_directions,"What's the route to follow to arrive at Ikoyi by 2:44 pm today from Harvestrue, Building A?"
+get_estimated_departure,What is the latest time possible for me to leave my house and make it to work before 9 am?
+get_estimated_arrival,How long does it usually take me to reach my office if I opt for I-90 and initiate the journey at 8 AM?
+get_estimated_duration,How can I reach Walmart via Jabaquara Street?
+update_directions,Modify the direction to steer clear of traffic snarls.
+get_info_route,Are toll charges applicable on the journey towards Kentucky from Pennsylvania?
+get_estimated_departure,By what hour ought I board a train so as to arrive at New Jersey at 5?
+get_info_traffic,Do vehicles in Spruce and Pine Streets move without difficulty?
+get_distance,What is the span that separates my domicile and office?
+get_info_route,Does the turnpike impose charges?
+get_distance,How much ground should one cover to reach Disney World from here?
+get_estimated_arrival,When's my expected arrival time at work by following I-90 route starting from 8 o'clock?
+get_location,How do I reach the main route that connects this area to other nearby regions?
+get_estimated_arrival,"By departing at this moment, will I achieve the objective of arriving at Tiffany's prior to 3 pm?"
+get_distance,How many hours does it take to go from San Diego to San Francisco by land?
+get_estimated_departure,At what time would I arrive at work if I intend to be there by 7 in the morning?
+get_info_route,Through what locations do I need to fill up on gasoline as I travel from my current whereabouts to my desired end location?
+get_directions,What is the best path towards downtown Atlanta that does not pass through any ongoing construction?
+get_estimated_duration,For how much time will I be immobilized amidst the automotive flow? 
+update_directions,I request you to revise my current direction in light of the traffic congestion.
+get_info_road_condition,Could it be possible for there to be any winter-like symptoms while driving through the streets that head to my granny's home?
+get_info_traffic,How congested is the flow of vehicles on the LI Expressway?
+get_estimated_departure,At what hour must I head out to manage my arrival for the Thunder game right on time?
+get_location,What is the exit point for an obscure roadway nearby?
+get_info_traffic,Does the stretch of I-26 West from here to Chapin have any pertinent incidents impacting commute times?
+get_info_route,Can you share the names of gas marts that fall within the trajectory connecting my present location and end point?
+get_directions,What's the fastest possible route to get to International Drive in Orlando devoid of any construction work or delays?
+get_location,What is the exit for an alternative route nearby?
+get_directions,Which route will take me the briefest amount of time to reach my workplace?
+get_estimated_departure,At what hour should I plan my commute for in order to get to work by 7AM?
+update_directions,Can you modify my current pathway to bypass heavy traffic?
+get_estimated_duration,"Assuming I depart for the zoo immediately, how much time do I need to allocate for travel?"
+get_distance,How long does it take to drive from Alabama to Georgia?
+get_info_traffic,What is the situation with cars during the late afternoon rush hour?
+get_info_traffic,"Can one traverse through Highway 80, situated in Truckee?"
+get_distance,What is the separation between Miami and Orlando?
+get_estimated_duration,How much time is required for road travel between Miami and Key West?
+get_location,Can I find a location to catch a bus nearby my recently acquired workspace?
+get_info_route,Is it possible to travel from Pennsylvania to Kentucky with a fee for the use of roads?
+get_location,Would there be a place I can reach stopover transport at an approachable distance from the office that I have just gotten placed in?
+update_directions,"""What is the best course of action to bypass traffic when returning home?"""
+get_info_traffic,"Can you provide information about the present mobility conditions in Foley, AL?"
+get_directions,How can I find a clear way to get to downtown Atlanta without encountering any road works?
+update_directions,Is it possible to find a different path in order to bypass traffic at present?
+get_directions,How can I travel by bus from Banning to Palm Springs?
+get_info_road_condition,Is the pavement in front of my dwelling frozen?
+get_directions,How can I get from Saint George to Las Vegas using the most commonly used path by others?
+get_estimated_duration,Can you give me an approximation of the commuting time required to reach Atlanta given the constructional activities underway on I-95?
+get_directions,
+get_estimated_arrival,Can I leave at 8 am and reach Kearney before the clock strikes 11?
+get_info_road_condition,Can I detect any unliquidated H2O covering my street?
+get_distance,"What is the span between Moab, UT and Provo, UT?"
+update_directions,Are there any faster paths available?
+get_info_traffic,"""Which pathways are inaccessible due to some hindrance?"""
+get_info_traffic,What are the driving conditions like on the LI Expressway?
+get_estimated_duration,"I'm in Miami now, what's the expected travel time to reach Key West by car?"
+get_estimated_duration,What's the estimated period required for commuting to the sports event tonight?
+get_directions,How can I arrive at West Chester University with speed on a Sunday night?
+get_info_traffic,Have there been any notable events that occurred in Boston today that we should be aware of?
+get_location,Which cinema would be the most easily accessible?
+get_estimated_departure,Can I make it back home by sundown without departing from the festival beforehand?
+get_distance,What is the approximate separation of this place and Chicago?
+get_location,Do you happen to know which cinema is located nearby?
+get_distance,What's the total ground covered between my dwelling place and work location?
+get_directions,"Could you guide me on how to get to Katie's house located in Robertsdale, with an intention to leave at 1:00 PM?"
+get_distance,What is the separation between New York and Boston?
+get_distance,What is the total road span from New York to Los Angeles?
+get_estimated_arrival,When can I reach New York City upon departing from Syracuse?
+get_estimated_arrival,Can I reach my air travel for 9 am tomorrow while driving out at 8:15 considering the building work being done on i-90?
+get_info_traffic,Have there been any incidents affecting the flow of traffic on i-55?
+get_estimated_departure,When do I need to depart for the football match that kicks off at 5?
+get_estimated_departure,What time must I be present at my doctor's appointment on Monday if I am working? 
+get_directions,"I want to get to the mall, what's the method?"
+get_estimated_departure,By what time do I need to depart to get to the Dodger game before 5 pm?
+get_estimated_duration,How much time should I allocate for commuting to work?
+get_distance,What is the spatial separation between Phx and NY?
+get_location,In what direction can I find a secondary path off of this highway?
+update_directions,Do you know of a more expedient method to complete the task?
+get_estimated_duration,How much duration does it take to travel from Tacoma to Seattle right now?
+get_info_traffic,Commuting today appears to be taking more time than usual.
+get_estimated_arrival,At what hour must I hit the road to reach Miami before noon?
+get_estimated_duration,What amount of travel distance should one cover when moving by car from the Brooklyn Bridge to New Jersey?
+get_info_road_condition,Can I expect weather conditions conducive to snowfall on my drive to the office at 5 in the morning?
+update_directions,Can you suggest new directions to escape the heavy traffic on 35 South?
+get_info_road_condition,Would traveling around the vicinity of my home require extra attention and precautious measures considering the situation outside?
+update_directions,Can we take a different path to arrive at the cinema?
+get_estimated_arrival,"""Can I reach my Waco meeting on schedule if I depart at 1:30 pm?"""
+get_info_road_condition,Did the Black Bear cleanse itself amidst the heavy downpour yesterday evening?
+get_distance,What is the separation between Peoria Illinois and Chicago?
+get_estimated_duration,What's the estimated travel duration from here to Vacaville given the traffic conditions?
+get_directions,What's the speediest way to get to work?
+get_estimated_arrival,How long will it take me to travel to Billy's if I start my journey at 8 in the morning?
+get_info_road_condition,Has there been any news regarding the road conditions towards the camping ground this morning?
+get_info_road_condition,What is the expected timing for a frosty phenomenon to occur near or around road 90?
+get_info_traffic,Is it easy to commute in the heart of Phoenix during peak hours?
+get_estimated_duration,
+get_directions,Can you tell me which bus route goes to Long Beach?
+update_directions,What are some different ways to reach 87th Avenue?
+get_distance,What is the travel time to El Paso?
+get_distance,What is the measure of the breadth that lies amid New York and Los Angeles?
+update_directions,Can you suggest roadways with less traffic flow?
+get_directions,Can you suggest the fastest way to reach Walmart from where I am currently situated?
+get_estimated_arrival,What duration of time remains before my arrival takes place?
+get_distance,What is the travel route to reach Disney World?
+get_directions,Determine a path that excludes all bridge occurrences.
+get_estimated_arrival,Can you tell me the expected time of your arrival to my place?
+get_location,What is the location of Iolani Palace?
+get_estimated_departure,"How early would I have to set off to arrive at OMSI in Portland as scheduled, without any rush?"
+get_distance,What's the gap in distance from New York to Los Angeles?
+get_info_road_condition,Has the road adjacent to the soccer field been cleared of any water accumulation?
+get_distance,How much space lies between Miami and Orlando?
+get_estimated_arrival,Can I reach the 7pm concert venue within 45 minutes from now?
+update_directions,Is there a second path that I could take?
+get_estimated_duration,Can you provide an estimate of the trip duration from San Francisco to Monterrey if traveled by car?
+get_info_traffic,Are cars moving smoothly along route 202 at the moment?
+update_directions,Can you recommend diverse paths to steer clear of the traffic jam?
+get_estimated_arrival,"Leaving now, can I be successful in reaching Tiffany's by 3 pm?"
+get_info_traffic,What is the state of transportation in the central region of Phoenix?
+get_estimated_arrival,What is the estimated travel time to get to Arkansas from our starting point?
+get_estimated_departure,What time do I need to set out to arrive for my meeting at 4 pm in Mayfield?
+get_estimated_arrival,Can I manage to make it to Dallas before midnight by leaving now at this moment?
+get_estimated_departure,What's the departure time needed to ensure that I reach the concert venue an hour before it begins?
+get_estimated_departure,Is there a possibility for rescheduling my appointment in Gardena to 6 pm?
+get_estimated_departure,By what time should I get to the Thunder game if it starts at 6 p.m.? 
+get_distance,Can you tell me the length of the journey to El Paso?
+get_directions,Can you suggest an alternative passage that will take me to Cherokee Casino without involving the usage of HWY 321 from my domicile?
+get_directions,What is the route to take via I-494 if I want to reach the Concert Hall in Chicago?
+get_estimated_arrival,What is the expected time of arrival in Arkansas considering prompt exit?
+update_directions,Can you suggest a different path to take? 
+get_estimated_duration,How many minutes will be consumed in reaching the downtown area when traffic is at its peak?
+get_distance,"How distant are Atlanta and Nashville, measurement disregarded?"
+get_info_traffic,"""Has the congestion on route 217 eased up today?"""
+get_info_road_condition,Will the weather impede my planned route towards Mariposa over the weekend?
+get_info_road_condition,Has the route adjacent to the soccer arena been impacted by the damp weather lately?
+get_estimated_arrival,"""Is it feasible for me to attend my meeting in Waco by departing at 1:30 pm?"""
+get_distance,What is the magnitude of spatial gap connecting Atlanta and Nashville?
+get_estimated_arrival,At what hour will I reach there?
+get_estimated_departure,By what time must I reach the airport for my 9:00 am flight?
+get_estimated_departure,At what time should I set out to be on schedule for the Jazz game at 8 PM?
+get_estimated_duration,What is the travel duration to Key West from Miami?
+get_estimated_duration,What's the duration to travel from Brooklyn Bridge to New Jersey by car?
+get_estimated_departure,What is the appropriate departure time for me to reach New Jersey by 5?
+get_info_traffic,"Is there any hindrance to the free flow of automobiles in the area of Foley, AL presently?"
+get_info_route,Is there an upcoming location on the street optimized for vehicles with multiple passengers?
+get_info_road_condition,What is the condition of the road during winter storms?
+update_directions,Can you suggest a circuitous way that experiences fewer cars?
+get_estimated_duration,"During rush hour, how much extra time is needed to get to downtown from here?"
+get_info_road_condition,"""With the current situation at Main Street, is it necessary to find another way going towards the dog exhibit?"""
+get_info_road_condition,Can we easily reach the house of Ellen without facing any hinderance?
+get_distance,What is the driving route from Houston to Vancouver like?
+get_directions,"Can you guide me on how to reach my destination in Nashville, TN?"
+get_info_road_condition,Are the road conditions favorable on Interstate 57 at present?
+get_distance,
+get_estimated_departure,"What time should I aim to reach Gardena for my appointment, given the postponement from 5 pm to 6 pm?"
+get_location,Can you tell me the direction to reach the Target store which is not very far away from here?
+get_estimated_departure,What's the latest that I can arrive at the Thunder game at 6 p.m.? 
+get_location,Which thoroughfare is easily accessible from this point in town?
+get_estimated_departure,At what time should I be at the concert if I plan to arrive 60 minutes in advance?
+get_info_road_condition,Was there any effort made by the Black Bear to deal with the aftermath of yesterday's rain showers?
+get_directions,What alternatives are available to bypass the work being done while en route to Detroit tonight?
+update_directions,Can you suggest a few alternative paths that lead to 87th Avenue?
+update_directions,Is there a quicker way to reach the destination?
+get_distance,What is the extent of the gap between Hollywood and Houston?
+get_info_road_condition,Has there been any improvement in the road condition post yesterday's storm?
+get_distance,What is the gap that separates my house and Tacoma Dome?
+update_directions,Is there an alternative course to take in case of heavy traffic?
+get_estimated_duration,
+get_estimated_departure,What is the appropriate timing to arrive at the Dodger game before it starts at 5 pm?
