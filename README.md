@@ -53,12 +53,20 @@ The jupyter notebooks:
 If you wish to reference the paper, please wait for the published version which will be added in the next 2 months. Meanwhile, you can use this for your preprints:
 
 ```
-@misc{cegin2023chatgpt,
-      title={ChatGPT to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness}, 
-      author={Jan Cegin and Jakub Simko and Peter Brusilovsky},
-      year={2023},
-      eprint={2305.12947},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{cegin-etal-2023-chatgpt,
+    title = "{C}hat{GPT} to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness",
+    author = "Cegin, Jan  and
+      Simko, Jakub  and
+      Brusilovsky, Peter",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.117",
+    pages = "1889--1905",
 }
 ```
