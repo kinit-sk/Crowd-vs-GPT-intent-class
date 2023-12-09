@@ -50,8 +50,6 @@ The jupyter notebooks:
 
 ### Paper citing
 
-If you wish to reference the paper, please wait for the published version which will be added in the next 2 months. Meanwhile, you can use this for your preprints:
-
 ```
 @inproceedings{cegin-etal-2023-chatgpt,
     title = "{C}hat{GPT} to Replace Crowdsourcing of Paraphrases for Intent Classification: Higher Diversity and Comparable Model Robustness",
